@@ -85,7 +85,7 @@ public final class StaticExporter {
             throw new IOException("Output path escapes export root: " + relativePath);
         }
         Files.createDirectories(target.getParent());
-        byte[] bytes = (gson.toJson(value) + System.lineSeparator()).getBytes(StandardCharsets.UTF_8);
+        byte[] bytes = (gson.toJson(value) + "\n").getBytes(StandardCharsets.UTF_8);
         Files.write(target, bytes);
         if (manifestFiles != null) {
             manifestFiles.put(relativePath.replace('\\', '/'), new FileMetadata(sha256(bytes), bytes.length));

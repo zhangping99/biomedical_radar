@@ -42,6 +42,9 @@ class CollectorFixtureIntegrationTest {
         assertThat(output.resolve("latest.json")).isRegularFile();
         assertThat(output.resolve("source-health.json")).isRegularFile();
         assertThat(output.resolve("daily/2000-01-01.json")).doesNotExist();
+        assertThat(Files.readString(output.resolve("latest.json")))
+                .endsWith("\n")
+                .doesNotContain("\r\n");
 
         JsonObject manifest = JsonParser.parseString(Files.readString(output.resolve("feed-manifest.json"))).getAsJsonObject();
         assertThat(manifest.get("schemaVersion").getAsString()).isEqualTo("1.0");
