@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://zhangping99.github.io/biomedical_radar/contracts/source-health.schema.json",
+  "title": "Biomedical Radar Source Health 1.x",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "generatedAt", "batchStartedAt", "batchCompletedAt", "sources"],
+  "properties": {
+    "schemaVersion": {"type": "string", "pattern": "^1\\.[0-9]+$"},
+    "generatedAt": {"type": "string", "format": "date-time"},
+    "batchStartedAt": {"type": "string", "format": "date-time"},
+    "batchCompletedAt": {"type": "string", "format": "date-time"},
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "sourceId", "sourceName", "status", "startedAt", "completedAt", "fetchedCount", "newCount",
+          "duplicateCount", "failedCount", "httpStatusClasses", "errorCode", "nextRetryAt"
+        ],
+        "properties": {
+          "sourceId": {"type": "string", "minLength": 1},
+          "sourceName": {"type": "string", "minLength": 1},
+          "status": {"enum": ["ok", "failed"]},
+          "startedAt": {"type": "string", "format": "date-time"},
+          "completedAt": {"type": "string", "format": "date-time"},
+          "fetchedCount": {"type": "integer", "minimum": 0},
+          "newCount": {"type": "integer", "minimum": 0},
+          "duplicateCount": {"type": "integer", "minimum": 0},
+          "failedCount": {"type": "integer", "minimum": 0},
+          "httpStatusClasses": {"type": "object", "additionalProperties": {"type": "integer", "minimum": 0}},
+          "errorCode": {"type": ["string", "null"], "maxLength": 100},
+          "nextRetryAt": {"type": ["string", "null"], "format": "date-time"}
+        }
+      }
+    }
+  }
+}

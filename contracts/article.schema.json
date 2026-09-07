@@ -1,0 +1,87 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://zhangping99.github.io/biomedical_radar/contracts/article.schema.json",
+  "title": "Biomedical Radar Article 1.x",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id", "sourceId", "sourceName", "sourceTier", "sourceType", "originalUrl", "canonicalUrl",
+    "titleOriginal", "titleZh", "summaryZh", "whyItMattersZh", "language", "region", "category",
+    "eventTypes", "entities", "diseaseAreas", "publishedAt", "collectedAt", "contentHash", "generated",
+    "generatorVersion", "generatedAt", "verificationStatus", "originalAccessStatus", "legalBasis",
+    "sourceLinks", "importanceScore", "importanceReasons"
+  ],
+  "properties": {
+    "id": {"type": "string", "format": "uuid"},
+    "sourceId": {"type": "string", "minLength": 1, "maxLength": 100},
+    "sourceName": {"type": "string", "minLength": 1, "maxLength": 200},
+    "sourceTier": {"enum": ["A", "B", "C"]},
+    "sourceType": {"enum": ["regulator", "registry", "journal", "company", "exchange", "media"]},
+    "originalUrl": {"type": "string", "format": "uri", "pattern": "^https?://"},
+    "canonicalUrl": {"type": "string", "format": "uri", "pattern": "^https://"},
+    "titleOriginal": {"type": "string", "minLength": 1, "maxLength": 1000},
+    "titleZh": {"type": ["string", "null"], "maxLength": 1000},
+    "summaryZh": {"type": ["string", "null"], "maxLength": 1000},
+    "whyItMattersZh": {"type": ["string", "null"], "maxLength": 1000},
+    "language": {"type": "string", "pattern": "^[A-Za-z]{2,3}(-[A-Za-z0-9]{2,8})*$"},
+    "region": {"enum": ["CN", "US", "EU", "JP", "GLOBAL", "OTHER"]},
+    "category": {
+      "enum": [
+        "policy_regulation", "drug_rd", "research_academic", "pharma_biotech",
+        "hospital_service", "device_diagnostics", "capital_transactions", "reimbursement_access",
+        "manufacturing_supply", "quality_safety", "public_health", "frontier_technology"
+      ]
+    },
+    "eventTypes": {"type": "array", "items": {"type": "string", "minLength": 1}, "uniqueItems": true},
+    "entities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["type", "name"],
+        "properties": {
+          "type": {"enum": ["company", "drug", "disease", "hospital", "institution", "person", "other"]},
+          "name": {"type": "string", "minLength": 1, "maxLength": 300}
+        }
+      }
+    },
+    "diseaseAreas": {"type": "array", "items": {"type": "string", "minLength": 1}, "uniqueItems": true},
+    "publishedAt": {"type": ["string", "null"], "format": "date-time"},
+    "collectedAt": {"type": "string", "format": "date-time"},
+    "contentHash": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+    "generated": {"type": "boolean"},
+    "generatorVersion": {"type": ["string", "null"], "maxLength": 200},
+    "generatedAt": {"type": ["string", "null"], "format": "date-time"},
+    "verificationStatus": {"enum": ["unreviewed", "auto_checked", "human_verified", "rejected"]},
+    "originalAccessStatus": {"enum": ["unknown", "reachable", "slow", "unreachable"]},
+    "legalBasis": {"enum": ["official_api", "rss_allowed", "public_notice", "licensed", "manual_link"]},
+    "sourceLinks": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["sourceId", "sourceName", "sourceTier", "originalUrl"],
+        "properties": {
+          "sourceId": {"type": "string", "minLength": 1},
+          "sourceName": {"type": "string", "minLength": 1},
+          "sourceTier": {"enum": ["A", "B", "C"]},
+          "originalUrl": {"type": "string", "format": "uri", "pattern": "^https?://"}
+        }
+      }
+    },
+    "importanceScore": {"type": "integer", "minimum": 0, "maximum": 100},
+    "importanceReasons": {"type": "array", "items": {"type": "string", "minLength": 1}, "uniqueItems": true}
+  },
+  "allOf": [
+    {
+      "if": {"properties": {"generated": {"const": true}}, "required": ["generated"]},
+      "then": {
+        "properties": {
+          "generatorVersion": {"type": "string", "minLength": 1},
+          "generatedAt": {"type": "string", "format": "date-time"}
+        }
+      }
+    }
+  ]
+}

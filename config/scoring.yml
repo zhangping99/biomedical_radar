@@ -1,0 +1,21 @@
+schemaVersion: "1.0"
+importance:
+  tierA: 35
+  tierB: 20
+  tierC: 0
+  highValueEvent: 15
+  highValueEventMaximum: 30
+  policyOrSafety: 15
+  publishedWithin24Hours: 15
+  publishedWithin72Hours: 8
+  additionalSource: 5
+  additionalSourceMaximum: 10
+  mustReadMinimum: 60
+  tierCMaximum: 39
+  highValueEvents:
+    - approval
+    - safety_alert
+    - phase_3_result
+    - policy_release
+    - recall
+

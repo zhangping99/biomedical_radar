@@ -1,0 +1,75 @@
+name: Collect static feed
+
+on:
+  schedule:
+    - cron: '17 */4 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  collect:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+          cache: maven
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 9.12.3
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: pnpm
+          cache-dependency-path: frontend/pnpm-lock.yaml
+      - uses: actions/configure-pages@v5
+      - name: Build and test collector
+        run: ./backend/mvnw -f backend/pom.xml verify
+      - name: Collect official public metadata
+        run: >-
+          java -jar backend/radar-collector/target/radar-collector-1.0.0-SNAPSHOT.jar
+          --sources=config/sources.yml
+          --scoring=config/scoring.yml
+          --output-dir=frontend/public/data
+          --retention-days=90
+      - name: Validate publishable site
+        working-directory: frontend
+        run: |
+          pnpm install --frozen-lockfile
+          pnpm validate:data
+          pnpm lint
+          pnpm test
+          pnpm build
+      - name: Commit verified static data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add frontend/public/data
+          if git diff --cached --quiet; then
+            echo "No feed changes"
+          else
+            git commit -m "data: refresh static feed"
+            git push origin main
+          fi
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: frontend/dist
+      - name: Deploy verified static feed
+        id: deployment
+        uses: actions/deploy-pages@v4

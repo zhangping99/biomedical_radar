@@ -1,0 +1,38 @@
+{
+  "id": "50cae2e8-0f53-32d7-8f35-54ec4bd7d65d",
+  "sourceId": "fda-drug-news",
+  "sourceName": "U.S. Food and Drug Administration - Drugs",
+  "sourceTier": "A",
+  "sourceType": "regulator",
+  "originalUrl": "https://www.fda.gov/example/approval",
+  "canonicalUrl": "https://www.fda.gov/example/approval",
+  "titleOriginal": "FDA approves ExampleDrug for a rare disease",
+  "titleZh": null,
+  "summaryZh": null,
+  "whyItMattersZh": null,
+  "language": "en",
+  "region": "US",
+  "category": "drug_rd",
+  "eventTypes": ["approval"],
+  "entities": [],
+  "diseaseAreas": [],
+  "publishedAt": "2026-09-06T08:00:00Z",
+  "collectedAt": "2026-09-07T00:00:00Z",
+  "contentHash": "e43c33f743d40ac126f5e18fb7043c71c254756e10bc5d4ec4e9ee433cb56c4a",
+  "generated": false,
+  "generatorVersion": null,
+  "generatedAt": null,
+  "verificationStatus": "auto_checked",
+  "originalAccessStatus": "reachable",
+  "legalBasis": "rss_allowed",
+  "sourceLinks": [
+    {
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
+      "sourceTier": "A",
+      "originalUrl": "https://www.fda.gov/example/approval"
+    }
+  ],
+  "importanceScore": 95,
+  "importanceReasons": ["官方一手来源", "高影响事件"]
+}

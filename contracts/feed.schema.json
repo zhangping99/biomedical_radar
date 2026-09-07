@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://zhangping99.github.io/biomedical_radar/contracts/feed.schema.json",
+  "title": "Biomedical Radar Feed 1.x",
+  "oneOf": [
+    {"$ref": "#/$defs/feedDocument"},
+    {"$ref": "#/$defs/feedManifest"}
+  ],
+  "$defs": {
+    "feedDocument": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["schemaVersion", "generatedAt", "articles"],
+      "properties": {
+        "schemaVersion": {"type": "string", "pattern": "^1\\.[0-9]+$"},
+        "generatedAt": {"type": "string", "format": "date-time"},
+        "articles": {"type": "array", "items": {"$ref": "article.schema.json"}}
+      }
+    },
+    "feedManifest": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["schemaVersion", "generatedAt", "latestDate", "availableDates", "files", "freshness"],
+      "properties": {
+        "schemaVersion": {"type": "string", "pattern": "^1\\.[0-9]+$"},
+        "generatedAt": {"type": "string", "format": "date-time"},
+        "latestDate": {"type": "string", "format": "date"},
+        "availableDates": {"type": "array", "items": {"type": "string", "format": "date"}, "uniqueItems": true},
+        "files": {
+          "type": "object",
+          "propertyNames": {"pattern": "^[a-zA-Z0-9_./-]+\\.json$"},
+          "additionalProperties": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["sha256", "sizeBytes"],
+            "properties": {
+              "sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+              "sizeBytes": {"type": "integer", "minimum": 1}
+            }
+          }
+        },
+        "freshness": {"enum": ["fresh", "stale", "partial", "failed"]}
+      }
+    }
+  }
+}

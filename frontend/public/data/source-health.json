@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-09-07T07:14:10.030482200Z",
+  "batchStartedAt": "2026-09-07T07:13:39.379598700Z",
+  "batchCompletedAt": "2026-09-07T07:14:10.030482200Z",
+  "sources": [
+    {
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
+      "status": "ok",
+      "startedAt": "2026-09-07T07:13:39.379598700Z",
+      "completedAt": "2026-09-07T07:13:43.411295600Z",
+      "fetchedCount": 20,
+      "newCount": 20,
+      "duplicateCount": 0,
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
+    },
+    {
+      "sourceId": "ema-news",
+      "sourceName": "European Medicines Agency",
+      "status": "ok",
+      "startedAt": "2026-09-07T07:13:43.411295600Z",
+      "completedAt": "2026-09-07T07:13:44.712108600Z",
+      "fetchedCount": 3,
+      "newCount": 3,
+      "duplicateCount": 0,
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
+    },
+    {
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "status": "ok",
+      "startedAt": "2026-09-07T07:13:44.712108600Z",
+      "completedAt": "2026-09-07T07:13:48.684967200Z",
+      "fetchedCount": 20,
+      "newCount": 20,
+      "duplicateCount": 0,
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
+    },
+    {
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "status": "ok",
+      "startedAt": "2026-09-07T07:13:48.684967200Z",
+      "completedAt": "2026-09-07T07:13:51.039121200Z",
+      "fetchedCount": 20,
+      "newCount": 20,
+      "duplicateCount": 0,
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
+    },
+    {
+      "sourceId": "amgen-news-releases",
+      "sourceName": "Amgen News Releases",
+      "status": "ok",
+      "startedAt": "2026-09-07T07:13:51.039121200Z",
+      "completedAt": "2026-09-07T07:14:02.153955500Z",
+      "fetchedCount": 20,
+      "newCount": 20,
+      "duplicateCount": 0,
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
+    },
+    {
+      "sourceId": "nmpa-public-notices",
+      "sourceName": "National Medical Products Administration",
+      "status": "failed",
+      "startedAt": "2026-09-07T07:14:02.153955500Z",
+      "completedAt": "2026-09-07T07:14:09.953626700Z",
+      "fetchedCount": 0,
+      "newCount": 0,
+      "duplicateCount": 0,
+      "failedCount": 1,
+      "httpStatusClasses": {},
+      "errorCode": "SSLHANDSHAKEEXCEPTION",
+      "nextRetryAt": "2026-09-07T11:14:09.953626700Z"
+    }
+  ]
+}

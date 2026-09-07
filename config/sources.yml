@@ -1,0 +1,89 @@
+schemaVersion: "1.0"
+sources:
+  - id: fda-drug-news
+    name: U.S. Food and Drug Administration - Drugs
+    enabled: true
+    tier: A
+    type: regulator
+    region: US
+    language: en
+    connector: rss
+    url: https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/drugs/rss.xml
+    scheduleGroup: normal
+    legalBasis: rss_allowed
+    timeoutSeconds: 20
+    fixture: fda-drug-news.xml
+
+  - id: ema-news
+    name: European Medicines Agency
+    enabled: true
+    tier: A
+    type: regulator
+    region: EU
+    language: en
+    connector: rss
+    url: https://www.ema.europa.eu/en/news.xml
+    scheduleGroup: normal
+    legalBasis: rss_allowed
+    timeoutSeconds: 20
+    fixture: ema-news.xml
+
+  - id: clinicaltrials-recent
+    name: ClinicalTrials.gov
+    enabled: true
+    tier: A
+    type: registry
+    region: GLOBAL
+    language: en
+    connector: clinicaltrials
+    url: https://clinicaltrials.gov/api/v2/studies?format=json&pageSize=20&query.cond=Cancer
+    scheduleGroup: normal
+    legalBasis: official_api
+    timeoutSeconds: 25
+    fixture: clinicaltrials-recent.json
+
+  - id: europe-pmc-recent
+    name: Europe PMC
+    enabled: true
+    tier: A
+    type: journal
+    region: GLOBAL
+    language: en
+    connector: europepmc
+    url: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=OPEN_ACCESS:Y&format=json&pageSize=20
+    scheduleGroup: normal
+    legalBasis: official_api
+    timeoutSeconds: 25
+    fixture: europe-pmc-recent.json
+
+  - id: amgen-news-releases
+    name: Amgen News Releases
+    enabled: true
+    tier: A
+    type: company
+    region: US
+    language: en
+    connector: amgen
+    url: https://www.amgen.com/MyApi/Custom/NewsListing/GetRecentNewsReleasesV2?count=20&isNasdaq=false&rootId=%7B623B9876-33FF-40EB-BDA0-8465365C59C8%7D
+    scheduleGroup: normal
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    fixture: amgen-news-releases.json
+
+  - id: nmpa-public-notices
+    name: National Medical Products Administration
+    enabled: true
+    tier: A
+    type: regulator
+    region: CN
+    language: en
+    connector: html
+    url: https://english.nmpa.gov.cn/drugs.html
+    scheduleGroup: normal
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    fixture: nmpa-public-notices.html
+    options:
+      itemSelector: .list .list-text
+      titleSelector: .list-tit a[href]
+      dateSelector: .list-date
