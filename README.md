@@ -128,8 +128,8 @@ pnpm validate:data && pnpm lint && pnpm test && pnpm build
 
 ## 尚需人工/外部验证
 
-- 定时采集连续七次成功（截至 2026-09-08 已连续成功 3 次）；
+- 扩源后的四组定时采集各连续成功七次（当前从新计划重新累计）；
 - 真机 iPhone Safari/PWA 与 Android Chrome/PWA 安装、弱网和离线验收；
-- NMPA HTTPS 在本机 Java 17 中曾发生证书握手失败，最新 GitHub Actions 采集已成功；继续观察环境差异和后续稳定性；
+- NMPA HTTPS 在本机 Java 17 中曾发生证书握手失败，但扩源后的 GitHub Actions 全量采集成功；NEJM 官方 Feed 在该次远程采集中返回一次 `HTTP_403`，两者继续按来源健康状态观察；
 - 对 29 个启用来源的版权、使用条件和页面结构做定期复核；13 个禁用候选不得在未确认公开访问边界前启用；
 - 14 天个人使用价值观察。以上项目完成前，`CURRENT_PHASE.md` 不得切换到 V2。

@@ -114,6 +114,14 @@ GitHub Actions 使用 UTC；下表同时列出北京时间。手动运行可选�
 
 真实试采只用于验证公开入口和解析规则，不等同于完成版权、使用条款或长期稳定性审查。
 
+## 2026-09-08 GitHub 全量采集
+
+[远程运行 34189267105](https://github.com/zhangping99/biomedical_radar/actions/runs/34189267105) 已完成采集、数据契约校验、前端门禁、静态数据提交和 GitHub Pages 部署：合并最近 90 天后发布 341 条文章和 59 个静态文件，29 个启用来源中 28 个成功。
+
+本次唯一失败是 `nejm-current-issue` 返回 `HTTP_403`；NMPA 在 GitHub 环境采集成功。工作流按设计发布 `freshness=partial`，不影响其他来源与已有合法记录，并在 `source-health.json` 中记录失败和下次重试时间。线上首页、manifest 和 latest 均返回 HTTP 200，`latest.json` 的 595591 字节大小与 SHA-256 已和线上 manifest 完整核对。
+
+首次全量运行暴露出 medRxiv RSS 链接两侧含换行的问题，契约门禁阻止了无效数据发布；采集器随后在 Article 映射边界统一清理 URL 首尾空白，并补充真实形态 fixture 回归。修复后的全量运行才被允许提交和部署。
+
 ## 官方入口与接口依据
 
 - [FDA RSS](https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds)

@@ -2,7 +2,7 @@
 
 ## 结论
 
-截至 2026-09-08，V1.0 P0 的代码、契约、本地回归、远程 CI 和 GitHub Pages 首次部署已完成，线上数据完整性与双浏览器移动视口冒烟均通过。来源现已扩展为 29 个启用来源和 13 个禁用候选，因此“连续 7 次定时采集”从扩源后的分组工作流重新观察；两类真机安装测试、完整内容许可复核和 14 天价值观察仍需完成。
+截至 2026-09-08，V1.0 P0 的代码、契约、本地回归、扩源后远程 CI、29 来源全量采集和 GitHub Pages 部署已完成，线上数据完整性与双浏览器移动视口冒烟均通过。来源现已扩展为 29 个启用来源和 13 个禁用候选，因此“连续 7 次定时采集”从扩源后的分组工作流重新观察；两类真机安装测试、完整内容许可复核和 14 天价值观察仍需完成。
 
 ## 自动化验证结果
 
@@ -14,10 +14,10 @@
 | Vitest | 通过 | 4个测试文件、7项测试 |
 | 生产构建 | 通过 | TypeScript检查、Vite构建、PWA manifest与Service Worker生成 |
 | Playwright移动端 | 通过 | iPhone 13 WebKit与Pixel 7 Chromium共8项；覆盖加载/详情追溯、筛选/收藏、横向溢出和IndexedDB降级 |
-| GitHub远程CI | 通过 | 2026-09-07远程CI完整执行Maven、fixture导出、双目录数据校验、ESLint、Vitest、构建及8项Playwright测试 |
+| GitHub远程CI | 通过 | 2026-09-08扩源提交及URL回归修复均通过；完整执行Java 11项测试、29来源fixture、双目录数据校验、ESLint、Vitest、构建及8项Playwright测试 |
 | GitHub Pages线上冒烟 | 通过 | 页面及三个数据端点均为HTTP 200；线上`latest.json`大小和SHA-256与manifest一致；Chromium/WebKit均加载文章、注册Service Worker、无横向溢出且可追溯HTTPS原文 |
 | 定时采集 | 重新观察 | 原六来源工作流曾连续成功3次；扩源后改为四组错峰计划，需重新累计7次并观察分组健康合并 |
-| 真实来源试采 | 通过（已知单源环境差异） | 本机分组试采28/29来源成功：政策3/3、学术6/6、医院/药企10/10、快速9/10；NMPA仍为本机Java 17 `SSLHANDSHAKEEXCEPTION`，此前GitHub Actions对该来源成功 |
+| 真实来源试采 | 通过（允许单源降级） | 本机分组试采28/29来源成功；GitHub全量采集也为28/29，发布341条文章和29条来源健康状态。NMPA远程成功，NEJM该次返回`HTTP_403`并被隔离；线上JSON大小与SHA-256一致 |
 
 ## PRD验收项
 
@@ -39,7 +39,7 @@
 ## 发布与人工清单
 
 - [x] 在 GitHub 仓库 Settings → Pages 选择 GitHub Actions，并确认首次部署地址。
-- [x] 扩源前远程 `CI` 和 `Collect static feed` 完整通过，NMPA当次为成功；扩源提交后需重新执行远程门禁。
+- [x] 扩源后远程 `CI`、29来源 `Collect static feed (all)`、数据提交和 Pages 部署完整通过；NMPA成功，NEJM一次`HTTP_403`按单源失败隔离。
 - [x] 线上页面、静态数据端点、字节级SHA-256及Chromium/WebKit移动视口冒烟通过。
 - [ ] 记录扩源后四组至少连续7次采集结果；单源失败可接受，但不得整组全部失败或发布无效JSON。
 - [ ] 分别在真实iPhone和Android上验证安装、独立窗口、弱网、飞行模式、返回滚动位置与44px点击目标。
