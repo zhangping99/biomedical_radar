@@ -1,54 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-08T17:54:37.710919193Z",
+  "generatedAt": "2026-09-08T19:25:59.420760154Z",
   "articles": [
-    {
-      "id": "47a2605c-268f-3f6c-8e67-2d0921a9a861",
-      "sourceId": "nhsa-healthcare-security-updates",
-      "sourceName": "National Healthcare Security Administration Policies",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.nhsa.gov.cn/art/2026/8/25/art_53_21895.html",
-      "canonicalUrl": "https://www.nhsa.gov.cn/art/2026/8/25/art_53_21895.html",
-      "titleOriginal": "国家医疗保障局办公室关于印发《“医保病理云索引”编码规范》的通知",
-      "titleZh": "国家医疗保障局办公室关于印发《“医保病理云索引”编码规范》的通知",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "reimbursement_access",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "国家医疗保障局"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-08-25T00:00:00Z",
-      "collectedAt": "2026-09-08T16:52:23.293215783Z",
-      "contentHash": "a7de6a5c95d5d0829ff05e3d231028dcaa98a73ef57c1c30722d059e04608e75",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "nhsa-healthcare-security-updates",
-          "sourceName": "National Healthcare Security Administration Policies",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nhsa.gov.cn/art/2026/8/25/art_53_21895.html"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
     {
       "id": "863c5ebb-0058-3a46-81af-a1768caa8411",
       "sourceId": "fda-medwatch-alerts",
@@ -75,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-08-25T04:00:00Z",
-      "collectedAt": "2026-09-08T12:52:19.910333134Z",
+      "collectedAt": "2026-09-08T19:25:57.326767642Z",
       "contentHash": "9316f3963a7bc6d5758c3dd8d1a6e5cc7f64e1bfe7acb4412647b2728d4e5950",
       "generated": false,
       "generatorVersion": null,
@@ -124,7 +77,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-08-25T04:00:00Z",
-      "collectedAt": "2026-09-08T12:52:19.910964688Z",
+      "collectedAt": "2026-09-08T19:25:57.327125790Z",
       "contentHash": "adcec1f68c9f17027ac8ce9579d17ab332172320e5a2c53a7d36a809cc463c54",
       "generated": false,
       "generatorVersion": null,
@@ -173,7 +126,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-08-25T00:00:00Z",
-      "collectedAt": "2026-09-08T12:52:20.849475827Z",
+      "collectedAt": "2026-09-08T19:25:58.149492763Z",
       "contentHash": "9429bd28626fc36d74120f54813b61a17c57d1fcfbfdc8c6bd13f12531d2d2b2",
       "generated": false,
       "generatorVersion": null,
@@ -193,6 +146,53 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关"
+      ]
+    },
+    {
+      "id": "47a2605c-268f-3f6c-8e67-2d0921a9a861",
+      "sourceId": "nhsa-healthcare-security-updates",
+      "sourceName": "National Healthcare Security Administration Policies",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.nhsa.gov.cn/art/2026/8/25/art_53_21895.html",
+      "canonicalUrl": "https://www.nhsa.gov.cn/art/2026/8/25/art_53_21895.html",
+      "titleOriginal": "国家医疗保障局办公室关于印发《“医保病理云索引”编码规范》的通知",
+      "titleZh": "国家医疗保障局办公室关于印发《“医保病理云索引”编码规范》的通知",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "reimbursement_access",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "国家医疗保障局"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-25T00:00:00Z",
+      "collectedAt": "2026-09-08T16:52:23.293215783Z",
+      "contentHash": "a7de6a5c95d5d0829ff05e3d231028dcaa98a73ef57c1c30722d059e04608e75",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "nhsa-healthcare-security-updates",
+          "sourceName": "National Healthcare Security Administration Policies",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nhsa.gov.cn/art/2026/8/25/art_53_21895.html"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
       ]
     }
   ]
