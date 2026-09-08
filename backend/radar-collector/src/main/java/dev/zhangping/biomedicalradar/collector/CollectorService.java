@@ -124,7 +124,8 @@ public final class CollectorService {
         Instant publishedAt = raw.publishedAt() != null && raw.publishedAt().isAfter(collectedAt.plus(1, ChronoUnit.DAYS))
                 ? null
                 : raw.publishedAt();
-        String canonicalUrl = UrlNormalizer.normalize(raw.originalUrl());
+        String originalUrl = raw.originalUrl().trim();
+        String canonicalUrl = UrlNormalizer.normalize(originalUrl);
         String title = TextNormalizer.normalize(raw.title());
         GeneratedText translation = translationProvider.translateTitle(title, source.language());
         GeneratedText summary = summaryProvider.summarize(raw.description(), source.language());
@@ -145,12 +146,12 @@ public final class CollectorService {
                 VerificationStatus.class, VerificationStatus.auto_checked);
         return new Article(
                 ArticleIdentity.stableId(source.id(), raw.sourceUniqueKey(), canonicalUrl),
-                source.id(), source.name(), source.tier(), source.type(), raw.originalUrl(), canonicalUrl,
+                source.id(), source.name(), source.tier(), source.type(), originalUrl, canonicalUrl,
                 title, translation.text(), summary.text(), null, source.language(), source.region(),
                 classifier.category(source, raw), events, entities, raw.diseaseAreas(), publishedAt, collectedAt,
                 ArticleIdentity.contentHash(canonicalUrl, title, raw.description()), generated, generatorVersion, generatedAt,
                 verificationStatus, OriginalAccessStatus.reachable, source.legalBasis(),
-                List.of(new SourceLink(source.id(), source.name(), source.tier(), raw.originalUrl())), 0, List.of());
+                List.of(new SourceLink(source.id(), source.name(), source.tier(), originalUrl)), 0, List.of());
     }
 
     private Article score(Article article) {

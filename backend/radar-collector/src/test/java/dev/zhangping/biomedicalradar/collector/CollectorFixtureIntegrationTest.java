@@ -36,6 +36,9 @@ class CollectorFixtureIntegrationTest {
         assertThat(result.sourceHealth()).allMatch(health -> "ok".equals(health.status()));
         assertThat(result.articles()).hasSize(29);
         assertThat(result.articles()).allMatch(article -> article.sourceLinks().size() == 1);
+        assertThat(result.articles()).allMatch(article -> article.originalUrl().matches("^https?://\\S+$"));
+        assertThat(result.articles()).allMatch(article ->
+                article.sourceLinks().get(0).originalUrl().equals(article.originalUrl()));
         assertThat(result.articles()).filteredOn(article -> article.sourceId().equals("amgen-news-releases"))
                 .singleElement().satisfies(article -> assertThat(article.entities()).singleElement()
                         .extracting(entity -> entity.type().name()).isEqualTo("company"));
