@@ -105,10 +105,11 @@ pnpm validate:data && pnpm lint && pnpm test && pnpm build
 
 ## GitHub Pages
 
+线上验证地址：[https://zhangping99.github.io/biomedical_radar/](https://zhangping99.github.io/biomedical_radar/)。首次部署已于 2026-09-08 完成验收；页面、静态数据、SHA-256、Chromium、WebKit 和 Service Worker 均通过线上冒烟。
+
 1. 推送代码后，在仓库 Settings → Pages 中选择 **GitHub Actions**；
 2. 手动运行一次 `CI`，成功后 `Deploy GitHub Pages` 会部署同一提交；
 3. 手动运行 `Collect static feed` 验证真实来源；任务会在契约、测试和构建全部通过后提交静态数据，并直接部署同一份已验证产物；
-4. 站点地址预计为 `https://zhangping99.github.io/biomedical_radar/`。
 
 定时任务每四小时运行。任何构建、契约或测试失败都会阻止新版本部署，上一版 Pages 保持不变。回滚流程见 [infra/README.md](infra/README.md)。
 
@@ -122,9 +123,8 @@ pnpm validate:data && pnpm lint && pnpm test && pnpm build
 
 ## 尚需人工/外部验证
 
-- GitHub Pages 首次启用和线上地址；
-- 定时采集连续七次成功；
+- 定时采集连续七次成功（截至 2026-09-08 已连续成功 3 次）；
 - 真机 iPhone Safari/PWA 与 Android Chrome/PWA 安装、弱网和离线验收；
-- NMPA HTTPS 在本机 Java 17 中证书握手失败，采集器会如实标记单源失败并继续发布其余来源；需在 GitHub Actions 环境复核；
+- NMPA HTTPS 在本机 Java 17 中曾发生证书握手失败，最新 GitHub Actions 采集已成功；继续观察环境差异和后续稳定性；
 - 对首批来源的版权、使用条件和页面结构做定期复核；
 - 14 天个人使用价值观察。以上项目完成前，`CURRENT_PHASE.md` 不得切换到 V2。

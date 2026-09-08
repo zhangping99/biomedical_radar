@@ -26,8 +26,8 @@
 - [x] 去重、分类、静态导出完成
 - [x] Vue 3移动端PWA主要页面完成
 - [x] 搜索、筛选、收藏和关注完成
-- [x] GitHub Actions定时采集完成（工作流代码已实现，线上连续运行待观察）
-- [ ] GitHub Pages部署完成
+- [x] GitHub Actions定时采集完成（截至2026-09-08已连续成功3次，继续观察至7次）
+- [x] GitHub Pages部署完成（2026-09-08已验证线上地址、数据哈希和双浏览器访问）
 - [ ] iPhone Safari/PWA真机验收完成（Playwright WebKit模拟已通过）
 - [ ] Android Chrome/PWA真机验收完成（Playwright Chromium模拟已通过）
 - [ ] 内容来源与版权检查完成
@@ -72,3 +72,9 @@
 原因：SEC submissions接口与Pfizer新闻站在当前无人值守网络环境分别返回403和Cloudflare挑战；Amgen接口无需密钥且可稳定读取，符合不绕过访问限制的原则。  
 影响的需求ID：V1-F-008、V1-F-009、V1-F-013。  
 迁移或回滚方式：来源通过`config/sources.yml`切换；Article契约和前端不受影响，恢复其他企业源时只需新增fixture并通过连接器回归测试。
+
+日期：2026-09-08
+决策：确认V1个人验证站点已部署到GitHub Pages，但继续保持V1.0阶段，不视为V2/V3公共生产发布。
+原因：远程CI、Pages部署、线上静态数据哈希以及Chromium/WebKit移动视口冒烟均已通过；连续7次采集、真机安装和14天价值观察尚未完成。
+影响的需求ID：V1-A-001、V1-A-002、V1-A-004、V1-A-005、V1-A-006、V1-A-012。
+迁移或回滚方式：站点仍由静态产物和GitHub Actions发布；失败时按`infra/README.md`回滚，不引入常驻后端或V2能力。
