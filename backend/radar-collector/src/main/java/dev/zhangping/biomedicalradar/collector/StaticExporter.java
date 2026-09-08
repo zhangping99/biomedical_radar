@@ -22,10 +22,17 @@ public final class StaticExporter {
     private final Gson gson = JsonSupport.gson();
 
     public ExportResult export(CollectionResult result, Path outputDirectory, int retentionDays) throws IOException {
+        return export(result, outputDirectory, retentionDays, null);
+    }
+
+    public ExportResult export(CollectionResult result, Path outputDirectory, int retentionDays,
+                               Set<String> enabledSourceIds) throws IOException {
         Path output = outputDirectory.toAbsolutePath().normalize();
         Files.createDirectories(output);
         Instant generatedAt = result.completedAt();
         List<Article> retained = retainAndMerge(result.articles(), output.resolve("latest.json"), generatedAt, retentionDays);
+        List<SourceHealth> mergedHealth = mergeSourceHealth(result.sourceHealth(),
+                output.resolve("source-health.json"), enabledSourceIds);
 
         Map<String, FileMetadata> files = new LinkedHashMap<>();
         write(output, "latest.json", new FeedDocument(SCHEMA_VERSION, generatedAt, retained), files);
@@ -47,15 +54,35 @@ public final class StaticExporter {
         write(output, "taxonomy.json", taxonomy, files);
         write(output, "source-health.json",
                 new SourceHealthDocument(SCHEMA_VERSION, generatedAt, result.startedAt(), result.completedAt(),
-                        result.sourceHealth()), files);
+                        mergedHealth), files);
 
         String latestDate = byDate.isEmpty() ? generatedAt.atZone(ZoneOffset.UTC).toLocalDate().toString()
                 : byDate.keySet().iterator().next().toString();
         FeedManifest manifest = new FeedManifest(SCHEMA_VERSION, generatedAt, latestDate,
                 byDate.keySet().stream().map(LocalDate::toString).toList(), files,
-                freshness(generatedAt, result.sourceHealth()));
+                freshness(generatedAt, mergedHealth));
         write(output, "feed-manifest.json", manifest, null);
         return new ExportResult(output, retained.size(), files.size() + 1);
+    }
+
+    private List<SourceHealth> mergeSourceHealth(List<SourceHealth> current, Path existingHealth,
+                                                 Set<String> enabledSourceIds) {
+        Map<String, SourceHealth> merged = new LinkedHashMap<>();
+        if (Files.isRegularFile(existingHealth)) {
+            try {
+                SourceHealthDocument existing = gson.fromJson(Files.readString(existingHealth),
+                        SourceHealthDocument.class);
+                if (existing != null && SCHEMA_VERSION.equals(existing.schemaVersion()) && existing.sources() != null) {
+                    existing.sources().stream()
+                            .filter(source -> enabledSourceIds == null || enabledSourceIds.contains(source.sourceId()))
+                            .forEach(source -> merged.put(source.sourceId(), source));
+                }
+            } catch (Exception ignored) {
+                // A malformed previous health report must not block the current verified batch.
+            }
+        }
+        current.forEach(source -> merged.put(source.sourceId(), source));
+        return merged.values().stream().sorted(Comparator.comparing(SourceHealth::sourceId)).toList();
     }
 
     private List<Article> retainAndMerge(List<Article> current, Path existingLatest, Instant now, int retentionDays) {

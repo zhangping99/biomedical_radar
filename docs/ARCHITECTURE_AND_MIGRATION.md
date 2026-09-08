@@ -65,7 +65,7 @@ discover → fetch → parse → normalize → validate → deduplicate → enri
 | id | string | 是 | 稳定UUID/ULID，不因标题翻译改变 |
 | sourceId | string | 是 | 来源配置ID |
 | sourceName | string | 是 | 用户可见来源名 |
-| sourceTier | A/B/C | 是 | A官方、B授权媒体、C线索 |
+| sourceTier | A/B/C | 是 | A监管/注册库/论文索引/正式期刊等一手来源，B机构自述或未同行评议来源，C仅作待核验线索 |
 | sourceType | enum | 是 | regulator、registry、journal、company、exchange、media |
 | originalUrl | string | 是 | 原始链接 |
 | canonicalUrl | string | 是 | 去跟踪参数后的规范URL |
@@ -203,4 +203,3 @@ DELETE /api/v1/me/follows/{id}
 | 移动端关键页面可用率 | 人工验收 | ≥99%私有运行期 | ≥99.5%月度目标 |
 | 原始来源可追溯率 | 100% | 100% | 100% |
 | 未授权全文入库 | 0 | 0 | 0 |
-

@@ -1,4 +1,6 @@
 schemaVersion: "1.0"
+
+# rapid: every 4 hours; safety, approvals and public-health signals.
 sources:
   - id: fda-drug-news
     name: U.S. Food and Drug Administration - Drugs
@@ -8,11 +10,42 @@ sources:
     region: US
     language: en
     connector: rss
-    url: https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/drugs/rss.xml
-    scheduleGroup: normal
+    url: "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/drugs/rss.xml"
+    scheduleGroup: rapid
     legalBasis: rss_allowed
     timeoutSeconds: 20
     fixture: fda-drug-news.xml
+    options: {maxItems: 20, entityName: U.S. Food and Drug Administration, entityType: institution}
+
+  - id: fda-medwatch-alerts
+    name: FDA MedWatch Safety Alerts
+    enabled: true
+    tier: A
+    type: regulator
+    region: US
+    language: en
+    connector: rss
+    url: "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/medwatch/rss.xml"
+    scheduleGroup: rapid
+    legalBasis: rss_allowed
+    timeoutSeconds: 20
+    fixture: fda-medwatch-alerts.xml
+    options: {maxItems: 20, categoryOverride: quality_safety, entityName: U.S. Food and Drug Administration, entityType: institution}
+
+  - id: fda-biologics-news
+    name: FDA Vaccines, Blood and Biologics
+    enabled: true
+    tier: A
+    type: regulator
+    region: US
+    language: en
+    connector: rss
+    url: "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/biologics/rss.xml"
+    scheduleGroup: rapid
+    legalBasis: rss_allowed
+    timeoutSeconds: 20
+    fixture: fda-biologics-news.xml
+    options: {maxItems: 20, entityName: U.S. Food and Drug Administration, entityType: institution}
 
   - id: ema-news
     name: European Medicines Agency
@@ -22,53 +55,114 @@ sources:
     region: EU
     language: en
     connector: rss
-    url: https://www.ema.europa.eu/en/news.xml
-    scheduleGroup: normal
+    url: "https://www.ema.europa.eu/en/news.xml"
+    scheduleGroup: rapid
     legalBasis: rss_allowed
     timeoutSeconds: 20
     fixture: ema-news.xml
+    options: {maxItems: 20, entityName: European Medicines Agency, entityType: institution}
 
-  - id: clinicaltrials-recent
-    name: ClinicalTrials.gov
+  - id: mhra-drug-device-alerts
+    name: UK MHRA Drug and Device Alerts
     enabled: true
     tier: A
-    type: registry
-    region: GLOBAL
+    type: regulator
+    region: OTHER
     language: en
-    connector: clinicaltrials
-    url: https://clinicaltrials.gov/api/v2/studies?format=json&pageSize=20&query.cond=Cancer
-    scheduleGroup: normal
-    legalBasis: official_api
-    timeoutSeconds: 25
-    fixture: clinicaltrials-recent.json
+    connector: rss
+    url: "https://www.gov.uk/drug-device-alerts.atom"
+    scheduleGroup: rapid
+    legalBasis: rss_allowed
+    timeoutSeconds: 20
+    fixture: mhra-drug-device-alerts.xml
+    options: {maxItems: 20, categoryOverride: quality_safety, entityName: Medicines and Healthcare products Regulatory Agency, entityType: institution}
 
-  - id: europe-pmc-recent
-    name: Europe PMC
+  - id: pmda-safety-updates
+    name: Japan PMDA Safety Updates
     enabled: true
     tier: A
-    type: journal
-    region: GLOBAL
+    type: regulator
+    region: JP
     language: en
-    connector: europepmc
-    url: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=OPEN_ACCESS:Y&format=json&pageSize=20
-    scheduleGroup: normal
-    legalBasis: official_api
-    timeoutSeconds: 25
-    fixture: europe-pmc-recent.json
-
-  - id: amgen-news-releases
-    name: Amgen News Releases
-    enabled: true
-    tier: A
-    type: company
-    region: US
-    language: en
-    connector: amgen
-    url: https://www.amgen.com/MyApi/Custom/NewsListing/GetRecentNewsReleasesV2?count=20&isNasdaq=false&rootId=%7B623B9876-33FF-40EB-BDA0-8465365C59C8%7D
-    scheduleGroup: normal
+    connector: html
+    url: "https://www.pmda.go.jp/english/safety/0001.html"
+    scheduleGroup: rapid
     legalBasis: public_notice
     timeoutSeconds: 25
-    fixture: amgen-news-releases.json
+    fixture: pmda-safety-updates.html
+    options:
+      itemSelector: .list__news > li
+      titleSelector: .title
+      linkSelector: a[href]
+      dateSelector: .date
+      maxItems: 20
+      categoryOverride: quality_safety
+      entityName: Pharmaceuticals and Medical Devices Agency
+      entityType: institution
+
+  - id: health-canada-health-products
+    name: Health Canada Health Product Recalls
+    enabled: true
+    tier: A
+    type: regulator
+    region: OTHER
+    language: en
+    connector: html
+    url: "https://recalls-rappels.canada.ca/en/search/site?f%5B0%5D=cat%3A180"
+    scheduleGroup: rapid
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    fixture: health-canada-health-products.html
+    options:
+      itemSelector: .search-result
+      titleSelector: .homepage-recent a[href]
+      linkSelector: .homepage-recent a[href]
+      dateSelector: .ar-type
+      descriptionSelector: .ar-type
+      maxItems: 20
+      categoryOverride: quality_safety
+      entityName: Health Canada
+      entityType: institution
+
+  - id: who-news
+    name: World Health Organization News
+    enabled: true
+    tier: A
+    type: regulator
+    region: GLOBAL
+    language: en
+    connector: rss
+    url: "https://www.who.int/rss-feeds/news-english.xml"
+    scheduleGroup: rapid
+    legalBasis: rss_allowed
+    timeoutSeconds: 25
+    fixture: who-news.xml
+    options: {maxItems: 20, categoryOverride: public_health, entityName: World Health Organization, entityType: institution}
+
+  - id: china-cdc-news
+    name: Chinese Center for Disease Control and Prevention
+    enabled: true
+    tier: A
+    type: regulator
+    region: CN
+    language: zh-CN
+    connector: html
+    url: "https://www.chinacdc.cn/"
+    scheduleGroup: rapid
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    fixture: china-cdc-news.html
+    options:
+      itemSelector: .divp p a[href][title]
+      titleSelector: self
+      linkSelector: self
+      titleAttribute: title
+      dateSelector: none
+      dateFromUrl: true
+      maxItems: 20
+      categoryOverride: public_health
+      entityName: 中国疾病预防控制中心
+      entityType: institution
 
   - id: nmpa-public-notices
     name: National Medical Products Administration
@@ -78,12 +172,580 @@ sources:
     region: CN
     language: en
     connector: html
-    url: https://english.nmpa.gov.cn/drugs.html
-    scheduleGroup: normal
+    url: "https://english.nmpa.gov.cn/drugs.html"
+    scheduleGroup: rapid
     legalBasis: public_notice
     timeoutSeconds: 25
     fixture: nmpa-public-notices.html
     options:
       itemSelector: .list .list-text
       titleSelector: .list-tit a[href]
+      linkSelector: .list-tit a[href]
       dateSelector: .list-date
+      maxItems: 20
+      entityName: National Medical Products Administration
+      entityType: institution
+
+  # policy: twice daily; guidance, reimbursement and health-policy changes.
+  - id: cde-drug-review-updates
+    name: NMPA Center for Drug Evaluation
+    enabled: true
+    tier: A
+    type: regulator
+    region: CN
+    language: zh-CN
+    connector: html
+    url: "https://www.cde.org.cn/"
+    scheduleGroup: policy
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    fixture: cde-drug-review-updates.html
+    options:
+      itemSelector: a.text_link[href]
+      titleSelector: self
+      linkSelector: self
+      dateSelector: none
+      maxItems: 20
+      categoryOverride: policy_regulation
+      entityName: 国家药品监督管理局药品审评中心
+      entityType: institution
+
+  - id: nhsa-healthcare-security-updates
+    name: National Healthcare Security Administration Policies
+    enabled: true
+    tier: A
+    type: regulator
+    region: CN
+    language: zh-CN
+    connector: html
+    url: "https://www.nhsa.gov.cn/col/col53/index.html"
+    scheduleGroup: policy
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    fixture: nhsa-healthcare-security-updates.html
+    options:
+      unwrapCdata: true
+      itemSelector: 'a[href*="/art/"][title]'
+      titleSelector: self
+      linkSelector: self
+      titleAttribute: title
+      dateSelector: none
+      dateFromUrl: true
+      maxItems: 20
+      categoryOverride: reimbursement_access
+      entityName: 国家医疗保障局
+      entityType: institution
+
+  - id: beijing-health-policy
+    name: Beijing Municipal Health Commission
+    enabled: true
+    tier: A
+    type: regulator
+    region: CN
+    language: zh-CN
+    connector: html
+    url: "https://wjw.beijing.gov.cn/zwgk_20040/"
+    scheduleGroup: policy
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    fixture: beijing-health-policy.html
+    options:
+      itemSelector: .weinei_left_con_line
+      titleSelector: .weinei_left_con_line_text a[href]
+      linkSelector: .weinei_left_con_line_text a[href]
+      titleAttribute: title
+      dateSelector: .weinei_left_con_line_date
+      maxItems: 20
+      categoryOverride: policy_regulation
+      entityName: 北京市卫生健康委员会
+      entityType: institution
+
+  # research: twice daily and staggered from policy; registries and publication metadata only.
+  - id: clinicaltrials-recent
+    name: ClinicalTrials.gov
+    enabled: true
+    tier: A
+    type: registry
+    region: GLOBAL
+    language: en
+    connector: clinicaltrials
+    url: "https://clinicaltrials.gov/api/v2/studies?format=json&pageSize=20&sort=LastUpdatePostDate%3Adesc&fields=NCTId%2CBriefTitle%2CStudyFirstPostDate%2CCondition"
+    scheduleGroup: research
+    legalBasis: official_api
+    timeoutSeconds: 25
+    fixture: clinicaltrials-recent.json
+    options: {maxItems: 20, entityName: ClinicalTrials.gov, entityType: institution}
+
+  - id: europe-pmc-recent
+    name: Europe PMC
+    enabled: true
+    tier: A
+    type: journal
+    region: GLOBAL
+    language: en
+    connector: europepmc
+    url: "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=OPEN_ACCESS%3AY%20sort_date%3Ay&format=json&pageSize=20"
+    scheduleGroup: research
+    legalBasis: official_api
+    timeoutSeconds: 25
+    fixture: europe-pmc-recent.json
+    options: {maxItems: 20, entityName: Europe PMC, entityType: institution}
+
+  - id: pubmed-recent
+    name: PubMed
+    enabled: true
+    tier: A
+    type: journal
+    region: GLOBAL
+    language: en
+    connector: pubmed
+    url: "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%22last%207%20days%22%5BPDat%5D&retmode=json&retmax=20&sort=pub%2Bdate"
+    scheduleGroup: research
+    legalBasis: official_api
+    timeoutSeconds: 25
+    fixture: pubmed-recent.json
+    options:
+      summaryUrl: "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id={ids}"
+      maxItems: 20
+      entityName: U.S. National Library of Medicine
+      entityType: institution
+
+  - id: nature-medicine
+    name: Nature Medicine
+    enabled: true
+    tier: A
+    type: journal
+    region: GLOBAL
+    language: en
+    connector: rss
+    url: "https://www.nature.com/nm.rss"
+    scheduleGroup: research
+    legalBasis: rss_allowed
+    timeoutSeconds: 25
+    fixture: nature-medicine.xml
+    options: {maxItems: 20, categoryOverride: research_academic, entityName: Nature Medicine, entityType: institution}
+
+  - id: nejm-current-issue
+    name: New England Journal of Medicine
+    enabled: true
+    tier: A
+    type: journal
+    region: GLOBAL
+    language: en
+    connector: rss
+    url: "https://www.nejm.org/action/showFeed?type=etoc&feed=rss&jc=nejm"
+    scheduleGroup: research
+    legalBasis: rss_allowed
+    timeoutSeconds: 25
+    fixture: nejm-current-issue.xml
+    options: {maxItems: 20, categoryOverride: research_academic, entityName: New England Journal of Medicine, entityType: institution}
+
+  - id: medrxiv-recent
+    name: medRxiv
+    enabled: true
+    tier: B
+    type: journal
+    region: GLOBAL
+    language: en
+    connector: rss
+    url: "https://connect.medrxiv.org/medrxiv_xml.php?subject=all"
+    scheduleGroup: research
+    legalBasis: rss_allowed
+    timeoutSeconds: 25
+    fixture: medrxiv-recent.xml
+    options:
+      maxItems: 20
+      categoryOverride: research_academic
+      entityName: medRxiv
+      entityType: institution
+      verificationStatus: unreviewed
+
+  # institutional: daily; hospital research and company self-published announcements.
+  - id: pumch-research
+    name: Peking Union Medical College Hospital Research
+    enabled: true
+    tier: B
+    type: media
+    region: CN
+    language: zh-CN
+    connector: html
+    url: "https://www.pumch.cn/research/"
+    scheduleGroup: institutional
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    fixture: pumch-research.html
+    options:
+      itemSelector: .research2 ul.list > li
+      titleSelector: .h3 a[href]
+      linkSelector: .h3 a[href]
+      dateSelector: .date
+      descriptionSelector: .p
+      maxItems: 15
+      categoryOverride: hospital_service
+      entityName: 北京协和医院
+      entityType: hospital
+
+  - id: btch-research
+    name: Beijing Tsinghua Changgung Hospital Research
+    enabled: true
+    tier: B
+    type: media
+    region: CN
+    language: zh-CN
+    connector: html
+    url: "https://www.btch.edu.cn/jxky/"
+    scheduleGroup: institutional
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    fixture: btch-research.html
+    options:
+      itemSelector: .TCH-list12 > li
+      titleSelector: a.fpx16[href]
+      linkSelector: a.fpx16[href]
+      dateSelector: span
+      maxItems: 15
+      categoryOverride: hospital_service
+      entityName: 北京清华长庚医院
+      entityType: hospital
+
+  - id: cleveland-clinic-news
+    name: Cleveland Clinic Newsroom
+    enabled: true
+    tier: B
+    type: media
+    region: US
+    language: en
+    connector: html
+    url: "https://newsroom.clevelandclinic.org/"
+    scheduleGroup: institutional
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    fixture: cleveland-clinic-news.html
+    options:
+      itemSelector: 'a[href*="newsroom.clevelandclinic.org/20"]'
+      titleSelector: self
+      linkSelector: self
+      dateSelector: none
+      dateFromUrl: true
+      maxItems: 15
+      categoryOverride: hospital_service
+      entityName: Cleveland Clinic
+      entityType: hospital
+
+  - id: amgen-news-releases
+    name: Amgen News Releases
+    enabled: true
+    tier: B
+    type: company
+    region: US
+    language: en
+    connector: amgen
+    url: "https://www.amgen.com/MyApi/Custom/NewsListing/GetRecentNewsReleasesV2?count=20&isNasdaq=false&rootId=%7B623B9876-33FF-40EB-BDA0-8465365C59C8%7D"
+    scheduleGroup: institutional
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    fixture: amgen-news-releases.json
+    options: {maxItems: 20}
+
+  - id: pfizer-press-releases
+    name: Pfizer Press Releases
+    enabled: true
+    tier: B
+    type: company
+    region: US
+    language: en
+    connector: html
+    url: "https://www.pfizer.com/newsroom/press-releases"
+    scheduleGroup: institutional
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    fixture: pfizer-press-releases.html
+    options:
+      itemSelector: .result-list[data-view-name=press-release] > li
+      titleSelector: h5 a[href]
+      linkSelector: h5 a[href]
+      dateSelector: p.date
+      maxItems: 20
+      entityName: Pfizer
+      entityType: company
+
+  - id: gsk-press-releases
+    name: GSK Press Releases
+    enabled: true
+    tier: B
+    type: company
+    region: OTHER
+    language: en
+    connector: rss
+    url: "https://www.gsk.com/en-gb/media/rss/"
+    scheduleGroup: institutional
+    legalBasis: rss_allowed
+    timeoutSeconds: 30
+    fixture: gsk-press-releases.xml
+    options: {maxItems: 20, entityName: GSK, entityType: company}
+
+  - id: lilly-news-releases
+    name: Eli Lilly News Releases
+    enabled: true
+    tier: B
+    type: company
+    region: US
+    language: en
+    connector: rss
+    url: "https://investor.lilly.com/rss/news-releases.xml?items=10"
+    scheduleGroup: institutional
+    legalBasis: rss_allowed
+    timeoutSeconds: 25
+    fixture: lilly-news-releases.xml
+    options: {maxItems: 10, entityName: Eli Lilly and Company, entityType: company}
+
+  - id: merck-news-releases
+    name: Merck News Releases
+    enabled: true
+    tier: B
+    type: company
+    region: US
+    language: en
+    connector: html
+    url: "https://www.merck.com/news-archive/"
+    scheduleGroup: institutional
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    fixture: merck-news-releases.html
+    options:
+      itemSelector: .d8-results-container .d8-result-item
+      titleSelector: .d8-result-item-headline a[href]
+      linkSelector: .d8-result-item-headline a[href]
+      dateSelector: .d8-result-item-date
+      maxItems: 20
+      entityName: Merck
+      entityType: company
+
+  - id: sanofi-press-releases
+    name: Sanofi Press Releases
+    enabled: true
+    tier: B
+    type: company
+    region: EU
+    language: en
+    connector: html
+    url: "https://www.sanofi.com/en/media-room/press-releases"
+    scheduleGroup: institutional
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    fixture: sanofi-press-releases.html
+    options:
+      itemSelector: 'a[href*="/media-room/press-releases/20"]'
+      titleSelector: self
+      linkSelector: self
+      titleAttribute: title
+      dateSelector: none
+      dateFromUrl: true
+      maxItems: 20
+      entityName: Sanofi
+      entityType: company
+
+  - id: hengrui-focus-news
+    name: Jiangsu Hengrui Pharmaceuticals Focus News
+    enabled: true
+    tier: B
+    type: company
+    region: CN
+    language: zh-CN
+    connector: html
+    url: "https://www.hengrui.com/media/NewsType-1.html"
+    scheduleGroup: institutional
+    legalBasis: public_notice
+    timeoutSeconds: 30
+    fixture: hengrui-focus-news.html
+    options:
+      itemSelector: a.dis.com-link[href]
+      titleSelector: p.com-rows_2
+      linkSelector: self
+      dateSelector: p.fontSize12.color666
+      maxItems: 20
+      entityName: 恒瑞医药
+      entityType: company
+
+  # Disabled candidates remain visible for deliberate follow-up. Do not bypass access controls.
+  - id: nhc-policy-candidate
+    name: National Health Commission Policy (candidate)
+    enabled: false
+    tier: A
+    type: regulator
+    region: CN
+    language: zh-CN
+    connector: html
+    url: "https://www.nhc.gov.cn/wjw/gfxwjj/list.shtml"
+    scheduleGroup: policy
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    options: {disabledReason: "HTTP 412 in unattended requests; no bypass attempted"}
+
+  - id: nmpa-chinese-candidate
+    name: NMPA Chinese Drug Regulation (candidate)
+    enabled: false
+    tier: A
+    type: regulator
+    region: CN
+    language: zh-CN
+    connector: html
+    url: "https://www.nmpa.gov.cn/yaopin/ypjgdt/index.html"
+    scheduleGroup: rapid
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    options: {disabledReason: "HTTP 412 in unattended requests; English NMPA source remains enabled"}
+
+  - id: china-drug-trials-candidate
+    name: China Drug Trials Registry (candidate)
+    enabled: false
+    tier: A
+    type: registry
+    region: CN
+    language: zh-CN
+    connector: html
+    url: "https://www.chinadrugtrials.org.cn/clinicaltrials.prosearch.dhtml"
+    scheduleGroup: research
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    options: {disabledReason: "Public listing returns a client challenge instead of stable metadata"}
+
+  - id: chictr-candidate
+    name: Chinese Clinical Trial Registry (candidate)
+    enabled: false
+    tier: A
+    type: registry
+    region: CN
+    language: zh-CN
+    connector: html
+    url: "https://www.chictr.org.cn/searchproj.html?studytype=1"
+    scheduleGroup: research
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    options: {disabledReason: "Public search endpoint returned HTTP 405 during validation"}
+
+  - id: mayo-clinic-candidate
+    name: Mayo Clinic News Network (candidate)
+    enabled: false
+    tier: B
+    type: media
+    region: US
+    language: en
+    connector: rss
+    url: "https://newsnetwork.mayoclinic.org/feed/"
+    scheduleGroup: institutional
+    legalBasis: rss_allowed
+    timeoutSeconds: 25
+    options: {disabledReason: "Feed returned HTTP 403 to unattended requests"}
+
+  - id: west-china-hospital-candidate
+    name: West China Hospital Research (candidate)
+    enabled: false
+    tier: B
+    type: media
+    region: CN
+    language: zh-CN
+    connector: html
+    url: "https://www.wchscu.cn/academi/"
+    scheduleGroup: institutional
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    options: {disabledReason: "TLS or network connection was not stable during validation"}
+
+  - id: huashan-hospital-candidate
+    name: Huashan Hospital Research (candidate)
+    enabled: false
+    tier: B
+    type: media
+    region: CN
+    language: zh-CN
+    connector: html
+    url: "https://ncnd.huashan.org.cn/cv/kexue/"
+    scheduleGroup: institutional
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    options: {disabledReason: "TLS or network connection was not stable during validation"}
+
+  - id: astrazeneca-candidate
+    name: AstraZeneca Media Centre (candidate)
+    enabled: false
+    tier: B
+    type: company
+    region: OTHER
+    language: en
+    connector: html
+    url: "https://www.astrazeneca.com/media-centre.html"
+    scheduleGroup: institutional
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    options: {disabledReason: "Official page returned HTTP 403 to unattended requests"}
+
+  - id: roche-candidate
+    name: Roche Media Releases (candidate)
+    enabled: false
+    tier: B
+    type: company
+    region: EU
+    language: en
+    connector: html
+    url: "https://www.roche.com/media/releases"
+    scheduleGroup: institutional
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    options: {disabledReason: "Listing data is client-rendered and needs a documented stable endpoint"}
+
+  - id: beone-candidate
+    name: BeOne Medicines Press Releases (candidate)
+    enabled: false
+    tier: B
+    type: company
+    region: GLOBAL
+    language: en
+    connector: html
+    url: "https://ir.beonemedicines.com/news-events/pressreleases"
+    scheduleGroup: institutional
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    options: {disabledReason: "Listing is client-rendered and no stable public feed was confirmed"}
+
+  - id: wuxi-apptec-candidate
+    name: WuXi AppTec News (candidate)
+    enabled: false
+    tier: B
+    type: company
+    region: CN
+    language: zh-CN
+    connector: html
+    url: "https://www.wuxiapptec.cn/news/wuxi-news"
+    scheduleGroup: institutional
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    options: {disabledReason: "Listing is client-rendered and needs a stable public API contract"}
+
+  - id: fosun-pharma-candidate
+    name: Fosun Pharma News (candidate)
+    enabled: false
+    tier: B
+    type: company
+    region: CN
+    language: zh-CN
+    connector: html
+    url: "https://www.fosunpharma.com/news/"
+    scheduleGroup: institutional
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    options: {disabledReason: "Listing is client-rendered and network access was intermittent"}
+
+  - id: novartis-candidate
+    name: Novartis Global Media Releases (candidate)
+    enabled: false
+    tier: B
+    type: company
+    region: GLOBAL
+    language: en
+    connector: rss
+    url: "https://www.feeds.novartis.com/"
+    scheduleGroup: institutional
+    legalBasis: rss_allowed
+    timeoutSeconds: 25
+    options: {disabledReason: "Feed catalogue requires confirmation of a supported production endpoint"}

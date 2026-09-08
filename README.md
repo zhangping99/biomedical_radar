@@ -6,14 +6,15 @@
 
 ## 已实现范围
 
-- 六个来源配置：FDA、EMA、ClinicalTrials.gov、Europe PMC、Amgen、NMPA；
-- RSS、REST API、HTML 公告三类接入框架，有限重试、超时和来源级失败隔离；
+- 42 个来源配置：29 个启用来源覆盖国内外监管、政策、学术、医院和药企，13 个受访问限制或缺少稳定接口的来源保留为禁用候选；
+- `rapid`、`policy`、`research`、`institutional` 四级定时策略，RSS、REST API、两阶段 PubMed API、HTML 公告接入框架；
+- 全局并发上限、同域名串行、有限重试、响应大小/单批条数限制、空页面检测和来源级失败隔离；
 - URL/标题规范化、稳定 ID、内容哈希、保守去重、12 个栏目、事件识别和配置化重要度评分；
 - 无密钥降级翻译/摘要 Provider，不编造外文中文内容；
 - `feed-manifest.json`、`latest.json`、每日文件、taxonomy、来源健康报告和 SHA-256；
 - 今日、分类、详情、关注、收藏、设置六个移动端页面；
 - 搜索、组合筛选、IndexedDB、备份导入/导出、深色模式、离线缓存和 PWA 更新提示；
-- CI、四小时定时采集、验证后提交静态数据、GitHub Pages 部署和回滚说明。
+- CI、分组错峰定时采集、验证后提交静态数据、GitHub Pages 部署和回滚说明。
 
 产品范围见 [V1 PRD](docs/PRD_V1_PERSONAL_STATIC.md)，当前验收状态见 [CURRENT_PHASE](docs/CURRENT_PHASE.md)，来源选择见 [SOURCES](docs/SOURCES.md)。旧版需求已移至 `docs/archive`，不再作为实现依据。
 
@@ -67,7 +68,9 @@ java -jar backend\radar-collector\target\radar-collector-1.0.0-SNAPSHOT.jar `
   --sources=config\sources.yml `
   --scoring=config\scoring.yml `
   --fixture-dir=data\fixtures\sources `
-  --output-dir=frontend\public\data
+  --output-dir=frontend\public\data `
+  --groups=all `
+  --max-concurrency=4
 ```
 
 启动或完整验证前端：
@@ -95,13 +98,15 @@ java -jar backend/radar-collector/target/radar-collector-1.0.0-SNAPSHOT.jar \
   --sources=config/sources.yml \
   --scoring=config/scoring.yml \
   --fixture-dir=data/fixtures/sources \
-  --output-dir=frontend/public/data
+  --output-dir=frontend/public/data \
+  --groups=all \
+  --max-concurrency=4
 cd frontend
 pnpm install --frozen-lockfile
 pnpm validate:data && pnpm lint && pnpm test && pnpm build
 ```
 
-去掉 `--fixture-dir` 即执行真实公开来源采集。请先阅读 `docs/SOURCES.md`，不要提高频率或绕过来源限制。
+去掉 `--fixture-dir` 即执行真实公开来源采集。`--groups` 可取 `all`、`rapid`、`policy`、`research`、`institutional`，也可使用逗号组合；不传时保持兼容行为，采集全部启用来源。请先阅读 `docs/SOURCES.md`，不要提高频率或绕过来源限制。
 
 ## GitHub Pages
 
@@ -111,7 +116,7 @@ pnpm validate:data && pnpm lint && pnpm test && pnpm build
 2. 手动运行一次 `CI`，成功后 `Deploy GitHub Pages` 会部署同一提交；
 3. 手动运行 `Collect static feed` 验证真实来源；任务会在契约、测试和构建全部通过后提交静态数据，并直接部署同一份已验证产物；
 
-定时任务每四小时运行。任何构建、契约或测试失败都会阻止新版本部署，上一版 Pages 保持不变。回滚流程见 [infra/README.md](infra/README.md)。
+快速安全与监管信号每四小时采集，政策和学术来源每天两次，医院与药企每天一次；四组任务错峰且共用单写入并发锁。任何构建、契约或测试失败都会阻止新版本部署，上一版 Pages 保持不变。回滚流程见 [infra/README.md](infra/README.md)。
 
 ## 安全与内容边界
 
@@ -126,5 +131,5 @@ pnpm validate:data && pnpm lint && pnpm test && pnpm build
 - 定时采集连续七次成功（截至 2026-09-08 已连续成功 3 次）；
 - 真机 iPhone Safari/PWA 与 Android Chrome/PWA 安装、弱网和离线验收；
 - NMPA HTTPS 在本机 Java 17 中曾发生证书握手失败，最新 GitHub Actions 采集已成功；继续观察环境差异和后续稳定性；
-- 对首批来源的版权、使用条件和页面结构做定期复核；
+- 对 29 个启用来源的版权、使用条件和页面结构做定期复核；13 个禁用候选不得在未确认公开访问边界前启用；
 - 14 天个人使用价值观察。以上项目完成前，`CURRENT_PHASE.md` 不得切换到 V2。

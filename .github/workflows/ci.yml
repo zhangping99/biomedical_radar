@@ -38,6 +38,8 @@ jobs:
           --scoring=config/scoring.yml
           --fixture-dir=data/fixtures/sources
           --output-dir=build/fixture-data
+          --groups=all
+          --max-concurrency=4
       - name: Install frontend dependencies
         working-directory: frontend
         run: pnpm install --frozen-lockfile

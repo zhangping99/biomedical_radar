@@ -8,6 +8,10 @@ import java.util.Locale;
 
 public final class ContentClassifier {
     public Category category(SourceDefinition source, RawSourceItem item) {
+        String categoryOverride = source.options().get("categoryOverride");
+        if (categoryOverride != null && !categoryOverride.isBlank()) {
+            return Category.valueOf(categoryOverride);
+        }
         String text = searchable(item);
         if (contains(text, "recall", "safety", "adverse", "warning", "召回", "安全", "不良反应")) {
             return Category.quality_safety;
