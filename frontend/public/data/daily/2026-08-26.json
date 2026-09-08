@@ -1,7 +1,54 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-08T12:52:22.105956665Z",
+  "generatedAt": "2026-09-08T16:52:25.652323183Z",
   "articles": [
+    {
+      "id": "4d1904b8-79e0-39a1-bc17-9df2a36ea7c3",
+      "sourceId": "nhsa-healthcare-security-updates",
+      "sourceName": "National Healthcare Security Administration Policies",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.nhsa.gov.cn/art/2026/8/26/art_53_21908.html",
+      "canonicalUrl": "https://www.nhsa.gov.cn/art/2026/8/26/art_53_21908.html",
+      "titleOriginal": "国家医疗保障局关于做好长期护理保险支付管理工作的指导意见",
+      "titleZh": "国家医疗保障局关于做好长期护理保险支付管理工作的指导意见",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "reimbursement_access",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "国家医疗保障局"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-26T00:00:00Z",
+      "collectedAt": "2026-09-08T16:52:23.293000164Z",
+      "contentHash": "6a10be4d570f98442b38d6908247f422b2bde9136d5166fdabebd509e10b4fac",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "nhsa-healthcare-security-updates",
+          "sourceName": "National Healthcare Security Administration Policies",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nhsa.gov.cn/art/2026/8/26/art_53_21908.html"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "6e5d2704-540a-351a-b19e-58b2f70152a3",
       "sourceId": "fda-medwatch-alerts",
@@ -147,53 +194,6 @@
         "官方一手来源",
         "高影响事件",
         "政策或安全相关"
-      ]
-    },
-    {
-      "id": "4d1904b8-79e0-39a1-bc17-9df2a36ea7c3",
-      "sourceId": "nhsa-healthcare-security-updates",
-      "sourceName": "National Healthcare Security Administration Policies",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.nhsa.gov.cn/art/2026/8/26/art_53_21908.html",
-      "canonicalUrl": "https://www.nhsa.gov.cn/art/2026/8/26/art_53_21908.html",
-      "titleOriginal": "国家医疗保障局关于做好长期护理保险支付管理工作的指导意见",
-      "titleZh": "国家医疗保障局关于做好长期护理保险支付管理工作的指导意见",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "reimbursement_access",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "国家医疗保障局"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-08-26T00:00:00Z",
-      "collectedAt": "2026-09-08T05:05:27.801404212Z",
-      "contentHash": "6a10be4d570f98442b38d6908247f422b2bde9136d5166fdabebd509e10b4fac",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "nhsa-healthcare-security-updates",
-          "sourceName": "National Healthcare Security Administration Policies",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nhsa.gov.cn/art/2026/8/26/art_53_21908.html"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
       ]
     },
     {
