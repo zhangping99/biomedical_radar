@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-08T04:33:41.457981294Z",
+  "generatedAt": "2026-09-08T05:05:38.656887764Z",
   "articles": [
     {
       "id": "d2b60cee-1610-3555-9257-2ed8d2aff5ed",
@@ -20,10 +20,15 @@
       "eventTypes": [
         "safety_alert"
       ],
-      "entities": [],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T20:35:54Z",
-      "collectedAt": "2026-09-08T04:33:30.427101784Z",
+      "collectedAt": "2026-09-08T05:05:25.138813243Z",
       "contentHash": "bcb49a4d9a5942784cd6c8fbfa553c31f3f3660404e32d8c7bdb5bf34309db8a",
       "generated": false,
       "generatorVersion": null,
@@ -64,10 +69,15 @@
       "eventTypes": [
         "policy_release"
       ],
-      "entities": [],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T20:26:35Z",
-      "collectedAt": "2026-09-08T04:33:30.427434044Z",
+      "collectedAt": "2026-09-08T05:05:25.142116597Z",
       "contentHash": "e98d4fcd26915fd9f1246a0061360a0039a99dda85722c3507dfce8290834a5f",
       "generated": false,
       "generatorVersion": null,
@@ -108,10 +118,15 @@
       "eventTypes": [
         "policy_release"
       ],
-      "entities": [],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T20:15:04Z",
-      "collectedAt": "2026-09-08T04:33:30.430834422Z",
+      "collectedAt": "2026-09-08T05:05:25.148638657Z",
       "contentHash": "a18214263434ce35a2b9a9cc58d756eb737acdf7654eb0b09b7d7bfa3388f8d0",
       "generated": false,
       "generatorVersion": null,
@@ -152,10 +167,15 @@
       "eventTypes": [
         "safety_alert"
       ],
-      "entities": [],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T17:26:57Z",
-      "collectedAt": "2026-09-08T04:33:30.434052108Z",
+      "collectedAt": "2026-09-08T05:05:25.154538512Z",
       "contentHash": "933e49282a75e726b31c7671ae9bbeff4fc152d6b338f8c17e75c16e4d72a358",
       "generated": false,
       "generatorVersion": null,
@@ -196,10 +216,15 @@
       "eventTypes": [
         "safety_alert"
       ],
-      "entities": [],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "European Medicines Agency"
+        }
+      ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T12:00:00Z",
-      "collectedAt": "2026-09-08T04:33:30.683450505Z",
+      "collectedAt": "2026-09-08T05:05:25.015672204Z",
       "contentHash": "9c033ecf98bec9bdb1d6f11759b427f7845ed0da03c8e0770f26d41c4977e424",
       "generated": false,
       "generatorVersion": null,
@@ -213,6 +238,208 @@
           "sourceName": "European Medicines Agency",
           "sourceTier": "A",
           "originalUrl": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-31-august-3-september-2026"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "e5cba63e-b1fd-395d-8c2b-c78cd75b9a9c",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/imagertm-ii-angiographic-catheter",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/imagertm-ii-angiographic-catheter",
+      "titleOriginal": "ImagerTM II Angiographic Catheter",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-04T00:00:00Z",
+      "collectedAt": "2026-09-08T05:05:25.868704742Z",
+      "contentHash": "745fde69e26b77ca7390a362662c7341d63fb67ced6163c4b11922e58e48a057",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/imagertm-ii-angiographic-catheter"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "c430c42c-782c-3a46-bab2-b1b77f2b43d0",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/lifepak-r-35-monitordefibrillator-0",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/lifepak-r-35-monitordefibrillator-0",
+      "titleOriginal": "LIFEPAK ® 35 Monitor/Defibrillator",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-04T00:00:00Z",
+      "collectedAt": "2026-09-08T05:05:25.869226018Z",
+      "contentHash": "1544eb55283343a4bd76da0da87ab75ef5e8ef98b12db6241fa47484591d7458",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/lifepak-r-35-monitordefibrillator-0"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "315c8555-c903-36d4-8169-05620a8aa63c",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/gorer-viabahnr-endoprosthesis-propaten-bioactive",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/gorer-viabahnr-endoprosthesis-propaten-bioactive",
+      "titleOriginal": "GORE® VIABAHN® Endoprosthesis with PROPATEN Bioactive",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-04T00:00:00Z",
+      "collectedAt": "2026-09-08T05:05:25.869406346Z",
+      "contentHash": "eb78bb4fcaaeb977273d6bdfc1aae03afd33224d034c116e4b1b43c96baf6205",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/gorer-viabahnr-endoprosthesis-propaten-bioactive"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "349ccd45-246b-3681-9070-a8fc57f117d3",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07804862",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07804862",
+      "titleOriginal": "Efficacy and Safety of RFA vs MWA for Treatment of Large Benign Thyroid Nodules, RCT",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert",
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Ablation Techniques, RFA",
+        "Ablation Treatment",
+        "Benign Thyroid Nodules",
+        "Local Anaesthesia"
+      ],
+      "publishedAt": "2026-09-04T00:00:00Z",
+      "collectedAt": "2026-09-08T05:05:28.041216228Z",
+      "contentHash": "7803b64a5f0b7037b684de4015f3637ee13a116c37c83b6147616b5c17afa441",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07804862"
         }
       ],
       "importanceScore": 65,
@@ -240,10 +467,15 @@
       "eventTypes": [
         "update"
       ],
-      "entities": [],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T20:07:39Z",
-      "collectedAt": "2026-09-08T04:33:30.431098675Z",
+      "collectedAt": "2026-09-08T05:05:25.148910716Z",
       "contentHash": "34f65e7358637802056576d768fab499ce9a850561e773f339612371f0f8ece4",
       "generated": false,
       "generatorVersion": null,
@@ -283,10 +515,15 @@
       "eventTypes": [
         "update"
       ],
-      "entities": [],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T20:06:21Z",
-      "collectedAt": "2026-09-08T04:33:30.431512497Z",
+      "collectedAt": "2026-09-08T05:05:25.149248609Z",
       "contentHash": "251536ac83833b98a26b441c044400af127dbbb6b0d8dda5e6c0c32b95854000",
       "generated": false,
       "generatorVersion": null,
@@ -326,10 +563,15 @@
       "eventTypes": [
         "update"
       ],
-      "entities": [],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T19:38:04Z",
-      "collectedAt": "2026-09-08T04:33:30.432374787Z",
+      "collectedAt": "2026-09-08T05:05:25.149631015Z",
       "contentHash": "d3c2605c918b7eea452970689df00654ece65dc271af106e9d45aace5132a405",
       "generated": false,
       "generatorVersion": null,
@@ -369,10 +611,15 @@
       "eventTypes": [
         "update"
       ],
-      "entities": [],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T17:25:53Z",
-      "collectedAt": "2026-09-08T04:33:30.434310660Z",
+      "collectedAt": "2026-09-08T05:05:25.154760698Z",
       "contentHash": "db634d605ff250a67b3636e21bc591f5ffc48c111bc0eb6b0a5eafa18929d001",
       "generated": false,
       "generatorVersion": null,
@@ -412,10 +659,15 @@
       "eventTypes": [
         "research_publication"
       ],
-      "entities": [],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T14:19:45Z",
-      "collectedAt": "2026-09-08T04:33:30.434620569Z",
+      "collectedAt": "2026-09-08T05:05:25.155107878Z",
       "contentHash": "3d4df426576d5dcde9ca14aaa69be79e33a7f9222e352940ead168d137e16b58",
       "generated": false,
       "generatorVersion": null,
@@ -455,10 +707,15 @@
       "eventTypes": [
         "update"
       ],
-      "entities": [],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T14:19:09Z",
-      "collectedAt": "2026-09-08T04:33:30.434968639Z",
+      "collectedAt": "2026-09-08T05:05:25.155422547Z",
       "contentHash": "f49b8a92d59485cf92a40b8ca8271421961999d922d53ca23152f53b56119c84",
       "generated": false,
       "generatorVersion": null,
@@ -498,10 +755,15 @@
       "eventTypes": [
         "update"
       ],
-      "entities": [],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T13:55:07Z",
-      "collectedAt": "2026-09-08T04:33:30.435207194Z",
+      "collectedAt": "2026-09-08T05:05:25.155634424Z",
       "contentHash": "08dfb045df93e2430326f08986af2fc43247aefde187609f9c85a451f268d0de",
       "generated": false,
       "generatorVersion": null,
@@ -541,10 +803,15 @@
       "eventTypes": [
         "update"
       ],
-      "entities": [],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T13:15:57Z",
-      "collectedAt": "2026-09-08T04:33:30.435724229Z",
+      "collectedAt": "2026-09-08T05:05:25.156160198Z",
       "contentHash": "e35c6dbeb7bb4563f50334ba9ae7a78b18257d0f8c70ac0b466c6d287adfe55a",
       "generated": false,
       "generatorVersion": null,
@@ -558,6 +825,54 @@
           "sourceName": "U.S. Food and Drug Administration - Drugs",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "2d1db4b4-fe86-3e0b-9a03-7b7ecba6ac6c",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/industry-biologics",
+      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/industry-biologics",
+      "titleOriginal": "Industry (Biologics)",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-04T10:22:34Z",
+      "collectedAt": "2026-09-08T05:05:25.143022916Z",
+      "contentHash": "0df77070912c801581ae1fb8c9b719ac323c9cc22d94eaa1c5a5839625f3ee13",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/industry-biologics"
         }
       ],
       "importanceScore": 50,
@@ -584,10 +899,15 @@
       "eventTypes": [
         "update"
       ],
-      "entities": [],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T20:19:48Z",
-      "collectedAt": "2026-09-08T04:33:30.429000639Z",
+      "collectedAt": "2026-09-08T05:05:25.143516458Z",
       "contentHash": "df457019375983e416d18313185499ec053d42f380451680c748a6e579279d94",
       "generated": false,
       "generatorVersion": null,
@@ -626,10 +946,15 @@
       "eventTypes": [
         "update"
       ],
-      "entities": [],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T13:50:29Z",
-      "collectedAt": "2026-09-08T04:33:30.435465947Z",
+      "collectedAt": "2026-09-08T05:05:25.155867911Z",
       "contentHash": "05375fbb8f12d9bc98a840b2ca2b1dca928d57909a166ae20f05915a8ab883e3",
       "generated": false,
       "generatorVersion": null,
@@ -643,6 +968,53 @@
           "sourceName": "U.S. Food and Drug Administration - Drugs",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/dental-technologies-inc-612599-09022026"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "5c8a4d76-0882-3f4f-98f1-2798611595dd",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products",
+      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products",
+      "titleOriginal": "Cellular \u0026 Gene Therapy Products",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "drug_rd",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-04T12:05:20Z",
+      "collectedAt": "2026-09-08T05:05:25.139746112Z",
+      "contentHash": "a1fdcb223ce795846fb636d112e3c7b7d2a4cdef28500d32d1312c2b56c82627",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products"
         }
       ],
       "importanceScore": 35,
@@ -668,10 +1040,15 @@
       "eventTypes": [
         "update"
       ],
-      "entities": [],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "European Medicines Agency"
+        }
+      ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T09:00:00Z",
-      "collectedAt": "2026-09-08T04:33:30.684672205Z",
+      "collectedAt": "2026-09-08T05:05:25.022504545Z",
       "contentHash": "55ea63792b055c8933f3127a2da526430588c7ce8ffb6e812a0b1d3662f1b61c",
       "generated": false,
       "generatorVersion": null,
@@ -691,6 +1068,253 @@
       "importanceReasons": [
         "官方一手来源"
       ]
+    },
+    {
+      "id": "f2a50019-8414-3a00-9367-e21189b7b0a1",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07804524",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07804524",
+      "titleOriginal": "Assessment of Total Pulmonary Resistance sPAP/CO Between High Altitude HA vs. Sea Level LA in Patients With Pulmonary Arterial Hypertension PAH",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Pulmonary Arterial Hypertension (PAH)",
+        "Pulmonary Vascular Disease",
+        "High Altitude",
+        "Echocardiography",
+        "Pulmonary Resistance",
+        "Hemodynamic Changes"
+      ],
+      "publishedAt": "2026-09-04T00:00:00Z",
+      "collectedAt": "2026-09-08T05:05:28.039706274Z",
+      "contentHash": "57414d1589f45e1809da5f18e8ee410cc3c886985f90ba10463c92d0cef811b5",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07804524"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "ef3bfaff-7b1e-3106-a54c-bc3e9c99e2e6",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07805018",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07805018",
+      "titleOriginal": "EFFECT OF VIRTUAL REALITY GLASSES ON ANXIETY AND PAIN DURING DOUBLE J STENT REMOVAL",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Double J Stent",
+        "Virtual Reality (VR) Technology",
+        "Anxiety",
+        "Pain"
+      ],
+      "publishedAt": "2026-09-04T00:00:00Z",
+      "collectedAt": "2026-09-08T05:05:28.040304843Z",
+      "contentHash": "ebed81cc7eb9d77e19634f917fbf57a1dfc21115d4c6340e3c1e7272ab9d7289",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07805018"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "a56cbcf5-50a3-348d-9bcf-a3c49d861c3a",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07805655",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07805655",
+      "titleOriginal": "Radiofrequency Treatment Versus Topical Therapy for Facial Acne Vulgaris",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Acne Vulgaris"
+      ],
+      "publishedAt": "2026-09-04T00:00:00Z",
+      "collectedAt": "2026-09-08T05:05:28.040530245Z",
+      "contentHash": "1b9f042ca856ed2ad6773f023d9378a70380f1a820ceb954bceba4609ffeae9d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07805655"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "4501838b-68c3-3322-a3ae-5dd672f7f42e",
+      "sourceId": "nature-medicine",
+      "sourceName": "Nature Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41591-026-04694-y",
+      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04694-y",
+      "titleOriginal": "Prediction of maternal and infant outcomes from longitudinal electronic health records with a Mother-Child AI agent",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-04T00:00:00Z",
+      "collectedAt": "2026-09-08T05:05:30.107061047Z",
+      "contentHash": "dac2d04af0be1d5f0ab6c71ddce51df1689288821d63e59083c50e0dcbb20294",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-medicine",
+          "sourceName": "Nature Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41591-026-04694-y"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "ca208c7c-09c4-3ecf-b293-1bd7ede14047",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/04/tips-for-coping-with-end-of-summer-blues",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/04/tips-for-coping-with-end-of-summer-blues",
+      "titleOriginal": "Tips for Coping With End-of-Summer Blues",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-04T00:00:00Z",
+      "collectedAt": "2026-09-08T05:05:30.250192326Z",
+      "contentHash": "9b5f0700822f208dc8b9bd464b5a12822042b5e6906eb0a67823a0eccf015908",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/04/tips-for-coping-with-end-of-summer-blues"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
     }
   ]
 }

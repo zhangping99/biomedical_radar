@@ -1,15 +1,111 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-08T04:33:41.457981294Z",
-  "batchStartedAt": "2026-09-08T04:33:29.647441987Z",
-  "batchCompletedAt": "2026-09-08T04:33:41.457981294Z",
+  "generatedAt": "2026-09-08T05:05:38.656887764Z",
+  "batchStartedAt": "2026-09-08T05:05:24.197749372Z",
+  "batchCompletedAt": "2026-09-08T05:05:38.656887764Z",
   "sources": [
     {
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
+      "sourceId": "amgen-news-releases",
+      "sourceName": "Amgen News Releases",
       "status": "ok",
-      "startedAt": "2026-09-08T04:33:29.647689208Z",
-      "completedAt": "2026-09-08T04:33:30.442894624Z",
+      "startedAt": "2026-09-08T05:05:30.107763440Z",
+      "completedAt": "2026-09-08T05:05:38.178711828Z",
+      "fetchedCount": 20,
+      "newCount": 20,
+      "duplicateCount": 0,
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
+    },
+    {
+      "sourceId": "beijing-health-policy",
+      "sourceName": "Beijing Municipal Health Commission",
+      "status": "ok",
+      "startedAt": "2026-09-08T05:05:27.512491619Z",
+      "completedAt": "2026-09-08T05:05:29.256544500Z",
+      "fetchedCount": 20,
+      "newCount": 20,
+      "duplicateCount": 0,
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
+    },
+    {
+      "sourceId": "btch-research",
+      "sourceName": "Beijing Tsinghua Changgung Hospital Research",
+      "status": "ok",
+      "startedAt": "2026-09-08T05:05:29.296664677Z",
+      "completedAt": "2026-09-08T05:05:33.418636831Z",
+      "fetchedCount": 4,
+      "newCount": 4,
+      "duplicateCount": 0,
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
+    },
+    {
+      "sourceId": "cde-drug-review-updates",
+      "sourceName": "NMPA Center for Drug Evaluation",
+      "status": "ok",
+      "startedAt": "2026-09-08T05:05:26.171292315Z",
+      "completedAt": "2026-09-08T05:05:28.742624887Z",
+      "fetchedCount": 20,
+      "newCount": 10,
+      "duplicateCount": 10,
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
+    },
+    {
+      "sourceId": "china-cdc-news",
+      "sourceName": "Chinese Center for Disease Control and Prevention",
+      "status": "ok",
+      "startedAt": "2026-09-08T05:05:25.549434177Z",
+      "completedAt": "2026-09-08T05:05:27.512403985Z",
+      "fetchedCount": 10,
+      "newCount": 5,
+      "duplicateCount": 5,
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
+    },
+    {
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "status": "ok",
+      "startedAt": "2026-09-08T05:05:29.783470900Z",
+      "completedAt": "2026-09-08T05:05:30.251450529Z",
+      "fetchedCount": 15,
+      "newCount": 15,
+      "duplicateCount": 0,
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
+    },
+    {
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "status": "ok",
+      "startedAt": "2026-09-08T05:05:27.804980377Z",
+      "completedAt": "2026-09-08T05:05:28.041918311Z",
       "fetchedCount": 20,
       "newCount": 20,
       "duplicateCount": 0,
@@ -24,26 +120,10 @@
       "sourceId": "ema-news",
       "sourceName": "European Medicines Agency",
       "status": "ok",
-      "startedAt": "2026-09-08T04:33:30.442948545Z",
-      "completedAt": "2026-09-08T04:33:30.687173394Z",
+      "startedAt": "2026-09-08T05:05:24.204525210Z",
+      "completedAt": "2026-09-08T05:05:25.032317596Z",
       "fetchedCount": 3,
       "newCount": 3,
-      "duplicateCount": 0,
-      "failedCount": 0,
-      "httpStatusClasses": {
-        "2xx": 1
-      },
-      "errorCode": null,
-      "nextRetryAt": null
-    },
-    {
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "status": "ok",
-      "startedAt": "2026-09-08T04:33:30.687179476Z",
-      "completedAt": "2026-09-08T04:33:31.082464542Z",
-      "fetchedCount": 20,
-      "newCount": 20,
       "duplicateCount": 0,
       "failedCount": 0,
       "httpStatusClasses": {
@@ -56,8 +136,8 @@
       "sourceId": "europe-pmc-recent",
       "sourceName": "Europe PMC",
       "status": "ok",
-      "startedAt": "2026-09-08T04:33:31.082471104Z",
-      "completedAt": "2026-09-08T04:33:32.876587897Z",
+      "startedAt": "2026-09-08T05:05:28.041951413Z",
+      "completedAt": "2026-09-08T05:05:29.121894290Z",
       "fetchedCount": 20,
       "newCount": 20,
       "duplicateCount": 0,
@@ -69,11 +149,203 @@
       "nextRetryAt": null
     },
     {
-      "sourceId": "amgen-news-releases",
-      "sourceName": "Amgen News Releases",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
       "status": "ok",
-      "startedAt": "2026-09-08T04:33:32.876594169Z",
-      "completedAt": "2026-09-08T04:33:40.754272281Z",
+      "startedAt": "2026-09-08T05:05:24.201389507Z",
+      "completedAt": "2026-09-08T05:05:25.164754780Z",
+      "fetchedCount": 20,
+      "newCount": 20,
+      "duplicateCount": 0,
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
+    },
+    {
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
+      "status": "ok",
+      "startedAt": "2026-09-08T05:05:24.200193100Z",
+      "completedAt": "2026-09-08T05:05:25.170489003Z",
+      "fetchedCount": 20,
+      "newCount": 20,
+      "duplicateCount": 0,
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
+    },
+    {
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "status": "ok",
+      "startedAt": "2026-09-08T05:05:24.201102870Z",
+      "completedAt": "2026-09-08T05:05:25.169732467Z",
+      "fetchedCount": 20,
+      "newCount": 20,
+      "duplicateCount": 0,
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
+    },
+    {
+      "sourceId": "gsk-press-releases",
+      "sourceName": "GSK Press Releases",
+      "status": "ok",
+      "startedAt": "2026-09-08T05:05:30.463042204Z",
+      "completedAt": "2026-09-08T05:05:32.730039626Z",
+      "fetchedCount": 20,
+      "newCount": 20,
+      "duplicateCount": 0,
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
+    },
+    {
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "status": "ok",
+      "startedAt": "2026-09-08T05:05:25.169765138Z",
+      "completedAt": "2026-09-08T05:05:25.872440757Z",
+      "fetchedCount": 15,
+      "newCount": 15,
+      "duplicateCount": 0,
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
+    },
+    {
+      "sourceId": "hengrui-focus-news",
+      "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
+      "status": "ok",
+      "startedAt": "2026-09-08T05:05:33.730904256Z",
+      "completedAt": "2026-09-08T05:05:35.719081447Z",
+      "fetchedCount": 20,
+      "newCount": 20,
+      "duplicateCount": 0,
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
+    },
+    {
+      "sourceId": "lilly-news-releases",
+      "sourceName": "Eli Lilly News Releases",
+      "status": "ok",
+      "startedAt": "2026-09-08T05:05:32.730075894Z",
+      "completedAt": "2026-09-08T05:05:33.007858421Z",
+      "fetchedCount": 10,
+      "newCount": 10,
+      "duplicateCount": 0,
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
+    },
+    {
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "status": "ok",
+      "startedAt": "2026-09-08T05:05:29.188498086Z",
+      "completedAt": "2026-09-08T05:05:29.783433169Z",
+      "fetchedCount": 20,
+      "newCount": 20,
+      "duplicateCount": 0,
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
+    },
+    {
+      "sourceId": "merck-news-releases",
+      "sourceName": "Merck News Releases",
+      "status": "ok",
+      "startedAt": "2026-09-08T05:05:33.007890491Z",
+      "completedAt": "2026-09-08T05:05:33.750020972Z",
+      "fetchedCount": 10,
+      "newCount": 10,
+      "duplicateCount": 0,
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
+    },
+    {
+      "sourceId": "mhra-drug-device-alerts",
+      "sourceName": "UK MHRA Drug and Device Alerts",
+      "status": "ok",
+      "startedAt": "2026-09-08T05:05:25.032418284Z",
+      "completedAt": "2026-09-08T05:05:26.283897295Z",
+      "fetchedCount": 20,
+      "newCount": 20,
+      "duplicateCount": 0,
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
+    },
+    {
+      "sourceId": "nature-medicine",
+      "sourceName": "Nature Medicine",
+      "status": "ok",
+      "startedAt": "2026-09-08T05:05:29.012893450Z",
+      "completedAt": "2026-09-08T05:05:30.107713076Z",
+      "fetchedCount": 8,
+      "newCount": 8,
+      "duplicateCount": 0,
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
+    },
+    {
+      "sourceId": "nejm-current-issue",
+      "sourceName": "New England Journal of Medicine",
+      "status": "failed",
+      "startedAt": "2026-09-08T05:05:29.121928504Z",
+      "completedAt": "2026-09-08T05:05:29.188380366Z",
+      "fetchedCount": 0,
+      "newCount": 0,
+      "duplicateCount": 0,
+      "failedCount": 1,
+      "httpStatusClasses": {
+        "4xx": 1
+      },
+      "errorCode": "HTTP_403",
+      "nextRetryAt": "2026-09-08T17:05:29.188455366Z"
+    },
+    {
+      "sourceId": "nhsa-healthcare-security-updates",
+      "sourceName": "National Healthcare Security Administration Policies",
+      "status": "ok",
+      "startedAt": "2026-09-08T05:05:26.284012100Z",
+      "completedAt": "2026-09-08T05:05:27.804919142Z",
       "fetchedCount": 20,
       "newCount": 20,
       "duplicateCount": 0,
@@ -88,10 +360,106 @@
       "sourceId": "nmpa-public-notices",
       "sourceName": "National Medical Products Administration",
       "status": "ok",
-      "startedAt": "2026-09-08T04:33:40.754278373Z",
-      "completedAt": "2026-09-08T04:33:41.398663649Z",
+      "startedAt": "2026-09-08T05:05:25.872479359Z",
+      "completedAt": "2026-09-08T05:05:29.012852664Z",
       "fetchedCount": 6,
       "newCount": 6,
+      "duplicateCount": 0,
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
+    },
+    {
+      "sourceId": "pfizer-press-releases",
+      "sourceName": "Pfizer Press Releases",
+      "status": "ok",
+      "startedAt": "2026-09-08T05:05:30.251494151Z",
+      "completedAt": "2026-09-08T05:05:30.463006927Z",
+      "fetchedCount": 12,
+      "newCount": 12,
+      "duplicateCount": 0,
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
+    },
+    {
+      "sourceId": "pmda-safety-updates",
+      "sourceName": "Japan PMDA Safety Updates",
+      "status": "ok",
+      "startedAt": "2026-09-08T05:05:25.164795777Z",
+      "completedAt": "2026-09-08T05:05:26.171253242Z",
+      "fetchedCount": 20,
+      "newCount": 20,
+      "duplicateCount": 0,
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
+    },
+    {
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "status": "ok",
+      "startedAt": "2026-09-08T05:05:28.742656737Z",
+      "completedAt": "2026-09-08T05:05:29.296620113Z",
+      "fetchedCount": 20,
+      "newCount": 20,
+      "duplicateCount": 0,
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
+    },
+    {
+      "sourceId": "pumch-research",
+      "sourceName": "Peking Union Medical College Hospital Research",
+      "status": "ok",
+      "startedAt": "2026-09-08T05:05:29.256621153Z",
+      "completedAt": "2026-09-08T05:05:33.730856456Z",
+      "fetchedCount": 3,
+      "newCount": 3,
+      "duplicateCount": 0,
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
+    },
+    {
+      "sourceId": "sanofi-press-releases",
+      "sourceName": "Sanofi Press Releases",
+      "status": "ok",
+      "startedAt": "2026-09-08T05:05:33.418670254Z",
+      "completedAt": "2026-09-08T05:05:36.011702573Z",
+      "fetchedCount": 20,
+      "newCount": 20,
+      "duplicateCount": 0,
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
+    },
+    {
+      "sourceId": "who-news",
+      "sourceName": "World Health Organization News",
+      "status": "ok",
+      "startedAt": "2026-09-08T05:05:25.170612514Z",
+      "completedAt": "2026-09-08T05:05:25.549402598Z",
+      "fetchedCount": 20,
+      "newCount": 20,
       "duplicateCount": 0,
       "failedCount": 0,
       "httpStatusClasses": {

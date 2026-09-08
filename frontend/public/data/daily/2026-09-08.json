@@ -1,7 +1,3615 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-08T04:33:41.457981294Z",
+  "generatedAt": "2026-09-08T05:05:38.656887764Z",
   "articles": [
+    {
+      "id": "7d03f692-8263-3f34-bdad-89dd03390205",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706207/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706207",
+      "titleOriginal": "[Efficacy and safety of direct oral anticoagulants for the treatment of non-triple-positive antiphospholipid syndrome-associated pulmonary thromboembolism].",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert",
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.295551415Z",
+      "contentHash": "5468f9423dd7f331407b48452b79068f27a70dfa5d1fba84991b2d5988b6b2a5",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706207/"
+        }
+      ],
+      "importanceScore": 80,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "2eac6a26-0818-3919-a626-9b032fdccd42",
+      "sourceId": "cde-drug-review-updates",
+      "sourceName": "NMPA Center for Drug Evaluation",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.cde.org.cn/main/news/viewInfoCommon/77085aae69c2d59b829839cf7377f107",
+      "canonicalUrl": "https://www.cde.org.cn/main/news/viewInfoCommon/77085aae69c2d59b829839cf7377f107",
+      "titleOriginal": "关于公开征求《药物浓度-QTc临床研究技术指导原则(征求意见稿)》意见的通知",
+      "titleZh": "关于公开征求《药物浓度-QTc临床研究技术指导原则(征求意见稿)》意见的通知",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "policy_release",
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "国家药品监督管理局药品审评中心"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:28.740249686Z",
+      "contentHash": "36bcacc264e527489fc1bf33b5d1e00d01199cc6ed59b21fdae4539306b66d2f",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cde-drug-review-updates",
+          "sourceName": "NMPA Center for Drug Evaluation",
+          "sourceTier": "A",
+          "originalUrl": "https://www.cde.org.cn/main/news/viewInfoCommon/77085aae69c2d59b829839cf7377f107"
+        }
+      ],
+      "importanceScore": 80,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "1cb59bd5-50bc-3fdf-9008-ee8ac441ce65",
+      "sourceId": "cde-drug-review-updates",
+      "sourceName": "NMPA Center for Drug Evaluation",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.cde.org.cn/main/news/viewInfoCommon/e81316f2640e32c5411061ea7ffea639",
+      "canonicalUrl": "https://www.cde.org.cn/main/news/viewInfoCommon/e81316f2640e32c5411061ea7ffea639",
+      "titleOriginal": "关于公开征求《单克隆抗体动物试验减少或替代指导原则(征求意见稿)》意见的通知",
+      "titleZh": "关于公开征求《单克隆抗体动物试验减少或替代指导原则(征求意见稿)》意见的通知",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "policy_release"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "国家药品监督管理局药品审评中心"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:28.740140692Z",
+      "contentHash": "ae844cea4e1c422a3aa222d5aa74ca70e49761f78169c2dfd46c691854c0669c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cde-drug-review-updates",
+          "sourceName": "NMPA Center for Drug Evaluation",
+          "sourceTier": "A",
+          "originalUrl": "https://www.cde.org.cn/main/news/viewInfoCommon/e81316f2640e32c5411061ea7ffea639"
+        }
+      ],
+      "importanceScore": 80,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "e187c633-7a4d-3468-8486-473d1329de12",
+      "sourceId": "cde-drug-review-updates",
+      "sourceName": "NMPA Center for Drug Evaluation",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.cde.org.cn/main/news/viewInfoCommon/c5da4ee5650bdab08619259372885f93",
+      "canonicalUrl": "https://www.cde.org.cn/main/news/viewInfoCommon/c5da4ee5650bdab08619259372885f93",
+      "titleOriginal": "关于公开征求《已上市中药变更规格研究技术指导原则(征求意见稿)》意见的通知",
+      "titleZh": "关于公开征求《已上市中药变更规格研究技术指导原则(征求意见稿)》意见的通知",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "policy_release",
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "国家药品监督管理局药品审评中心"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:28.739977897Z",
+      "contentHash": "773ba777eb22a423c18e01bc7679c621ef8cbb75f9cfa8643670a85b47ff582a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cde-drug-review-updates",
+          "sourceName": "NMPA Center for Drug Evaluation",
+          "sourceTier": "A",
+          "originalUrl": "https://www.cde.org.cn/main/news/viewInfoCommon/c5da4ee5650bdab08619259372885f93"
+        }
+      ],
+      "importanceScore": 80,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "46bfc8a8-9a77-3e1b-afd4-819ede4361d9",
+      "sourceId": "mhra-drug-device-alerts",
+      "sourceName": "UK MHRA Drug and Device Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.gov.uk/drug-device-alerts/class-4-medicines-defect-notification-neuraxpharm-uk-ltd-tuzulby-prolonged-release-chewable-tablets-el-26-a-slash-36",
+      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/class-4-medicines-defect-notification-neuraxpharm-uk-ltd-tuzulby-prolonged-release-chewable-tablets-el-26-a-slash-36",
+      "titleOriginal": "Class 4 Medicines Defect Notification: Neuraxpharm UK Ltd, Tuzulby prolonged-release chewable tablets, EL(26)A/36",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Medicines and Healthcare products Regulatory Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:26.282395544Z",
+      "contentHash": "0e67cefd36c3ebe1745370422b5702f5676b1fb8b6ee99792545d5b147e2cac6",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "mhra-drug-device-alerts",
+          "sourceName": "UK MHRA Drug and Device Alerts",
+          "sourceTier": "A",
+          "originalUrl": "https://www.gov.uk/drug-device-alerts/class-4-medicines-defect-notification-neuraxpharm-uk-ltd-tuzulby-prolonged-release-chewable-tablets-el-26-a-slash-36"
+        }
+      ],
+      "importanceScore": 80,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "6ca2cb0a-66f0-3ed6-a411-1d090a5881d4",
+      "sourceId": "mhra-drug-device-alerts",
+      "sourceName": "UK MHRA Drug and Device Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-20-to-24-july-2026",
+      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-20-to-24-july-2026",
+      "titleOriginal": "Field Safety Notices: 20 to 24 July 2026",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Medicines and Healthcare products Regulatory Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:26.282293262Z",
+      "contentHash": "c114b8c4c59e0e26f7b56f5b942b5193e1bc5737f2c1e5bd56dab3935cd7ede9",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "mhra-drug-device-alerts",
+          "sourceName": "UK MHRA Drug and Device Alerts",
+          "sourceTier": "A",
+          "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-20-to-24-july-2026"
+        }
+      ],
+      "importanceScore": 80,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "174249d1-26ae-3a98-a6eb-f98081d88b20",
+      "sourceId": "mhra-drug-device-alerts",
+      "sourceName": "UK MHRA Drug and Device Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-29-june-to-03-july-2026",
+      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-29-june-to-03-july-2026",
+      "titleOriginal": "Field Safety Notices: 29 June to 03 July 2026",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Medicines and Healthcare products Regulatory Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:26.282183497Z",
+      "contentHash": "487b4d0e64d6bae5fffb2df53e7e3af961a9efe6582c26373b0738a4bf05f0bf",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "mhra-drug-device-alerts",
+          "sourceName": "UK MHRA Drug and Device Alerts",
+          "sourceTier": "A",
+          "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-29-june-to-03-july-2026"
+        }
+      ],
+      "importanceScore": 80,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "4b0f5819-8031-35cd-ae67-4814f4fff67a",
+      "sourceId": "mhra-drug-device-alerts",
+      "sourceName": "UK MHRA Drug and Device Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-july-2026",
+      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-july-2026",
+      "titleOriginal": "MHRA Safety Roundup: July 2026",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Medicines and Healthcare products Regulatory Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:26.282067119Z",
+      "contentHash": "6e5aa845b28a0396feaa5d60e6ccaecf2d506a23d25c4ee7ddae327c15fd1179",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "mhra-drug-device-alerts",
+          "sourceName": "UK MHRA Drug and Device Alerts",
+          "sourceTier": "A",
+          "originalUrl": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-july-2026"
+        }
+      ],
+      "importanceScore": 80,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "f9d90672-9fab-32ef-b983-e5d1bb9d3d21",
+      "sourceId": "mhra-drug-device-alerts",
+      "sourceName": "UK MHRA Drug and Device Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.gov.uk/drug-device-alerts/drager-atlan-anaesthesia-workstations-risk-of-ventilator-failure-dsi-slash-2026-slash-005",
+      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/drager-atlan-anaesthesia-workstations-risk-of-ventilator-failure-dsi-slash-2026-slash-005",
+      "titleOriginal": "Dräger Atlan Anaesthesia workstations: risk of ventilator failure (DSI/2026/005)",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Medicines and Healthcare products Regulatory Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:26.281903753Z",
+      "contentHash": "64669bff5675e15826b2f038ce405d2be48d34409e4650e7056f39f0dcc19355",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "mhra-drug-device-alerts",
+          "sourceName": "UK MHRA Drug and Device Alerts",
+          "sourceTier": "A",
+          "originalUrl": "https://www.gov.uk/drug-device-alerts/drager-atlan-anaesthesia-workstations-risk-of-ventilator-failure-dsi-slash-2026-slash-005"
+        }
+      ],
+      "importanceScore": 80,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "6c7fb265-13d7-3e86-8d0c-139aa2d68e32",
+      "sourceId": "mhra-drug-device-alerts",
+      "sourceName": "UK MHRA Drug and Device Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-27-to-31-july-2026",
+      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-27-to-31-july-2026",
+      "titleOriginal": "Field Safety Notices: 27 to 31 July 2026",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Medicines and Healthcare products Regulatory Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:26.281795951Z",
+      "contentHash": "b752a51c123f207179b102482d1b7ab0c1d54225e83db6dafa590e8b44532674",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "mhra-drug-device-alerts",
+          "sourceName": "UK MHRA Drug and Device Alerts",
+          "sourceTier": "A",
+          "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-27-to-31-july-2026"
+        }
+      ],
+      "importanceScore": 80,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "7e675870-3793-398a-b768-1362dadff4ec",
+      "sourceId": "mhra-drug-device-alerts",
+      "sourceName": "UK MHRA Drug and Device Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-3-to-7-august-2026",
+      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-3-to-7-august-2026",
+      "titleOriginal": "Field Safety Notices: 3 to 7 August 2026",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Medicines and Healthcare products Regulatory Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:26.280930451Z",
+      "contentHash": "782ad8c059e526ba4a8b2d0f4d17a6f7f2e6f4726abf5c075d754765873d9b10",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "mhra-drug-device-alerts",
+          "sourceName": "UK MHRA Drug and Device Alerts",
+          "sourceTier": "A",
+          "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-3-to-7-august-2026"
+        }
+      ],
+      "importanceScore": 80,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "52377702-3710-38b0-9f6b-90eb44b4942a",
+      "sourceId": "mhra-drug-device-alerts",
+      "sourceName": "UK MHRA Drug and Device Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.gov.uk/drug-device-alerts/national-patient-safety-alert-resmed-astral-100-and-150-ventilators-potential-for-patient-harm-due-to-unexpected-interruption-of-ventilation-therapy-natpsa-slash-2026-slash-004-slash-mhra",
+      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/national-patient-safety-alert-resmed-astral-100-and-150-ventilators-potential-for-patient-harm-due-to-unexpected-interruption-of-ventilation-therapy-natpsa-slash-2026-slash-004-slash-mhra",
+      "titleOriginal": "National Patient Safety Alert: ResMed Astral 100 and 150 Ventilators: Potential for Patient Harm due to Unexpected Interruption of Ventilation Therapy (NatPSA/2026/004/MHRA)",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Medicines and Healthcare products Regulatory Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:26.280363359Z",
+      "contentHash": "dd38c8952d52b1f0863016eac76938bc96b5d58b5ea127964d5388fb98991447",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "mhra-drug-device-alerts",
+          "sourceName": "UK MHRA Drug and Device Alerts",
+          "sourceTier": "A",
+          "originalUrl": "https://www.gov.uk/drug-device-alerts/national-patient-safety-alert-resmed-astral-100-and-150-ventilators-potential-for-patient-harm-due-to-unexpected-interruption-of-ventilation-therapy-natpsa-slash-2026-slash-004-slash-mhra"
+        }
+      ],
+      "importanceScore": 80,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "9e3ab50c-9908-3699-b9c5-292939ed6eb4",
+      "sourceId": "mhra-drug-device-alerts",
+      "sourceName": "UK MHRA Drug and Device Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-13-to-17-july-2026",
+      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-13-to-17-july-2026",
+      "titleOriginal": "Field Safety Notices: 13 to 17 July 2026",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Medicines and Healthcare products Regulatory Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:26.280224339Z",
+      "contentHash": "44cde8767fe4d8c3383abd914e49ce8542553cea4e276f3ae6b87a209c580f0d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "mhra-drug-device-alerts",
+          "sourceName": "UK MHRA Drug and Device Alerts",
+          "sourceTier": "A",
+          "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-13-to-17-july-2026"
+        }
+      ],
+      "importanceScore": 80,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "4a3049a4-17bd-31a0-97d9-65aa0d4dce84",
+      "sourceId": "mhra-drug-device-alerts",
+      "sourceName": "UK MHRA Drug and Device Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-10-to-14-august-2026",
+      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-10-to-14-august-2026",
+      "titleOriginal": "Field Safety Notices: 10 to 14 August 2026",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Medicines and Healthcare products Regulatory Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:26.280092773Z",
+      "contentHash": "d57e28d7c9cde46808adb159ad6f439eb598cd8a11402d5e304ad16884adea52",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "mhra-drug-device-alerts",
+          "sourceName": "UK MHRA Drug and Device Alerts",
+          "sourceTier": "A",
+          "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-10-to-14-august-2026"
+        }
+      ],
+      "importanceScore": 80,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "f944fda0-a7f5-3b9f-a4ab-84853d637d5f",
+      "sourceId": "mhra-drug-device-alerts",
+      "sourceName": "UK MHRA Drug and Device Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.gov.uk/drug-device-alerts/class-2-medicines-recall-zentiva-pharma-uk-limited-fingolimod-zentiva-0-dot-5-mg-capsules-el-26-a-slash-37",
+      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/class-2-medicines-recall-zentiva-pharma-uk-limited-fingolimod-zentiva-0-dot-5-mg-capsules-el-26-a-slash-37",
+      "titleOriginal": "Class 2 Medicines Recall: Zentiva Pharma UK Limited, Fingolimod Zentiva 0.5 mg Capsules, EL(26)A/37",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Medicines and Healthcare products Regulatory Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:26.279922073Z",
+      "contentHash": "d59605e033cc38357f61361b2b9cc2d074d5d8726aa8f0911dd581463fecbc4c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "mhra-drug-device-alerts",
+          "sourceName": "UK MHRA Drug and Device Alerts",
+          "sourceTier": "A",
+          "originalUrl": "https://www.gov.uk/drug-device-alerts/class-2-medicines-recall-zentiva-pharma-uk-limited-fingolimod-zentiva-0-dot-5-mg-capsules-el-26-a-slash-37"
+        }
+      ],
+      "importanceScore": 80,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "52ec7a76-f741-3fc1-8c68-e1a99b78d525",
+      "sourceId": "mhra-drug-device-alerts",
+      "sourceName": "UK MHRA Drug and Device Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-17-to-21-august-2026",
+      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-17-to-21-august-2026",
+      "titleOriginal": "Field Safety Notices: 17 to 21 August 2026",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Medicines and Healthcare products Regulatory Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:26.279625638Z",
+      "contentHash": "057030281e292ede3194d5665711b0856e86fbdfb9954637984aeb55d882e643",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "mhra-drug-device-alerts",
+          "sourceName": "UK MHRA Drug and Device Alerts",
+          "sourceTier": "A",
+          "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-17-to-21-august-2026"
+        }
+      ],
+      "importanceScore": 80,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "eef429f4-94d9-36b6-b941-c139b4d86cc7",
+      "sourceId": "mhra-drug-device-alerts",
+      "sourceName": "UK MHRA Drug and Device Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-august-2026",
+      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-august-2026",
+      "titleOriginal": "MHRA Safety Roundup: August 2026",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Medicines and Healthcare products Regulatory Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:26.278967185Z",
+      "contentHash": "22eaba65cdab98ad2dbb956c87ab19321f7816761813fafa7160792a82477196",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "mhra-drug-device-alerts",
+          "sourceName": "UK MHRA Drug and Device Alerts",
+          "sourceTier": "A",
+          "originalUrl": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-august-2026"
+        }
+      ],
+      "importanceScore": 80,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "fb009654-397c-32dc-83bc-b37c7d32a5f3",
+      "sourceId": "mhra-drug-device-alerts",
+      "sourceName": "UK MHRA Drug and Device Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-24-to-28-august-2026",
+      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-24-to-28-august-2026",
+      "titleOriginal": "Field Safety Notices: 24 to 28 August 2026",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Medicines and Healthcare products Regulatory Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:26.278275310Z",
+      "contentHash": "70268ede8c8133ea1d255bdc06c3e55c6168c254812ef0b56900678c4cf34deb",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "mhra-drug-device-alerts",
+          "sourceName": "UK MHRA Drug and Device Alerts",
+          "sourceTier": "A",
+          "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-24-to-28-august-2026"
+        }
+      ],
+      "importanceScore": 80,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "367bf7b3-100b-330f-978c-cfd4b1cad5b7",
+      "sourceId": "beijing-health-policy",
+      "sourceName": "Beijing Municipal Health Commission",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/zfxxgk2020/gknr/qtfdxx/202003/P020200304421878974847.pdf",
+      "canonicalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/zfxxgk2020/gknr/qtfdxx/202003/P020200304421878974847.pdf",
+      "titleOriginal": "主动公开全清单",
+      "titleZh": "主动公开全清单",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "北京市卫生健康委员会"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.254960618Z",
+      "contentHash": "1c7cb1251dc02be414a07ca17e995a8e90c5fcbed1b59cdc06fbd4dd6f90ab42",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "beijing-health-policy",
+          "sourceName": "Beijing Municipal Health Commission",
+          "sourceTier": "A",
+          "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/zfxxgk2020/gknr/qtfdxx/202003/P020200304421878974847.pdf"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "0186ad67-68f9-3a79-8ace-ce7d4e739140",
+      "sourceId": "beijing-health-policy",
+      "sourceName": "Beijing Municipal Health Commission",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/zfxxgk2020/gknb/",
+      "canonicalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/zfxxgk2020/gknb",
+      "titleOriginal": "信息公开年报",
+      "titleZh": "信息公开年报",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "北京市卫生健康委员会"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.254860220Z",
+      "contentHash": "674dd873f0e1c5fc537b550b2de80c4ca6b10b7eebcb42251a1bc3d96804ba79",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "beijing-health-policy",
+          "sourceName": "Beijing Municipal Health Commission",
+          "sourceTier": "A",
+          "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/zfxxgk2020/gknb/"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "495f473e-6053-3c51-b95e-88957a25310e",
+      "sourceId": "beijing-health-policy",
+      "sourceName": "Beijing Municipal Health Commission",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/zxgk/",
+      "canonicalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/zxgk",
+      "titleOriginal": "信息公开目录",
+      "titleZh": "信息公开目录",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "北京市卫生健康委员会"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.254744003Z",
+      "contentHash": "3cc23250ca61c6059da560c6ff3c56b5570a3cbdecf6a83d1f473cf8e9b5daad",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "beijing-health-policy",
+          "sourceName": "Beijing Municipal Health Commission",
+          "sourceTier": "A",
+          "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/zxgk/"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "8710f59e-bb36-3449-8672-297fcafb8ed1",
+      "sourceId": "beijing-health-policy",
+      "sourceName": "Beijing Municipal Health Commission",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/zfxxgk2020/gkzn/",
+      "canonicalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/zfxxgk2020/gkzn",
+      "titleOriginal": "信息公开指南",
+      "titleZh": "信息公开指南",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "北京市卫生健康委员会"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.254627254Z",
+      "contentHash": "e863fdff50cfa89f39429bc0db2b7ebc553e8a27f4585f12526a0cb7bb1a5a7f",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "beijing-health-policy",
+          "sourceName": "Beijing Municipal Health Commission",
+          "sourceTier": "A",
+          "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/zfxxgk2020/gkzn/"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "130696f3-4356-35ca-830a-fc72703961a6",
+      "sourceId": "cde-drug-review-updates",
+      "sourceName": "NMPA Center for Drug Evaluation",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.cde.org.cn/main/news/viewInfoCommon/9db59907d5642cd30f14dbf535e1c1a8",
+      "canonicalUrl": "https://www.cde.org.cn/main/news/viewInfoCommon/9db59907d5642cd30f14dbf535e1c1a8",
+      "titleOriginal": "国家药品监督管理局药品审评中心2026年度聘用制人员公开招聘(第一批)拟聘人员公示(第二批次)",
+      "titleZh": "国家药品监督管理局药品审评中心2026年度聘用制人员公开招聘(第一批)拟聘人员公示(第二批次)",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "国家药品监督管理局药品审评中心"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:28.742014676Z",
+      "contentHash": "98c1c8af03da58a4017494cd24f97b10099f8a83495b2bf54c005664c8f1776b",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cde-drug-review-updates",
+          "sourceName": "NMPA Center for Drug Evaluation",
+          "sourceTier": "A",
+          "originalUrl": "https://www.cde.org.cn/main/news/viewInfoCommon/9db59907d5642cd30f14dbf535e1c1a8"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "db32ac80-66a7-3f9d-a149-fd9ade8e8440",
+      "sourceId": "cde-drug-review-updates",
+      "sourceName": "NMPA Center for Drug Evaluation",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.cde.org.cn/main/news/viewInfoCommon/82d6f108d97a991a8e6399977e1d3ff9",
+      "canonicalUrl": "https://www.cde.org.cn/main/news/viewInfoCommon/82d6f108d97a991a8e6399977e1d3ff9",
+      "titleOriginal": "国家药品监督管理局药品审评中心2026年度聘用制人员公开招聘公告(第二批)",
+      "titleZh": "国家药品监督管理局药品审评中心2026年度聘用制人员公开招聘公告(第二批)",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "filing"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "国家药品监督管理局药品审评中心"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:28.741886627Z",
+      "contentHash": "060a4fc22b2eb45c7e41d5eb19ceb8f5371a633575ab4447d0023e5f91830f59",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cde-drug-review-updates",
+          "sourceName": "NMPA Center for Drug Evaluation",
+          "sourceTier": "A",
+          "originalUrl": "https://www.cde.org.cn/main/news/viewInfoCommon/82d6f108d97a991a8e6399977e1d3ff9"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "4f16c2cf-55f8-3423-a52a-78cc15733bd0",
+      "sourceId": "cde-drug-review-updates",
+      "sourceName": "NMPA Center for Drug Evaluation",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.cde.org.cn/main/news/viewInfoCommon/55ca1e7014023c8306d5e701d18bdd27",
+      "canonicalUrl": "https://www.cde.org.cn/main/news/viewInfoCommon/55ca1e7014023c8306d5e701d18bdd27",
+      "titleOriginal": "2026年第五期“药审云课堂”培训报名通知",
+      "titleZh": "2026年第五期“药审云课堂”培训报名通知",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "国家药品监督管理局药品审评中心"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:28.741728281Z",
+      "contentHash": "0604207b1e31fe911baa673dbf94768fb104037e8bb8f8c0c61bbef399231ad7",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cde-drug-review-updates",
+          "sourceName": "NMPA Center for Drug Evaluation",
+          "sourceTier": "A",
+          "originalUrl": "https://www.cde.org.cn/main/news/viewInfoCommon/55ca1e7014023c8306d5e701d18bdd27"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "2175382e-bfc7-318e-ba0a-398c2ae806db",
+      "sourceId": "cde-drug-review-updates",
+      "sourceName": "NMPA Center for Drug Evaluation",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.cde.org.cn/main/news/viewInfoCommon/4a8ef5a0f7ae2e6dfca8cf3851841b1a",
+      "canonicalUrl": "https://www.cde.org.cn/main/news/viewInfoCommon/4a8ef5a0f7ae2e6dfca8cf3851841b1a",
+      "titleOriginal": "关于公开征求细胞与基因治疗药品“先锐计划”相关工作文件意见的通知",
+      "titleZh": "关于公开征求细胞与基因治疗药品“先锐计划”相关工作文件意见的通知",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "国家药品监督管理局药品审评中心"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:28.741646127Z",
+      "contentHash": "27d987ea84d6fdcf45a99ff91b5fd66a087f2e45423b62942b93f669e604b2a2",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cde-drug-review-updates",
+          "sourceName": "NMPA Center for Drug Evaluation",
+          "sourceTier": "A",
+          "originalUrl": "https://www.cde.org.cn/main/news/viewInfoCommon/4a8ef5a0f7ae2e6dfca8cf3851841b1a"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "e1d14247-fa56-3891-881d-641deebe0e63",
+      "sourceId": "cde-drug-review-updates",
+      "sourceName": "NMPA Center for Drug Evaluation",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.cde.org.cn/main/newspic/view/038b678711b356280af0befc6ef9abdd",
+      "canonicalUrl": "https://www.cde.org.cn/main/newspic/view/038b678711b356280af0befc6ef9abdd",
+      "titleOriginal": "药审中心举办2026年第五期“药审云课堂”",
+      "titleZh": "药审中心举办2026年第五期“药审云课堂”",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "国家药品监督管理局药品审评中心"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:28.741514341Z",
+      "contentHash": "dccbaecb86f4e3cbcbc1599e89eadfe01441f90a36bf9dbbe83e8796d042a90d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cde-drug-review-updates",
+          "sourceName": "NMPA Center for Drug Evaluation",
+          "sourceTier": "A",
+          "originalUrl": "https://www.cde.org.cn/main/newspic/view/038b678711b356280af0befc6ef9abdd"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "dbefe73d-ae71-3865-82b0-d178c8304b50",
+      "sourceId": "cde-drug-review-updates",
+      "sourceName": "NMPA Center for Drug Evaluation",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.cde.org.cn/main/news/viewInfoCommon/045b8fdaa9873b791e98902b060724dc",
+      "canonicalUrl": "https://www.cde.org.cn/main/news/viewInfoCommon/045b8fdaa9873b791e98902b060724dc",
+      "titleOriginal": "2026年第六期“药审云课堂”培训报名通知",
+      "titleZh": "2026年第六期“药审云课堂”培训报名通知",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "国家药品监督管理局药品审评中心"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:28.740370422Z",
+      "contentHash": "4b021fa1f3e74be50b525579902024042f622a637eabd77d38717ec266cc752b",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cde-drug-review-updates",
+          "sourceName": "NMPA Center for Drug Evaluation",
+          "sourceTier": "A",
+          "originalUrl": "https://www.cde.org.cn/main/news/viewInfoCommon/045b8fdaa9873b791e98902b060724dc"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "afc9de2f-09ce-3fe8-bc15-519dd8ef061e",
+      "sourceId": "cde-drug-review-updates",
+      "sourceName": "NMPA Center for Drug Evaluation",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.cde.org.cn/main/newspic/view/a6f16eb0e64f2645a6968b55eb30214c",
+      "canonicalUrl": "https://www.cde.org.cn/main/newspic/view/a6f16eb0e64f2645a6968b55eb30214c",
+      "titleOriginal": "药审中心举办2026年第六期“药审云课堂”",
+      "titleZh": "药审中心举办2026年第六期“药审云课堂”",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "国家药品监督管理局药品审评中心"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:28.739744551Z",
+      "contentHash": "0af228a30c648f56a0be1baaf82de8e8ffcfe53aa38a4434d2a252253d226589",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cde-drug-review-updates",
+          "sourceName": "NMPA Center for Drug Evaluation",
+          "sourceTier": "A",
+          "originalUrl": "https://www.cde.org.cn/main/newspic/view/a6f16eb0e64f2645a6968b55eb30214c"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "db49fa86-4d4e-3c1b-93b2-545f4efcf1e5",
+      "sourceId": "china-cdc-news",
+      "sourceName": "Chinese Center for Disease Control and Prevention",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.chinacdc.cn/zxyw/202609/t20260906_1839852.html",
+      "canonicalUrl": "https://www.chinacdc.cn/zxyw/202609/t20260906_1839852.html",
+      "titleOriginal": "中国疾控中心(中国预科院)青年科学家联盟举办第三期团山科研沙龙",
+      "titleZh": "中国疾控中心(中国预科院)青年科学家联盟举办第三期团山科研沙龙",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "public_health",
+      "eventTypes": [
+        "phase_3_result"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "中国疾病预防控制中心"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:27.510679106Z",
+      "contentHash": "b1fe4047453a978dadf08aabeefff3c922ef63581c8f26b974b75e359ea78790",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "china-cdc-news",
+          "sourceName": "Chinese Center for Disease Control and Prevention",
+          "sourceTier": "A",
+          "originalUrl": "https://www.chinacdc.cn/zxyw/202609/t20260906_1839852.html"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "8874e54e-69e5-3404-8569-2b1a1700b28c",
+      "sourceId": "mhra-drug-device-alerts",
+      "sourceName": "UK MHRA Drug and Device Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.gov.uk/drug-device-alerts/belzer-uw-r-cold-storage-solution-and-belzer-mps-r-uw-machine-perfusion-solution-manufactured-by-carnamedica-ukrp-bridge-to-life-updated-advice-on-the-contamination-of-fluid-dsi-slash-2026-slash-006-update-to-dsi-slash-2023-slash-",
+      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/belzer-uw-r-cold-storage-solution-and-belzer-mps-r-uw-machine-perfusion-solution-manufactured-by-carnamedica-ukrp-bridge-to-life-updated-advice-on-the-contamination-of-fluid-dsi-slash-2026-slash-006-update-to-dsi-slash-2023-slash-",
+      "titleOriginal": "Belzer UW® Cold Storage Solution and Belzer MPS® (UW Machine Perfusion Solution): manufactured by Carnamedica (UKRP: Bridge to Life): Updated advice on the contamination of fluid DSI/2026/006 (update to DSI/2023/005)",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Medicines and Healthcare products Regulatory Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:26.281614862Z",
+      "contentHash": "0efb4b556a10d9e093a6dd71ceb25dc462db33de543eb6f3cc8b0e6286114643",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "mhra-drug-device-alerts",
+          "sourceName": "UK MHRA Drug and Device Alerts",
+          "sourceTier": "A",
+          "originalUrl": "https://www.gov.uk/drug-device-alerts/belzer-uw-r-cold-storage-solution-and-belzer-mps-r-uw-machine-perfusion-solution-manufactured-by-carnamedica-ukrp-bridge-to-life-updated-advice-on-the-contamination-of-fluid-dsi-slash-2026-slash-006-update-to-dsi-slash-2023-slash-"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "00a764c1-ef18-3dac-9fc0-e860588ca378",
+      "sourceId": "mhra-drug-device-alerts",
+      "sourceName": "UK MHRA Drug and Device Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.gov.uk/drug-device-alerts/devices-supplied-without-valid-ukca-slash-ce-conformity-markings-or-certification-remove-from-use-and-place-in-quarantine-dsi-slash-2026-slash-007",
+      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/devices-supplied-without-valid-ukca-slash-ce-conformity-markings-or-certification-remove-from-use-and-place-in-quarantine-dsi-slash-2026-slash-007",
+      "titleOriginal": "Devices supplied without valid UKCA/CE conformity markings or certification: remove from use and place in quarantine (DSI/2026/007)",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Medicines and Healthcare products Regulatory Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:26.281082075Z",
+      "contentHash": "16d66f0745ed1a7180e8a5a909ade38af0746e86d7f31963fcfb119ce71687c3",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "mhra-drug-device-alerts",
+          "sourceName": "UK MHRA Drug and Device Alerts",
+          "sourceTier": "A",
+          "originalUrl": "https://www.gov.uk/drug-device-alerts/devices-supplied-without-valid-ukca-slash-ce-conformity-markings-or-certification-remove-from-use-and-place-in-quarantine-dsi-slash-2026-slash-007"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "f30e0f80-504b-3081-a70a-78238552ac71",
+      "sourceId": "mhra-drug-device-alerts",
+      "sourceName": "UK MHRA Drug and Device Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.gov.uk/drug-device-alerts/all-rectal-catheters-gas-and-colic-relievers-do-not-use-in-infants-including-for-the-treatment-of-colic-gas-related-discomfort-or-constipation-dsi-slash-2026-slash-008",
+      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/all-rectal-catheters-gas-and-colic-relievers-do-not-use-in-infants-including-for-the-treatment-of-colic-gas-related-discomfort-or-constipation-dsi-slash-2026-slash-008",
+      "titleOriginal": "Rectal catheters sold for personal use (gas and colic relievers): Do not use in infants, including for the treatment of colic, gas-related discomfort or constipation (DSI/2026/008)",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Medicines and Healthcare products Regulatory Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:26.279755892Z",
+      "contentHash": "4c20ac2da734293558a3dffcfc197d1f1cbff37e571e55d6c1a45c3f4cdc0860",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "mhra-drug-device-alerts",
+          "sourceName": "UK MHRA Drug and Device Alerts",
+          "sourceTier": "A",
+          "originalUrl": "https://www.gov.uk/drug-device-alerts/all-rectal-catheters-gas-and-colic-relievers-do-not-use-in-infants-including-for-the-treatment-of-colic-gas-related-discomfort-or-constipation-dsi-slash-2026-slash-008"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "c7e79492-b720-3b20-9629-d730b6361f91",
+      "sourceId": "mhra-drug-device-alerts",
+      "sourceName": "UK MHRA Drug and Device Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.gov.uk/drug-device-alerts/ngpod-ph-testing-device-quarantine-and-dispose-of-all-devices-dsi-slash-2026-slash-009",
+      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/ngpod-ph-testing-device-quarantine-and-dispose-of-all-devices-dsi-slash-2026-slash-009",
+      "titleOriginal": "NGPod pH testing device: quarantine and dispose of all devices (DSI/2026/009)",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Medicines and Healthcare products Regulatory Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:26.279142884Z",
+      "contentHash": "1d4fc9e231e4a4c32791f1e7cb840a618c3100093426c8fb479a5aabcaa49afc",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "mhra-drug-device-alerts",
+          "sourceName": "UK MHRA Drug and Device Alerts",
+          "sourceTier": "A",
+          "originalUrl": "https://www.gov.uk/drug-device-alerts/ngpod-ph-testing-device-quarantine-and-dispose-of-all-devices-dsi-slash-2026-slash-009"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "f827e2cd-a967-3c55-be38-b2512cb4d0da",
+      "sourceId": "mhra-drug-device-alerts",
+      "sourceName": "UK MHRA Drug and Device Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.gov.uk/drug-device-alerts/cobalt-chrome-modular-neck-hip-replacements-risk-of-metal-wear-effects-and-revision-surgery-dsi-slash-2026-slash-010",
+      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/cobalt-chrome-modular-neck-hip-replacements-risk-of-metal-wear-effects-and-revision-surgery-dsi-slash-2026-slash-010",
+      "titleOriginal": "Cobalt-chrome modular neck hip replacements: risk of metal-wear effects and revision surgery (DSI/2026/010)",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Medicines and Healthcare products Regulatory Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:26.278724441Z",
+      "contentHash": "5cb422cbc0f87dc609a14aead3ff6787f677bbd50daa6d7b7e4350f6ab2f132a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "mhra-drug-device-alerts",
+          "sourceName": "UK MHRA Drug and Device Alerts",
+          "sourceTier": "A",
+          "originalUrl": "https://www.gov.uk/drug-device-alerts/cobalt-chrome-modular-neck-hip-replacements-risk-of-metal-wear-effects-and-revision-surgery-dsi-slash-2026-slash-010"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "c7ca4dd5-c7fc-37ac-aeaf-93e50417dead",
+      "sourceId": "mhra-drug-device-alerts",
+      "sourceName": "UK MHRA Drug and Device Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.gov.uk/drug-device-alerts/filters-should-be-used-during-the-administration-of-parenteral-nutrition-for-patients-in-all-care-settings-dsi-slash-2026-slash-011",
+      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/filters-should-be-used-during-the-administration-of-parenteral-nutrition-for-patients-in-all-care-settings-dsi-slash-2026-slash-011",
+      "titleOriginal": "Filters should be used during the administration of Parenteral Nutrition for patients in all care settings DSI/2026/011",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Medicines and Healthcare products Regulatory Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:26.278549774Z",
+      "contentHash": "3001d70e852b1df66509d466eda79ab67fcebd07e11e56f6fc24372f3e0c2bdb",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "mhra-drug-device-alerts",
+          "sourceName": "UK MHRA Drug and Device Alerts",
+          "sourceTier": "A",
+          "originalUrl": "https://www.gov.uk/drug-device-alerts/filters-should-be-used-during-the-administration-of-parenteral-nutrition-for-patients-in-all-care-settings-dsi-slash-2026-slash-011"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "c251bfa1-8670-3a44-b6c5-b06228f77e53",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706202/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706202",
+      "titleOriginal": "[Clinical practice guideline for digital smoking cessation technologies (2026 edition)].",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.296021063Z",
+      "contentHash": "32b5bf589fdd56d758c200708e1d13a16d6bf8cb457e8ab494c74860ddc82c97",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706202/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "838d91a1-2b88-381c-b03b-37f2c6759c9f",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706203/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706203",
+      "titleOriginal": "[Chinese expert consensus on a standardized echocardiography procedure and right heart evaluation for pulmonary thromboembolism (2026 edition)].",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.295907060Z",
+      "contentHash": "a864477c7dc18f988d33797f1eb171496025c7ee1e89ed62377a1533a1c81ab3",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706203/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "5bbf2c3e-d034-381c-9552-58aacbbc17d4",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706204/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706204",
+      "titleOriginal": "[Expert consensus on standardized ultrasound screening for lower extremity deep vein thrombosis in prevention and management of venous thromboembolism].",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.295800791Z",
+      "contentHash": "a11126d52d9b965b821f97023e62eedd272917a857b362f671b63a8c464ea4a6",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706204/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "b21a94c3-1eac-34b2-934c-2527715dd4b2",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706205/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706205",
+      "titleOriginal": "[Chinese expert recommendations on the standardized establishment of hemoptysis centers].",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.295718187Z",
+      "contentHash": "efc8f8782677e0f3a13ade9d9abecea4e4fd9019969fca316497c15a1df91f5d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706205/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "b44f6406-bb75-3355-aa26-4653e841d687",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706206/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706206",
+      "titleOriginal": "[Interpretation of joint statement from GOLD/GLI regarding the use of spirometry to define airflow obstruction and diagnose COPD].",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.295632847Z",
+      "contentHash": "cb410dc417d42b84a3b36d30b36ef4fcfe4c1927afd40cd78556eaf9876b84b9",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706206/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "02fc9636-f1fe-3118-b098-f51b997a4b1d",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706208/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706208",
+      "titleOriginal": "[Extracorporeal catheter fenestration assisted bronchial artery embolization for hemoptysis].",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.295469562Z",
+      "contentHash": "500ac09fd1938f5ac96ef4f66b39c98921d7878463f885f1b9f5c521c8f940c9",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706208/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "387b4172-8e52-3ee0-8dc8-80ac24de5055",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706209/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706209",
+      "titleOriginal": "[Congenital unilateral absence of pulmonary artery: a case report].",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.295379763Z",
+      "contentHash": "7fcb85caefe15c9efb133aa954c3fd55bda09ad6652d63a544c591f21e8711ec",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706209/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "108b4929-d934-345a-8ef8-8caaa57e1f50",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706210/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706210",
+      "titleOriginal": "[Right-sided delayed traumatic diaphragmatic hernia misdiagnosed as a thoracic mass: a case report].",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.295297660Z",
+      "contentHash": "645ed39f7eee080ea73991734d96a79b9a177c6b5894495d1368c5fe9b3c441d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706210/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "97ca3473-a6b6-3c9d-8584-3294975629bb",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706211/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706211",
+      "titleOriginal": "[Systemic air embolism caused by CT-guided percutaneous lung puncture localization: a case report].",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.295213803Z",
+      "contentHash": "50945acb1e0967952b710e6d5f0b5876b9d944cf9b47368ceb8f6fa78c08d617",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706211/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "9473265f-a259-3572-a925-59a906563ae5",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706212/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706212",
+      "titleOriginal": "[Research progress on polysomnographic characteristics and cognitive function in perimenopausal obstructive sleep apnea].",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.295122102Z",
+      "contentHash": "d070776ef0eda1a512152a58a702b74d24fdff1837513cd0aadeb24b897a268f",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706212/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "8e14be66-41c3-353e-8c3a-f0385db34b72",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13429044",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13429044",
+      "titleOriginal": "Efficacy, Effectiveness, and Efficiency of Nurse-Led Interventions: Insights From a Critical Systematic Review.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.121287626Z",
+      "contentHash": "1f276bd43e76dd1a022958121549d6d8aa47d6419d77389486578f4633867c7e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13429044"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "134a91d7-eb8c-35c2-a599-a8fbd802a28f",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13429045",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13429045",
+      "titleOriginal": "Past, Present and Future: A Historical Analysis and Reflection of 100 Years of Nursing Leadership.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.121175256Z",
+      "contentHash": "8d9b2f8f145f82b62ab8634edfb515917ac08d0e5360c994dce22a170eac83e7",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13429045"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "4bac18d7-524f-39bd-91a1-1c6be516e86a",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13429058",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13429058",
+      "titleOriginal": "Authentic Allyship for Trans and Gender Diverse People: A Patterns of Knowing Perspective in Nursing.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.121090988Z",
+      "contentHash": "a70db2607d9c3c11fc8b6745712feb7b880bb7a7c233bc2f8721ef569a7cf184",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13429058"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "f9bb5496-c2f6-3845-b897-10caa6614df8",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13429040",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13429040",
+      "titleOriginal": "Constructing the Impostor and Navigating Identity: A Critical Discursive Exploration of the Impostor Phenomenon and Nursing Doctoral Candidates.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.120969821Z",
+      "contentHash": "1582b49500d9d0279e3de6c84a1bfe841f83d00aa3aac4339f8e77ca22c17dde",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13429040"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "3df6798b-d7ff-3695-8ffe-ff349055543a",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13429896",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13429896",
+      "titleOriginal": "Acute Effects of Varying Neuromuscular Electrical Stimulation Amplitude on Quadriceps Isometric Torque and Muscle Thickness in Healthy Young Adults: A Randomized Split-Limb Trial.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.120878290Z",
+      "contentHash": "86ec339dd8dcdfaff3b22c1a12beeb969ab5b7e68e1f125553ca5c8c19d07af2",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13429896"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "7444c7fc-be25-3ee9-b02b-81ef9a8fd267",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13430099",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13430099",
+      "titleOriginal": "Polarizing trajectories of colonial ideologies: A latent class growth analysis of historical negation and symbolic exclusion.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.120790396Z",
+      "contentHash": "f2dece1df571c1942621e8dfd99ce70d2e43be4b6bb4f16dbafe7e16cd78aa81",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13430099"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "7ed96dc3-8497-3b2b-a791-486503165e9e",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13430287",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13430287",
+      "titleOriginal": "Movement Behaviors and Quality of Life in Cardiac Rehabilitation Programs: A Study Based on the Canadian 24-Hour Movement Guidelines.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.120698724Z",
+      "contentHash": "78c6d2d3342fd53300be0a9572ecc1d112249ffb395601ae6e16fcfe012678e4",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13430287"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "6ac41d5e-c11e-35f5-8686-c5fabb00cbdb",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13429343",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13429343",
+      "titleOriginal": "When Appearances Deceive: Rape Myth Schemas Influence Attractiveness Effects Across Cultures.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.120619075Z",
+      "contentHash": "f9727010446390d5f15dbf55096dc5da0aced13947f738b447909e8596459ff0",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13429343"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "1c41cf51-14db-3611-9ba0-f9c3e94f8cb7",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13430511",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13430511",
+      "titleOriginal": "Shaping the Therapist, Shaping the Field: A Narrative Review of the Person-of-the-Therapist Training (POTT) Approach.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.120530710Z",
+      "contentHash": "18e57f7a1b31739bf3a02a249bf2fc2d09842bba0cb64714d43e29a9909f2569",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13430511"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "7cb47991-146f-39b2-b4c2-377a67181485",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13431443",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13431443",
+      "titleOriginal": "Assessing laboratory performance for markers of kidney injury/function: a retrospective study based on External Quality Assessment.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.120445571Z",
+      "contentHash": "e79153be86a9c07d6562d8b04c7063e2b5bca3210b0d1fd794b8a022335b680f",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13431443"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "25afb6d9-8906-3118-b8e2-3c89b2dfe1dd",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13433972",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13433972",
+      "titleOriginal": "Beyond mere novelty: Categorization drives differentiation.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.120365231Z",
+      "contentHash": "7e307aac8fcfdfbfe143c1532852478e3912ff487fcb7944af369e9d11df5277",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13433972"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "53d0bfcd-ea66-3bdb-9943-9fab090ce870",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13438122",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13438122",
+      "titleOriginal": "Predicting Relevant Microglia-Associated Cell-Cell Communication Pathways in Alzheimer\u0027s Disease: A Role for SPP1.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.120266556Z",
+      "contentHash": "6806590f0054fce94e3c154b1de4acb0467e7831730e1556db0eccd25f111aa3",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13438122"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "1a30cc5e-907c-34e2-b8cc-de6d7249c2f8",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13438127",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13438127",
+      "titleOriginal": "Müller Glia-Vasculature Interactions in the Developing Retina.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.120137284Z",
+      "contentHash": "92c9bd1c9a0e2674c8cb85422c8a83a8ae8e9d2359c61cf692a9386d55f79c5c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13438127"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "60aa0b52-a705-33f8-a490-0bec1a202fd6",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13440329",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13440329",
+      "titleOriginal": "Study on Diphenylamine Oxidation by Ozone Using Atmospheric Pressure Chemical Ionization Mass Spectrometry.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.120014625Z",
+      "contentHash": "85c1acd83e5adb46a0c02d4c33c4faca8ac0cba580cd2580124a4b7badad4b7d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13440329"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "fbe3cf94-f7cc-3e3d-b3ec-c19fd9ed025f",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13441545",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13441545",
+      "titleOriginal": "Systematic Optimization of an SLE-DAPTAD LC-MS/MS Workflow for Simultaneous Quantification of Low-Abundance Vitamin D\u0026lt;sub\u0026gt;3\u0026lt;/sub\u0026gt; Metabolites in Plasma.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.119876116Z",
+      "contentHash": "3c27b3015528f4c6368ac80e5f70d6f02056906e1d0cc34214a6b24b58dfe289",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13441545"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "b56f497f-6256-39b3-8880-82abf949c164",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13442999",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13442999",
+      "titleOriginal": "\u0027You know you\u0027re going to get through this\u0027: Volunteers and long-term disaster recovery.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.119773975Z",
+      "contentHash": "d6a4d6900655655d339837a9906ada88509c6f0d73aa2a244b515e0ca4a76a55",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13442999"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "f95f44b5-7c1e-3976-a011-a850b0c7cb7e",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13443401",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13443401",
+      "titleOriginal": "The Influence of Considering Others\u0027 Emotions on Children\u0027s Resource Distribution.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.119649071Z",
+      "contentHash": "09e9712d1c639a12553dbee353b3f5e8b3a1a9c785d5186c85c4ebf21efcdd3c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13443401"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "a50dbc53-93ee-3f3d-9bd8-9eb131f8b9a1",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13177175",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13177175",
+      "titleOriginal": "Electrophysiological Markers in Hypertrophic Cardiomyopathy: Enhancing Sudden Cardiac Death Risk Prediction with Index of Cardiac Electrophysiological Balance and Its Corrected Variant.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.118742255Z",
+      "contentHash": "8afece24c4d7f948bd92910196046b32de4f85efbc8d4696dc01cc7444868ece",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13177175"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "ec39caad-8c1e-3245-8e42-817ab1fef4c0",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC12967033",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC12967033",
+      "titleOriginal": "Short communication: performance of beef cows fed Kernza intermediate wheatgrass straw mixed with alfalfa haylage.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.118618755Z",
+      "contentHash": "0e1b108dedd6e6fdac54fa5ee052ae77e695ed9baf18470623f4117b79e24a72",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC12967033"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "510f3dfb-4619-3c3c-933e-8fb83244503c",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC12900525",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC12900525",
+      "titleOriginal": "Analysis of Bond Strength of Bioceramic Sealer Following Irrigation with Chlorhexidine.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:29.118380349Z",
+      "contentHash": "25b056497bcad70e6a954b6291fbad9a49c8a9cddee4cc6cea90c7323dec115b",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC12900525"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "82714d13-515b-3aec-b581-626bcee8b1ac",
+      "sourceId": "china-cdc-news",
+      "sourceName": "Chinese Center for Disease Control and Prevention",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.chinacdc.cn/zxyw/202609/t20260902_1839732.html",
+      "canonicalUrl": "https://www.chinacdc.cn/zxyw/202609/t20260902_1839732.html",
+      "titleOriginal": "中国疾控中心(中国预科院)举行2026级研究生新生开学典礼",
+      "titleZh": "中国疾控中心(中国预科院)举行2026级研究生新生开学典礼",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "public_health",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "中国疾病预防控制中心"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:27.511117216Z",
+      "contentHash": "369b0c85bd85024504afad37faf1a0cd75470b83efdafc070f2a4a486887ec23",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "china-cdc-news",
+          "sourceName": "Chinese Center for Disease Control and Prevention",
+          "sourceTier": "A",
+          "originalUrl": "https://www.chinacdc.cn/zxyw/202609/t20260902_1839732.html"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "268c301a-0696-31ce-a6df-cdc6b1420fe3",
+      "sourceId": "china-cdc-news",
+      "sourceName": "Chinese Center for Disease Control and Prevention",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.chinacdc.cn/zxyw/202609/t20260903_1839776.html",
+      "canonicalUrl": "https://www.chinacdc.cn/zxyw/202609/t20260903_1839776.html",
+      "titleOriginal": "沈洪兵赴中国疾控中心讲授开学第一课",
+      "titleZh": "沈洪兵赴中国疾控中心讲授开学第一课",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "public_health",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "中国疾病预防控制中心"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:27.510934655Z",
+      "contentHash": "0ae1970c0619d9725a51e0d411ededf01616236fed6b01cfaeb59ae3e81d424c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "china-cdc-news",
+          "sourceName": "Chinese Center for Disease Control and Prevention",
+          "sourceTier": "A",
+          "originalUrl": "https://www.chinacdc.cn/zxyw/202609/t20260903_1839776.html"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "defbb7cf-002a-335e-a8bd-15decf5f7e91",
+      "sourceId": "china-cdc-news",
+      "sourceName": "Chinese Center for Disease Control and Prevention",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.chinacdc.cn/zxyw/202609/t20260906_1839854.html",
+      "canonicalUrl": "https://www.chinacdc.cn/zxyw/202609/t20260906_1839854.html",
+      "titleOriginal": "中新疾控机构2026年度技术圆桌会议在新加坡举行",
+      "titleZh": "中新疾控机构2026年度技术圆桌会议在新加坡举行",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "public_health",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "中国疾病预防控制中心"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:27.510540477Z",
+      "contentHash": "f83572c3e1022933cc1de21097a95efc5b9c23c3f4dfe5e707c1bd1df4650d9c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "china-cdc-news",
+          "sourceName": "Chinese Center for Disease Control and Prevention",
+          "sourceTier": "A",
+          "originalUrl": "https://www.chinacdc.cn/zxyw/202609/t20260906_1839854.html"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "b68d0837-2223-3eb4-8bfd-ed08a8f42cd4",
+      "sourceId": "china-cdc-news",
+      "sourceName": "Chinese Center for Disease Control and Prevention",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.chinacdc.cn/zxyw/202609/t20260906_1839855.html",
+      "canonicalUrl": "https://www.chinacdc.cn/zxyw/202609/t20260906_1839855.html",
+      "titleOriginal": "中国疾控中心与新加坡国立大学签署合作谅解备忘录",
+      "titleZh": "中国疾控中心与新加坡国立大学签署合作谅解备忘录",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "public_health",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "中国疾病预防控制中心"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-09-08T05:05:27.510218915Z",
+      "contentHash": "16b06a7e538fa6d1baab2938e27690cf166719e128b2bd98b741c371f26c3fc2",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "china-cdc-news",
+          "sourceName": "Chinese Center for Disease Control and Prevention",
+          "sourceTier": "A",
+          "originalUrl": "https://www.chinacdc.cn/zxyw/202609/t20260906_1839855.html"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "db228265-1634-3a03-aaa5-fb4acc34c8d7",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706219/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706219",
+      "titleOriginal": "Patient-reported outcome measures for atrial fibrillation: a systematic review and evaluation of psychometric properties of symptom severity measures.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-08T00:00:00Z",
+      "collectedAt": "2026-09-08T05:05:29.294414028Z",
+      "contentHash": "7e2f8f3c25772d04e1012b4929b7210de960568e9b8b12016080b2e748bda8fd",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706219/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "fc7e973a-66e0-3e98-a97f-732d10f52064",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706217/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706217",
+      "titleOriginal": "Implementation status, difficulties, and barriers to adopting nursing-care technologies in long-term care facilities in Japan: A prefecture-wide cross-sectional survey.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-08T00:00:00Z",
+      "collectedAt": "2026-09-08T05:05:29.294599895Z",
+      "contentHash": "a1e5105ce21d9945c009cbd96cfce66528f79a31fe37ddc64af11ab027b6d9b3",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706217/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "b54c534b-a9af-32d3-8077-710f109ecc6b",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706214/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706214",
+      "titleOriginal": "Sirtuin 1 modulation unlocks the therapeutic potential of sodium-glucose co-transporter 2 inhibitors (SGLT2i) in calcific aortic valve stenosis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-08T00:00:00Z",
+      "collectedAt": "2026-09-08T05:05:29.294862296Z",
+      "contentHash": "d3ff918191ff0d1da28f6627744af3c6780d5291e227b93acdfd41121f7d513d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706214/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "61874892-2705-31fd-ad9f-f6291169d0aa",
+      "sourceId": "pumch-research",
+      "sourceName": "Peking Union Medical College Hospital Research",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://www.pumch.cn/detail/46547.html",
+      "canonicalUrl": "https://www.pumch.cn/detail/46547.html",
+      "titleOriginal": "组团式援藏 | 北京协和医院与西藏自治区人民医院联合攻关肝包虫胆道并发症微创新方案",
+      "titleZh": "组团式援藏 | 北京协和医院与西藏自治区人民医院联合攻关肝包虫胆道并发症微创新方案",
+      "summaryZh": "近日，北京协和医院消化内科王强副主任医师指导2024级内科学博士研究生杨子涵、西藏自治区人民医院消化内科次仁玉珍住院医师在消化病学...",
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "hospital_service",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "北京协和医院"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-08T00:00:00Z",
+      "collectedAt": "2026-09-08T05:05:33.729805782Z",
+      "contentHash": "f6148400730f98fc6eb90757d37559e31b88089a58397193284472b1681dc466",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "pumch-research",
+          "sourceName": "Peking Union Medical College Hospital Research",
+          "sourceTier": "B",
+          "originalUrl": "https://www.pumch.cn/detail/46547.html"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "24小时内更新"
+      ]
+    },
     {
       "id": "2ead8e79-ba27-3965-bf80-1aa0b16e44aa",
       "sourceId": "europe-pmc-recent",
@@ -347,49 +3955,6 @@
       ]
     },
     {
-      "id": "60aa0b52-a705-33f8-a490-0bec1a202fd6",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13440329",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13440329",
-      "titleOriginal": "Study on Diphenylamine Oxidation by Ozone Using Atmospheric Pressure Chemical Ionization Mass Spectrometry.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-08T04:33:32.873431906Z",
-      "contentHash": "85c1acd83e5adb46a0c02d4c33c4faca8ac0cba580cd2580124a4b7badad4b7d",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13440329"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
       "id": "0dbf2935-c424-3836-93d7-00352ff91ebb",
       "sourceId": "europe-pmc-recent",
       "sourceName": "Europe PMC",
@@ -639,221 +4204,6 @@
           "sourceName": "Europe PMC",
           "sourceTier": "A",
           "originalUrl": "https://europepmc.org/article/MED/PMC13429039"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "8e14be66-41c3-353e-8c3a-f0385db34b72",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13429044",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13429044",
-      "titleOriginal": "Efficacy, Effectiveness, and Efficiency of Nurse-Led Interventions: Insights From a Critical Systematic Review.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-08T04:33:32.872124135Z",
-      "contentHash": "1f276bd43e76dd1a022958121549d6d8aa47d6419d77389486578f4633867c7e",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13429044"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "b56f497f-6256-39b3-8880-82abf949c164",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13442999",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13442999",
-      "titleOriginal": "\u0027You know you\u0027re going to get through this\u0027: Volunteers and long-term disaster recovery.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-08T04:33:32.871924572Z",
-      "contentHash": "d6a4d6900655655d339837a9906ada88509c6f0d73aa2a244b515e0ca4a76a55",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13442999"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "a50dbc53-93ee-3f3d-9bd8-9eb131f8b9a1",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13177175",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13177175",
-      "titleOriginal": "Electrophysiological Markers in Hypertrophic Cardiomyopathy: Enhancing Sudden Cardiac Death Risk Prediction with Index of Cardiac Electrophysiological Balance and Its Corrected Variant.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-08T04:33:32.870751683Z",
-      "contentHash": "8afece24c4d7f948bd92910196046b32de4f85efbc8d4696dc01cc7444868ece",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13177175"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "ec39caad-8c1e-3245-8e42-817ab1fef4c0",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC12967033",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC12967033",
-      "titleOriginal": "Short communication: performance of beef cows fed Kernza intermediate wheatgrass straw mixed with alfalfa haylage.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-08T04:33:32.870571707Z",
-      "contentHash": "0e1b108dedd6e6fdac54fa5ee052ae77e695ed9baf18470623f4117b79e24a72",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC12967033"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "510f3dfb-4619-3c3c-933e-8fb83244503c",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC12900525",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC12900525",
-      "titleOriginal": "Analysis of Bond Strength of Bioceramic Sealer Following Irrigation with Chlorhexidine.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-08T04:33:32.870255647Z",
-      "contentHash": "25b056497bcad70e6a954b6291fbad9a49c8a9cddee4cc6cea90c7323dec115b",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC12900525"
         }
       ],
       "importanceScore": 50,

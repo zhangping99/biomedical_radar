@@ -1,12 +1,261 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-08T04:33:41.457981294Z",
+  "generatedAt": "2026-09-08T05:05:38.656887764Z",
   "articles": [
+    {
+      "id": "66ce23a4-fd1e-3860-9ce5-c6f2ad170f37",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ana-salazar-modela-tu-cuerpo-inc-issues-nationwide-voluntary-recall-lipofit-extreme-fat-burner-20",
+      "canonicalUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ana-salazar-modela-tu-cuerpo-inc-issues-nationwide-voluntary-recall-lipofit-extreme-fat-burner-20",
+      "titleOriginal": "Ana Salazar Modela Tu Cuerpo Inc. Issues Nationwide Voluntary Recall of Lipofit Extreme Fat Burner 2.0 Due to Presence of Undeclared Fluoxetine and 2,4-Dinitrophenol (DNP)",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-31T04:00:00Z",
+      "collectedAt": "2026-09-08T05:05:25.152250719Z",
+      "contentHash": "6e85f2b07a55a6334e5b08e686bcdf7ece4950017204ee24a5f2d46b1fe48323",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ana-salazar-modela-tu-cuerpo-inc-issues-nationwide-voluntary-recall-lipofit-extreme-fat-burner-20"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "d32d659f-59bf-39a5-a64e-02a9d2fedf88",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/jamp-temozolomide-out-specification-assay",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/jamp-temozolomide-out-specification-assay",
+      "titleOriginal": "JAMP Temozolomide: Out-of-Specification (Assay)",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-31T00:00:00Z",
+      "collectedAt": "2026-09-08T05:05:25.870307082Z",
+      "contentHash": "b8a1785bcba02b0641d5daef0452ad918a1f2a1176d2d1d61f7c17fafdaa68e7",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/jamp-temozolomide-out-specification-assay"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "09a96fd0-8ca5-34fe-8f6a-c3a2cfa971ee",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07794618",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07794618",
+      "titleOriginal": "Video-Based Grading of Intraoperative Adverse Events in Pediatric Laparoscopic Appendectomy",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert",
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Appendicitis, Acute",
+        "Appendectomy",
+        "Intraoperative Complications",
+        "Patient Safety",
+        "Pediatric Surgery"
+      ],
+      "publishedAt": "2026-08-31T00:00:00Z",
+      "collectedAt": "2026-09-08T05:05:28.039128223Z",
+      "contentHash": "b2cc9099340e1f50ac56dfba8c806e7fddda8af1aa881f2d9eba9bf55098fe56",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07794618"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "dd9d59c4-ad66-3fc4-aea0-4b9042d170e3",
+      "sourceId": "lilly-news-releases",
+      "sourceName": "Eli Lilly News Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/lilly-acquire-merida-biosciences-advance-treatments-serious",
+      "canonicalUrl": "https://investor.lilly.com/news-releases/news-release-details/lilly-acquire-merida-biosciences-advance-treatments-serious",
+      "titleOriginal": "Lilly to acquire Merida Biosciences to advance treatments for serious autoimmune and allergic diseases",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Eli Lilly and Company"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-31T10:45:00Z",
+      "collectedAt": "2026-09-08T05:05:33.006826852Z",
+      "contentHash": "934dbcaa1eebf3ad91d45c72df24ef2dcbcdc9f8e16a733ac90a3e29ebaaab93",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "lilly-news-releases",
+          "sourceName": "Eli Lilly News Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/lilly-acquire-merida-biosciences-advance-treatments-serious"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "52d1a0f6-8630-3266-96c3-370185bbe29b",
+      "sourceId": "lilly-news-releases",
+      "sourceName": "Eli Lilly News Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/new-phase-3b-data-lillys-taltz-ixekizumab-and-zepbound",
+      "canonicalUrl": "https://investor.lilly.com/news-releases/news-release-details/new-phase-3b-data-lillys-taltz-ixekizumab-and-zepbound",
+      "titleOriginal": "New Phase 3b data on Lilly\u0027s Taltz (ixekizumab) and Zepbound (tirzepatide) used together showed improved and durable efficacy at one year in adults with psoriatic disease and obesity",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "drug_rd",
+      "eventTypes": [
+        "phase_3_result"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Eli Lilly and Company"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-31T11:00:00Z",
+      "collectedAt": "2026-09-08T05:05:33.006729259Z",
+      "contentHash": "0432074bee300ecf13670d9348cb90f99d354906f3fdf3b68e95d8088d933dd3",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "lilly-news-releases",
+          "sourceName": "Eli Lilly News Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/new-phase-3b-data-lillys-taltz-ixekizumab-and-zepbound"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "高影响事件"
+      ]
+    },
     {
       "id": "b15fb52f-6ece-3416-becc-3c67f2ddd8b2",
       "sourceId": "amgen-news-releases",
       "sourceName": "Amgen News Releases",
-      "sourceTier": "A",
+      "sourceTier": "B",
       "sourceType": "company",
       "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/08/amgens-repatha-reduces-risk-of-death-in-patients-at-high-risk-for-a-first-heart-attack-or-stroke",
       "canonicalUrl": "https://www.amgen.com/newsroom/press-releases/2026/08/amgens-repatha-reduces-risk-of-death-in-patients-at-high-risk-for-a-first-heart-attack-or-stroke",
@@ -28,7 +277,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-08-31T00:00:00Z",
-      "collectedAt": "2026-09-08T04:33:40.749018783Z",
+      "collectedAt": "2026-09-08T05:05:38.176725623Z",
       "contentHash": "3f17d45562e2ad996eeec89fd157e348cb216da9ce3604d287b1ae26432d9b8e",
       "generated": false,
       "generatorVersion": null,
@@ -40,14 +289,12 @@
         {
           "sourceId": "amgen-news-releases",
           "sourceName": "Amgen News Releases",
-          "sourceTier": "A",
+          "sourceTier": "B",
           "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/08/amgens-repatha-reduces-risk-of-death-in-patients-at-high-risk-for-a-first-heart-attack-or-stroke"
         }
       ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
+      "importanceScore": 20,
+      "importanceReasons": []
     }
   ]
 }

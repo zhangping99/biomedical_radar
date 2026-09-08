@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-08T04:33:41.457981294Z",
+  "generatedAt": "2026-09-08T05:05:38.656887764Z",
   "articles": [
+    {
+      "id": "674326ab-0e63-3815-957c-40ca616714ae",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-recall-medline-removes-neonatal-and-infant-heated-wire-breathing-circuits",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-recall-medline-removes-neonatal-and-infant-heated-wire-breathing-circuits",
+      "titleOriginal": "Breathing Circuit Recall: Medline Removes Neonatal and Infant Heated Wire Breathing Circuits",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-01T04:00:00Z",
+      "collectedAt": "2026-09-08T05:05:25.151882981Z",
+      "contentHash": "c1cc0562bcac096ef9981455d5940da4cd0f664928ce99011c2badb308e74a90",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-recall-medline-removes-neonatal-and-infant-heated-wire-breathing-circuits"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "6566ef5c-5257-35d0-8a1b-79467b94ae8d",
       "sourceId": "ema-news",
@@ -20,10 +69,15 @@
       "eventTypes": [
         "update"
       ],
-      "entities": [],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "European Medicines Agency"
+        }
+      ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-01T11:48:00Z",
-      "collectedAt": "2026-09-08T04:33:30.686015823Z",
+      "collectedAt": "2026-09-08T05:05:25.025352186Z",
       "contentHash": "ab5733f1899c2872e8126df0e61f952ecd92c0a8e4c62f475c9a778b74917743",
       "generated": false,
       "generatorVersion": null,
@@ -44,6 +98,143 @@
         "官方一手来源",
         "政策或安全相关"
       ]
+    },
+    {
+      "id": "e85e2fcc-6a1c-3f95-b278-52cdf8000bba",
+      "sourceId": "gsk-press-releases",
+      "sourceName": "GSK Press Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.gsk.com/en-gb/media/press-releases/gsk-to-advance-mrna-seasonal-flu-vaccine-candidate-to-phase-iii-following-positive-phase-ii-data/",
+      "canonicalUrl": "https://www.gsk.com/en-gb/media/press-releases/gsk-to-advance-mrna-seasonal-flu-vaccine-candidate-to-phase-iii-following-positive-phase-ii-data",
+      "titleOriginal": "GSK to advance mRNA seasonal flu vaccine candidate to phase III following positive phase II data",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "drug_rd",
+      "eventTypes": [
+        "phase_3_result"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "GSK"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-01T07:00:00Z",
+      "collectedAt": "2026-09-08T05:05:32.727237004Z",
+      "contentHash": "d052ba0ecf5f1232bfcbc5f713f6968940115e3c5b2b8ee4b6a03e0aa22321a3",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "gsk-press-releases",
+          "sourceName": "GSK Press Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://www.gsk.com/en-gb/media/press-releases/gsk-to-advance-mrna-seasonal-flu-vaccine-candidate-to-phase-iii-following-positive-phase-ii-data/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "高影响事件"
+      ]
+    },
+    {
+      "id": "56457e7b-8a82-3812-abc2-72b21d5cc2aa",
+      "sourceId": "lilly-news-releases",
+      "sourceName": "Eli Lilly News Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/lilly-participate-morgan-stanley-24th-annual-global-healthcare",
+      "canonicalUrl": "https://investor.lilly.com/news-releases/news-release-details/lilly-participate-morgan-stanley-24th-annual-global-healthcare",
+      "titleOriginal": "Lilly to participate in Morgan Stanley 24th Annual Global Healthcare Conference",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Eli Lilly and Company"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-01T14:00:00Z",
+      "collectedAt": "2026-09-08T05:05:33.006532671Z",
+      "contentHash": "19dfaff760bf3bcbf44c0a8d46da9887d2a548c214d17fe160d6e560bd704628",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "lilly-news-releases",
+          "sourceName": "Eli Lilly News Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/lilly-participate-morgan-stanley-24th-annual-global-healthcare"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "544670ef-de0c-3b97-9e97-da41d9cf748d",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/01/cleveland-clinic-despite-men-not-trusting-what-they-see-online-some-are-letting-social-media-drive-their-behaviors",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/01/cleveland-clinic-despite-men-not-trusting-what-they-see-online-some-are-letting-social-media-drive-their-behaviors",
+      "titleOriginal": "Cleveland Clinic: Despite Men Not Trusting What They See Online, Some Are Letting Social Media Drive Their Behaviors",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-01T00:00:00Z",
+      "collectedAt": "2026-09-08T05:05:30.249783652Z",
+      "contentHash": "d96c24e00ccd895c74a23a2f9a5220a409fb324452da6048a483e5efe350d5e2",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/01/cleveland-clinic-despite-men-not-trusting-what-they-see-online-some-are-letting-social-media-drive-their-behaviors"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
     }
   ]
 }
