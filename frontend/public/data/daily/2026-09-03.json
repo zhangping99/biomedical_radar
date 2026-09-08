@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-08T19:25:59.420760154Z",
+  "generatedAt": "2026-09-08T22:39:13.834738870Z",
   "articles": [
     {
       "id": "a79ab002-c17a-364f-88bc-a04ea5a934ef",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-03T04:00:00Z",
-      "collectedAt": "2026-09-08T19:25:57.312002941Z",
+      "collectedAt": "2026-09-08T22:39:11.023339088Z",
       "contentHash": "2ebd9fdf3c69a0df375bf0e38ebb377f070d2294d10d5f6431294175915f2a2e",
       "generated": false,
       "generatorVersion": null,
@@ -77,7 +77,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-03T04:00:00Z",
-      "collectedAt": "2026-09-08T19:25:57.317238360Z",
+      "collectedAt": "2026-09-08T22:39:11.028251076Z",
       "contentHash": "832f9f7b079afb840ed6695996b9b8bebdb2793d9bee3270e7b6ab9eea366043",
       "generated": false,
       "generatorVersion": null,
@@ -101,20 +101,20 @@
       ]
     },
     {
-      "id": "7befa8c7-65ea-3ef8-ae0e-2ea802d8cfc0",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "id": "0a2544ea-be54-34f3-92c4-b01fe1ccb8af",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
       "sourceTier": "A",
       "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/allergenics",
-      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/allergenics",
-      "titleOriginal": "Allergenics",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
+      "titleOriginal": "Early Alert: Breathing Circuit Issue from Draeger",
       "titleZh": null,
       "summaryZh": null,
       "whyItMattersZh": null,
       "language": "en",
       "region": "US",
-      "category": "policy_regulation",
+      "category": "quality_safety",
       "eventTypes": [
         "update"
       ],
@@ -125,9 +125,9 @@
         }
       ],
       "diseaseAreas": [],
-      "publishedAt": "2026-09-03T23:33:37Z",
-      "collectedAt": "2026-09-08T19:25:57.321941622Z",
-      "contentHash": "e6360467012269808b6f0c99d5c26842cdcfdf9899250fc99eaa32ba1882b807",
+      "publishedAt": "2026-09-03T04:00:00Z",
+      "collectedAt": "2026-09-08T22:39:11.023072692Z",
+      "contentHash": "998a9aa982220a144270efae79a79ecce24bd1a829825956edd76b84b2e1025d",
       "generated": false,
       "generatorVersion": null,
       "generatedAt": null,
@@ -136,10 +136,106 @@
       "legalBasis": "rss_allowed",
       "sourceLinks": [
         {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
           "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/allergenics"
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "21c89feb-390e-3f1b-8fbc-dda7a8759ad1",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+      "titleOriginal": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-03T04:00:00Z",
+      "collectedAt": "2026-09-08T22:39:11.024629399Z",
+      "contentHash": "ae1f324a66dcb81aae178a3abc6033f5b338b04cf9f988fc674aa6df33b6116e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "1211fee0-37c4-3b11-9319-ffb0accead64",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
+      "titleOriginal": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-03T04:00:00Z",
+      "collectedAt": "2026-09-08T22:39:11.027924469Z",
+      "contentHash": "e4fc647817a710c1f1e6c4362f3aaa4124a7dc808522e433532e3cccfe7d689f",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software"
         }
       ],
       "importanceScore": 50,
@@ -476,150 +572,6 @@
           "sourceName": "FDA Vaccines, Blood and Biologics",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/about-fda/fda-track-agency-wide-program-performance/fda-track-prescription-drug-user-fee-act-review-goals-summary"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "21c89feb-390e-3f1b-8fbc-dda7a8759ad1",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
-      "titleOriginal": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-03T04:00:00Z",
-      "collectedAt": "2026-09-08T19:25:57.311660973Z",
-      "contentHash": "ae1f324a66dcb81aae178a3abc6033f5b338b04cf9f988fc674aa6df33b6116e",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "1211fee0-37c4-3b11-9319-ffb0accead64",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
-      "titleOriginal": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-03T04:00:00Z",
-      "collectedAt": "2026-09-08T19:25:57.316781157Z",
-      "contentHash": "e4fc647817a710c1f1e6c4362f3aaa4124a7dc808522e433532e3cccfe7d689f",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "0a2544ea-be54-34f3-92c4-b01fe1ccb8af",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
-      "titleOriginal": "Early Alert: Breathing Circuit Issue from Draeger",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-03T04:00:00Z",
-      "collectedAt": "2026-09-08T19:25:57.317516690Z",
-      "contentHash": "998a9aa982220a144270efae79a79ecce24bd1a829825956edd76b84b2e1025d",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger"
         }
       ],
       "importanceScore": 50,

@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-08T19:25:59.420760154Z",
+  "generatedAt": "2026-09-08T22:39:13.834738870Z",
   "articles": [
     {
       "id": "d2b60cee-1610-3555-9257-2ed8d2aff5ed",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T20:35:54Z",
-      "collectedAt": "2026-09-08T19:25:57.319779901Z",
+      "collectedAt": "2026-09-08T22:39:11.021655819Z",
       "contentHash": "bcb49a4d9a5942784cd6c8fbfa553c31f3f3660404e32d8c7bdb5bf34309db8a",
       "generated": false,
       "generatorVersion": null,
@@ -77,7 +77,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T20:15:04Z",
-      "collectedAt": "2026-09-08T19:25:57.321445038Z",
+      "collectedAt": "2026-09-08T22:39:11.023886078Z",
       "contentHash": "a18214263434ce35a2b9a9cc58d756eb737acdf7654eb0b09b7d7bfa3388f8d0",
       "generated": false,
       "generatorVersion": null,
@@ -126,7 +126,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T12:00:00Z",
-      "collectedAt": "2026-09-08T19:25:57.234039963Z",
+      "collectedAt": "2026-09-08T22:39:10.927901836Z",
       "contentHash": "9c033ecf98bec9bdb1d6f11759b427f7845ed0da03c8e0770f26d41c4977e424",
       "generated": false,
       "generatorVersion": null,
@@ -175,7 +175,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T00:00:00Z",
-      "collectedAt": "2026-09-08T19:25:57.902381875Z",
+      "collectedAt": "2026-09-08T22:39:11.175236404Z",
       "contentHash": "745fde69e26b77ca7390a362662c7341d63fb67ced6163c4b11922e58e48a057",
       "generated": false,
       "generatorVersion": null,
@@ -224,7 +224,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T00:00:00Z",
-      "collectedAt": "2026-09-08T19:25:57.902774207Z",
+      "collectedAt": "2026-09-08T22:39:11.175720555Z",
       "contentHash": "1544eb55283343a4bd76da0da87ab75ef5e8ef98b12db6241fa47484591d7458",
       "generated": false,
       "generatorVersion": null,
@@ -273,7 +273,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T00:00:00Z",
-      "collectedAt": "2026-09-08T19:25:57.902944164Z",
+      "collectedAt": "2026-09-08T22:39:11.175931688Z",
       "contentHash": "eb78bb4fcaaeb977273d6bdfc1aae03afd33224d034c116e4b1b43c96baf6205",
       "generated": false,
       "generatorVersion": null,
@@ -322,7 +322,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T20:07:39Z",
-      "collectedAt": "2026-09-08T19:25:57.321705754Z",
+      "collectedAt": "2026-09-08T22:39:11.024131415Z",
       "contentHash": "34f65e7358637802056576d768fab499ce9a850561e773f339612371f0f8ece4",
       "generated": false,
       "generatorVersion": null,
@@ -370,7 +370,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T20:06:21Z",
-      "collectedAt": "2026-09-08T19:25:57.321983122Z",
+      "collectedAt": "2026-09-08T22:39:11.024437073Z",
       "contentHash": "251536ac83833b98a26b441c044400af127dbbb6b0d8dda5e6c0c32b95854000",
       "generated": false,
       "generatorVersion": null,
@@ -390,6 +390,100 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关"
+      ]
+    },
+    {
+      "id": "50185859-4d00-3cf6-8aee-6fde9dc57405",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/news-events/press-announcements/fda-takes-steps-maintain-newborn-access-life-saving-starter-nutrition-products",
+      "canonicalUrl": "https://www.fda.gov/news-events/press-announcements/fda-takes-steps-maintain-newborn-access-life-saving-starter-nutrition-products",
+      "titleOriginal": "FDA Takes Steps to Maintain Newborn Access to Life-Saving Starter Nutrition Products",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "manufacturing_supply",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-04T20:19:48Z",
+      "collectedAt": "2026-09-08T22:39:11.021904662Z",
+      "contentHash": "df457019375983e416d18313185499ec053d42f380451680c748a6e579279d94",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/news-events/press-announcements/fda-takes-steps-maintain-newborn-access-life-saving-starter-nutrition-products"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "84c683dc-27d4-331d-98e5-e9ff6ba89ebb",
+      "sourceId": "ema-news",
+      "sourceName": "European Medicines Agency",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.ema.europa.eu/en/news/new-eu-supply-chain-end-visudyne-shortage",
+      "canonicalUrl": "https://www.ema.europa.eu/en/news/new-eu-supply-chain-end-visudyne-shortage",
+      "titleOriginal": "New EU supply chain to end Visudyne shortage",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "EU",
+      "category": "manufacturing_supply",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "European Medicines Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-04T09:00:00Z",
+      "collectedAt": "2026-09-08T22:39:10.944710656Z",
+      "contentHash": "55ea63792b055c8933f3127a2da526430588c7ce8ffb6e812a0b1d3662f1b61c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "ema-news",
+          "sourceName": "European Medicines Agency",
+          "sourceTier": "A",
+          "originalUrl": "https://www.ema.europa.eu/en/news/new-eu-supply-chain-end-visudyne-shortage"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
       ]
     },
     {
@@ -438,195 +532,6 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关"
-      ]
-    },
-    {
-      "id": "2d1db4b4-fe86-3e0b-9a03-7b7ecba6ac6c",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/industry-biologics",
-      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/industry-biologics",
-      "titleOriginal": "Industry (Biologics)",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-04T10:22:34Z",
-      "collectedAt": "2026-09-08T19:25:57.321427533Z",
-      "contentHash": "0df77070912c801581ae1fb8c9b719ac323c9cc22d94eaa1c5a5839625f3ee13",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/industry-biologics"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "50185859-4d00-3cf6-8aee-6fde9dc57405",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/news-events/press-announcements/fda-takes-steps-maintain-newborn-access-life-saving-starter-nutrition-products",
-      "canonicalUrl": "https://www.fda.gov/news-events/press-announcements/fda-takes-steps-maintain-newborn-access-life-saving-starter-nutrition-products",
-      "titleOriginal": "FDA Takes Steps to Maintain Newborn Access to Life-Saving Starter Nutrition Products",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "manufacturing_supply",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-04T20:19:48Z",
-      "collectedAt": "2026-09-08T19:25:57.319989672Z",
-      "contentHash": "df457019375983e416d18313185499ec053d42f380451680c748a6e579279d94",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/news-events/press-announcements/fda-takes-steps-maintain-newborn-access-life-saving-starter-nutrition-products"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "5c8a4d76-0882-3f4f-98f1-2798611595dd",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products",
-      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products",
-      "titleOriginal": "Cellular \u0026 Gene Therapy Products",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "drug_rd",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-04T12:05:20Z",
-      "collectedAt": "2026-09-08T19:25:57.318920224Z",
-      "contentHash": "a1fdcb223ce795846fb636d112e3c7b7d2a4cdef28500d32d1312c2b56c82627",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "84c683dc-27d4-331d-98e5-e9ff6ba89ebb",
-      "sourceId": "ema-news",
-      "sourceName": "European Medicines Agency",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.ema.europa.eu/en/news/new-eu-supply-chain-end-visudyne-shortage",
-      "canonicalUrl": "https://www.ema.europa.eu/en/news/new-eu-supply-chain-end-visudyne-shortage",
-      "titleOriginal": "New EU supply chain to end Visudyne shortage",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "EU",
-      "category": "manufacturing_supply",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "European Medicines Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-04T09:00:00Z",
-      "collectedAt": "2026-09-08T19:25:57.248804042Z",
-      "contentHash": "55ea63792b055c8933f3127a2da526430588c7ce8ffb6e812a0b1d3662f1b61c",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "ema-news",
-          "sourceName": "European Medicines Agency",
-          "sourceTier": "A",
-          "originalUrl": "https://www.ema.europa.eu/en/news/new-eu-supply-chain-end-visudyne-shortage"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
       ]
     },
     {
