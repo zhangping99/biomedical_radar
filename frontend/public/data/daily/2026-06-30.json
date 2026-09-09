@@ -1,7 +1,54 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-09T11:50:59.329044959Z",
+  "generatedAt": "2026-09-09T12:28:37.385315430Z",
   "articles": [
+    {
+      "id": "f3da1531-41d4-3c68-93d8-4bb611e27029",
+      "sourceId": "sanofi-press-releases",
+      "sourceName": "Sanofi Press Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-30-05-00-00-3319382",
+      "canonicalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-30-05-00-00-3319382",
+      "titleOriginal": "Press Release: Sanofi’s Nexviazyme met all primary and secondary endpoints in infantile-onset Pompe disease phase 3 study",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "EU",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "phase_3_result"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Sanofi"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-06-30T00:00:00Z",
+      "collectedAt": "2026-09-09T12:28:31.371711838Z",
+      "contentHash": "c1a5f669a428dde9f139c581f40ff3f08581e5068114051a04ec414e257d7f39",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "sanofi-press-releases",
+          "sourceName": "Sanofi Press Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-30-05-00-00-3319382"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "高影响事件"
+      ]
+    },
     {
       "id": "4e2ef65d-4e8f-3a1e-bd55-24cd9bb6d8c7",
       "sourceId": "pmda-safety-updates",
@@ -48,53 +95,6 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关"
-      ]
-    },
-    {
-      "id": "f3da1531-41d4-3c68-93d8-4bb611e27029",
-      "sourceId": "sanofi-press-releases",
-      "sourceName": "Sanofi Press Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-30-05-00-00-3319382",
-      "canonicalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-30-05-00-00-3319382",
-      "titleOriginal": "Press Release: Sanofi’s Nexviazyme met all primary and secondary endpoints in infantile-onset Pompe disease phase 3 study",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "EU",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "phase_3_result"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "Sanofi"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-06-30T00:00:00Z",
-      "collectedAt": "2026-09-09T03:18:58.727909100Z",
-      "contentHash": "c1a5f669a428dde9f139c581f40ff3f08581e5068114051a04ec414e257d7f39",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "sanofi-press-releases",
-          "sourceName": "Sanofi Press Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-30-05-00-00-3319382"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "高影响事件"
       ]
     }
   ]

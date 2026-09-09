@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-09T11:50:59.329044959Z",
+  "generatedAt": "2026-09-09T12:28:37.385315430Z",
   "articles": [
     {
       "id": "ee422afe-4fc3-3bf0-b753-673120c59f1a",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-28T12:00:00Z",
-      "collectedAt": "2026-09-09T03:19:03.933563700Z",
+      "collectedAt": "2026-09-09T12:28:30.822574368Z",
       "contentHash": "f4b899fa356d68f3d8991242d51b91c79bafcfc6a5bb7a08deab668c0744060a",
       "generated": false,
       "generatorVersion": null,
@@ -75,7 +75,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-28T11:00:41Z",
-      "collectedAt": "2026-09-09T03:19:03.934557700Z",
+      "collectedAt": "2026-09-09T12:28:30.822875262Z",
       "contentHash": "d7646759703d5a1bb305fd3165da685ebd61e3040889a4492702897446ee8c04",
       "generated": false,
       "generatorVersion": null,
@@ -122,7 +122,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-28T12:05:00Z",
-      "collectedAt": "2026-09-09T03:19:03.933563700Z",
+      "collectedAt": "2026-09-09T12:28:30.822260474Z",
       "contentHash": "4ab5d2ce0b7e85f6d620ddc12816873069fd8fb12e2588607c50726468842802",
       "generated": false,
       "generatorVersion": null,
@@ -136,6 +136,51 @@
           "sourceName": "GSK Press Releases",
           "sourceTier": "B",
           "originalUrl": "https://www.gsk.com/en-gb/media/press-releases/gsk-to-establish-new-flagship-rd-centre-on-cambridge-biomedical-campus-uk/"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "82f5e4b1-d1f9-3511-9118-c813ef5c310b",
+      "sourceId": "amgen-news-releases",
+      "sourceName": "Amgen News Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/07/amgen-announces-webcast-of-2026-second-quarter-financial-results",
+      "canonicalUrl": "https://www.amgen.com/newsroom/press-releases/2026/07/amgen-announces-webcast-of-2026-second-quarter-financial-results",
+      "titleOriginal": "AMGEN ANNOUNCES WEBCAST OF 2026 SECOND QUARTER FINANCIAL RESULTS",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Amgen"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-07-28T00:00:00Z",
+      "collectedAt": "2026-09-09T12:28:37.277864938Z",
+      "contentHash": "2d73b56dac49931310f4fc9974376174944c5f8278b0c7c395c9613e210b88ff",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "amgen-news-releases",
+          "sourceName": "Amgen News Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/07/amgen-announces-webcast-of-2026-second-quarter-financial-results"
         }
       ],
       "importanceScore": 20,
@@ -167,7 +212,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-28T00:00:00Z",
-      "collectedAt": "2026-09-09T03:18:57.742722700Z",
+      "collectedAt": "2026-09-09T12:28:33.620906820Z",
       "contentHash": "78d308f6ba9a594adc574885c0d2d9815787e7a98a8da86f02d38d033dcefe2b",
       "generated": false,
       "generatorVersion": null,
@@ -212,7 +257,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-28T00:00:00Z",
-      "collectedAt": "2026-09-09T03:18:59.380683Z",
+      "collectedAt": "2026-09-09T12:28:34.881541946Z",
       "contentHash": "8d294f8d7b1d682a9eed94b89cf69794eb6c08dae4faa22c4129b2eee2145bd6",
       "generated": false,
       "generatorVersion": null,
@@ -257,7 +302,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-28T00:00:00Z",
-      "collectedAt": "2026-09-09T03:18:59.380683Z",
+      "collectedAt": "2026-09-09T12:28:34.881724811Z",
       "contentHash": "ed7d588b28010b7fee14f7a084f6822da4744e0ac5c38c5ab11eff7de624aa11",
       "generated": false,
       "generatorVersion": null,
@@ -271,51 +316,6 @@
           "sourceName": "翰森制药新闻发布",
           "sourceTier": "B",
           "originalUrl": "https://www.hansoh.cn/news/news-detail-514055.htm"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "82f5e4b1-d1f9-3511-9118-c813ef5c310b",
-      "sourceId": "amgen-news-releases",
-      "sourceName": "Amgen News Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/07/amgen-announces-webcast-of-2026-second-quarter-financial-results",
-      "canonicalUrl": "https://www.amgen.com/newsroom/press-releases/2026/07/amgen-announces-webcast-of-2026-second-quarter-financial-results",
-      "titleOriginal": "AMGEN ANNOUNCES WEBCAST OF 2026 SECOND QUARTER FINANCIAL RESULTS",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "Amgen"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-07-28T00:00:00Z",
-      "collectedAt": "2026-09-08T05:05:38.177169444Z",
-      "contentHash": "2d73b56dac49931310f4fc9974376174944c5f8278b0c7c395c9613e210b88ff",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "amgen-news-releases",
-          "sourceName": "Amgen News Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/07/amgen-announces-webcast-of-2026-second-quarter-financial-results"
         }
       ],
       "importanceScore": 20,

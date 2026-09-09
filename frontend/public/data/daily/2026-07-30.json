@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-09T11:50:59.329044959Z",
+  "generatedAt": "2026-09-09T12:28:37.385315430Z",
   "articles": [
     {
       "id": "d65b28c0-5bae-3010-80a2-64c7f9a6273a",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-30T00:00:00Z",
-      "collectedAt": "2026-09-09T03:18:58.725908300Z",
+      "collectedAt": "2026-09-09T12:28:31.370553746Z",
       "contentHash": "fa9a6a7dbadb54d6ac2cee12358e51dba52bc5bb31b2d047fad11c24526cc317",
       "generated": false,
       "generatorVersion": null,
@@ -76,7 +76,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-30T00:00:00Z",
-      "collectedAt": "2026-09-09T03:18:56.528627600Z",
+      "collectedAt": "2026-09-09T12:28:29.996884807Z",
       "contentHash": "ca76cd7c6b4145c264b1f7d3286761dcc7e1f39e0e1393dbf15076f804ebceb0",
       "generated": false,
       "generatorVersion": null,
@@ -123,7 +123,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-30T00:00:00Z",
-      "collectedAt": "2026-09-09T03:18:57.742722700Z",
+      "collectedAt": "2026-09-09T12:28:33.620757345Z",
       "contentHash": "f1d2ee645eb1455f1424f5a4edf4d13669385a0b228d74f57dfda9d3619bf371",
       "generated": false,
       "generatorVersion": null,
@@ -143,51 +143,6 @@
       "importanceReasons": [
         "高影响事件"
       ]
-    },
-    {
-      "id": "fa750bef-74e8-3150-95f8-fb938f06b732",
-      "sourceId": "sanofi-press-releases",
-      "sourceName": "Sanofi Press Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-07-30-13-38-20-3336170",
-      "canonicalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-07-30-13-38-20-3336170",
-      "titleOriginal": "Press Release: Sanofi’s half-year financial report for 2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "EU",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "Sanofi"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-07-30T00:00:00Z",
-      "collectedAt": "2026-09-09T03:18:58.724910500Z",
-      "contentHash": "306b82d2cae5e6f155371339fa4e259f0c715543c72d5be780b9eabf777dfe80",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "sanofi-press-releases",
-          "sourceName": "Sanofi Press Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-07-30-13-38-20-3336170"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     },
     {
       "id": "91e6314b-7bbb-38eb-bf78-a3ad60199a9d",
@@ -215,7 +170,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-30T00:00:00Z",
-      "collectedAt": "2026-09-08T05:05:38.176965482Z",
+      "collectedAt": "2026-09-09T12:28:37.277631887Z",
       "contentHash": "eafb9734f048af4e1f4f2fdd15d20482dd23ba8c1aa5d8c48d01b9a33f04afdb",
       "generated": false,
       "generatorVersion": null,
@@ -229,6 +184,51 @@
           "sourceName": "Amgen News Releases",
           "sourceTier": "B",
           "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/07/amgen-announces-2026-third-quarter-dividend"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "fa750bef-74e8-3150-95f8-fb938f06b732",
+      "sourceId": "sanofi-press-releases",
+      "sourceName": "Sanofi Press Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-07-30-13-38-20-3336170",
+      "canonicalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-07-30-13-38-20-3336170",
+      "titleOriginal": "Press Release: Sanofi’s half-year financial report for 2026",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "EU",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Sanofi"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-07-30T00:00:00Z",
+      "collectedAt": "2026-09-09T12:28:31.370292961Z",
+      "contentHash": "306b82d2cae5e6f155371339fa4e259f0c715543c72d5be780b9eabf777dfe80",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "sanofi-press-releases",
+          "sourceName": "Sanofi Press Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-07-30-13-38-20-3336170"
         }
       ],
       "importanceScore": 20,
