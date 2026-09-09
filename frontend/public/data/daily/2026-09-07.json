@@ -1,7 +1,101 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-09T07:22:15.434664827Z",
+  "generatedAt": "2026-09-09T08:22:10.413101795Z",
   "articles": [
+    {
+      "id": "290b9efb-828c-3293-a548-0613c7df4531",
+      "sourceId": "btch-research",
+      "sourceName": "Beijing Tsinghua Changgung Hospital Research",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://xinwen.bjd.com.cn/content/s6a9a97d7e4b0e42f8effdcf7.html?from\u003dappMessage\u0026timestamp\u003d1788745469197",
+      "canonicalUrl": "https://xinwen.bjd.com.cn/content/s6a9a97d7e4b0e42f8effdcf7.html?from\u003dappMessage\u0026timestamp\u003d1788745469197",
+      "titleOriginal": "北京日报 | 率先应用新技术!北京研发抗抑郁新药,有望填补国...",
+      "titleZh": "北京日报 | 率先应用新技术!北京研发抗抑郁新药,有望填补国...",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "北京清华长庚医院"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-07T00:00:00Z",
+      "collectedAt": "2026-09-09T08:22:08.091786219Z",
+      "contentHash": "b8b986d1cb18b772e30f34710c89a2a5d17aa0c86829f87a3e8974635017715a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "btch-research",
+          "sourceName": "Beijing Tsinghua Changgung Hospital Research",
+          "sourceTier": "B",
+          "originalUrl": "https://xinwen.bjd.com.cn/content/s6a9a97d7e4b0e42f8effdcf7.html?from\u003dappMessage\u0026timestamp\u003d1788745469197"
+        }
+      ],
+      "importanceScore": 28,
+      "importanceReasons": [
+        "近期更新"
+      ]
+    },
+    {
+      "id": "3f050255-00ca-3bc3-b1e4-d99395fd5025",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/07/survey-reveals-how-social-media-influences-mens-health-pkg",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/07/survey-reveals-how-social-media-influences-mens-health-pkg",
+      "titleOriginal": "Survey Reveals How Social Media Influences Men’s Health PKG",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-07T00:00:00Z",
+      "collectedAt": "2026-09-09T08:22:05.967442966Z",
+      "contentHash": "8490bf297928ee126fc13557c6e1aa12fd347cf6f3248e53e67c0a0a05a9f775",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/07/survey-reveals-how-social-media-influences-mens-health-pkg"
+        }
+      ],
+      "importanceScore": 28,
+      "importanceReasons": [
+        "近期更新"
+      ]
+    },
     {
       "id": "3208b16d-aa1b-39f3-9401-acbba95e8494",
       "sourceId": "pubmed-recent",
@@ -576,100 +670,6 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "290b9efb-828c-3293-a548-0613c7df4531",
-      "sourceId": "btch-research",
-      "sourceName": "Beijing Tsinghua Changgung Hospital Research",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://xinwen.bjd.com.cn/content/s6a9a97d7e4b0e42f8effdcf7.html?from\u003dappMessage\u0026timestamp\u003d1788745469197",
-      "canonicalUrl": "https://xinwen.bjd.com.cn/content/s6a9a97d7e4b0e42f8effdcf7.html?from\u003dappMessage\u0026timestamp\u003d1788745469197",
-      "titleOriginal": "北京日报 | 率先应用新技术!北京研发抗抑郁新药,有望填补国...",
-      "titleZh": "北京日报 | 率先应用新技术!北京研发抗抑郁新药,有望填补国...",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "北京清华长庚医院"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-07T00:00:00Z",
-      "collectedAt": "2026-09-09T03:11:43.759911600Z",
-      "contentHash": "b8b986d1cb18b772e30f34710c89a2a5d17aa0c86829f87a3e8974635017715a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "btch-research",
-          "sourceName": "Beijing Tsinghua Changgung Hospital Research",
-          "sourceTier": "B",
-          "originalUrl": "https://xinwen.bjd.com.cn/content/s6a9a97d7e4b0e42f8effdcf7.html?from\u003dappMessage\u0026timestamp\u003d1788745469197"
-        }
-      ],
-      "importanceScore": 28,
-      "importanceReasons": [
-        "近期更新"
-      ]
-    },
-    {
-      "id": "3f050255-00ca-3bc3-b1e4-d99395fd5025",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/07/survey-reveals-how-social-media-influences-mens-health-pkg",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/07/survey-reveals-how-social-media-influences-mens-health-pkg",
-      "titleOriginal": "Survey Reveals How Social Media Influences Men’s Health PKG",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-07T00:00:00Z",
-      "collectedAt": "2026-09-09T03:11:44.425928700Z",
-      "contentHash": "8490bf297928ee126fc13557c6e1aa12fd347cf6f3248e53e67c0a0a05a9f775",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/07/survey-reveals-how-social-media-influences-mens-health-pkg"
-        }
-      ],
-      "importanceScore": 28,
-      "importanceReasons": [
         "近期更新"
       ]
     },

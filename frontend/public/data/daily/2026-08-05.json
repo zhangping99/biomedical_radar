@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-09T07:22:15.434664827Z",
+  "generatedAt": "2026-09-09T08:22:10.413101795Z",
   "articles": [
+    {
+      "id": "de3e30e5-d6fb-39a3-8906-d4c6d5dba5bf",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/08/05/cleveland-clinic-pledges-1-million-to-support-teaching-kitchen-at-west-side-market",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/08/05/cleveland-clinic-pledges-1-million-to-support-teaching-kitchen-at-west-side-market",
+      "titleOriginal": "Cleveland Clinic Pledges $1 Million to Support Teaching Kitchen at West Side Market",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-05T00:00:00Z",
+      "collectedAt": "2026-09-09T08:22:05.969916017Z",
+      "contentHash": "e460ec43b22e04c4a312d0c9006d7bcb921e94037b9b080b4450ff919d4f46f4",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/08/05/cleveland-clinic-pledges-1-million-to-support-teaching-kitchen-at-west-side-market"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "8de45168-ec4b-3939-872b-bbae264f2d36",
       "sourceId": "lilly-news-releases",
@@ -97,51 +142,6 @@
         "官方一手来源",
         "政策或安全相关"
       ]
-    },
-    {
-      "id": "de3e30e5-d6fb-39a3-8906-d4c6d5dba5bf",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/08/05/cleveland-clinic-pledges-1-million-to-support-teaching-kitchen-at-west-side-market",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/08/05/cleveland-clinic-pledges-1-million-to-support-teaching-kitchen-at-west-side-market",
-      "titleOriginal": "Cleveland Clinic Pledges $1 Million to Support Teaching Kitchen at West Side Market",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-08-05T00:00:00Z",
-      "collectedAt": "2026-09-09T03:11:44.426924900Z",
-      "contentHash": "e460ec43b22e04c4a312d0c9006d7bcb921e94037b9b080b4450ff919d4f46f4",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/08/05/cleveland-clinic-pledges-1-million-to-support-teaching-kitchen-at-west-side-market"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     }
   ]
 }

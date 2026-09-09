@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-09T07:22:15.434664827Z",
+  "generatedAt": "2026-09-09T08:22:10.413101795Z",
   "articles": [
+    {
+      "id": "68f3ce4d-8b54-30e8-9e94-8fe301ffb190",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/03/tips-for-managing-fall-allergies",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/03/tips-for-managing-fall-allergies",
+      "titleOriginal": "Tips for Managing Fall Allergies",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-03T00:00:00Z",
+      "collectedAt": "2026-09-09T08:22:05.968318470Z",
+      "contentHash": "273d2b5d08b6532c1b8a2411b48cee1baee66483268ddcaaae08979075199581",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/03/tips-for-managing-fall-allergies"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "0ac99798-2176-3e2f-bc4b-94c861a90724",
       "sourceId": "pubmed-recent",
@@ -707,51 +752,6 @@
           "sourceName": "AbbVie News",
           "sourceTier": "B",
           "originalUrl": "https://news.abbvie.com/2026-09-03-AbbVie-Completes-Acquisition-of-Apogee-Therapeutics"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "68f3ce4d-8b54-30e8-9e94-8fe301ffb190",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/03/tips-for-managing-fall-allergies",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/03/tips-for-managing-fall-allergies",
-      "titleOriginal": "Tips for Managing Fall Allergies",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-03T00:00:00Z",
-      "collectedAt": "2026-09-09T03:11:44.425928700Z",
-      "contentHash": "273d2b5d08b6532c1b8a2411b48cee1baee66483268ddcaaae08979075199581",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/03/tips-for-managing-fall-allergies"
         }
       ],
       "importanceScore": 20,
