@@ -1,7 +1,55 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-09T08:22:10.413101795Z",
+  "generatedAt": "2026-09-09T11:50:59.329044959Z",
   "articles": [
+    {
+      "id": "8e909738-3933-37c9-9cf2-55fbc38088ca",
+      "sourceId": "beijing-health-policy",
+      "sourceName": "Beijing Municipal Health Commission",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/rsxxzwgk/202607/t20260706_4749193.html",
+      "canonicalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/rsxxzwgk/202607/t20260706_4749193.html",
+      "titleOriginal": "北京市卫生健康委员会关于2026年度卫生系列高级专业技术职务任职资格评审工作的通知",
+      "titleZh": "北京市卫生健康委员会关于2026年度卫生系列高级专业技术职务任职资格评审工作的通知",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "北京市卫生健康委员会"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-07-06T00:00:00Z",
+      "collectedAt": "2026-09-09T11:50:57.247960095Z",
+      "contentHash": "5c9df1f76bfab90f795956d2c6b356072b3e6789c6c0349f6d70a1660970f719",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "beijing-health-policy",
+          "sourceName": "Beijing Municipal Health Commission",
+          "sourceTier": "A",
+          "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/rsxxzwgk/202607/t20260706_4749193.html"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "5e36ab51-9387-383d-b98a-4ddd745d2608",
       "sourceId": "hengrui-focus-news",
@@ -46,54 +94,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "8e909738-3933-37c9-9cf2-55fbc38088ca",
-      "sourceId": "beijing-health-policy",
-      "sourceName": "Beijing Municipal Health Commission",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/rsxxzwgk/202607/t20260706_4749193.html",
-      "canonicalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/rsxxzwgk/202607/t20260706_4749193.html",
-      "titleOriginal": "北京市卫生健康委员会关于2026年度卫生系列高级专业技术职务任职资格评审工作的通知",
-      "titleZh": "北京市卫生健康委员会关于2026年度卫生系列高级专业技术职务任职资格评审工作的通知",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "北京市卫生健康委员会"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-07-06T00:00:00Z",
-      "collectedAt": "2026-09-09T03:11:40.511090200Z",
-      "contentHash": "5c9df1f76bfab90f795956d2c6b356072b3e6789c6c0349f6d70a1660970f719",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "beijing-health-policy",
-          "sourceName": "Beijing Municipal Health Commission",
-          "sourceTier": "A",
-          "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/rsxxzwgk/202607/t20260706_4749193.html"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
     }
   ]
 }
