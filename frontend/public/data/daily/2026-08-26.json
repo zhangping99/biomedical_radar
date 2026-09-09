@@ -1,52 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-09T03:19:04.159760600Z",
+  "generatedAt": "2026-09-09T04:40:06.396578950Z",
   "articles": [
-    {
-      "id": "9e20959d-40dd-3306-a273-8a2b2ab22994",
-      "sourceId": "lilly-news-releases",
-      "sourceName": "Eli Lilly News Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/zepbound-linked-lower-healthcare-costs-adults-over-age-55",
-      "canonicalUrl": "https://investor.lilly.com/news-releases/news-release-details/zepbound-linked-lower-healthcare-costs-adults-over-age-55",
-      "titleOriginal": "Zepbound linked to lower healthcare costs in adults over age 55 with obesity according to a real-world study",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "Eli Lilly and Company"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-08-26T10:45:00Z",
-      "collectedAt": "2026-09-09T03:18:56.874123900Z",
-      "contentHash": "63ea041bda690108241daf1965f6a414fe7d32706e23b081e74d2a1591142963",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "lilly-news-releases",
-          "sourceName": "Eli Lilly News Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/zepbound-linked-lower-healthcare-costs-adults-over-age-55"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
     {
       "id": "6e5d2704-540a-351a-b19e-58b2f70152a3",
       "sourceId": "fda-medwatch-alerts",
@@ -73,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-08-26T04:00:00Z",
-      "collectedAt": "2026-09-09T03:11:37.784343Z",
+      "collectedAt": "2026-09-09T04:40:03.538510296Z",
       "contentHash": "5ed7f10695a34e2206e62ba8c2cc6f6bfe8d3e7b825c0c9f5c0ee6f13627c3ea",
       "generated": false,
       "generatorVersion": null,
@@ -122,7 +77,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-08-26T04:00:00Z",
-      "collectedAt": "2026-09-09T03:11:37.785344200Z",
+      "collectedAt": "2026-09-09T04:40:03.538805312Z",
       "contentHash": "6a8a853dc578a79363a1e79d4af4dc438d916836ab8875024c0270a80679c99b",
       "generated": false,
       "generatorVersion": null,
@@ -144,6 +99,100 @@
         "高影响事件",
         "政策或安全相关"
       ]
+    },
+    {
+      "id": "5e646784-57e6-3585-b119-043361bbf661",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/semaglutide-injection-out-specification-impurity",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/semaglutide-injection-out-specification-impurity",
+      "titleOriginal": "Semaglutide Injection : Out-of-Specification (Impurity)",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-26T00:00:00Z",
+      "collectedAt": "2026-09-09T04:40:03.673979941Z",
+      "contentHash": "b3bf5d10fc5a930cc7a35fbc505b91ea572bde39d0b1d36ae1bf6c88140ff6d8",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/semaglutide-injection-out-specification-impurity"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "9e20959d-40dd-3306-a273-8a2b2ab22994",
+      "sourceId": "lilly-news-releases",
+      "sourceName": "Eli Lilly News Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/zepbound-linked-lower-healthcare-costs-adults-over-age-55",
+      "canonicalUrl": "https://investor.lilly.com/news-releases/news-release-details/zepbound-linked-lower-healthcare-costs-adults-over-age-55",
+      "titleOriginal": "Zepbound linked to lower healthcare costs in adults over age 55 with obesity according to a real-world study",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Eli Lilly and Company"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-26T10:45:00Z",
+      "collectedAt": "2026-09-09T03:18:56.874123900Z",
+      "contentHash": "63ea041bda690108241daf1965f6a414fe7d32706e23b081e74d2a1591142963",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "lilly-news-releases",
+          "sourceName": "Eli Lilly News Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/zepbound-linked-lower-healthcare-costs-adults-over-age-55"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
     },
     {
       "id": "47359dd0-24da-3436-b7b5-41fefb548ccc",
@@ -332,55 +381,6 @@
       "importanceScore": 35,
       "importanceReasons": [
         "官方一手来源"
-      ]
-    },
-    {
-      "id": "5e646784-57e6-3585-b119-043361bbf661",
-      "sourceId": "health-canada-health-products",
-      "sourceName": "Health Canada Health Product Recalls",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/semaglutide-injection-out-specification-impurity",
-      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/semaglutide-injection-out-specification-impurity",
-      "titleOriginal": "Semaglutide Injection : Out-of-Specification (Impurity)",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Health Canada"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-08-26T00:00:00Z",
-      "collectedAt": "2026-09-08T22:39:11.178114609Z",
-      "contentHash": "b3bf5d10fc5a930cc7a35fbc505b91ea572bde39d0b1d36ae1bf6c88140ff6d8",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "health-canada-health-products",
-          "sourceName": "Health Canada Health Product Recalls",
-          "sourceTier": "A",
-          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/semaglutide-injection-out-specification-impurity"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
       ]
     }
   ]
