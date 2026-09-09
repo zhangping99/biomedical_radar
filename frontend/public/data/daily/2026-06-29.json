@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-09T16:53:33.866891396Z",
+  "generatedAt": "2026-09-09T17:15:37.557853698Z",
   "articles": [
+    {
+      "id": "f7fb05c9-04f7-3512-81c6-ada94c496ee2",
+      "sourceId": "hengrui-focus-news",
+      "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.hengrui.com/media/detail-985.html",
+      "canonicalUrl": "https://www.hengrui.com/media/detail-985.html",
+      "titleOriginal": "恒瑞医药连续8年荣登中国医药创新企业100强榜首",
+      "titleZh": "恒瑞医药连续8年荣登中国医药创新企业100强榜首",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "恒瑞医药"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-06-29T00:00:00Z",
+      "collectedAt": "2026-09-09T17:15:34.383306632Z",
+      "contentHash": "680d104e94eecda245aeb5dece9627b9ad334b7633ba750fff9a648111f00831",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "hengrui-focus-news",
+          "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
+          "sourceTier": "B",
+          "originalUrl": "https://www.hengrui.com/media/detail-985.html"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "b55273ef-a766-3409-97e1-432128da0720",
       "sourceId": "beijing-health-policy",
@@ -96,51 +141,6 @@
       "importanceReasons": [
         "官方一手来源"
       ]
-    },
-    {
-      "id": "f7fb05c9-04f7-3512-81c6-ada94c496ee2",
-      "sourceId": "hengrui-focus-news",
-      "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.hengrui.com/media/detail-985.html",
-      "canonicalUrl": "https://www.hengrui.com/media/detail-985.html",
-      "titleOriginal": "恒瑞医药连续8年荣登中国医药创新企业100强榜首",
-      "titleZh": "恒瑞医药连续8年荣登中国医药创新企业100强榜首",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "恒瑞医药"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-06-29T00:00:00Z",
-      "collectedAt": "2026-09-09T12:28:33.621872553Z",
-      "contentHash": "680d104e94eecda245aeb5dece9627b9ad334b7633ba750fff9a648111f00831",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "hengrui-focus-news",
-          "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
-          "sourceTier": "B",
-          "originalUrl": "https://www.hengrui.com/media/detail-985.html"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     }
   ]
 }
