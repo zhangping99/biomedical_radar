@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-09T04:40:06.396578950Z",
+  "generatedAt": "2026-09-09T07:22:15.434664827Z",
   "articles": [
+    {
+      "id": "922710ae-d837-3a32-bddc-fb1eb1db3675",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07743580",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07743580",
+      "titleOriginal": "A Study of Secutrelvir in Participants With Coronavirus Disease 2019 (COVID-19) Who Are at High Risk for Progression to Severe Disease",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "SARS-CoV-2"
+      ],
+      "publishedAt": "2026-08-04T00:00:00Z",
+      "collectedAt": "2026-09-09T07:22:13.858739592Z",
+      "contentHash": "4508a289cce8b690395d2a3b396fde1e472fc261ba1d3d2d0da07cb9cff0d120",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07743580"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "4fca141b-3c81-35ad-b5ea-4a85605a8371",
       "sourceId": "pfizer-press-releases",
@@ -231,55 +280,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "922710ae-d837-3a32-bddc-fb1eb1db3675",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07743580",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07743580",
-      "titleOriginal": "A Study of Secutrelvir in Participants With Coronavirus Disease 2019 (COVID-19) Who Are at High Risk for Progression to Severe Disease",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "SARS-CoV-2"
-      ],
-      "publishedAt": "2026-08-04T00:00:00Z",
-      "collectedAt": "2026-09-09T03:11:41.394528100Z",
-      "contentHash": "4508a289cce8b690395d2a3b396fde1e472fc261ba1d3d2d0da07cb9cff0d120",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07743580"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     }
   ]
 }

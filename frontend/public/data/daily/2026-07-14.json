@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-09T04:40:06.396578950Z",
+  "generatedAt": "2026-09-09T07:22:15.434664827Z",
   "articles": [
+    {
+      "id": "274eb26c-9031-34bb-9e80-40c5aa347e68",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07702786",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07702786",
+      "titleOriginal": "Effect of Nordic Walking Versus Treadmill Training on Gait Asymmetry in Children With Unilateral Cerebral Palsy",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Cerebral Palsy"
+      ],
+      "publishedAt": "2026-07-14T00:00:00Z",
+      "collectedAt": "2026-09-09T07:22:13.863976648Z",
+      "contentHash": "d82915817739a6438f5ad4cb4244da9c815f2bee8b6c8b6a7ecebc89a65e526e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07702786"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "95596aff-cd02-3d3e-beac-6ac40990f557",
       "sourceId": "hansoh-news",
@@ -46,55 +95,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "274eb26c-9031-34bb-9e80-40c5aa347e68",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07702786",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07702786",
-      "titleOriginal": "Effect of Nordic Walking Versus Treadmill Training on Gait Asymmetry in Children With Unilateral Cerebral Palsy",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Cerebral Palsy"
-      ],
-      "publishedAt": "2026-07-14T00:00:00Z",
-      "collectedAt": "2026-09-09T03:11:41.396528400Z",
-      "contentHash": "d82915817739a6438f5ad4cb4244da9c815f2bee8b6c8b6a7ecebc89a65e526e",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07702786"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     },
     {
       "id": "617cf6ed-f2fd-3c77-8e08-ac5e997b7f66",
