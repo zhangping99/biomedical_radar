@@ -1,7 +1,54 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-09T12:58:00.924033759Z",
+  "generatedAt": "2026-09-09T16:53:33.866891396Z",
   "articles": [
+    {
+      "id": "7ccfc15e-1a7a-36e8-ac14-bc1ef0a796e9",
+      "sourceId": "nhsa-healthcare-security-updates",
+      "sourceName": "National Healthcare Security Administration Policies",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.nhsa.gov.cn/art/2026/7/17/art_53_21473.html",
+      "canonicalUrl": "https://www.nhsa.gov.cn/art/2026/7/17/art_53_21473.html",
+      "titleOriginal": "国家医保局办公室 国家卫生健康委办公厅关于确定医保支持基层医疗卫生服务发展重点联系点的通知",
+      "titleZh": "国家医保局办公室 国家卫生健康委办公厅关于确定医保支持基层医疗卫生服务发展重点联系点的通知",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "reimbursement_access",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "国家医疗保障局"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-07-17T00:00:00Z",
+      "collectedAt": "2026-09-09T16:53:31.157107160Z",
+      "contentHash": "05aec198650b8746591c789459632dd8759ee2c0850f71a613f56ae94c2ee13f",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "nhsa-healthcare-security-updates",
+          "sourceName": "National Healthcare Security Administration Policies",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nhsa.gov.cn/art/2026/7/17/art_53_21473.html"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "f45b885a-2e91-371c-bd1b-6fd0ba8687bf",
       "sourceId": "gsk-press-releases",
@@ -48,53 +95,6 @@
       "importanceScore": 35,
       "importanceReasons": [
         "高影响事件"
-      ]
-    },
-    {
-      "id": "7ccfc15e-1a7a-36e8-ac14-bc1ef0a796e9",
-      "sourceId": "nhsa-healthcare-security-updates",
-      "sourceName": "National Healthcare Security Administration Policies",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.nhsa.gov.cn/art/2026/7/17/art_53_21473.html",
-      "canonicalUrl": "https://www.nhsa.gov.cn/art/2026/7/17/art_53_21473.html",
-      "titleOriginal": "国家医保局办公室 国家卫生健康委办公厅关于确定医保支持基层医疗卫生服务发展重点联系点的通知",
-      "titleZh": "国家医保局办公室 国家卫生健康委办公厅关于确定医保支持基层医疗卫生服务发展重点联系点的通知",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "reimbursement_access",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "国家医疗保障局"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-07-17T00:00:00Z",
-      "collectedAt": "2026-09-09T11:50:57.102332718Z",
-      "contentHash": "05aec198650b8746591c789459632dd8759ee2c0850f71a613f56ae94c2ee13f",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "nhsa-healthcare-security-updates",
-          "sourceName": "National Healthcare Security Administration Policies",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nhsa.gov.cn/art/2026/7/17/art_53_21473.html"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
       ]
     }
   ]
