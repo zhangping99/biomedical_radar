@@ -6,8 +6,9 @@
 
 ## 已实现范围
 
-- 42 个来源配置：29 个启用来源覆盖国内外监管、政策、学术、医院和药企，13 个受访问限制或缺少稳定接口的来源保留为禁用候选；
-- `rapid`、`policy`、`research`、`institutional` 四级定时策略，RSS、REST API、两阶段 PubMed API、HTML 公告接入框架；
+- 52 个来源配置：39 个启用来源覆盖国内外监管、政策、学术、医院和药企，13 个受访问限制或缺少稳定接口的来源保留为禁用候选；
+- `rapid`、`policy`、`research`、`pharma`、`hospital` 五组定时策略；旧 `institutional` 参数兼容映射到医院和药企两组；
+- 首页提供学术研究、中国政策、国内药企、国外药企、国内医院五个重点入口；今日必读每来源最多两条，完整最新流保持时间排序；
 - 全局并发上限、同域名串行、有限重试、响应大小/单批条数限制、空页面检测和来源级失败隔离；
 - URL/标题规范化、稳定 ID、内容哈希、保守去重、12 个栏目、事件识别和配置化重要度评分；
 - 无密钥降级翻译/摘要 Provider，不编造外文中文内容；
@@ -106,7 +107,7 @@ pnpm install --frozen-lockfile
 pnpm validate:data && pnpm lint && pnpm test && pnpm build
 ```
 
-去掉 `--fixture-dir` 即执行真实公开来源采集。`--groups` 可取 `all`、`rapid`、`policy`、`research`、`institutional`，也可使用逗号组合；不传时保持兼容行为，采集全部启用来源。请先阅读 `docs/SOURCES.md`，不要提高频率或绕过来源限制。
+去掉 `--fixture-dir` 即执行真实公开来源采集。`--groups` 可取 `all`、`rapid`、`policy`、`research`、`pharma`、`hospital`，也可使用逗号组合；旧 `institutional` 等同 `pharma,hospital`。不传时采集全部启用来源。请先阅读 `docs/SOURCES.md`，不要提高频率或绕过来源限制。
 
 ## GitHub Pages
 
@@ -116,7 +117,7 @@ pnpm validate:data && pnpm lint && pnpm test && pnpm build
 2. 手动运行一次 `CI`，成功后 `Deploy GitHub Pages` 会部署同一提交；
 3. 手动运行 `Collect static feed` 验证真实来源；任务会在契约、测试和构建全部通过后提交静态数据，并直接部署同一份已验证产物；
 
-快速安全与监管信号每四小时采集，政策和学术来源每天两次，医院与药企每天一次；四组任务错峰且共用单写入并发锁。任何构建、契约或测试失败都会阻止新版本部署，上一版 Pages 保持不变。回滚流程见 [infra/README.md](infra/README.md)。
+快速安全与监管信号每四小时采集，中国政策和药企每六小时采集，学术和医院每天两次；五组任务错峰且共用单写入并发锁。任何构建、契约或测试失败都会阻止新版本部署，上一版 Pages 保持不变。回滚流程见 [infra/README.md](infra/README.md)。
 
 ## 安全与内容边界
 
@@ -128,8 +129,8 @@ pnpm validate:data && pnpm lint && pnpm test && pnpm build
 
 ## 尚需人工/外部验证
 
-- 扩源后的四组定时采集各连续成功七次（当前从新计划重新累计）；
+- 扩源后的五组定时采集各连续成功七次（当前从新计划重新累计）；
 - 真机 iPhone Safari/PWA 与 Android Chrome/PWA 安装、弱网和离线验收；
 - NMPA HTTPS 在本机 Java 17 中曾发生证书握手失败，但扩源后的 GitHub Actions 全量采集成功；NEJM 官方 Feed 在该次远程采集中返回一次 `HTTP_403`，两者继续按来源健康状态观察；
-- 对 29 个启用来源的版权、使用条件和页面结构做定期复核；13 个禁用候选不得在未确认公开访问边界前启用；
+- 对 39 个启用来源的版权、使用条件和页面结构做定期复核；13 个禁用候选不得在未确认公开访问边界前启用；
 - 14 天个人使用价值观察。以上项目完成前，`CURRENT_PHASE.md` 不得切换到 V2。

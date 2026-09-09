@@ -7,6 +7,18 @@ import java.util.List;
 import java.util.Locale;
 
 public final class ContentClassifier {
+    public boolean relevantTitle(SourceDefinition source, String title) {
+        boolean institutional = source.type() == dev.zhangping.biomedicalradar.domain.DomainEnums.SourceType.company
+                || "hospital".equals(source.options().get("entityType"));
+        if (!institutional) {
+            return true;
+        }
+        String text = title.toLowerCase(Locale.ROOT);
+        // Deliberately narrow: retain scientific congress results and trial recruitment.
+        return !contains(text, "招聘公告", "招聘启事", "招标公告", "采购公告", "会议通知", "放假通知")
+                && !text.matches(".*(?:to present|to participate|to speak|will participate|will present) at .*?(?:investor|healthcare) conference.*");
+    }
+
     public Category category(SourceDefinition source, RawSourceItem item) {
         String categoryOverride = source.options().get("categoryOverride");
         if (categoryOverride != null && !categoryOverride.isBlank()) {

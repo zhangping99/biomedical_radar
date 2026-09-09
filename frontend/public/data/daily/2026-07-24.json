@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-08T22:39:13.834738870Z",
+  "generatedAt": "2026-09-09T03:19:04.159760600Z",
   "articles": [
     {
       "id": "edc0bf69-06b5-3195-a97d-03c3c62e064e",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-24T00:00:00Z",
-      "collectedAt": "2026-09-08T05:05:33.749158770Z",
+      "collectedAt": "2026-09-09T03:18:58.410922400Z",
       "contentHash": "f200df3720349e58eb82d8bef1ae8feec379209b48addc0c9e5d9374669c7b8a",
       "generated": false,
       "generatorVersion": null,
@@ -75,7 +75,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-24T00:00:00Z",
-      "collectedAt": "2026-09-08T05:05:35.717515448Z",
+      "collectedAt": "2026-09-09T03:18:57.743721Z",
       "contentHash": "d58d6740a2208809cc049966af6d8d842e17ea9faceff8f57fd719ae342a60e2",
       "generated": false,
       "generatorVersion": null,
@@ -122,7 +122,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-24T00:00:00Z",
-      "collectedAt": "2026-09-08T05:05:36.009771902Z",
+      "collectedAt": "2026-09-09T03:18:58.725908300Z",
       "contentHash": "47b4e5a96a33f2c1bfedaeee188e8613bdd5803bc1d8431fff78c895d12f1fd7",
       "generated": false,
       "generatorVersion": null,
@@ -136,6 +136,51 @@
           "sourceName": "Sanofi Press Releases",
           "sourceTier": "B",
           "originalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-07-24-05-30-00-3332696"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "5948d2ce-d3a6-3c67-9961-3dd8b52dcfbe",
+      "sourceId": "hansoh-news",
+      "sourceName": "翰森制药新闻发布",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.hansoh.cn/news/news-detail-514054.htm",
+      "canonicalUrl": "https://www.hansoh.cn/news/news-detail-514054.htm",
+      "titleOriginal": "翰森制药 | 阿美乐® ACTIVE 研究在线发表于国际期刊 JTO",
+      "titleZh": "翰森制药 | 阿美乐® ACTIVE 研究在线发表于国际期刊 JTO",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "翰森制药"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-07-24T00:00:00Z",
+      "collectedAt": "2026-09-09T03:18:59.380683Z",
+      "contentHash": "acdd44eeb82a7ad4a447dbb5d1f3f3e7ab0676ad61540592d9a02592c0e0041e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "hansoh-news",
+          "sourceName": "翰森制药新闻发布",
+          "sourceTier": "B",
+          "originalUrl": "https://www.hansoh.cn/news/news-detail-514054.htm"
         }
       ],
       "importanceScore": 20,

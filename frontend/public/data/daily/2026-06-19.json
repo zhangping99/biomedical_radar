@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-08T22:39:13.834738870Z",
+  "generatedAt": "2026-09-09T03:19:04.159760600Z",
   "articles": [
     {
       "id": "94de6201-1f9a-313b-adfe-178fe6832b5d",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-06-19T00:00:00Z",
-      "collectedAt": "2026-09-08T05:05:36.010534218Z",
+      "collectedAt": "2026-09-09T03:18:58.730909500Z",
       "contentHash": "8f0be4227973b05b2e4773800997e7da776a6c810bb7e3d728b330f22e7a6887",
       "generated": false,
       "generatorVersion": null,
@@ -48,6 +48,51 @@
       "importanceReasons": [
         "高影响事件"
       ]
+    },
+    {
+      "id": "59f248cf-0cae-3fbe-b1a2-cd8ec8107cee",
+      "sourceId": "sanofi-press-releases",
+      "sourceName": "Sanofi Press Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-19-08-00-00-3314641",
+      "canonicalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-19-08-00-00-3314641",
+      "titleOriginal": "Communiqué de presse : Sanofi et HEC Paris lancent la « Sanofi MBA Life Sciences Scholarship » pour accompagner les futurs leaders de la santé",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "EU",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Sanofi"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-06-19T00:00:00Z",
+      "collectedAt": "2026-09-09T03:18:58.731910700Z",
+      "contentHash": "1899f9e32d1729d4e87d0a19d4b5ec66fcb1edf4853382a1a3d9f06a468208f1",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "sanofi-press-releases",
+          "sourceName": "Sanofi Press Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-19-08-00-00-3314641"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
     },
     {
       "id": "d28f91cc-f232-3302-87e8-f52c0da3e3d5",
@@ -75,7 +120,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-06-19T00:00:00Z",
-      "collectedAt": "2026-09-08T05:05:30.250780306Z",
+      "collectedAt": "2026-09-09T03:11:44.426924900Z",
       "contentHash": "4292ced24a77da22bf976d87202d3695bc9cc9fb97eac7bd3f5bb59e351ff31d",
       "generated": false,
       "generatorVersion": null,
@@ -120,7 +165,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-06-19T00:00:00Z",
-      "collectedAt": "2026-09-08T05:05:30.250874532Z",
+      "collectedAt": "2026-09-09T03:11:44.426924900Z",
       "contentHash": "6207d2aa9b31f3ec8a5235b6a2bfc8e469f8f8e7ebe05f9344b11324bfe5ecfb",
       "generated": false,
       "generatorVersion": null,
@@ -134,51 +179,6 @@
           "sourceName": "Cleveland Clinic Newsroom",
           "sourceTier": "B",
           "originalUrl": "https://newsroom.clevelandclinic.org/2026/06/19/driving-simulator-helps-mom-who-suffered-stroke-get-back-on-road"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "59f248cf-0cae-3fbe-b1a2-cd8ec8107cee",
-      "sourceId": "sanofi-press-releases",
-      "sourceName": "Sanofi Press Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-19-08-00-00-3314641",
-      "canonicalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-19-08-00-00-3314641",
-      "titleOriginal": "Communiqué de presse : Sanofi et HEC Paris lancent la « Sanofi MBA Life Sciences Scholarship » pour accompagner les futurs leaders de la santé",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "EU",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "Sanofi"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-06-19T00:00:00Z",
-      "collectedAt": "2026-09-08T05:05:36.010612414Z",
-      "contentHash": "1899f9e32d1729d4e87d0a19d4b5ec66fcb1edf4853382a1a3d9f06a468208f1",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "sanofi-press-releases",
-          "sourceName": "Sanofi Press Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-19-08-00-00-3314641"
         }
       ],
       "importanceScore": 20,

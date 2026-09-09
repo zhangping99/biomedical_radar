@@ -1,35 +1,35 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-08T22:39:13.834738870Z",
+  "generatedAt": "2026-09-09T03:19:04.159760600Z",
   "articles": [
     {
-      "id": "5320e23d-6d6d-3464-887a-1040c949f2fe",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
-      "titleOriginal": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
+      "id": "e9657e4f-04b3-3472-add1-49d65a550fbf",
+      "sourceId": "abbvie-news",
+      "sourceName": "AbbVie News",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://news.abbvie.com/2026-09-02-Allergan-Aesthetics-Unveils-the-Layered-Beauty-Report,-Advancing-the-Global-Conversation-Around-Aesthetic-Care",
+      "canonicalUrl": "https://news.abbvie.com/2026-09-02-Allergan-Aesthetics-Unveils-the-Layered-Beauty-Report,-Advancing-the-Global-Conversation-Around-Aesthetic-Care",
+      "titleOriginal": "Allergan Aesthetics Unveils the Layered Beauty Report, Advancing the Global Conversation Around Aesthetic Care",
       "titleZh": null,
       "summaryZh": null,
       "whyItMattersZh": null,
       "language": "en",
       "region": "US",
-      "category": "quality_safety",
+      "category": "pharma_biotech",
       "eventTypes": [
-        "recall"
+        "update"
       ],
       "entities": [
         {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
+          "type": "company",
+          "name": "AbbVie"
         }
       ],
       "diseaseAreas": [],
-      "publishedAt": "2026-09-02T04:00:00Z",
-      "collectedAt": "2026-09-08T22:39:11.028534854Z",
-      "contentHash": "50b6176285ab7ea32608bfc33cdfdfd8bfebf18a330b8f3a9856d33e89bf3cd3",
+      "publishedAt": "2026-09-02T12:00:00Z",
+      "collectedAt": "2026-09-09T03:19:00.987622100Z",
+      "contentHash": "d4672b1b815aea7710c3538ca6f6898aafd50983340da59359ad20b5dfb872b2",
       "generated": false,
       "generatorVersion": null,
       "generatedAt": null,
@@ -38,18 +38,104 @@
       "legalBasis": "rss_allowed",
       "sourceLinks": [
         {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound"
+          "sourceId": "abbvie-news",
+          "sourceName": "AbbVie News",
+          "sourceTier": "B",
+          "originalUrl": "https://news.abbvie.com/2026-09-02-Allergan-Aesthetics-Unveils-the-Layered-Beauty-Report,-Advancing-the-Global-Conversation-Around-Aesthetic-Care"
         }
       ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "c9056a05-4c97-3159-8bba-55401843cb5b",
+      "sourceId": "merck-news-releases",
+      "sourceName": "Merck News Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.merck.com/news/merck-to-participate-in-the-wells-fargo-21st-annual-healthcare-conference/",
+      "canonicalUrl": "https://www.merck.com/news/merck-to-participate-in-the-wells-fargo-21st-annual-healthcare-conference",
+      "titleOriginal": "Merck to Participate in the Wells Fargo 21st Annual Healthcare Conference",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Merck"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-02T00:00:00Z",
+      "collectedAt": "2026-09-09T03:18:58.407911100Z",
+      "contentHash": "9cd6e839037e4571df3af857f60eddb584c2f24716f90d653dd28c7e74e56e17",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "merck-news-releases",
+          "sourceName": "Merck News Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://www.merck.com/news/merck-to-participate-in-the-wells-fargo-21st-annual-healthcare-conference/"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "b83fc5b0-8d47-38eb-8081-4db18dd13c99",
+      "sourceId": "hansoh-news",
+      "sourceName": "翰森制药新闻发布",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.hansoh.cn/news/news-detail-514073.htm",
+      "canonicalUrl": "https://www.hansoh.cn/news/news-detail-514073.htm",
+      "titleOriginal": "翰森制药注射用HS-20093治疗小细胞肺癌的上市许可申请获国家药品监督管理局正式受理",
+      "titleZh": "翰森制药注射用HS-20093治疗小细胞肺癌的上市许可申请获国家药品监督管理局正式受理",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "翰森制药"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-02T00:00:00Z",
+      "collectedAt": "2026-09-09T03:18:59.378685Z",
+      "contentHash": "ed8e0f905168a2fa43f8921655175309ecbe7aa32696f601ab3ac4fa27996ad5",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "hansoh-news",
+          "sourceName": "翰森制药新闻发布",
+          "sourceTier": "B",
+          "originalUrl": "https://www.hansoh.cn/news/news-detail-514073.htm"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
     },
     {
       "id": "314c327d-7836-3bd4-beef-6c4f6582279d",
@@ -77,7 +163,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-02T04:00:00Z",
-      "collectedAt": "2026-09-08T22:39:11.029603833Z",
+      "collectedAt": "2026-09-09T03:11:37.780346Z",
       "contentHash": "d1dd94d6ec6fced104192d8eb24c78739de6ddc95ec466c51973f4cc2e56c69d",
       "generated": false,
       "generatorVersion": null,
@@ -99,6 +185,1135 @@
         "高影响事件",
         "政策或安全相关"
       ]
+    },
+    {
+      "id": "5320e23d-6d6d-3464-887a-1040c949f2fe",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
+      "titleOriginal": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-02T04:00:00Z",
+      "collectedAt": "2026-09-09T03:11:37.780346Z",
+      "contentHash": "50b6176285ab7ea32608bfc33cdfdfd8bfebf18a330b8f3a9856d33e89bf3cd3",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "0450cec0-9ee2-365d-a5c6-ebcc739b761b",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-convenience-kits-containing-bd-chloraprep",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-convenience-kits-containing-bd-chloraprep",
+      "titleOriginal": "Convenience Kit Correction: Medline Issues Correction for Convenience Kits Containing BD ChloraPrep Applicators",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-02T04:00:00Z",
+      "collectedAt": "2026-09-09T03:11:37.779347200Z",
+      "contentHash": "155c3793436dc63e6cbfe68e90b56fbb5446e1e2869ff2ddedda617895cde179",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-convenience-kits-containing-bd-chloraprep"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "95f23bed-890c-3820-b53a-c68a44e3456d",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42708337/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42708337",
+      "titleOriginal": "Safety and Efficacy of Melatonin for Sleep Disorders in Cancer: A Systematic Review and Meta-Analysis of Randomized Clinical Trials.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "safety_alert",
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-02T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:43.222768400Z",
+      "contentHash": "ebe3e4c0ecc78c3109e7d90f879995d8fe5c6c5087d8f119446ef7deec9dba44",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42708337/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件"
+      ]
+    },
+    {
+      "id": "8f7643c2-5fb1-3c3a-aa06-455fa0cde91c",
+      "sourceId": "nejm-current-issue",
+      "sourceName": "New England Journal of Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMoa2504059?af\u003dR\u0026rss\u003dcurrentIssue",
+      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMoa2504059?af\u003dR\u0026rss\u003dcurrentIssue",
+      "titleOriginal": "Daraxonrasib for Previously Treated RAS-Mutant Non–Small-Cell Lung Cancer",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "New England Journal of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-02T09:00:18Z",
+      "collectedAt": "2026-09-09T03:11:42.750926300Z",
+      "contentHash": "c57828a37ce7d626b404442c6b99f01e64d48f80cad1a614920e528dde712ba2",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nejm-current-issue",
+          "sourceName": "New England Journal of Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMoa2504059?af\u003dR\u0026rss\u003dcurrentIssue"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "00d8bb5d-9451-3d04-864b-7855f335c710",
+      "sourceId": "nejm-current-issue",
+      "sourceName": "New England Journal of Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMoa2602804?af\u003dR\u0026rss\u003dcurrentIssue",
+      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMoa2602804?af\u003dR\u0026rss\u003dcurrentIssue",
+      "titleOriginal": "Azacitidine–Venetoclax or Induction Chemotherapy for Acute Myeloid Leukemia",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "New England Journal of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-02T09:00:18Z",
+      "collectedAt": "2026-09-09T03:11:42.751919800Z",
+      "contentHash": "408d4a1d5ecbdec0dab4bd80b90cc9a41d23993869c10f832de2908e3bfe30ec",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nejm-current-issue",
+          "sourceName": "New England Journal of Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMoa2602804?af\u003dR\u0026rss\u003dcurrentIssue"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "d82c808f-9250-3d4b-b619-1f8d22e591c0",
+      "sourceId": "nejm-current-issue",
+      "sourceName": "New England Journal of Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2608517?af\u003dR\u0026rss\u003dcurrentIssue",
+      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2608517?af\u003dR\u0026rss\u003dcurrentIssue",
+      "titleOriginal": "Telitacicept for IgA Nephropathy",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "New England Journal of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-02T09:00:18Z",
+      "collectedAt": "2026-09-09T03:11:42.751919800Z",
+      "contentHash": "9d977897f8abbe0b1a4ccb5b5364065518328a69fb238e9d696e5e1fd7089eee",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nejm-current-issue",
+          "sourceName": "New England Journal of Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2608517?af\u003dR\u0026rss\u003dcurrentIssue"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "00b20e9c-8ab8-3597-b3d4-382785dfd947",
+      "sourceId": "nejm-current-issue",
+      "sourceName": "New England Journal of Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2608518?af\u003dR\u0026rss\u003dcurrentIssue",
+      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2608518?af\u003dR\u0026rss\u003dcurrentIssue",
+      "titleOriginal": "More on Causes of Death among Children and Adolescents in the United States",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "New England Journal of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-02T09:00:18Z",
+      "collectedAt": "2026-09-09T03:11:42.751919800Z",
+      "contentHash": "172c7a7aa8aca5d30186137f9b6c9e1c376f6be80b0ff00fa30cc7ff70a7ba3f",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nejm-current-issue",
+          "sourceName": "New England Journal of Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2608518?af\u003dR\u0026rss\u003dcurrentIssue"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "366da8f9-c0dc-3f67-83ef-674266d78b9f",
+      "sourceId": "nejm-current-issue",
+      "sourceName": "New England Journal of Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2608837?af\u003dR\u0026rss\u003dcurrentIssue",
+      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2608837?af\u003dR\u0026rss\u003dcurrentIssue",
+      "titleOriginal": "Childhood Vaccine Hesitancy",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "New England Journal of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-02T09:00:18Z",
+      "collectedAt": "2026-09-09T03:11:42.752921700Z",
+      "contentHash": "b690a91400c3cd0e849b9968c5026bdff1d5274b99940eb73319f4fd4d7558e5",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nejm-current-issue",
+          "sourceName": "New England Journal of Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2608837?af\u003dR\u0026rss\u003dcurrentIssue"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "67721660-88b9-3d63-bc13-1abb092b4d72",
+      "sourceId": "nejm-current-issue",
+      "sourceName": "New England Journal of Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2602496?af\u003dR\u0026rss\u003dcurrentIssue",
+      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2602496?af\u003dR\u0026rss\u003dcurrentIssue",
+      "titleOriginal": "A Zoonotic Orthonairovirus from Febrile Patients in China",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "New England Journal of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-02T09:00:18Z",
+      "collectedAt": "2026-09-09T03:11:42.752921700Z",
+      "contentHash": "11171ad131177288b9921fcb92553b63b298f6030c983be171ca517636ad1114",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nejm-current-issue",
+          "sourceName": "New England Journal of Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2602496?af\u003dR\u0026rss\u003dcurrentIssue"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "0342449b-99ce-32b4-a721-04a3ef4f2d53",
+      "sourceId": "nejm-current-issue",
+      "sourceName": "New England Journal of Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2603114?af\u003dR\u0026rss\u003dcurrentIssue",
+      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2603114?af\u003dR\u0026rss\u003dcurrentIssue",
+      "titleOriginal": "Lentiviral In Vivo CD19 CAR T-Cell Therapy in Neurologic Autoimmune Disorders",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "New England Journal of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-02T09:00:18Z",
+      "collectedAt": "2026-09-09T03:11:42.752921700Z",
+      "contentHash": "16d941652068598dde8a409057acd77a70368d6212556a922fa66d36f17906dc",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nejm-current-issue",
+          "sourceName": "New England Journal of Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2603114?af\u003dR\u0026rss\u003dcurrentIssue"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "edf75700-35ca-3fd1-84c2-dcf6f10b5ac7",
+      "sourceId": "nejm-current-issue",
+      "sourceName": "New England Journal of Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMx260023?af\u003dR\u0026rss\u003dcurrentIssue",
+      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMx260023?af\u003dR\u0026rss\u003dcurrentIssue",
+      "titleOriginal": "Case 20-2026: A 38-Year-Old Man with Abdominal Pain",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "New England Journal of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-02T09:00:18Z",
+      "collectedAt": "2026-09-09T03:11:42.752921700Z",
+      "contentHash": "e963ff70662cb422e7f0923c29cfcedb26a321dc541bebeeb6b39d1b06fba844",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nejm-current-issue",
+          "sourceName": "New England Journal of Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMx260023?af\u003dR\u0026rss\u003dcurrentIssue"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "20ee7cbc-a464-32f6-9552-e19fadb14285",
+      "sourceId": "nejm-current-issue",
+      "sourceName": "New England Journal of Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMe2607967?af\u003dR\u0026rss\u003dcurrentIssue",
+      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMe2607967?af\u003dR\u0026rss\u003dcurrentIssue",
+      "titleOriginal": "Hypomethylating Agents plus Venetoclax as Compared with Intensive Chemotherapy in Patients with AML",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "New England Journal of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-02T09:00:18Z",
+      "collectedAt": "2026-09-09T03:11:42.752921700Z",
+      "contentHash": "d8da607ea9735e7f582afc32fa4a2014368cf485f640ab486b3f0a397dfaf60d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nejm-current-issue",
+          "sourceName": "New England Journal of Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMe2607967?af\u003dR\u0026rss\u003dcurrentIssue"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "39b1f975-fa94-39b6-be43-8d1e6f9c1b1d",
+      "sourceId": "nejm-current-issue",
+      "sourceName": "New England Journal of Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMe2609749?af\u003dR\u0026rss\u003dcurrentIssue",
+      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMe2609749?af\u003dR\u0026rss\u003dcurrentIssue",
+      "titleOriginal": "Infigratinib in Achondroplasia — A Potentially Giant Step Forward",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "New England Journal of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-02T09:00:18Z",
+      "collectedAt": "2026-09-09T03:11:42.752921700Z",
+      "contentHash": "a6361401f267500221c619dec12eaeb4ee8e27eaec94a54321da078ba3e2b625",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nejm-current-issue",
+          "sourceName": "New England Journal of Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMe2609749?af\u003dR\u0026rss\u003dcurrentIssue"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "65177d81-7042-31b0-9bf0-8b6f028436d2",
+      "sourceId": "nejm-current-issue",
+      "sourceName": "New England Journal of Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMe2609856?af\u003dR\u0026rss\u003dcurrentIssue",
+      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMe2609856?af\u003dR\u0026rss\u003dcurrentIssue",
+      "titleOriginal": "Fluid Resuscitation in Patients with Sepsis — For Whom the Balance Tolls",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "New England Journal of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-02T09:00:18Z",
+      "collectedAt": "2026-09-09T03:11:42.753922100Z",
+      "contentHash": "c83e244b6d03e1b2ba2616e3ca72dcff8f67086070c7b18c7722dc3ceccc800d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nejm-current-issue",
+          "sourceName": "New England Journal of Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMe2609856?af\u003dR\u0026rss\u003dcurrentIssue"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "ba7aacfd-2c9f-353f-894e-00f715c9e197",
+      "sourceId": "nejm-current-issue",
+      "sourceName": "New England Journal of Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMcps2602868?af\u003dR\u0026rss\u003dcurrentIssue",
+      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMcps2602868?af\u003dR\u0026rss\u003dcurrentIssue",
+      "titleOriginal": "Break a Leg",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "New England Journal of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-02T09:00:18Z",
+      "collectedAt": "2026-09-09T03:11:42.753922100Z",
+      "contentHash": "105f5fab9830b80e286de1727d698dab87418b8c1e5476d870921241f39ea6c7",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nejm-current-issue",
+          "sourceName": "New England Journal of Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMcps2602868?af\u003dR\u0026rss\u003dcurrentIssue"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "129fccef-9a5d-3283-9452-6df7fd6d733a",
+      "sourceId": "nejm-current-issue",
+      "sourceName": "New England Journal of Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMicm2602968?af\u003dR\u0026rss\u003dcurrentIssue",
+      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMicm2602968?af\u003dR\u0026rss\u003dcurrentIssue",
+      "titleOriginal": "Urticarial Vasculitis",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "New England Journal of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-02T09:00:18Z",
+      "collectedAt": "2026-09-09T03:11:42.753922100Z",
+      "contentHash": "c126c6c34a1cdb7e6f0c196cf973a543f3e72a88bc5581c6292b6d7428eae0ed",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nejm-current-issue",
+          "sourceName": "New England Journal of Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMicm2602968?af\u003dR\u0026rss\u003dcurrentIssue"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "d1fe9f40-3a42-3466-b576-11d351c70fad",
+      "sourceId": "nejm-current-issue",
+      "sourceName": "New England Journal of Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMicm2605116?af\u003dR\u0026rss\u003dcurrentIssue",
+      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMicm2605116?af\u003dR\u0026rss\u003dcurrentIssue",
+      "titleOriginal": "Acro-Osteolysis",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "New England Journal of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-02T09:00:18Z",
+      "collectedAt": "2026-09-09T03:11:42.753922100Z",
+      "contentHash": "db8c4523b06adac24b35d0efba6ae6c6cbb11b72c206d7af6206f8ee32d8562c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nejm-current-issue",
+          "sourceName": "New England Journal of Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMicm2605116?af\u003dR\u0026rss\u003dcurrentIssue"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "94b8837d-87b8-3f10-b28d-86f610a4ece2",
+      "sourceId": "nejm-current-issue",
+      "sourceName": "New England Journal of Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMclde2515158?af\u003dR\u0026rss\u003dcurrentIssue",
+      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMclde2515158?af\u003dR\u0026rss\u003dcurrentIssue",
+      "titleOriginal": "Physical Examination for Asymptomatic Adults",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "New England Journal of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-02T09:00:18Z",
+      "collectedAt": "2026-09-09T03:11:42.753922100Z",
+      "contentHash": "2dd3d1f45c22755bf4e097eec671c3093325d2eeeb52223f948429bd90300c5e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nejm-current-issue",
+          "sourceName": "New England Journal of Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMclde2515158?af\u003dR\u0026rss\u003dcurrentIssue"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "6150f29c-3861-3a99-be93-ea1836d73ed4",
+      "sourceId": "nhsa-healthcare-security-updates",
+      "sourceName": "National Healthcare Security Administration Policies",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.nhsa.gov.cn/art/2026/9/2/art_53_21976.html",
+      "canonicalUrl": "https://www.nhsa.gov.cn/art/2026/9/2/art_53_21976.html",
+      "titleOriginal": "国家医疗保障局关于印发按病组和病种分值付费3.0版分组方案并做好落地实施相关工作的通知",
+      "titleZh": "国家医疗保障局关于印发按病组和病种分值付费3.0版分组方案并做好落地实施相关工作的通知",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "reimbursement_access",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "国家医疗保障局"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-02T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:40.321397200Z",
+      "contentHash": "5d0391870b2b5179a0e61b71d6f60aea3b63569b5f1f451dc7f20808e76f1871",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "nhsa-healthcare-security-updates",
+          "sourceName": "National Healthcare Security Administration Policies",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nhsa.gov.cn/art/2026/9/2/art_53_21976.html"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "55411fa8-dd77-3444-9706-1039cf39173e",
+      "sourceId": "nature-biotechnology",
+      "sourceName": "Nature Biotechnology",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41587-026-03212-2",
+      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03212-2",
+      "titleOriginal": "Machine learning interprets genome sequences to map possible microbial symbionts",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Biotechnology"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-02T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:49.622477500Z",
+      "contentHash": "b23fbef7ab1c947e19cfeeff2edfe2949ae55d26a96c32b1a8bd26b7d2a9149c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-biotechnology",
+          "sourceName": "Nature Biotechnology",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41587-026-03212-2"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "4edc5b8a-f9af-3213-bbc2-89bbde26b4b6",
+      "sourceId": "nature-biotechnology",
+      "sourceName": "Nature Biotechnology",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41587-026-03294-y",
+      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03294-y",
+      "titleOriginal": "Engineered genomic attachment sites for site-specific recombinases enable high-efficiency integration in plants and human cells",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Biotechnology"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-02T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:49.622477500Z",
+      "contentHash": "2db735017aee764bb1b88d80c8d11ec04a0876b0d57b55559caaf1e9c6b80ebf",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-biotechnology",
+          "sourceName": "Nature Biotechnology",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41587-026-03294-y"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "8a39b667-cee1-3d82-b178-fd04e38be50f",
+      "sourceId": "nature-reviews-cancer",
+      "sourceName": "Nature Reviews Cancer",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41568-026-00981-5",
+      "canonicalUrl": "https://www.nature.com/articles/s41568-026-00981-5",
+      "titleOriginal": "Expanding the reach of menin inhibitors",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Reviews Cancer"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-02T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:49.953476800Z",
+      "contentHash": "812738da94abed1d5cb2a78eb27a61a31785f01ea1a1c017f382d54de4391233",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-reviews-cancer",
+          "sourceName": "Nature Reviews Cancer",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41568-026-00981-5"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "90b1851f-95d4-31d4-8003-3133ebf73098",
+      "sourceId": "pumch-research",
+      "sourceName": "Peking Union Medical College Hospital Research",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://www.pumch.cn/detail/46498.html",
+      "canonicalUrl": "https://www.pumch.cn/detail/46498.html",
+      "titleOriginal": "科技成果转化公示 〔2026〕48号---北京协和医院关于“基于神州问学平台的嗜铬细胞瘤/副神经节瘤患者术前智慧麻醉评估系统V1.0”科技成果的转化信息公示",
+      "titleZh": "科技成果转化公示 〔2026〕48号---北京协和医院关于“基于神州问学平台的嗜铬细胞瘤/副神经节瘤患者术前智慧麻醉评估系统V1.0”科技成果的转化信息公示",
+      "summaryZh": "根据《北京协和医院促进科技成果转化管理办法》（协科研发〔2025〕43号）规定，对“基于神州问学平台的嗜铬细胞瘤/副神经节瘤患者术...",
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "北京协和医院"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-02T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:43.833909400Z",
+      "contentHash": "500dad7343cc0d401f26d71a4ba714d9b1a2d4d0a1a73d8093548cde8021d6de",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "pumch-research",
+          "sourceName": "Peking Union Medical College Hospital Research",
+          "sourceTier": "B",
+          "originalUrl": "https://www.pumch.cn/detail/46498.html"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "b93af10b-7dbd-3bf4-8ae4-5305f976084b",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/02/cleveland-clinic-opens-two-new-research-buildings",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/02/cleveland-clinic-opens-two-new-research-buildings",
+      "titleOriginal": "Cleveland Clinic Opens Two New Research Buildings",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-02T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:44.424929Z",
+      "contentHash": "d9b63bbbe5780a8716ed28935f7c19b6ae646214189b060ab1a458a2bd243ec1",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/02/cleveland-clinic-opens-two-new-research-buildings"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
     },
     {
       "id": "64854732-0b2d-3877-a630-ae2680b086a0",
@@ -297,54 +1512,6 @@
       ]
     },
     {
-      "id": "0450cec0-9ee2-365d-a5c6-ebcc739b761b",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-convenience-kits-containing-bd-chloraprep",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-convenience-kits-containing-bd-chloraprep",
-      "titleOriginal": "Convenience Kit Correction: Medline Issues Correction for Convenience Kits Containing BD ChloraPrep Applicators",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-02T04:00:00Z",
-      "collectedAt": "2026-09-08T22:39:11.028883783Z",
-      "contentHash": "155c3793436dc63e6cbfe68e90b56fbb5446e1e2869ff2ddedda617895cde179",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-convenience-kits-containing-bd-chloraprep"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
       "id": "8ba1950a-d230-3885-a727-18569c57311a",
       "sourceId": "fda-biologics-news",
       "sourceName": "FDA Vaccines, Blood and Biologics",
@@ -490,53 +1657,6 @@
       ]
     },
     {
-      "id": "6150f29c-3861-3a99-be93-ea1836d73ed4",
-      "sourceId": "nhsa-healthcare-security-updates",
-      "sourceName": "National Healthcare Security Administration Policies",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.nhsa.gov.cn/art/2026/9/2/art_53_21976.html",
-      "canonicalUrl": "https://www.nhsa.gov.cn/art/2026/9/2/art_53_21976.html",
-      "titleOriginal": "国家医疗保障局关于印发按病组和病种分值付费3.0版分组方案并做好落地实施相关工作的通知",
-      "titleZh": "国家医疗保障局关于印发按病组和病种分值付费3.0版分组方案并做好落地实施相关工作的通知",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "reimbursement_access",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "国家医疗保障局"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-02T00:00:00Z",
-      "collectedAt": "2026-09-08T16:52:23.292733961Z",
-      "contentHash": "5d0391870b2b5179a0e61b71d6f60aea3b63569b5f1f451dc7f20808e76f1871",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "nhsa-healthcare-security-updates",
-          "sourceName": "National Healthcare Security Administration Policies",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nhsa.gov.cn/art/2026/9/2/art_53_21976.html"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
       "id": "6aad0c9b-5f2c-3c48-af47-6844eb6661b8",
       "sourceId": "fda-biologics-news",
       "sourceName": "FDA Vaccines, Blood and Biologics",
@@ -679,96 +1799,6 @@
       ]
     },
     {
-      "id": "90b1851f-95d4-31d4-8003-3133ebf73098",
-      "sourceId": "pumch-research",
-      "sourceName": "Peking Union Medical College Hospital Research",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://www.pumch.cn/detail/46498.html",
-      "canonicalUrl": "https://www.pumch.cn/detail/46498.html",
-      "titleOriginal": "科技成果转化公示 〔2026〕48号---北京协和医院关于“基于神州问学平台的嗜铬细胞瘤/副神经节瘤患者术前智慧麻醉评估系统V1.0”科技成果的转化信息公示",
-      "titleZh": "科技成果转化公示 〔2026〕48号---北京协和医院关于“基于神州问学平台的嗜铬细胞瘤/副神经节瘤患者术前智慧麻醉评估系统V1.0”科技成果的转化信息公示",
-      "summaryZh": "根据《北京协和医院促进科技成果转化管理办法》（协科研发〔2025〕43号）规定，对“基于神州问学平台的嗜铬细胞瘤/副神经节瘤患者术...",
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "北京协和医院"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-02T00:00:00Z",
-      "collectedAt": "2026-09-08T05:05:33.729903334Z",
-      "contentHash": "500dad7343cc0d401f26d71a4ba714d9b1a2d4d0a1a73d8093548cde8021d6de",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "pumch-research",
-          "sourceName": "Peking Union Medical College Hospital Research",
-          "sourceTier": "B",
-          "originalUrl": "https://www.pumch.cn/detail/46498.html"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "b93af10b-7dbd-3bf4-8ae4-5305f976084b",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/02/cleveland-clinic-opens-two-new-research-buildings",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/02/cleveland-clinic-opens-two-new-research-buildings",
-      "titleOriginal": "Cleveland Clinic Opens Two New Research Buildings",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-02T00:00:00Z",
-      "collectedAt": "2026-09-08T05:05:30.249575312Z",
-      "contentHash": "d9b63bbbe5780a8716ed28935f7c19b6ae646214189b060ab1a458a2bd243ec1",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/02/cleveland-clinic-opens-two-new-research-buildings"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
       "id": "e5cdee9e-eabe-3d92-9efe-ef42e4a59a7c",
       "sourceId": "cleveland-clinic-news",
       "sourceName": "Cleveland Clinic Newsroom",
@@ -853,51 +1883,6 @@
           "sourceName": "Amgen News Releases",
           "sourceTier": "B",
           "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/09/amgen-to-present-at-the-2026-wells-fargo-healthcare-conference"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "c9056a05-4c97-3159-8bba-55401843cb5b",
-      "sourceId": "merck-news-releases",
-      "sourceName": "Merck News Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.merck.com/news/merck-to-participate-in-the-wells-fargo-21st-annual-healthcare-conference/",
-      "canonicalUrl": "https://www.merck.com/news/merck-to-participate-in-the-wells-fargo-21st-annual-healthcare-conference",
-      "titleOriginal": "Merck to Participate in the Wells Fargo 21st Annual Healthcare Conference",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "Merck"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-02T00:00:00Z",
-      "collectedAt": "2026-09-08T05:05:33.748447550Z",
-      "contentHash": "9cd6e839037e4571df3af857f60eddb584c2f24716f90d653dd28c7e74e56e17",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "merck-news-releases",
-          "sourceName": "Merck News Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://www.merck.com/news/merck-to-participate-in-the-wells-fargo-21st-annual-healthcare-conference/"
         }
       ],
       "importanceScore": 20,

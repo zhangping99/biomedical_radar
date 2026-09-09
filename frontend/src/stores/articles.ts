@@ -3,6 +3,7 @@ import { defineStore } from 'pinia'
 import type { Article, FeedManifest, SourceHealthDocument } from '../domain/article'
 import { articleTimestamp } from '../domain/article'
 import { StaticArticleRepository } from '../repositories/staticArticleRepository'
+import { diverseSelection } from '../services/editorialFocus'
 
 export const useArticleStore = defineStore('articles', () => {
   const articles = ref<Article[]>([])
@@ -14,10 +15,9 @@ export const useArticleStore = defineStore('articles', () => {
   const repository = new StaticArticleRepository()
 
   const sorted = computed(() => [...articles.value].sort((a, b) => articleTimestamp(b) - articleTimestamp(a)))
-  const mustRead = computed(() => articles.value
+  const mustRead = computed(() => diverseSelection(articles.value
     .filter((article) => article.sourceTier !== 'C' && article.importanceScore >= 60)
-    .sort((a, b) => b.importanceScore - a.importanceScore || articleTimestamp(b) - articleTimestamp(a))
-    .slice(0, 10))
+    .sort((a, b) => b.importanceScore - a.importanceScore || articleTimestamp(b) - articleTimestamp(a)), 10))
   const highImpact = computed(() => articles.value
     .filter((article) => ['policy_regulation', 'quality_safety'].includes(article.category))
     .sort((a, b) => b.importanceScore - a.importanceScore)

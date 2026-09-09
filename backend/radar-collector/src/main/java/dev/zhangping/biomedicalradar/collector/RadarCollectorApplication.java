@@ -72,7 +72,12 @@ public class RadarCollectorApplication {
         Set<String> requested = new LinkedHashSet<>();
         for (String group : normalized.split(",")) {
             if (!group.isBlank()) {
-                requested.add(group.trim());
+                if ("institutional".equals(group.trim())) {
+                    requested.add("hospital");
+                    requested.add("pharma");
+                } else {
+                    requested.add(group.trim());
+                }
             }
         }
         Set<String> available = enabled.stream().map(SourceDefinition::scheduleGroup)

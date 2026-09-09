@@ -19,7 +19,7 @@ import static dev.zhangping.biomedicalradar.domain.DomainEnums.*;
 
 public final class SourceConfigLoader {
     private static final Set<String> SCHEDULE_GROUPS =
-            Set.of("rapid", "policy", "research", "institutional", "normal");
+            Set.of("rapid", "policy", "research", "institutional", "hospital", "pharma", "normal");
 
     @SuppressWarnings("unchecked")
     public List<SourceDefinition> load(Path file) throws IOException {

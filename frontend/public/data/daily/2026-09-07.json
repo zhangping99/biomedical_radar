@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-08T22:39:13.834738870Z",
+  "generatedAt": "2026-09-09T03:19:04.159760600Z",
   "articles": [
     {
       "id": "b405f308-ae9c-3d17-9385-0aadb7684a8b",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-07T22:47:37Z",
-      "collectedAt": "2026-09-08T22:39:11.021402337Z",
+      "collectedAt": "2026-09-09T03:11:38.601079300Z",
       "contentHash": "9d7face288a15b44eb201fa32eeade0c018a84599a490c81bd712b11e09d3462",
       "generated": false,
       "generatorVersion": null,
@@ -44,11 +44,299 @@
           "originalUrl": "http://www.fda.gov/about-fda/accelerating-rare-disease-cures-arc-program/rare-disease-drug-approvals"
         }
       ],
-      "importanceScore": 65,
+      "importanceScore": 58,
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关",
-        "24小时内更新"
+        "近期更新"
+      ]
+    },
+    {
+      "id": "3208b16d-aa1b-39f3-9401-acbba95e8494",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706544/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706544",
+      "titleOriginal": "Immediate clinical and neuromechanical effects of cervical spine manipulation compared to cervical spine mobilization among individuals with chronic neck pain: a randomized mechanistic cross-over trial.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-07T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:43.223769900Z",
+      "contentHash": "f0e2d407b48371c274b914446439d8bbf63293e84bf92943b3272e49e9c919c3",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706544/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "8da4ae95-8f61-32e5-a577-c28cc83e9dc2",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706468/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706468",
+      "titleOriginal": "Effectiveness of different anaesthetic techniques, agents and adjunctive interventions in handling pain during dental treatment of MIH-affected teeth: a systematic review.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-07T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:43.223769900Z",
+      "contentHash": "4d7afcb21a4e68a3410660dab1ad93d8993143a5d849fc89027baceb1f3e2f17",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706468/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "69717312-c5e4-3d3f-a4fa-34f0803b60cd",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706409/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706409",
+      "titleOriginal": "Gingival crevicular fluid levels of prolactin in periodontitis patients with controlled versus uncontrolled type 2 diabetes. a controlled clinical trial.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-07T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:43.223769900Z",
+      "contentHash": "d85d4b0dd082e024f06f3d70f4e70e5aba86cec18d15d8cba6a0a00093a48741",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706409/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "547762ea-9fb5-3420-9b94-85c54f26b52b",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706352/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706352",
+      "titleOriginal": "How prevalent is fear of cancer recurrence beyond 5 years: a systematic review of validated assessments across tumour types.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-07T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:43.224764700Z",
+      "contentHash": "9990855bd7424220a9ea16f595b8282016de52bc6562e3689c8be315dbe9eb2e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706352/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "148f2179-c0c1-32a3-9ba6-f9b05bfa4740",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42705863/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42705863",
+      "titleOriginal": "Transcriptomic analysis of a phase 1 trial for intraperitoneal monocytes plus IFNs in ovarian cancer reveals support and recruitment of cell-mediated immunity.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-07T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:43.224764700Z",
+      "contentHash": "f65bb40d211529aea0fe4f8de3d3fcf6c01e27dd7548593b581baa33eb50ea7a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42705863/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "2685f1b2-7851-31cc-8e58-19b0c411ed02",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42705861/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42705861",
+      "titleOriginal": "Phase 1/1b open-label, first-in-human study of HER2×CD3×CD28 trispecific T-cell engager (SAR443216) in participants with R/R HER2-expressing solid tumors.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-07T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:43.224764700Z",
+      "contentHash": "b533a4ddcef12f85d3da98c17b53b5073306c93a784d2f883e1f5ba1528def1e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42705861/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
       ]
     },
     {
@@ -77,7 +365,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-07T00:00:00Z",
-      "collectedAt": "2026-09-08T17:54:37.378990246Z",
+      "collectedAt": "2026-09-09T03:11:42.548933200Z",
       "contentHash": "f79851659de14815eedf98333b95070c36a199992f29441cc9cc0bea4c641c84",
       "generated": false,
       "generatorVersion": null,
@@ -125,7 +413,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-07T00:00:00Z",
-      "collectedAt": "2026-09-08T17:54:37.379516378Z",
+      "collectedAt": "2026-09-09T03:11:42.548933200Z",
       "contentHash": "5bb8fe7d947e63c12668610d073d4a885e78db24636d7a8fd622f2b7ad52d738",
       "generated": false,
       "generatorVersion": null,
@@ -144,6 +432,244 @@
       "importanceScore": 43,
       "importanceReasons": [
         "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "c8103f61-a15d-3f43-bc9c-291c6a200c91",
+      "sourceId": "nature-biotechnology",
+      "sourceName": "Nature Biotechnology",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41587-026-03286-y",
+      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03286-y",
+      "titleOriginal": "Integration of proteomic aging clocks in a phase 2a clinical trial supports simultaneous geroprotective assessment",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Biotechnology"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-07T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:49.621476400Z",
+      "contentHash": "daaf0ee64b55391b0c9296a837b3bd7d5829737720ae09da16b78297b34373d6",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-biotechnology",
+          "sourceName": "Nature Biotechnology",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41587-026-03286-y"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "cc6498f8-f2df-3d8d-af83-e67f7a9d9110",
+      "sourceId": "nature-reviews-cancer",
+      "sourceName": "Nature Reviews Cancer",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41568-026-00968-2",
+      "canonicalUrl": "https://www.nature.com/articles/s41568-026-00968-2",
+      "titleOriginal": "Neutrophils in cancer",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Reviews Cancer"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-07T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:49.953476800Z",
+      "contentHash": "b35efb8b6ffb0aa001b7c661f211e37aa094f75b268cf82249edd6e770f6f165",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-reviews-cancer",
+          "sourceName": "Nature Reviews Cancer",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41568-026-00968-2"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "3b439f12-1a51-33b7-b28f-14649d0417c6",
+      "sourceId": "nature-reviews-cancer",
+      "sourceName": "Nature Reviews Cancer",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41568-026-00975-3",
+      "canonicalUrl": "https://www.nature.com/articles/s41568-026-00975-3",
+      "titleOriginal": "The next 25 years of cancer research: emerging perspectives and priorities",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Reviews Cancer"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-07T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:49.953476800Z",
+      "contentHash": "4afae9ee212fcdc13c2df5e878dd4caa7acc2085116b97c08ee03f9de24d3895",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-reviews-cancer",
+          "sourceName": "Nature Reviews Cancer",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41568-026-00975-3"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "290b9efb-828c-3293-a548-0613c7df4531",
+      "sourceId": "btch-research",
+      "sourceName": "Beijing Tsinghua Changgung Hospital Research",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://xinwen.bjd.com.cn/content/s6a9a97d7e4b0e42f8effdcf7.html?from\u003dappMessage\u0026timestamp\u003d1788745469197",
+      "canonicalUrl": "https://xinwen.bjd.com.cn/content/s6a9a97d7e4b0e42f8effdcf7.html?from\u003dappMessage\u0026timestamp\u003d1788745469197",
+      "titleOriginal": "北京日报 | 率先应用新技术!北京研发抗抑郁新药,有望填补国...",
+      "titleZh": "北京日报 | 率先应用新技术!北京研发抗抑郁新药,有望填补国...",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "北京清华长庚医院"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-07T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:43.759911600Z",
+      "contentHash": "b8b986d1cb18b772e30f34710c89a2a5d17aa0c86829f87a3e8974635017715a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "btch-research",
+          "sourceName": "Beijing Tsinghua Changgung Hospital Research",
+          "sourceTier": "B",
+          "originalUrl": "https://xinwen.bjd.com.cn/content/s6a9a97d7e4b0e42f8effdcf7.html?from\u003dappMessage\u0026timestamp\u003d1788745469197"
+        }
+      ],
+      "importanceScore": 28,
+      "importanceReasons": [
+        "近期更新"
+      ]
+    },
+    {
+      "id": "3f050255-00ca-3bc3-b1e4-d99395fd5025",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/07/survey-reveals-how-social-media-influences-mens-health-pkg",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/07/survey-reveals-how-social-media-influences-mens-health-pkg",
+      "titleOriginal": "Survey Reveals How Social Media Influences Men’s Health PKG",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-07T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:44.425928700Z",
+      "contentHash": "8490bf297928ee126fc13557c6e1aa12fd347cf6f3248e53e67c0a0a05a9f775",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/07/survey-reveals-how-social-media-influences-mens-health-pkg"
+        }
+      ],
+      "importanceScore": 28,
+      "importanceReasons": [
         "近期更新"
       ]
     },
@@ -1382,188 +1908,6 @@
       ]
     },
     {
-      "id": "290b9efb-828c-3293-a548-0613c7df4531",
-      "sourceId": "btch-research",
-      "sourceName": "Beijing Tsinghua Changgung Hospital Research",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://xinwen.bjd.com.cn/content/s6a9a97d7e4b0e42f8effdcf7.html?from\u003dappMessage\u0026timestamp\u003d1788745469197",
-      "canonicalUrl": "https://xinwen.bjd.com.cn/content/s6a9a97d7e4b0e42f8effdcf7.html?from\u003dappMessage\u0026timestamp\u003d1788745469197",
-      "titleOriginal": "北京日报 | 率先应用新技术!北京研发抗抑郁新药,有望填补国...",
-      "titleZh": "北京日报 | 率先应用新技术!北京研发抗抑郁新药,有望填补国...",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "北京清华长庚医院"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-07T00:00:00Z",
-      "collectedAt": "2026-09-08T05:05:33.417863175Z",
-      "contentHash": "b8b986d1cb18b772e30f34710c89a2a5d17aa0c86829f87a3e8974635017715a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "btch-research",
-          "sourceName": "Beijing Tsinghua Changgung Hospital Research",
-          "sourceTier": "B",
-          "originalUrl": "https://xinwen.bjd.com.cn/content/s6a9a97d7e4b0e42f8effdcf7.html?from\u003dappMessage\u0026timestamp\u003d1788745469197"
-        }
-      ],
-      "importanceScore": 28,
-      "importanceReasons": [
-        "近期更新"
-      ]
-    },
-    {
-      "id": "3f050255-00ca-3bc3-b1e4-d99395fd5025",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/07/survey-reveals-how-social-media-influences-mens-health-pkg",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/07/survey-reveals-how-social-media-influences-mens-health-pkg",
-      "titleOriginal": "Survey Reveals How Social Media Influences Men’s Health PKG",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-07T00:00:00Z",
-      "collectedAt": "2026-09-08T05:05:30.250100995Z",
-      "contentHash": "8490bf297928ee126fc13557c6e1aa12fd347cf6f3248e53e67c0a0a05a9f775",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/07/survey-reveals-how-social-media-influences-mens-health-pkg"
-        }
-      ],
-      "importanceScore": 28,
-      "importanceReasons": [
-        "近期更新"
-      ]
-    },
-    {
-      "id": "3aa4d66e-bcff-36b6-9eda-2828da2ae613",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13429034",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13429034",
-      "titleOriginal": "Florence Nightingale\u0027s Contemporary Legacy for Patient Safety: Implications for Nursing and Public Health.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-07T19:57:35.653396181Z",
-      "contentHash": "7b5e08a789787df063550bfa082803228b23e96a4f6429488e0df1ce622e4989",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13429034"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "800a03b9-88f0-3d68-8eb9-ef4c4b048992",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13428497",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13428497",
-      "titleOriginal": "Force-Vector Pilates Exercises on Functional Performance and Braking Reaction Time in Older Professional Drivers: An Exploratory Feasibility Study.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-07T19:57:35.653573212Z",
-      "contentHash": "116c4869b38a979409324ef6497526859ae417dc9923fcd169317528bbece073",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13428497"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
       "id": "d4a2667b-0650-355a-b289-2a6a7235dc07",
       "sourceId": "europe-pmc-recent",
       "sourceName": "Europe PMC",
@@ -1598,135 +1942,6 @@
           "sourceName": "Europe PMC",
           "sourceTier": "A",
           "originalUrl": "https://europepmc.org/article/MED/PMC13383820"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "ee1014c6-639b-393f-946e-9bc19fbe363f",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13429036",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13429036",
-      "titleOriginal": "When the Child Is Not Heard: Children\u0027s Rights and Epistemic Injustice in Paediatric Nursing Practice.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-07T09:24:07.288716600Z",
-      "contentHash": "96971ad8dfb6041adc263b5c0c6e66e3ae87dbf8d89272b0dbada4b9fffa6e90",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13429036"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "fbc8a74b-2612-3a53-aeb7-dffe391b8048",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13428183",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13428183",
-      "titleOriginal": "Strengthening Preventive Care for Culturally and Linguistically Diverse People in Australia: The Case for Community Health Worker Programs.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-07T09:24:07.288716600Z",
-      "contentHash": "b64d138d9aab34a1b40e2b9eb92006c696cd9635186c38fc478d4ca87f57fd8b",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13428183"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "d93d4cc7-814b-3d38-bcb1-3e1e9c34e29c",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13425067",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13425067",
-      "titleOriginal": "Assessing the Impact of an Undergraduate Medical Student Volunteer Hospital Program: Active Mind Active Body.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-07T09:24:07.288716600Z",
-      "contentHash": "fcf871475b14824d06fa89f3f0fffb4930a51750a356c313cb6109e3843439b7",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13425067"
         }
       ],
       "importanceScore": 50,

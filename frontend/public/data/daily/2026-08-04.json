@@ -1,56 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-08T22:39:13.834738870Z",
+  "generatedAt": "2026-09-09T03:19:04.159760600Z",
   "articles": [
-    {
-      "id": "922710ae-d837-3a32-bddc-fb1eb1db3675",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07743580",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07743580",
-      "titleOriginal": "A Study of Secutrelvir in Participants With Coronavirus Disease 2019 (COVID-19) Who Are at High Risk for Progression to Severe Disease",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "SARS-CoV-2"
-      ],
-      "publishedAt": "2026-08-04T00:00:00Z",
-      "collectedAt": "2026-09-08T17:54:36.444506284Z",
-      "contentHash": "4508a289cce8b690395d2a3b396fde1e472fc261ba1d3d2d0da07cb9cff0d120",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07743580"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
     {
       "id": "4fca141b-3c81-35ad-b5ea-4a85605a8371",
       "sourceId": "pfizer-press-releases",
@@ -77,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-08-04T00:00:00Z",
-      "collectedAt": "2026-09-08T05:05:30.461635693Z",
+      "collectedAt": "2026-09-09T03:18:56.528627600Z",
       "contentHash": "aa6fe6414a98086da2644e9c20a3e12ee5870602ad4a689bf52d3efa52e1d8e2",
       "generated": false,
       "generatorVersion": null,
@@ -125,7 +76,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-08-04T00:00:00Z",
-      "collectedAt": "2026-09-08T05:05:36.009399856Z",
+      "collectedAt": "2026-09-09T03:18:58.724910500Z",
       "contentHash": "4c3c53002cf5d680c966064eba41f4b723ab69512ec9e61b09b999e378143637",
       "generated": false,
       "generatorVersion": null,
@@ -172,7 +123,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-08-04T00:00:00Z",
-      "collectedAt": "2026-09-08T05:05:38.176890863Z",
+      "collectedAt": "2026-09-09T03:18:56.601125300Z",
       "contentHash": "a3d1904eb19c876f844cd93dc6caf2e0470df6214f6d19cad090ba049b93d11e",
       "generated": false,
       "generatorVersion": null,
@@ -217,7 +168,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-08-04T00:00:00Z",
-      "collectedAt": "2026-09-08T05:05:33.748951532Z",
+      "collectedAt": "2026-09-09T03:18:58.409909500Z",
       "contentHash": "e447cc4820ec4727f50466b2571d241a5e89844c2f6e13cd085767428ce399fd",
       "generated": false,
       "generatorVersion": null,
@@ -262,7 +213,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-08-04T00:00:00Z",
-      "collectedAt": "2026-09-08T05:05:35.717192504Z",
+      "collectedAt": "2026-09-09T03:18:57.741720100Z",
       "contentHash": "fe470193a6c1b35d29bf94a8d0621f53c4c94a242e3d78a5632a28599e602efe",
       "generated": false,
       "generatorVersion": null,
@@ -280,6 +231,55 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
+    },
+    {
+      "id": "922710ae-d837-3a32-bddc-fb1eb1db3675",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07743580",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07743580",
+      "titleOriginal": "A Study of Secutrelvir in Participants With Coronavirus Disease 2019 (COVID-19) Who Are at High Risk for Progression to Severe Disease",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "SARS-CoV-2"
+      ],
+      "publishedAt": "2026-08-04T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:41.394528100Z",
+      "contentHash": "4508a289cce8b690395d2a3b396fde1e472fc261ba1d3d2d0da07cb9cff0d120",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07743580"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
     }
   ]
 }

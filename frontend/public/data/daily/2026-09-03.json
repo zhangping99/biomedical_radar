@@ -1,7 +1,99 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-08T22:39:13.834738870Z",
+  "generatedAt": "2026-09-09T03:19:04.159760600Z",
   "articles": [
+    {
+      "id": "f9bda476-d09d-38c9-994f-119e80fdce4b",
+      "sourceId": "abbvie-news",
+      "sourceName": "AbbVie News",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://news.abbvie.com/2026-09-03-AbbVie-Announces-Positive-Topline-Results-from-the-Phase-3-CERVINO-Trial-Showing-Etentamig-Significantly-Improved-Response-Rate-and-Progression-Free-Survival-in-Patients-with-Relapsed-Refractory-Multiple-Myeloma",
+      "canonicalUrl": "https://news.abbvie.com/2026-09-03-AbbVie-Announces-Positive-Topline-Results-from-the-Phase-3-CERVINO-Trial-Showing-Etentamig-Significantly-Improved-Response-Rate-and-Progression-Free-Survival-in-Patients-with-Relapsed-Refractory-Multiple-Myeloma",
+      "titleOriginal": "AbbVie Announces Positive Topline Results from the Phase 3 CERVINO Trial Showing Etentamig Significantly Improved Response Rate and Progression-Free Survival in Patients with Relapsed/Refractory Multiple Myeloma",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "drug_rd",
+      "eventTypes": [
+        "phase_3_result"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "AbbVie"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-03T13:15:00Z",
+      "collectedAt": "2026-09-09T03:19:00.986624200Z",
+      "contentHash": "6d34100291e61450c49140a94e1e3f60176ac3da7f6206aa61d25a823455fad1",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "abbvie-news",
+          "sourceName": "AbbVie News",
+          "sourceTier": "B",
+          "originalUrl": "https://news.abbvie.com/2026-09-03-AbbVie-Announces-Positive-Topline-Results-from-the-Phase-3-CERVINO-Trial-Showing-Etentamig-Significantly-Improved-Response-Rate-and-Progression-Free-Survival-in-Patients-with-Relapsed-Refractory-Multiple-Myeloma"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "高影响事件"
+      ]
+    },
+    {
+      "id": "d623f14c-d4f1-3bd1-ac94-29d65a02f9df",
+      "sourceId": "abbvie-news",
+      "sourceName": "AbbVie News",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://news.abbvie.com/2026-09-03-AbbVie-Completes-Acquisition-of-Apogee-Therapeutics",
+      "canonicalUrl": "https://news.abbvie.com/2026-09-03-AbbVie-Completes-Acquisition-of-Apogee-Therapeutics",
+      "titleOriginal": "AbbVie Completes Acquisition of Apogee Therapeutics",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "capital_transactions",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "AbbVie"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-03T12:34:00Z",
+      "collectedAt": "2026-09-09T03:19:00.986624200Z",
+      "contentHash": "908e81c1516d63862e3a265847ad04ab895bcf4fa32bd61771dae008618902f4",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "abbvie-news",
+          "sourceName": "AbbVie News",
+          "sourceTier": "B",
+          "originalUrl": "https://news.abbvie.com/2026-09-03-AbbVie-Completes-Acquisition-of-Apogee-Therapeutics"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "a79ab002-c17a-364f-88bc-a04ea5a934ef",
       "sourceId": "fda-medwatch-alerts",
@@ -28,7 +120,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-03T04:00:00Z",
-      "collectedAt": "2026-09-08T22:39:11.023339088Z",
+      "collectedAt": "2026-09-09T03:11:37.778346500Z",
       "contentHash": "2ebd9fdf3c69a0df375bf0e38ebb377f070d2294d10d5f6431294175915f2a2e",
       "generated": false,
       "generatorVersion": null,
@@ -77,7 +169,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-03T04:00:00Z",
-      "collectedAt": "2026-09-08T22:39:11.028251076Z",
+      "collectedAt": "2026-09-09T03:11:37.779347200Z",
       "contentHash": "832f9f7b079afb840ed6695996b9b8bebdb2793d9bee3270e7b6ab9eea366043",
       "generated": false,
       "generatorVersion": null,
@@ -97,54 +189,6 @@
       "importanceReasons": [
         "官方一手来源",
         "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "0a2544ea-be54-34f3-92c4-b01fe1ccb8af",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
-      "titleOriginal": "Early Alert: Breathing Circuit Issue from Draeger",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-03T04:00:00Z",
-      "collectedAt": "2026-09-08T22:39:11.023072692Z",
-      "contentHash": "998a9aa982220a144270efae79a79ecce24bd1a829825956edd76b84b2e1025d",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
         "政策或安全相关"
       ]
     },
@@ -174,7 +218,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-03T04:00:00Z",
-      "collectedAt": "2026-09-08T22:39:11.024629399Z",
+      "collectedAt": "2026-09-09T03:11:37.777345400Z",
       "contentHash": "ae1f324a66dcb81aae178a3abc6033f5b338b04cf9f988fc674aa6df33b6116e",
       "generated": false,
       "generatorVersion": null,
@@ -222,7 +266,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-03T04:00:00Z",
-      "collectedAt": "2026-09-08T22:39:11.027924469Z",
+      "collectedAt": "2026-09-09T03:11:37.778346500Z",
       "contentHash": "e4fc647817a710c1f1e6c4362f3aaa4124a7dc808522e433532e3cccfe7d689f",
       "generated": false,
       "generatorVersion": null,
@@ -243,6 +287,475 @@
         "官方一手来源",
         "政策或安全相关"
       ]
+    },
+    {
+      "id": "0a2544ea-be54-34f3-92c4-b01fe1ccb8af",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
+      "titleOriginal": "Early Alert: Breathing Circuit Issue from Draeger",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-03T04:00:00Z",
+      "collectedAt": "2026-09-09T03:11:37.779347200Z",
+      "contentHash": "998a9aa982220a144270efae79a79ecce24bd1a829825956edd76b84b2e1025d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "0ac99798-2176-3e2f-bc4b-94c861a90724",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42707994/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42707994",
+      "titleOriginal": "Ultrasound-Guided Infraspinatus-Teres Minor Interfascial Block versus Interscalene Brachial Plexus Block for Analgesia After Arthroscopic Shoulder Surgery: A Randomized Non-Inferiority Clinical Trial.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-03T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:43.222768400Z",
+      "contentHash": "b5c0ac1c26737a999f57bef2ad0824713550c016ad99ea2695810532654a3915",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42707994/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "9d7836d2-00c4-3a32-aa67-5de7b692db5c",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706539/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706539",
+      "titleOriginal": "Systematic review of machine learning approaches for predicting sickle cell crisis and mortality risk at the climate-health nexus.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-03T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:43.223769900Z",
+      "contentHash": "9bd7606722af77c36e62fa13aca3766b6eb27205a5ca4f4b5e821a0d96dde039",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706539/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "d15738c6-e7d6-38f2-9dba-8c85dac73f55",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706525/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706525",
+      "titleOriginal": "Implementing the Primary Care Behavioral Health model into routine practice in Swedish primary care: a pilot trial.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-03T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:43.223769900Z",
+      "contentHash": "bf478e617d4b94275b5daca340b86d25290ad87e2c17f01f7d0a6b54fffcab1e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42706525/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "1a801499-af4d-3131-bc47-ca0fcdf68473",
+      "sourceId": "nature-medicine",
+      "sourceName": "Nature Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41591-026-04637-7",
+      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04637-7",
+      "titleOriginal": "Reply to: Limited benchmarks constrain the conclusions of a general-purpose versus clinical AI comparison",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-03T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:42.548933200Z",
+      "contentHash": "57a2a9ac286eec085188b2a830268e3b393cf7cf8f8ccdb5bbca635ab0eed1e3",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-medicine",
+          "sourceName": "Nature Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41591-026-04637-7"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "0db2d975-1c62-3e49-a090-8de3f861fd23",
+      "sourceId": "nature-medicine",
+      "sourceName": "Nature Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41591-026-04682-2",
+      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04682-2",
+      "titleOriginal": "Gene alteration in human brain suggests genetic and epigenetic roots of major depression",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-03T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:42.548933200Z",
+      "contentHash": "0f2961d8991530bbc04bc77485a5ed9cb84571ca6da998b309605ef515be57d0",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-medicine",
+          "sourceName": "Nature Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41591-026-04682-2"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "6f98441f-0fd1-3391-96a1-3223edc728b1",
+      "sourceId": "nature-medicine",
+      "sourceName": "Nature Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41591-026-04638-6",
+      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04638-6",
+      "titleOriginal": "Limited benchmarks constrain the conclusions of a general-purpose versus clinical AI comparison",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-03T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:42.549934100Z",
+      "contentHash": "1590e31c0ff400ab5c9740533dc9a2998a1ef0ecf21b654fb9248c2bbf9ca1bd",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-medicine",
+          "sourceName": "Nature Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41591-026-04638-6"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "28f94d81-1375-3bdf-8daf-1e6afb0524db",
+      "sourceId": "nature-medicine",
+      "sourceName": "Nature Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/d41591-026-00045-z",
+      "canonicalUrl": "https://www.nature.com/articles/d41591-026-00045-z",
+      "titleOriginal": "Induced proximity comes of age",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-03T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:42.549934100Z",
+      "contentHash": "6753d3a025af1c2bfd262419d94ebc9beec0f44cfb5614ea4a62d0e434236736",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-medicine",
+          "sourceName": "Nature Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/d41591-026-00045-z"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "8908c899-d9f1-3351-8003-efd1b3fb241d",
+      "sourceId": "nature-biotechnology",
+      "sourceName": "Nature Biotechnology",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41587-026-03287-x",
+      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03287-x",
+      "titleOriginal": "Accelerating natural CO\u003csub\u003e2\u003c/sub\u003e removal from the atmosphere with ocean bacteria",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Biotechnology"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-03T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:49.622477500Z",
+      "contentHash": "ec6727dc534fae3a0cb584ec6c7880a7f67fff76f78dbee9a387a83c01319d4c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-biotechnology",
+          "sourceName": "Nature Biotechnology",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41587-026-03287-x"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "68f3ce4d-8b54-30e8-9e94-8fe301ffb190",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/03/tips-for-managing-fall-allergies",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/03/tips-for-managing-fall-allergies",
+      "titleOriginal": "Tips for Managing Fall Allergies",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-03T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:44.425928700Z",
+      "contentHash": "273d2b5d08b6532c1b8a2411b48cee1baee66483268ddcaaae08979075199581",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/03/tips-for-managing-fall-allergies"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
     },
     {
       "id": "89893185-fad0-3f5e-9ca9-5c383544fc91",
@@ -675,194 +1188,6 @@
       ]
     },
     {
-      "id": "1a801499-af4d-3131-bc47-ca0fcdf68473",
-      "sourceId": "nature-medicine",
-      "sourceName": "Nature Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41591-026-04637-7",
-      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04637-7",
-      "titleOriginal": "Reply to: Limited benchmarks constrain the conclusions of a general-purpose versus clinical AI comparison",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-03T00:00:00Z",
-      "collectedAt": "2026-09-08T17:54:37.379852485Z",
-      "contentHash": "57a2a9ac286eec085188b2a830268e3b393cf7cf8f8ccdb5bbca635ab0eed1e3",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-medicine",
-          "sourceName": "Nature Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41591-026-04637-7"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "0db2d975-1c62-3e49-a090-8de3f861fd23",
-      "sourceId": "nature-medicine",
-      "sourceName": "Nature Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41591-026-04682-2",
-      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04682-2",
-      "titleOriginal": "Gene alteration in human brain suggests genetic and epigenetic roots of major depression",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-03T00:00:00Z",
-      "collectedAt": "2026-09-08T17:54:37.380010330Z",
-      "contentHash": "0f2961d8991530bbc04bc77485a5ed9cb84571ca6da998b309605ef515be57d0",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-medicine",
-          "sourceName": "Nature Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41591-026-04682-2"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "6f98441f-0fd1-3391-96a1-3223edc728b1",
-      "sourceId": "nature-medicine",
-      "sourceName": "Nature Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41591-026-04638-6",
-      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04638-6",
-      "titleOriginal": "Limited benchmarks constrain the conclusions of a general-purpose versus clinical AI comparison",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-03T00:00:00Z",
-      "collectedAt": "2026-09-08T17:54:37.380150241Z",
-      "contentHash": "1590e31c0ff400ab5c9740533dc9a2998a1ef0ecf21b654fb9248c2bbf9ca1bd",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-medicine",
-          "sourceName": "Nature Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41591-026-04638-6"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "28f94d81-1375-3bdf-8daf-1e6afb0524db",
-      "sourceId": "nature-medicine",
-      "sourceName": "Nature Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/d41591-026-00045-z",
-      "canonicalUrl": "https://www.nature.com/articles/d41591-026-00045-z",
-      "titleOriginal": "Induced proximity comes of age",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-03T00:00:00Z",
-      "collectedAt": "2026-09-08T17:54:37.380320219Z",
-      "contentHash": "6753d3a025af1c2bfd262419d94ebc9beec0f44cfb5614ea4a62d0e434236736",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-medicine",
-          "sourceName": "Nature Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/d41591-026-00045-z"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
       "id": "29fb79ae-8fce-3e30-aba6-e5d9532661ee",
       "sourceId": "fda-drug-news",
       "sourceName": "U.S. Food and Drug Administration - Drugs",
@@ -958,51 +1283,6 @@
         "官方一手来源",
         "政策或安全相关"
       ]
-    },
-    {
-      "id": "68f3ce4d-8b54-30e8-9e94-8fe301ffb190",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/03/tips-for-managing-fall-allergies",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/03/tips-for-managing-fall-allergies",
-      "titleOriginal": "Tips for Managing Fall Allergies",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-03T00:00:00Z",
-      "collectedAt": "2026-09-08T05:05:30.250268579Z",
-      "contentHash": "273d2b5d08b6532c1b8a2411b48cee1baee66483268ddcaaae08979075199581",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/03/tips-for-managing-fall-allergies"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     }
   ]
 }

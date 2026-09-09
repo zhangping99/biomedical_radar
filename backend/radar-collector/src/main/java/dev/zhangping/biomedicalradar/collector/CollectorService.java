@@ -86,15 +86,18 @@ public final class CollectorService {
             if (rawItems.size() < minimumItems) {
                 throw new IllegalStateException("NO_ITEMS");
             }
-            List<Article> sourceArticles = rawItems.stream()
+            List<RawSourceItem> validItems = rawItems.stream()
                     .filter(item -> item.title() != null && !item.title().isBlank())
                     .filter(item -> item.originalUrl() != null && !item.originalUrl().isBlank())
+                    .toList();
+            List<Article> sourceArticles = validItems.stream()
+                    .filter(item -> classifier.relevantTitle(source, item.title()))
                     .map(item -> map(source, item))
                     .toList();
             ArticleDeduplicator.Result sourceResult = new ArticleDeduplicator().deduplicate(sourceArticles);
             SourceHealth sourceHealth = new SourceHealth(source.id(), source.name(), "ok", sourceStart, clock.instant(),
                     rawItems.size(), sourceResult.articles().size(), sourceResult.duplicateCount(),
-                    rawItems.size() - sourceArticles.size(), java.util.Map.of("2xx", 1), null, null);
+                    rawItems.size() - validItems.size(), java.util.Map.of("2xx", 1), null, null);
             return new SourceCollection(sourceResult.articles(), sourceHealth);
         } catch (Exception exception) {
             if (exception instanceof InterruptedException) {
@@ -179,8 +182,8 @@ public final class CollectorService {
     private long retryDelayHours(SourceDefinition source) {
         return switch (source.scheduleGroup()) {
             case "rapid" -> 4;
-            case "policy", "research" -> 12;
-            case "institutional" -> 24;
+            case "policy", "pharma" -> 6;
+            case "research", "hospital", "institutional" -> 12;
             default -> 4;
         };
     }

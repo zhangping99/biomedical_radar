@@ -1,55 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-08T22:39:13.834738870Z",
+  "generatedAt": "2026-09-09T03:19:04.159760600Z",
   "articles": [
-    {
-      "id": "b55273ef-a766-3409-97e1-432128da0720",
-      "sourceId": "beijing-health-policy",
-      "sourceName": "Beijing Municipal Health Commission",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202606/t20260629_4737270.html",
-      "canonicalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202606/t20260629_4737270.html",
-      "titleOriginal": "北京市卫生健康委员会关于同意北京忠诚肿瘤医院继续停业的批复",
-      "titleZh": "北京市卫生健康委员会关于同意北京忠诚肿瘤医院继续停业的批复",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "北京市卫生健康委员会"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-06-29T00:00:00Z",
-      "collectedAt": "2026-09-08T16:52:25.625181113Z",
-      "contentHash": "8e54e7d0425713b98fba632190a25106158d1c42186e0c98591a85081a15a6e3",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "beijing-health-policy",
-          "sourceName": "Beijing Municipal Health Commission",
-          "sourceTier": "A",
-          "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202606/t20260629_4737270.html"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
     {
       "id": "f7fb05c9-04f7-3512-81c6-ada94c496ee2",
       "sourceId": "hengrui-focus-news",
@@ -76,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-06-29T00:00:00Z",
-      "collectedAt": "2026-09-08T05:05:35.718016746Z",
+      "collectedAt": "2026-09-09T03:18:57.746719100Z",
       "contentHash": "680d104e94eecda245aeb5dece9627b9ad334b7633ba750fff9a648111f00831",
       "generated": false,
       "generatorVersion": null,
@@ -94,6 +46,101 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
+    },
+    {
+      "id": "b55273ef-a766-3409-97e1-432128da0720",
+      "sourceId": "beijing-health-policy",
+      "sourceName": "Beijing Municipal Health Commission",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202606/t20260629_4737270.html",
+      "canonicalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202606/t20260629_4737270.html",
+      "titleOriginal": "北京市卫生健康委员会关于同意北京忠诚肿瘤医院继续停业的批复",
+      "titleZh": "北京市卫生健康委员会关于同意北京忠诚肿瘤医院继续停业的批复",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "北京市卫生健康委员会"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-06-29T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:40.512089900Z",
+      "contentHash": "8e54e7d0425713b98fba632190a25106158d1c42186e0c98591a85081a15a6e3",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "beijing-health-policy",
+          "sourceName": "Beijing Municipal Health Commission",
+          "sourceTier": "A",
+          "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202606/t20260629_4737270.html"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "e8687ced-52f7-30a1-bbf8-964c5fe5fd1a",
+      "sourceId": "nhsa-policy-explain",
+      "sourceName": "国家医保局政策解读",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.nhsa.gov.cn/art/2026/6/29/art_105_21130.html",
+      "canonicalUrl": "https://www.nhsa.gov.cn/art/2026/6/29/art_105_21130.html",
+      "titleOriginal": "《关于公示通过2026年国家基本医疗保险、生育保险和工伤保险药品目录及商保创新药目录调整初步形式审查的药品及相关信息》解读",
+      "titleZh": "《关于公示通过2026年国家基本医疗保险、生育保险和工伤保险药品目录及商保创新药目录调整初步形式审查的药品及相关信息》解读",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "reimbursement_access",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "国家医疗保障局"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-06-29T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:49.801612500Z",
+      "contentHash": "a79e5dc1db4021e5a1597322464026f67fceeca5817220868a8305cac4e7e277",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "nhsa-policy-explain",
+          "sourceName": "国家医保局政策解读",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nhsa.gov.cn/art/2026/6/29/art_105_21130.html"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
     }
   ]
 }

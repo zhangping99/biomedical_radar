@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-08T22:39:13.834738870Z",
+  "generatedAt": "2026-09-09T03:19:04.159760600Z",
   "articles": [
+    {
+      "id": "9e20959d-40dd-3306-a273-8a2b2ab22994",
+      "sourceId": "lilly-news-releases",
+      "sourceName": "Eli Lilly News Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/zepbound-linked-lower-healthcare-costs-adults-over-age-55",
+      "canonicalUrl": "https://investor.lilly.com/news-releases/news-release-details/zepbound-linked-lower-healthcare-costs-adults-over-age-55",
+      "titleOriginal": "Zepbound linked to lower healthcare costs in adults over age 55 with obesity according to a real-world study",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Eli Lilly and Company"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-26T10:45:00Z",
+      "collectedAt": "2026-09-09T03:18:56.874123900Z",
+      "contentHash": "63ea041bda690108241daf1965f6a414fe7d32706e23b081e74d2a1591142963",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "lilly-news-releases",
+          "sourceName": "Eli Lilly News Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/zepbound-linked-lower-healthcare-costs-adults-over-age-55"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "6e5d2704-540a-351a-b19e-58b2f70152a3",
       "sourceId": "fda-medwatch-alerts",
@@ -28,7 +73,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-08-26T04:00:00Z",
-      "collectedAt": "2026-09-08T22:39:11.035119955Z",
+      "collectedAt": "2026-09-09T03:11:37.784343Z",
       "contentHash": "5ed7f10695a34e2206e62ba8c2cc6f6bfe8d3e7b825c0c9f5c0ee6f13627c3ea",
       "generated": false,
       "generatorVersion": null,
@@ -77,7 +122,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-08-26T04:00:00Z",
-      "collectedAt": "2026-09-08T22:39:11.035373206Z",
+      "collectedAt": "2026-09-09T03:11:37.785344200Z",
       "contentHash": "6a8a853dc578a79363a1e79d4af4dc438d916836ab8875024c0270a80679c99b",
       "generated": false,
       "generatorVersion": null,
@@ -98,6 +143,195 @@
         "官方一手来源",
         "高影响事件",
         "政策或安全相关"
+      ]
+    },
+    {
+      "id": "47359dd0-24da-3436-b7b5-41fefb548ccc",
+      "sourceId": "nhsa-policy-explain",
+      "sourceName": "国家医保局政策解读",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.nhsa.gov.cn/art/2026/8/26/art_105_21909.html",
+      "canonicalUrl": "https://www.nhsa.gov.cn/art/2026/8/26/art_105_21909.html",
+      "titleOriginal": "《关于做好长期护理保险支付管理工作的指导意见》的政策解读",
+      "titleZh": "《关于做好长期护理保险支付管理工作的指导意见》的政策解读",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "reimbursement_access",
+      "eventTypes": [
+        "policy_release"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "国家医疗保障局"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-26T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:49.800614900Z",
+      "contentHash": "dc78189c2e21af72821e1d6c6b59228e21ab3cbac5b5b1c0f1eafc04a0e3f2e7",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "nhsa-policy-explain",
+          "sourceName": "国家医保局政策解读",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nhsa.gov.cn/art/2026/8/26/art_105_21909.html"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件"
+      ]
+    },
+    {
+      "id": "4d1904b8-79e0-39a1-bc17-9df2a36ea7c3",
+      "sourceId": "nhsa-healthcare-security-updates",
+      "sourceName": "National Healthcare Security Administration Policies",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.nhsa.gov.cn/art/2026/8/26/art_53_21908.html",
+      "canonicalUrl": "https://www.nhsa.gov.cn/art/2026/8/26/art_53_21908.html",
+      "titleOriginal": "国家医疗保障局关于做好长期护理保险支付管理工作的指导意见",
+      "titleZh": "国家医疗保障局关于做好长期护理保险支付管理工作的指导意见",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "reimbursement_access",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "国家医疗保障局"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-26T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:40.321397200Z",
+      "contentHash": "6a10be4d570f98442b38d6908247f422b2bde9136d5166fdabebd509e10b4fac",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "nhsa-healthcare-security-updates",
+          "sourceName": "National Healthcare Security Administration Policies",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nhsa.gov.cn/art/2026/8/26/art_53_21908.html"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "af529260-41b0-37f4-908f-0c4662e66a2b",
+      "sourceId": "nature-reviews-cancer",
+      "sourceName": "Nature Reviews Cancer",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41568-026-00976-2",
+      "canonicalUrl": "https://www.nature.com/articles/s41568-026-00976-2",
+      "titleOriginal": "Early evidence of the carcinogenic effects of e-cigarette use",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Reviews Cancer"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-26T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:49.953476800Z",
+      "contentHash": "2ba91472e55bca16a2ccd2f492f4f248716aabf0b6f7afee4d9ae017a5b31b42",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-reviews-cancer",
+          "sourceName": "Nature Reviews Cancer",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41568-026-00976-2"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "ae5266f3-b366-38fe-a6ad-b4866b291642",
+      "sourceId": "nature-reviews-cancer",
+      "sourceName": "Nature Reviews Cancer",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41568-026-00965-5",
+      "canonicalUrl": "https://www.nature.com/articles/s41568-026-00965-5",
+      "titleOriginal": "Shaping the future of early-onset colorectal cancer prevention",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Reviews Cancer"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-26T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:49.953476800Z",
+      "contentHash": "5d309dabe6db55a2c2029f45cf8a1e18c099a4fb187cb06e4589707f651382e5",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-reviews-cancer",
+          "sourceName": "Nature Reviews Cancer",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41568-026-00965-5"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
       ]
     },
     {
@@ -148,98 +382,6 @@
         "高影响事件",
         "政策或安全相关"
       ]
-    },
-    {
-      "id": "4d1904b8-79e0-39a1-bc17-9df2a36ea7c3",
-      "sourceId": "nhsa-healthcare-security-updates",
-      "sourceName": "National Healthcare Security Administration Policies",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.nhsa.gov.cn/art/2026/8/26/art_53_21908.html",
-      "canonicalUrl": "https://www.nhsa.gov.cn/art/2026/8/26/art_53_21908.html",
-      "titleOriginal": "国家医疗保障局关于做好长期护理保险支付管理工作的指导意见",
-      "titleZh": "国家医疗保障局关于做好长期护理保险支付管理工作的指导意见",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "reimbursement_access",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "国家医疗保障局"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-08-26T00:00:00Z",
-      "collectedAt": "2026-09-08T16:52:23.293000164Z",
-      "contentHash": "6a10be4d570f98442b38d6908247f422b2bde9136d5166fdabebd509e10b4fac",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "nhsa-healthcare-security-updates",
-          "sourceName": "National Healthcare Security Administration Policies",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nhsa.gov.cn/art/2026/8/26/art_53_21908.html"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "9e20959d-40dd-3306-a273-8a2b2ab22994",
-      "sourceId": "lilly-news-releases",
-      "sourceName": "Eli Lilly News Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/zepbound-linked-lower-healthcare-costs-adults-over-age-55",
-      "canonicalUrl": "https://investor.lilly.com/news-releases/news-release-details/zepbound-linked-lower-healthcare-costs-adults-over-age-55",
-      "titleOriginal": "Zepbound linked to lower healthcare costs in adults over age 55 with obesity according to a real-world study",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "Eli Lilly and Company"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-08-26T10:45:00Z",
-      "collectedAt": "2026-09-08T05:05:33.007162379Z",
-      "contentHash": "63ea041bda690108241daf1965f6a414fe7d32706e23b081e74d2a1591142963",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "lilly-news-releases",
-          "sourceName": "Eli Lilly News Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/zepbound-linked-lower-healthcare-costs-adults-over-age-55"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     }
   ]
 }

@@ -28,7 +28,7 @@ public final class UrlNormalizer {
                 path = path.substring(0, path.length() - 1);
             }
             String query = cleanQuery(input.getRawQuery());
-            return new URI(scheme, input.getUserInfo(), host, input.getPort(), path, query, null).toString();
+            return new URI(scheme, input.getUserInfo(), host, input.getPort(), path, query, null).toASCIIString();
         } catch (IllegalArgumentException | URISyntaxException exception) {
             return rawUrl == null ? "" : rawUrl.trim();
         }

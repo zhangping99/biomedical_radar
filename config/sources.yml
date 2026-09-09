@@ -284,12 +284,12 @@ sources:
     region: GLOBAL
     language: en
     connector: europepmc
-    url: "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=OPEN_ACCESS%3AY%20sort_date%3Ay&format=json&pageSize=20"
+    url: "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=OPEN_ACCESS%3AY%20AND%20%28cancer%20OR%20diabetes%20OR%20immunotherapy%20OR%20drug%20OR%20clinical%29%20sort_date%3Ay&format=json&pageSize=40"
     scheduleGroup: research
     legalBasis: official_api
     timeoutSeconds: 25
     fixture: europe-pmc-recent.json
-    options: {maxItems: 20, entityName: Europe PMC, entityType: institution}
+    options: {maxItems: 40, categoryOverride: research_academic, entityName: Europe PMC, entityType: institution}
 
   - id: pubmed-recent
     name: PubMed
@@ -299,14 +299,15 @@ sources:
     region: GLOBAL
     language: en
     connector: pubmed
-    url: "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%22last%207%20days%22%5BPDat%5D&retmode=json&retmax=20&sort=pub%2Bdate"
+    url: "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%22last%207%20days%22%5BPDat%5D%20AND%20%28clinical%20trial%5Bpt%5D%20OR%20meta-analysis%5Bpt%5D%20OR%20systematic%20review%5Bpt%5D%29&retmode=json&retmax=40&sort=pub%2Bdate"
     scheduleGroup: research
     legalBasis: official_api
     timeoutSeconds: 25
     fixture: pubmed-recent.json
     options:
       summaryUrl: "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id={ids}"
-      maxItems: 20
+      maxItems: 40
+      categoryOverride: research_academic
       entityName: U.S. National Library of Medicine
       entityType: institution
 
@@ -360,7 +361,7 @@ sources:
       entityType: institution
       verificationStatus: unreviewed
 
-  # institutional: daily; hospital research and company self-published announcements.
+  # Hospitals twice daily; pharma every six hours, independently scheduled.
   - id: pumch-research
     name: Peking Union Medical College Hospital Research
     enabled: true
@@ -370,7 +371,7 @@ sources:
     language: zh-CN
     connector: html
     url: "https://www.pumch.cn/research/"
-    scheduleGroup: institutional
+    scheduleGroup: hospital
     legalBasis: public_notice
     timeoutSeconds: 25
     fixture: pumch-research.html
@@ -394,7 +395,7 @@ sources:
     language: zh-CN
     connector: html
     url: "https://www.btch.edu.cn/jxky/"
-    scheduleGroup: institutional
+    scheduleGroup: hospital
     legalBasis: public_notice
     timeoutSeconds: 25
     fixture: btch-research.html
@@ -417,7 +418,7 @@ sources:
     language: en
     connector: html
     url: "https://newsroom.clevelandclinic.org/"
-    scheduleGroup: institutional
+    scheduleGroup: hospital
     legalBasis: public_notice
     timeoutSeconds: 25
     fixture: cleveland-clinic-news.html
@@ -441,7 +442,7 @@ sources:
     language: en
     connector: amgen
     url: "https://www.amgen.com/MyApi/Custom/NewsListing/GetRecentNewsReleasesV2?count=20&isNasdaq=false&rootId=%7B623B9876-33FF-40EB-BDA0-8465365C59C8%7D"
-    scheduleGroup: institutional
+    scheduleGroup: pharma
     legalBasis: public_notice
     timeoutSeconds: 25
     fixture: amgen-news-releases.json
@@ -456,7 +457,7 @@ sources:
     language: en
     connector: html
     url: "https://www.pfizer.com/newsroom/press-releases"
-    scheduleGroup: institutional
+    scheduleGroup: pharma
     legalBasis: public_notice
     timeoutSeconds: 25
     fixture: pfizer-press-releases.html
@@ -478,7 +479,7 @@ sources:
     language: en
     connector: rss
     url: "https://www.gsk.com/en-gb/media/rss/"
-    scheduleGroup: institutional
+    scheduleGroup: pharma
     legalBasis: rss_allowed
     timeoutSeconds: 30
     fixture: gsk-press-releases.xml
@@ -493,7 +494,7 @@ sources:
     language: en
     connector: rss
     url: "https://investor.lilly.com/rss/news-releases.xml?items=10"
-    scheduleGroup: institutional
+    scheduleGroup: pharma
     legalBasis: rss_allowed
     timeoutSeconds: 25
     fixture: lilly-news-releases.xml
@@ -508,7 +509,7 @@ sources:
     language: en
     connector: html
     url: "https://www.merck.com/news-archive/"
-    scheduleGroup: institutional
+    scheduleGroup: pharma
     legalBasis: public_notice
     timeoutSeconds: 25
     fixture: merck-news-releases.html
@@ -530,7 +531,7 @@ sources:
     language: en
     connector: html
     url: "https://www.sanofi.com/en/media-room/press-releases"
-    scheduleGroup: institutional
+    scheduleGroup: pharma
     legalBasis: public_notice
     timeoutSeconds: 25
     fixture: sanofi-press-releases.html
@@ -554,7 +555,7 @@ sources:
     language: zh-CN
     connector: html
     url: "https://www.hengrui.com/media/NewsType-1.html"
-    scheduleGroup: institutional
+    scheduleGroup: pharma
     legalBasis: public_notice
     timeoutSeconds: 30
     fixture: hengrui-focus-news.html
@@ -565,6 +566,229 @@ sources:
       dateSelector: p.fontSize12.color666
       maxItems: 20
       entityName: 恒瑞医药
+      entityType: company
+
+  # Focus expansion: verified public listings, 2026-09-09; no summary service.
+
+  - id: nature-biotechnology
+    name: Nature Biotechnology
+    enabled: true
+    tier: A
+    type: journal
+    region: GLOBAL
+    language: en
+    connector: rss
+    url: "https://www.nature.com/nbt.rss"
+    scheduleGroup: research
+    legalBasis: rss_allowed
+    timeoutSeconds: 25
+    fixture: nature-biotechnology.xml
+    options:
+      maxItems: 30
+      entityName: Nature Biotechnology
+      entityType: institution
+      categoryOverride: research_academic
+
+  - id: nature-reviews-cancer
+    name: Nature Reviews Cancer
+    enabled: true
+    tier: A
+    type: journal
+    region: GLOBAL
+    language: en
+    connector: rss
+    url: "https://www.nature.com/nrc.rss"
+    scheduleGroup: research
+    legalBasis: rss_allowed
+    timeoutSeconds: 25
+    fixture: nature-reviews-cancer.xml
+    options:
+      maxItems: 30
+      entityName: Nature Reviews Cancer
+      entityType: institution
+      categoryOverride: research_academic
+
+  - id: nhsa-policy-explain
+    name: 国家医保局政策解读
+    enabled: true
+    tier: A
+    type: regulator
+    region: CN
+    language: zh-CN
+    connector: html
+    url: "https://www.nhsa.gov.cn/col/col105/index.html"
+    scheduleGroup: policy
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    fixture: nhsa-policy-explain.html
+    options:
+      maxItems: 20
+      entityName: 国家医疗保障局
+      entityType: institution
+      categoryOverride: reimbursement_access
+      unwrapCdata: "true"
+      itemSelector: "a[href*='/art/'][title]"
+      titleSelector: "self"
+      linkSelector: "self"
+      titleAttribute: "title"
+      dateSelector: "none"
+      dateFromUrl: "true"
+
+  - id: guangdong-health-explain
+    name: 广东省卫生健康委政策解读
+    enabled: true
+    tier: A
+    type: regulator
+    region: CN
+    language: zh-CN
+    connector: html
+    url: "https://wsjkw.gd.gov.cn/hdjl_zcjd/"
+    scheduleGroup: policy
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    fixture: guangdong-health-explain.html
+    options:
+      maxItems: 20
+      entityName: 广东省卫生健康委员会
+      entityType: institution
+      categoryOverride: policy_regulation
+      itemSelector: "li:has(a[href*='/hdjl_zcjd/content/post_'])"
+      titleSelector: "a[title]"
+      linkSelector: "a[title]"
+      titleAttribute: "title"
+      dateSelector: "span"
+
+  - id: pkuh6-research
+    name: 北京大学第六医院科研新闻
+    enabled: true
+    tier: B
+    type: media
+    region: CN
+    language: zh-CN
+    connector: html
+    url: "https://www.pkuh6.cn/Html/News/Columns/67/Index.html"
+    scheduleGroup: hospital
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    fixture: pkuh6-research.html
+    options:
+      maxItems: 20
+      entityName: 北京大学第六医院
+      entityType: hospital
+      categoryOverride: research_academic
+      itemSelector: ".column_list > li"
+      titleSelector: "a.dy_title"
+      linkSelector: "a.dy_title"
+      titleAttribute: "title"
+      dateSelector: ".dy_date"
+
+  - id: bjcancer-research
+    name: 北京大学肿瘤医院科研成果
+    enabled: true
+    tier: B
+    type: media
+    region: CN
+    language: zh-CN
+    connector: html
+    url: "https://www.bjcancer.org/Html/News/Columns/28/Index.html"
+    scheduleGroup: hospital
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    fixture: bjcancer-research.html
+    options:
+      maxItems: 20
+      entityName: 北京大学肿瘤医院
+      entityType: hospital
+      categoryOverride: research_academic
+      itemSelector: ".article_list > li"
+      titleSelector: "a.title_type"
+      linkSelector: "a.title_type"
+      titleAttribute: "title"
+      dateSelector: ".span_date"
+
+  - id: hansoh-news
+    name: 翰森制药新闻发布
+    enabled: true
+    tier: B
+    type: company
+    region: CN
+    language: zh-CN
+    connector: html
+    url: "https://www.hansoh.cn/news/company-news.jsp?nowPage=1"
+    scheduleGroup: pharma
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    fixture: hansoh-news.html
+    options:
+      maxItems: 20
+      entityName: 翰森制药
+      entityType: company
+      itemSelector: "a.li_box[href*='/news/news-detail-']"
+      titleSelector: "self"
+      linkSelector: "self"
+      titleAttribute: "title"
+      dateSelector: ".date"
+
+  - id: junshi-news
+    name: 君实生物新闻
+    enabled: true
+    tier: B
+    type: company
+    region: CN
+    language: zh-CN
+    connector: html
+    url: "https://www.junshipharma.com/news/"
+    scheduleGroup: pharma
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    fixture: junshi-news.html
+    options:
+      maxItems: 20
+      entityName: 君实生物
+      entityType: company
+      itemSelector: ".news-list > li"
+      titleSelector: ".title"
+      linkSelector: "a[href]"
+      dateSelector: ".date"
+
+  - id: 3sbio-news
+    name: 三生制药新闻
+    enabled: true
+    tier: B
+    type: company
+    region: CN
+    language: zh-CN
+    connector: html
+    url: "https://www.3sbio.com/news/index.aspx"
+    scheduleGroup: pharma
+    legalBasis: public_notice
+    timeoutSeconds: 25
+    fixture: 3sbio-news.html
+    options:
+      maxItems: 20
+      entityName: 三生制药
+      entityType: company
+      itemSelector: "a[href*='/news/details.aspx?id=']:has(h4)"
+      titleSelector: "h4"
+      linkSelector: "self"
+      dateSelector: "h6"
+
+  - id: abbvie-news
+    name: AbbVie News
+    enabled: true
+    tier: B
+    type: company
+    region: US
+    language: en
+    connector: rss
+    url: "https://news.abbvie.com/index.php?s=2429&pagetemplate=rss"
+    scheduleGroup: pharma
+    legalBasis: rss_allowed
+    timeoutSeconds: 25
+    fixture: abbvie-news.xml
+    options:
+      maxItems: 20
+      entityName: AbbVie
       entityType: company
 
   # Disabled candidates remain visible for deliberate follow-up. Do not bypass access controls.

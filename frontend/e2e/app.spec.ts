@@ -30,6 +30,17 @@ test('renders at mobile width without horizontal overflow', async ({ page }) => 
   await expect(page.getByRole('navigation', { name: '主要导航' })).toBeVisible()
 })
 
+test('switches all five focus topics without hiding the complete latest feed', async ({ page }) => {
+  const focus = page.getByRole('region', { name: '重点关注' })
+  await expect(focus).toBeVisible()
+  for (const name of ['学术研究', '中国政策', '国内药企', '国外药企', '国内医院']) {
+    const button = focus.getByRole('button', { name, exact: true })
+    await button.click()
+    await expect(button).toHaveAttribute('aria-pressed', 'true')
+    await expect(page.getByRole('heading', { name: '最新动态', exact: true })).toBeVisible()
+  }
+})
+
 test('falls back to the last IndexedDB feed when all data requests fail', async ({ page }) => {
   await expect(page.locator('.article-card').first()).toBeVisible()
   await page.evaluate(async () => {

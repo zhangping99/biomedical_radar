@@ -31,10 +31,10 @@ class CollectorFixtureIntegrationTest {
                 new FixtureFetchClient(REPOSITORY_ROOT.resolve("data/fixtures/sources")));
         StaticExporter.ExportResult export = new StaticExporter().export(result, output, 90);
 
-        assertThat(sources).hasSize(42);
-        assertThat(sources).filteredOn(SourceDefinition::enabled).hasSize(29);
+        assertThat(sources).hasSize(52);
+        assertThat(sources).filteredOn(SourceDefinition::enabled).hasSize(39);
         assertThat(result.sourceHealth()).allMatch(health -> "ok".equals(health.status()));
-        assertThat(result.articles()).hasSize(29);
+        assertThat(result.articles()).hasSize(39);
         assertThat(result.articles()).allMatch(article -> article.sourceLinks().size() == 1);
         assertThat(result.articles()).allMatch(article -> article.originalUrl().matches("^https?://\\S+$"));
         assertThat(result.articles()).allMatch(article ->
@@ -86,16 +86,37 @@ class CollectorFixtureIntegrationTest {
     }
 
     @Test
+    void currentStableIdReplacesAnOlderCanonicalUrl(@TempDir Path output) throws Exception {
+        List<SourceDefinition> sources = new SourceConfigLoader().load(REPOSITORY_ROOT.resolve("config/sources.yml"));
+        NoKeyProviders providers = new NoKeyProviders();
+        CollectorService service = new CollectorService(new ConnectorRegistry(), providers, providers,
+                new ContentClassifier(), Clock.fixed(Instant.parse("2026-09-09T00:00:00Z"), ZoneOffset.UTC));
+        CollectionResult current = service.collect(sources,
+                new FixtureFetchClient(REPOSITORY_ROOT.resolve("data/fixtures/sources")));
+        StaticExporter exporter = new StaticExporter();
+        exporter.export(current, output, 90);
+        Path latest = output.resolve("latest.json");
+        Files.writeString(latest, Files.readString(latest).replace("/%E7%A0%94%E7%A9%B6", "/研究"));
+        exporter.export(current, output, 90);
+        var articles = JsonParser.parseString(Files.readString(latest)).getAsJsonObject().getAsJsonArray("articles");
+        assertThat(articles).hasSize(current.articles().size());
+        assertThat(Files.readString(latest)).contains("/%E7%A0%94%E7%A9%B6").doesNotContain("/研究");
+    }
+
+    @Test
     void scheduleGroupsSelectOnlyEnabledSources() throws Exception {
         List<SourceDefinition> sources = new SourceConfigLoader().load(REPOSITORY_ROOT.resolve("config/sources.yml"));
 
         assertThat(RadarCollectorApplication.selectSources(sources, "rapid")).hasSize(10);
-        assertThat(RadarCollectorApplication.selectSources(sources, "policy")).hasSize(3);
-        assertThat(RadarCollectorApplication.selectSources(sources, "research")).hasSize(6);
-        assertThat(RadarCollectorApplication.selectSources(sources, "institutional")).hasSize(10);
-        assertThat(RadarCollectorApplication.selectSources(sources, "rapid,policy")).hasSize(13);
+        assertThat(RadarCollectorApplication.selectSources(sources, "policy")).hasSize(5);
+        assertThat(RadarCollectorApplication.selectSources(sources, "research")).hasSize(8);
+        assertThat(RadarCollectorApplication.selectSources(sources, "hospital")).hasSize(5);
+        assertThat(RadarCollectorApplication.selectSources(sources, "pharma")).hasSize(11);
+        assertThat(RadarCollectorApplication.selectSources(sources, "institutional")).hasSize(16);
+        assertThat(RadarCollectorApplication.selectSources(sources, "institutional,hospital")).hasSize(16);
+        assertThat(RadarCollectorApplication.selectSources(sources, "rapid,policy")).hasSize(15);
         assertThat(RadarCollectorApplication.selectSources(sources, "all"))
-                .hasSize(29).allMatch(SourceDefinition::enabled);
+                .hasSize(39).allMatch(SourceDefinition::enabled);
         org.assertj.core.api.Assertions.assertThatThrownBy(
                         () -> RadarCollectorApplication.selectSources(sources, "unknown"))
                 .isInstanceOf(IllegalArgumentException.class)
@@ -120,7 +141,7 @@ class CollectorFixtureIntegrationTest {
 
         JsonObject health = JsonParser.parseString(Files.readString(output.resolve("source-health.json")))
                 .getAsJsonObject();
-        assertThat(health.getAsJsonArray("sources")).hasSize(13);
+        assertThat(health.getAsJsonArray("sources")).hasSize(15);
         assertThat(health.getAsJsonArray("sources").toString())
                 .contains("fda-drug-news", "cde-drug-review-updates")
                 .doesNotContain("nhc-policy-candidate");

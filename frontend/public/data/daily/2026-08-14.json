@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-08T22:39:13.834738870Z",
+  "generatedAt": "2026-09-09T03:19:04.159760600Z",
   "articles": [
+    {
+      "id": "31806083-34de-399c-a8cb-514dd9e579e5",
+      "sourceId": "pfizer-press-releases",
+      "sourceName": "Pfizer Press Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-valnevas-lyme-disease-vaccine-candidate",
+      "canonicalUrl": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-valnevas-lyme-disease-vaccine-candidate",
+      "titleOriginal": "Pfizer and Valneva’s Lyme Disease Vaccine Candidate Marketing Authorization Application Validated by European Medicines Agency",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Pfizer"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-14T00:00:00Z",
+      "collectedAt": "2026-09-09T03:18:56.527628500Z",
+      "contentHash": "756c71819906c5e3ca487f34dc8abae4ce9f0d5b9efe8f47d0dfccc0f4994dd5",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "pfizer-press-releases",
+          "sourceName": "Pfizer Press Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-valnevas-lyme-disease-vaccine-candidate"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "7ad0d429-1e1f-33b5-b518-a53c1ae8cecb",
       "sourceId": "clinicaltrials-recent",
@@ -50,51 +95,6 @@
       "importanceReasons": [
         "官方一手来源"
       ]
-    },
-    {
-      "id": "31806083-34de-399c-a8cb-514dd9e579e5",
-      "sourceId": "pfizer-press-releases",
-      "sourceName": "Pfizer Press Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-valnevas-lyme-disease-vaccine-candidate",
-      "canonicalUrl": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-valnevas-lyme-disease-vaccine-candidate",
-      "titleOriginal": "Pfizer and Valneva’s Lyme Disease Vaccine Candidate Marketing Authorization Application Validated by European Medicines Agency",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "Pfizer"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-08-14T00:00:00Z",
-      "collectedAt": "2026-09-08T05:05:30.461499659Z",
-      "contentHash": "756c71819906c5e3ca487f34dc8abae4ce9f0d5b9efe8f47d0dfccc0f4994dd5",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "pfizer-press-releases",
-          "sourceName": "Pfizer Press Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-valnevas-lyme-disease-vaccine-candidate"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     }
   ]
 }

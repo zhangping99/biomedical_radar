@@ -5,12 +5,14 @@ import DataState from '../components/DataState.vue'
 import EmptyState from '../components/EmptyState.vue'
 import PageHeader from '../components/PageHeader.vue'
 import { searchArticles } from '../services/articleSearch'
+import { diverseSelection, focusTopics, matchesFocus, type FocusTopic } from '../services/editorialFocus'
 import { useArticleStore } from '../stores/articles'
 
 const store = useArticleStore()
 const query = ref('')
 const debouncedQuery = ref('')
 const visibleCount = ref(20)
+const activeFocus = ref<FocusTopic>('academic')
 let searchTimer: ReturnType<typeof setTimeout> | undefined
 
 watch(query, (value) => {
@@ -21,6 +23,10 @@ onBeforeUnmount(() => clearTimeout(searchTimer))
 
 const searchResults = computed(() => debouncedQuery.value ? searchArticles(store.articles, debouncedQuery.value) : [])
 const visibleLatest = computed(() => store.sorted.slice(0, visibleCount.value))
+const focused = computed(() => store.sorted.filter(article => matchesFocus(article, activeFocus.value)))
+const focusCount = ref(6)
+const focusPreview = computed(() => diverseSelection(focused.value, focusCount.value, Math.max(2, Math.ceil(focusCount.value / 3))))
+watch(activeFocus, () => { focusCount.value = 6 })
 const dateLabel = new Intl.DateTimeFormat('zh-CN', { month: 'long', day: 'numeric', weekday: 'long' }).format(new Date())
 </script>
 
@@ -46,6 +52,16 @@ const dateLabel = new Intl.DateTimeFormat('zh-CN', { month: 'long', day: 'numeri
       <section class="daily-brief">
         <p class="eyebrow">DAILY BRIEF</p>
         <p>本期共收录 <strong>{{ store.articles.length }}</strong> 条，筛出 <strong>{{ store.mustRead.length }}</strong> 条今日必读。</p>
+      </section>
+      <section class="content-section" aria-label="重点关注">
+        <div class="section-heading"><div><p class="eyebrow">FOCUS</p><h2>重点关注</h2></div><span>{{ focused.length }} 条</span></div>
+        <div class="chip-row">
+          <button v-for="topic in focusTopics" :key="topic.id" type="button" class="chip" :class="{ active: activeFocus === topic.id }" :aria-pressed="activeFocus === topic.id" @click="activeFocus = topic.id">{{ topic.label }}</button>
+        </div>
+        <p class="result-hint">按发布时间精选，同一来源限量展示；完整动态仍保留在下方最新列表。</p>
+        <div v-if="focusPreview.length" class="card-list"><ArticleCard v-for="article in focusPreview" :key="article.id" :article="article" /></div>
+        <EmptyState v-else title="本期暂无此类动态" description="等待下一次采集；不以旧闻或无关内容补足数量。" />
+        <button v-if="focusPreview.length < focused.length" type="button" class="secondary-button full-width" @click="focusCount += 6">查看更多此类动态</button>
       </section>
       <section class="content-section">
         <div class="section-heading"><div><p class="eyebrow">MUST READ</p><h2>今日必读</h2></div><span>按影响力排序</span></div>

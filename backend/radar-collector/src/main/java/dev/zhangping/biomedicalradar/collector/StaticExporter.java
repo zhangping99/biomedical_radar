@@ -97,8 +97,12 @@ public final class StaticExporter {
                 // A malformed previous export must not be republished; the new verified batch remains usable.
             }
         }
+        // Current batch comes first. A stable ID must replace its previous representation,
+        // even when a corrected canonical URL no longer matches the old URL deduplication key.
+        Map<String, Article> byId = new LinkedHashMap<>();
+        combined.forEach(article -> byId.putIfAbsent(article.id(), article));
         Instant cutoff = now.minus(Math.max(1, retentionDays), ChronoUnit.DAYS);
-        List<Article> retained = combined.stream().filter(article -> {
+        List<Article> retained = byId.values().stream().filter(article -> {
                     Instant time = article.publishedAt() == null ? article.collectedAt() : article.publishedAt();
                     return time != null && !time.isBefore(cutoff);
                 }).toList();

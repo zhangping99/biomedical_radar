@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-08T22:39:13.834738870Z",
+  "generatedAt": "2026-09-09T03:19:04.159760600Z",
   "articles": [
     {
       "id": "d2b60cee-1610-3555-9257-2ed8d2aff5ed",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T20:35:54Z",
-      "collectedAt": "2026-09-08T22:39:11.021655819Z",
+      "collectedAt": "2026-09-09T03:11:38.601079300Z",
       "contentHash": "bcb49a4d9a5942784cd6c8fbfa553c31f3f3660404e32d8c7bdb5bf34309db8a",
       "generated": false,
       "generatorVersion": null,
@@ -77,7 +77,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T20:15:04Z",
-      "collectedAt": "2026-09-08T22:39:11.023886078Z",
+      "collectedAt": "2026-09-09T03:11:38.602079100Z",
       "contentHash": "a18214263434ce35a2b9a9cc58d756eb737acdf7654eb0b09b7d7bfa3388f8d0",
       "generated": false,
       "generatorVersion": null,
@@ -126,7 +126,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T12:00:00Z",
-      "collectedAt": "2026-09-08T22:39:10.927901836Z",
+      "collectedAt": "2026-09-09T03:11:37.558341300Z",
       "contentHash": "9c033ecf98bec9bdb1d6f11759b427f7845ed0da03c8e0770f26d41c4977e424",
       "generated": false,
       "generatorVersion": null,
@@ -148,6 +148,335 @@
         "高影响事件",
         "政策或安全相关"
       ]
+    },
+    {
+      "id": "a3cda41f-75e5-3d1d-93cf-90ba96871f20",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/drugs/resources-information-approved-drugs/oncology-cancerhematologic-malignancies-approval-notifications",
+      "canonicalUrl": "https://www.fda.gov/drugs/resources-information-approved-drugs/oncology-cancerhematologic-malignancies-approval-notifications",
+      "titleOriginal": "Oncology (Cancer)/Hematologic Malignancies Approval Notifications",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-04T20:07:39Z",
+      "collectedAt": "2026-09-09T03:11:38.602079100Z",
+      "contentHash": "34f65e7358637802056576d768fab499ce9a850561e773f339612371f0f8ece4",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/drugs/resources-information-approved-drugs/oncology-cancerhematologic-malignancies-approval-notifications"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "94f71554-8eb0-37f1-9817-c95be90d49bd",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-accelerated-approval-camizestrant-cdk46-inhibitor-esr1-mutated-hr-positive-her2-negative",
+      "canonicalUrl": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-accelerated-approval-camizestrant-cdk46-inhibitor-esr1-mutated-hr-positive-her2-negative",
+      "titleOriginal": "FDA grants accelerated approval to camizestrant with a CDK4/6 inhibitor for ESR1-Mutated HR-positive, HER2-negative locally advanced or metastatic breast cancer",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-04T20:06:21Z",
+      "collectedAt": "2026-09-09T03:11:38.602079100Z",
+      "contentHash": "251536ac83833b98a26b441c044400af127dbbb6b0d8dda5e6c0c32b95854000",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-accelerated-approval-camizestrant-cdk46-inhibitor-esr1-mutated-hr-positive-her2-negative"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "50185859-4d00-3cf6-8aee-6fde9dc57405",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/news-events/press-announcements/fda-takes-steps-maintain-newborn-access-life-saving-starter-nutrition-products",
+      "canonicalUrl": "https://www.fda.gov/news-events/press-announcements/fda-takes-steps-maintain-newborn-access-life-saving-starter-nutrition-products",
+      "titleOriginal": "FDA Takes Steps to Maintain Newborn Access to Life-Saving Starter Nutrition Products",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "manufacturing_supply",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-04T20:19:48Z",
+      "collectedAt": "2026-09-09T03:11:38.601079300Z",
+      "contentHash": "df457019375983e416d18313185499ec053d42f380451680c748a6e579279d94",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/news-events/press-announcements/fda-takes-steps-maintain-newborn-access-life-saving-starter-nutrition-products"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "84c683dc-27d4-331d-98e5-e9ff6ba89ebb",
+      "sourceId": "ema-news",
+      "sourceName": "European Medicines Agency",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.ema.europa.eu/en/news/new-eu-supply-chain-end-visudyne-shortage",
+      "canonicalUrl": "https://www.ema.europa.eu/en/news/new-eu-supply-chain-end-visudyne-shortage",
+      "titleOriginal": "New EU supply chain to end Visudyne shortage",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "EU",
+      "category": "manufacturing_supply",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "European Medicines Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-04T09:00:00Z",
+      "collectedAt": "2026-09-09T03:11:37.565347500Z",
+      "contentHash": "55ea63792b055c8933f3127a2da526430588c7ce8ffb6e812a0b1d3662f1b61c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "ema-news",
+          "sourceName": "European Medicines Agency",
+          "sourceTier": "A",
+          "originalUrl": "https://www.ema.europa.eu/en/news/new-eu-supply-chain-end-visudyne-shortage"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "90cff0b1-1a52-30d5-9647-a81ffd74f143",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42709195/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42709195",
+      "titleOriginal": "Neoadjuvant combined immunotherapy with intratumoral TransCon TLR7/8 Agonist and systemic TransCon IL-2 β/y or pembrolizumab in patients with locally advanced oral cancer-a monocentric experience.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-04T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:43.221783400Z",
+      "contentHash": "cffdbf7e3708cda697b4b0469f7e50f849f2a073c05026e0dd9a90f61102dc8b",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42709195/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "4501838b-68c3-3322-a3ae-5dd672f7f42e",
+      "sourceId": "nature-medicine",
+      "sourceName": "Nature Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41591-026-04694-y",
+      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04694-y",
+      "titleOriginal": "Prediction of maternal and infant outcomes from longitudinal electronic health records with a Mother-Child AI agent",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-04T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:42.548933200Z",
+      "contentHash": "dac2d04af0be1d5f0ab6c71ddce51df1689288821d63e59083c50e0dcbb20294",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-medicine",
+          "sourceName": "Nature Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41591-026-04694-y"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "ca208c7c-09c4-3ecf-b293-1bd7ede14047",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/04/tips-for-coping-with-end-of-summer-blues",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/04/tips-for-coping-with-end-of-summer-blues",
+      "titleOriginal": "Tips for Coping With End-of-Summer Blues",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-04T00:00:00Z",
+      "collectedAt": "2026-09-09T03:11:44.425928700Z",
+      "contentHash": "9b5f0700822f208dc8b9bd464b5a12822042b5e6906eb0a67823a0eccf015908",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/04/tips-for-coping-with-end-of-summer-blues"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
     },
     {
       "id": "e5cba63e-b1fd-395d-8c2b-c78cd75b9a9c",
@@ -297,196 +626,6 @@
       ]
     },
     {
-      "id": "a3cda41f-75e5-3d1d-93cf-90ba96871f20",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/drugs/resources-information-approved-drugs/oncology-cancerhematologic-malignancies-approval-notifications",
-      "canonicalUrl": "https://www.fda.gov/drugs/resources-information-approved-drugs/oncology-cancerhematologic-malignancies-approval-notifications",
-      "titleOriginal": "Oncology (Cancer)/Hematologic Malignancies Approval Notifications",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-04T20:07:39Z",
-      "collectedAt": "2026-09-08T22:39:11.024131415Z",
-      "contentHash": "34f65e7358637802056576d768fab499ce9a850561e773f339612371f0f8ece4",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/drugs/resources-information-approved-drugs/oncology-cancerhematologic-malignancies-approval-notifications"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "94f71554-8eb0-37f1-9817-c95be90d49bd",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-accelerated-approval-camizestrant-cdk46-inhibitor-esr1-mutated-hr-positive-her2-negative",
-      "canonicalUrl": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-accelerated-approval-camizestrant-cdk46-inhibitor-esr1-mutated-hr-positive-her2-negative",
-      "titleOriginal": "FDA grants accelerated approval to camizestrant with a CDK4/6 inhibitor for ESR1-Mutated HR-positive, HER2-negative locally advanced or metastatic breast cancer",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-04T20:06:21Z",
-      "collectedAt": "2026-09-08T22:39:11.024437073Z",
-      "contentHash": "251536ac83833b98a26b441c044400af127dbbb6b0d8dda5e6c0c32b95854000",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-accelerated-approval-camizestrant-cdk46-inhibitor-esr1-mutated-hr-positive-her2-negative"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "50185859-4d00-3cf6-8aee-6fde9dc57405",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/news-events/press-announcements/fda-takes-steps-maintain-newborn-access-life-saving-starter-nutrition-products",
-      "canonicalUrl": "https://www.fda.gov/news-events/press-announcements/fda-takes-steps-maintain-newborn-access-life-saving-starter-nutrition-products",
-      "titleOriginal": "FDA Takes Steps to Maintain Newborn Access to Life-Saving Starter Nutrition Products",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "manufacturing_supply",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-04T20:19:48Z",
-      "collectedAt": "2026-09-08T22:39:11.021904662Z",
-      "contentHash": "df457019375983e416d18313185499ec053d42f380451680c748a6e579279d94",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/news-events/press-announcements/fda-takes-steps-maintain-newborn-access-life-saving-starter-nutrition-products"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "84c683dc-27d4-331d-98e5-e9ff6ba89ebb",
-      "sourceId": "ema-news",
-      "sourceName": "European Medicines Agency",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.ema.europa.eu/en/news/new-eu-supply-chain-end-visudyne-shortage",
-      "canonicalUrl": "https://www.ema.europa.eu/en/news/new-eu-supply-chain-end-visudyne-shortage",
-      "titleOriginal": "New EU supply chain to end Visudyne shortage",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "EU",
-      "category": "manufacturing_supply",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "European Medicines Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-04T09:00:00Z",
-      "collectedAt": "2026-09-08T22:39:10.944710656Z",
-      "contentHash": "55ea63792b055c8933f3127a2da526430588c7ce8ffb6e812a0b1d3662f1b61c",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "ema-news",
-          "sourceName": "European Medicines Agency",
-          "sourceTier": "A",
-          "originalUrl": "https://www.ema.europa.eu/en/news/new-eu-supply-chain-end-visudyne-shortage"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
       "id": "f8662389-dbb5-35b4-819f-ba8e6469a93d",
       "sourceId": "fda-drug-news",
       "sourceName": "U.S. Food and Drug Administration - Drugs",
@@ -532,53 +671,6 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关"
-      ]
-    },
-    {
-      "id": "4501838b-68c3-3322-a3ae-5dd672f7f42e",
-      "sourceId": "nature-medicine",
-      "sourceName": "Nature Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41591-026-04694-y",
-      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04694-y",
-      "titleOriginal": "Prediction of maternal and infant outcomes from longitudinal electronic health records with a Mother-Child AI agent",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-04T00:00:00Z",
-      "collectedAt": "2026-09-08T17:54:37.379687968Z",
-      "contentHash": "dac2d04af0be1d5f0ab6c71ddce51df1689288821d63e59083c50e0dcbb20294",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-medicine",
-          "sourceName": "Nature Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41591-026-04694-y"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
       ]
     },
     {
@@ -1078,51 +1170,6 @@
       "importanceReasons": [
         "官方一手来源"
       ]
-    },
-    {
-      "id": "ca208c7c-09c4-3ecf-b293-1bd7ede14047",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/04/tips-for-coping-with-end-of-summer-blues",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/04/tips-for-coping-with-end-of-summer-blues",
-      "titleOriginal": "Tips for Coping With End-of-Summer Blues",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-04T00:00:00Z",
-      "collectedAt": "2026-09-08T05:05:30.250192326Z",
-      "contentHash": "9b5f0700822f208dc8b9bd464b5a12822042b5e6906eb0a67823a0eccf015908",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/04/tips-for-coping-with-end-of-summer-blues"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     }
   ]
 }
