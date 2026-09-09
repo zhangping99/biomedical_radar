@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-09T21:56:20.903637862Z",
+  "generatedAt": "2026-09-09T22:32:59.705392696Z",
   "articles": [
+    {
+      "id": "a95b9ea6-e304-3220-b9e4-e1dd8543fd8e",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical",
+      "titleOriginal": "Early Alert: Convenience Kit Issue from AVID Medical",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-24T04:00:00Z",
+      "collectedAt": "2026-09-09T22:32:57.267002286Z",
+      "contentHash": "b5c87aa04c09434b02b3338ce1f166abe3f10507c1b2ab83fdb096d38125607a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "607ff4fb-4fb5-304c-8eca-cd47f7ac074c",
       "sourceId": "gsk-press-releases",
@@ -141,55 +190,6 @@
       "importanceScore": 50,
       "importanceReasons": [
         "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "a95b9ea6-e304-3220-b9e4-e1dd8543fd8e",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical",
-      "titleOriginal": "Early Alert: Convenience Kit Issue from AVID Medical",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-08-24T04:00:00Z",
-      "collectedAt": "2026-09-09T12:57:58.574232176Z",
-      "contentHash": "b5c87aa04c09434b02b3338ce1f166abe3f10507c1b2ab83fdb096d38125607a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
         "政策或安全相关"
       ]
     },

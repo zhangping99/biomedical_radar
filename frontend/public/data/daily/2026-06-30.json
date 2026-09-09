@@ -1,7 +1,55 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-09T21:56:20.903637862Z",
+  "generatedAt": "2026-09-09T22:32:59.705392696Z",
   "articles": [
+    {
+      "id": "4e2ef65d-4e8f-3a1e-bd55-24cd9bb6d8c7",
+      "sourceId": "pmda-safety-updates",
+      "sourceName": "Japan PMDA Safety Updates",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/properly-use-alert/0001.html",
+      "canonicalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/properly-use-alert/0001.html",
+      "titleOriginal": "PMDA Alert for Proper Use of Drugs: Serious hypocarnitinemia and hypoglycaemia in children treated with antibacterials with a pivoxil group (follow-up report) posted",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "JP",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Pharmaceuticals and Medical Devices Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-06-30T00:00:00Z",
+      "collectedAt": "2026-09-09T22:32:58.192849786Z",
+      "contentHash": "1f4e24d6bcc91cc1cc8b43b2a70640c9a7fba75a3a30a11b6ba0a263b4c7b2ed",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "pmda-safety-updates",
+          "sourceName": "Japan PMDA Safety Updates",
+          "sourceTier": "A",
+          "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/properly-use-alert/0001.html"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "f3da1531-41d4-3c68-93d8-4bb611e27029",
       "sourceId": "sanofi-press-releases",
@@ -47,54 +95,6 @@
       "importanceScore": 35,
       "importanceReasons": [
         "高影响事件"
-      ]
-    },
-    {
-      "id": "4e2ef65d-4e8f-3a1e-bd55-24cd9bb6d8c7",
-      "sourceId": "pmda-safety-updates",
-      "sourceName": "Japan PMDA Safety Updates",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/properly-use-alert/0001.html",
-      "canonicalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/properly-use-alert/0001.html",
-      "titleOriginal": "PMDA Alert for Proper Use of Drugs: Serious hypocarnitinemia and hypoglycaemia in children treated with antibacterials with a pivoxil group (follow-up report) posted",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "JP",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Pharmaceuticals and Medical Devices Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-06-30T00:00:00Z",
-      "collectedAt": "2026-09-09T19:16:38.478805211Z",
-      "contentHash": "1f4e24d6bcc91cc1cc8b43b2a70640c9a7fba75a3a30a11b6ba0a263b4c7b2ed",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "pmda-safety-updates",
-          "sourceName": "Japan PMDA Safety Updates",
-          "sourceTier": "A",
-          "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/properly-use-alert/0001.html"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
       ]
     }
   ]
