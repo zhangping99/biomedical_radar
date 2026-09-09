@@ -1,7 +1,102 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-09T17:15:37.557853698Z",
+  "generatedAt": "2026-09-09T17:49:28.603377552Z",
   "articles": [
+    {
+      "id": "28bb0940-76b8-3824-b9b5-dadfcba51dd2",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42712963/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42712963",
+      "titleOriginal": "First-in-Human Phase I Trial of HRS-2129, a Selective Nav1.8 Inhibitor: Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics in Healthy Subjects.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-03T00:00:00Z",
+      "collectedAt": "2026-09-09T17:49:27.393512961Z",
+      "contentHash": "6d502068e812e248f93e48093cab429bc2844d9f981ef597fa8fb834a585f775",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42712963/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件"
+      ]
+    },
+    {
+      "id": "8908c899-d9f1-3351-8003-efd1b3fb241d",
+      "sourceId": "nature-biotechnology",
+      "sourceName": "Nature Biotechnology",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41587-026-03287-x",
+      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03287-x",
+      "titleOriginal": "Accelerating natural CO\u003csub\u003e2\u003c/sub\u003e removal from the atmosphere with ocean bacteria",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Biotechnology"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-03T00:00:00Z",
+      "collectedAt": "2026-09-09T17:49:27.429001263Z",
+      "contentHash": "ec6727dc534fae3a0cb584ec6c7880a7f67fff76f78dbee9a387a83c01319d4c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-biotechnology",
+          "sourceName": "Nature Biotechnology",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41587-026-03287-x"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "f9bda476-d09d-38c9-994f-119e80fdce4b",
       "sourceId": "abbvie-news",
@@ -703,53 +798,6 @@
           "sourceName": "Nature Medicine",
           "sourceTier": "A",
           "originalUrl": "https://www.nature.com/articles/d41591-026-00045-z"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "8908c899-d9f1-3351-8003-efd1b3fb241d",
-      "sourceId": "nature-biotechnology",
-      "sourceName": "Nature Biotechnology",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41587-026-03287-x",
-      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03287-x",
-      "titleOriginal": "Accelerating natural CO\u003csub\u003e2\u003c/sub\u003e removal from the atmosphere with ocean bacteria",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Biotechnology"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-03T00:00:00Z",
-      "collectedAt": "2026-09-09T07:22:14.206113264Z",
-      "contentHash": "ec6727dc534fae3a0cb584ec6c7880a7f67fff76f78dbee9a387a83c01319d4c",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-biotechnology",
-          "sourceName": "Nature Biotechnology",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41587-026-03287-x"
         }
       ],
       "importanceScore": 35,

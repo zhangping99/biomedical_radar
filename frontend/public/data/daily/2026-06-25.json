@@ -1,7 +1,59 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-09T17:15:37.557853698Z",
+  "generatedAt": "2026-09-09T17:49:28.603377552Z",
   "articles": [
+    {
+      "id": "52a3b1d9-9017-388e-85bd-e3179bc934ea",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07668518",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07668518",
+      "titleOriginal": "A Study of the Safety, Tolerability, Pharmacokinetics and Efficacy of KIT2014 in Patients With Moderate to Severe COPD",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert",
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Chronic Obstructive Pulmonary Disease (COPD)"
+      ],
+      "publishedAt": "2026-06-25T00:00:00Z",
+      "collectedAt": "2026-09-09T17:49:27.115945329Z",
+      "contentHash": "ef8f09d9722414c53bd80f5d918118feaeabcdad073c2e805c14970f91c845a8",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07668518"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "d452eb70-f112-3989-94f1-fc0d21df971b",
       "sourceId": "sanofi-press-releases",
