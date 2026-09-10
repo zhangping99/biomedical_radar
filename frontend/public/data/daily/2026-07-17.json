@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-10T17:09:06.667464611Z",
+  "generatedAt": "2026-09-10T17:42:00.964380341Z",
   "articles": [
+    {
+      "id": "50b78b11-da69-3ae2-94d0-cbb570f7600f",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07712159",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07712159",
+      "titleOriginal": "Temporal Interference Transcranial Alternating Current Stimulation for Major Depressive Disorder",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Major Depressive Disorder (MDD)"
+      ],
+      "publishedAt": "2026-07-17T00:00:00Z",
+      "collectedAt": "2026-09-10T17:41:59.165081531Z",
+      "contentHash": "96eae131ebbe5d31c448c7a8ecf6c294132aa62a536e93b66237d47be8ce6e79",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07712159"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "f45b885a-2e91-371c-bd1b-6fd0ba8687bf",
       "sourceId": "gsk-press-releases",
