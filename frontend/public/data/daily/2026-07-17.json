@@ -1,7 +1,55 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-10T16:41:19.376365008Z",
+  "generatedAt": "2026-09-10T17:09:06.667464611Z",
   "articles": [
+    {
+      "id": "f45b885a-2e91-371c-bd1b-6fd0ba8687bf",
+      "sourceId": "gsk-press-releases",
+      "sourceName": "GSK Press Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.gsk.com/en-gb/media/press-releases/gsk-provides-an-update-on-calm-1-and-calm-2-phase-iii-trials/",
+      "canonicalUrl": "https://www.gsk.com/en-gb/media/press-releases/gsk-provides-an-update-on-calm-1-and-calm-2-phase-iii-trials",
+      "titleOriginal": "GSK provides an update on CALM-1 and CALM-2 phase III trials for camlipixant in refractory chronic cough (RCC)",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "drug_rd",
+      "eventTypes": [
+        "phase_3_result",
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "GSK"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-07-17T09:00:00Z",
+      "collectedAt": "2026-09-10T17:09:04.206423886Z",
+      "contentHash": "26a9273453ce064ff714f395f6c6b97467c097388dadb3129743dcbf6fb34baf",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "gsk-press-releases",
+          "sourceName": "GSK Press Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://www.gsk.com/en-gb/media/press-releases/gsk-provides-an-update-on-calm-1-and-calm-2-phase-iii-trials/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "高影响事件"
+      ]
+    },
     {
       "id": "7ccfc15e-1a7a-36e8-ac14-bc1ef0a796e9",
       "sourceId": "nhsa-healthcare-security-updates",
@@ -47,54 +95,6 @@
       "importanceScore": 35,
       "importanceReasons": [
         "官方一手来源"
-      ]
-    },
-    {
-      "id": "f45b885a-2e91-371c-bd1b-6fd0ba8687bf",
-      "sourceId": "gsk-press-releases",
-      "sourceName": "GSK Press Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.gsk.com/en-gb/media/press-releases/gsk-provides-an-update-on-calm-1-and-calm-2-phase-iii-trials/",
-      "canonicalUrl": "https://www.gsk.com/en-gb/media/press-releases/gsk-provides-an-update-on-calm-1-and-calm-2-phase-iii-trials",
-      "titleOriginal": "GSK provides an update on CALM-1 and CALM-2 phase III trials for camlipixant in refractory chronic cough (RCC)",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "drug_rd",
-      "eventTypes": [
-        "phase_3_result",
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "GSK"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-07-17T09:00:00Z",
-      "collectedAt": "2026-09-10T12:22:10.416246313Z",
-      "contentHash": "26a9273453ce064ff714f395f6c6b97467c097388dadb3129743dcbf6fb34baf",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "gsk-press-releases",
-          "sourceName": "GSK Press Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://www.gsk.com/en-gb/media/press-releases/gsk-provides-an-update-on-calm-1-and-calm-2-phase-iii-trials/"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "高影响事件"
       ]
     }
   ]
