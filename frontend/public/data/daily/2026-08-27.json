@@ -1,7 +1,104 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-10T18:40:22.414022529Z",
+  "generatedAt": "2026-09-10T19:07:22.031853489Z",
   "articles": [
+    {
+      "id": "9939c2de-5b79-3d8c-86a7-2e7fd9cb6872",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-medline-namic-star-handle",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-medline-namic-star-handle",
+      "titleOriginal": "Convenience Kit Correction: AVID Medical Issues Correction for Kits Containing Medline Namic Star Off Handle Manifolds",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-27T04:00:00Z",
+      "collectedAt": "2026-09-10T19:07:19.490424887Z",
+      "contentHash": "36ee780e144068fae5458f1ebab3b3ac48d7ccc840ead20b53a4db392a163bb8",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-medline-namic-star-handle"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "61de2e0b-7ff8-3203-8601-e44d40b0972c",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-esophageal-ph-monitoring-capsule-delivery-device-issue-medtronic-and-given-imaging",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-esophageal-ph-monitoring-capsule-delivery-device-issue-medtronic-and-given-imaging",
+      "titleOriginal": "Early Alert: Esophageal pH Monitoring Capsule Delivery Device Issue from Medtronic and Given Imaging",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-27T04:00:00Z",
+      "collectedAt": "2026-09-10T19:07:19.490609102Z",
+      "contentHash": "51a0eaaa98b2269b672af547b250cc3e01053802e8cf1173c62c07fe9ee86630",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-esophageal-ph-monitoring-capsule-delivery-device-issue-medtronic-and-given-imaging"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "67a759f4-6688-3ee6-97e3-01fdc390b747",
       "sourceId": "cleveland-clinic-news",
@@ -233,55 +330,6 @@
       "importanceReasons": []
     },
     {
-      "id": "9939c2de-5b79-3d8c-86a7-2e7fd9cb6872",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-medline-namic-star-handle",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-medline-namic-star-handle",
-      "titleOriginal": "Convenience Kit Correction: AVID Medical Issues Correction for Kits Containing Medline Namic Star Off Handle Manifolds",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-08-27T04:00:00Z",
-      "collectedAt": "2026-09-10T12:55:17.878509864Z",
-      "contentHash": "36ee780e144068fae5458f1ebab3b3ac48d7ccc840ead20b53a4db392a163bb8",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-medline-namic-star-handle"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
       "id": "d1bb4076-3f1c-31bf-b351-93408078adeb",
       "sourceId": "health-canada-health-products",
       "sourceName": "Health Canada Health Product Recalls",
@@ -376,54 +424,6 @@
       "importanceReasons": [
         "官方一手来源",
         "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "61de2e0b-7ff8-3203-8601-e44d40b0972c",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-esophageal-ph-monitoring-capsule-delivery-device-issue-medtronic-and-given-imaging",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-esophageal-ph-monitoring-capsule-delivery-device-issue-medtronic-and-given-imaging",
-      "titleOriginal": "Early Alert: Esophageal pH Monitoring Capsule Delivery Device Issue from Medtronic and Given Imaging",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-08-27T04:00:00Z",
-      "collectedAt": "2026-09-10T12:55:17.878727391Z",
-      "contentHash": "51a0eaaa98b2269b672af547b250cc3e01053802e8cf1173c62c07fe9ee86630",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-esophageal-ph-monitoring-capsule-delivery-device-issue-medtronic-and-given-imaging"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
         "政策或安全相关"
       ]
     },
