@@ -1,54 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-10T21:12:32.262850108Z",
+  "generatedAt": "2026-09-10T21:50:37.244209629Z",
   "articles": [
-    {
-      "id": "39eff298-74cf-3c98-ac95-35a2b39615df",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42718878/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42718878",
-      "titleOriginal": "Longitudinal patient-reported outcomes and quality-of-life trajectories over 2 years in CAR-T therapy recipients.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-07-28T00:00:00Z",
-      "collectedAt": "2026-09-10T17:41:59.741980492Z",
-      "contentHash": "c3df7849c905417eeba10810683f1093a4f4fad8627f7524952539bfba1df2c8",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42718878/"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
     {
       "id": "ee422afe-4fc3-3bf0-b753-673120c59f1a",
       "sourceId": "gsk-press-releases",
@@ -75,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-28T12:00:00Z",
-      "collectedAt": "2026-09-10T17:09:04.204555533Z",
+      "collectedAt": "2026-09-10T21:50:35.357857890Z",
       "contentHash": "f4b899fa356d68f3d8991242d51b91c79bafcfc6a5bb7a08deab668c0744060a",
       "generated": false,
       "generatorVersion": null,
@@ -122,7 +75,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-28T11:00:41Z",
-      "collectedAt": "2026-09-10T17:09:04.204831221Z",
+      "collectedAt": "2026-09-10T21:50:35.358148655Z",
       "contentHash": "d7646759703d5a1bb305fd3165da685ebd61e3040889a4492702897446ee8c04",
       "generated": false,
       "generatorVersion": null,
@@ -169,7 +122,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-28T12:05:00Z",
-      "collectedAt": "2026-09-10T17:09:04.204285424Z",
+      "collectedAt": "2026-09-10T21:50:35.357681709Z",
       "contentHash": "4ab5d2ce0b7e85f6d620ddc12816873069fd8fb12e2588607c50726468842802",
       "generated": false,
       "generatorVersion": null,
@@ -214,7 +167,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-28T00:00:00Z",
-      "collectedAt": "2026-09-10T17:09:05.777499287Z",
+      "collectedAt": "2026-09-10T21:50:35.973806616Z",
       "contentHash": "78d308f6ba9a594adc574885c0d2d9815787e7a98a8da86f02d38d033dcefe2b",
       "generated": false,
       "generatorVersion": null,
@@ -259,7 +212,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-28T00:00:00Z",
-      "collectedAt": "2026-09-10T17:09:06.546075564Z",
+      "collectedAt": "2026-09-10T21:50:35.748201908Z",
       "contentHash": "8d294f8d7b1d682a9eed94b89cf69794eb6c08dae4faa22c4129b2eee2145bd6",
       "generated": false,
       "generatorVersion": null,
@@ -304,7 +257,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-28T00:00:00Z",
-      "collectedAt": "2026-09-10T17:09:06.546292164Z",
+      "collectedAt": "2026-09-10T21:50:35.748502482Z",
       "contentHash": "ed7d588b28010b7fee14f7a084f6822da4744e0ac5c38c5ab11eff7de624aa11",
       "generated": false,
       "generatorVersion": null,
@@ -322,6 +275,53 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
+    },
+    {
+      "id": "39eff298-74cf-3c98-ac95-35a2b39615df",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42718878/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42718878",
+      "titleOriginal": "Longitudinal patient-reported outcomes and quality-of-life trajectories over 2 years in CAR-T therapy recipients.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-07-28T00:00:00Z",
+      "collectedAt": "2026-09-10T17:41:59.741980492Z",
+      "contentHash": "c3df7849c905417eeba10810683f1093a4f4fad8627f7524952539bfba1df2c8",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42718878/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
     },
     {
       "id": "82f5e4b1-d1f9-3511-9118-c813ef5c310b",

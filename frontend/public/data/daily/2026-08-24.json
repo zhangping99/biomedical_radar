@@ -1,55 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-10T21:12:32.262850108Z",
+  "generatedAt": "2026-09-10T21:50:37.244209629Z",
   "articles": [
-    {
-      "id": "c2256e2d-52ce-33d9-845a-5914161d1b99",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-nitric-oxide-delivery-system-issue-noxbox",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-nitric-oxide-delivery-system-issue-noxbox",
-      "titleOriginal": "Early Alert: Nitric Oxide Delivery System Issue from NOxBOX",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-08-24T04:00:00Z",
-      "collectedAt": "2026-09-10T19:07:19.498015699Z",
-      "contentHash": "ac91c0db457d1681f71747bf2d3366a1ed093334d79ad5d2833835109904b6f3",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-nitric-oxide-delivery-system-issue-noxbox"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
     {
       "id": "607ff4fb-4fb5-304c-8eca-cd47f7ac074c",
       "sourceId": "gsk-press-releases",
@@ -76,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-08-24T07:01:19Z",
-      "collectedAt": "2026-09-10T17:09:04.203581973Z",
+      "collectedAt": "2026-09-10T21:50:35.356820192Z",
       "contentHash": "50154aa29955f9a3e836f53ea2d40482c1ab74de798d32069a3dc010b944ed58",
       "generated": false,
       "generatorVersion": null,
@@ -123,7 +75,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-08-24T07:00:15Z",
-      "collectedAt": "2026-09-10T17:09:04.203822679Z",
+      "collectedAt": "2026-09-10T21:50:35.357175259Z",
       "contentHash": "75c197bed4ed364b6814595b1e4f7ab51ad442e54dfe32808f7bb1e82cdba3c1",
       "generated": false,
       "generatorVersion": null,
@@ -142,6 +94,54 @@
       "importanceScore": 35,
       "importanceReasons": [
         "高影响事件"
+      ]
+    },
+    {
+      "id": "c2256e2d-52ce-33d9-845a-5914161d1b99",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-nitric-oxide-delivery-system-issue-noxbox",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-nitric-oxide-delivery-system-issue-noxbox",
+      "titleOriginal": "Early Alert: Nitric Oxide Delivery System Issue from NOxBOX",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-24T04:00:00Z",
+      "collectedAt": "2026-09-10T19:07:19.498015699Z",
+      "contentHash": "ac91c0db457d1681f71747bf2d3366a1ed093334d79ad5d2833835109904b6f3",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-nitric-oxide-delivery-system-issue-noxbox"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
       ]
     },
     {
