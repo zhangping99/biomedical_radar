@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-10T11:51:30.233481068Z",
+  "generatedAt": "2026-09-10T12:22:13.372118888Z",
   "articles": [
+    {
+      "id": "d452eb70-f112-3989-94f1-fc0d21df971b",
+      "sourceId": "sanofi-press-releases",
+      "sourceName": "Sanofi Press Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-25-06-00-00-3317281",
+      "canonicalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-25-06-00-00-3317281",
+      "titleOriginal": "Press Release: Sanofi Foundation opens new chapter centered on future generations",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "EU",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Sanofi"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-06-25T00:00:00Z",
+      "collectedAt": "2026-09-10T12:22:10.163845616Z",
+      "contentHash": "6cfebf167d927e37b1045e21f1cead11005b2a8b5b710ce0c7313219339ebf48",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "sanofi-press-releases",
+          "sourceName": "Sanofi Press Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-25-06-00-00-3317281"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "52a3b1d9-9017-388e-85bd-e3179bc934ea",
       "sourceId": "clinicaltrials-recent",
@@ -53,51 +98,6 @@
         "高影响事件",
         "政策或安全相关"
       ]
-    },
-    {
-      "id": "d452eb70-f112-3989-94f1-fc0d21df971b",
-      "sourceId": "sanofi-press-releases",
-      "sourceName": "Sanofi Press Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-25-06-00-00-3317281",
-      "canonicalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-25-06-00-00-3317281",
-      "titleOriginal": "Press Release: Sanofi Foundation opens new chapter centered on future generations",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "EU",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "Sanofi"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-06-25T00:00:00Z",
-      "collectedAt": "2026-09-10T06:37:17.252429073Z",
-      "contentHash": "6cfebf167d927e37b1045e21f1cead11005b2a8b5b710ce0c7313219339ebf48",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "sanofi-press-releases",
-          "sourceName": "Sanofi Press Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-25-06-00-00-3317281"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     }
   ]
 }
