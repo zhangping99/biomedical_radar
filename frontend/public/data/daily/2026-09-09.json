@@ -1,57 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-11T21:53:27.663420751Z",
+  "generatedAt": "2026-09-11T22:34:42.968899678Z",
   "articles": [
-    {
-      "id": "c111a96e-b621-3d9b-ba89-5181c7590348",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/drugs/human-drug-compounding/human-drug-compounding-policies-and-rules",
-      "canonicalUrl": "https://www.fda.gov/drugs/human-drug-compounding/human-drug-compounding-policies-and-rules",
-      "titleOriginal": "Human Drug Compounding Policies and Rules",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "policy_release"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-09T20:54:01Z",
-      "collectedAt": "2026-09-11T19:09:20.772343211Z",
-      "contentHash": "cd3b6b18f55817be2801fb94847b64008936dc73bda99dd54876cba40ccc5592",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/drugs/human-drug-compounding/human-drug-compounding-policies-and-rules"
-        }
-      ],
-      "importanceScore": 73,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
     {
       "id": "de484c30-ec4e-3e84-845b-2a1a20faf960",
       "sourceId": "health-canada-health-products",
@@ -78,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-09T00:00:00Z",
-      "collectedAt": "2026-09-11T19:09:25.234769682Z",
+      "collectedAt": "2026-09-11T22:34:41.168534724Z",
       "contentHash": "b5eecba50494a4e289b1a17f8b19b30029865ef5819e6a4f0df82ab882d727bb",
       "generated": false,
       "generatorVersion": null,
@@ -128,7 +78,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-09T00:00:00Z",
-      "collectedAt": "2026-09-11T19:09:25.234910604Z",
+      "collectedAt": "2026-09-11T22:34:41.168650195Z",
       "contentHash": "6fcbc96a538fff2c70ea20f4cc68d391b3a1d98d6412464532d01357f4e3cb60",
       "generated": false,
       "generatorVersion": null,
@@ -142,6 +92,56 @@
           "sourceName": "Health Canada Health Product Recalls",
           "sourceTier": "A",
           "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/veradius-unity-and-bv-pulsera-mobile-c-arm-system-9in-and-12in-versions"
+        }
+      ],
+      "importanceScore": 73,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "c111a96e-b621-3d9b-ba89-5181c7590348",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/drugs/human-drug-compounding/human-drug-compounding-policies-and-rules",
+      "canonicalUrl": "https://www.fda.gov/drugs/human-drug-compounding/human-drug-compounding-policies-and-rules",
+      "titleOriginal": "Human Drug Compounding Policies and Rules",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "policy_release"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-09T20:54:01Z",
+      "collectedAt": "2026-09-11T19:09:20.772343211Z",
+      "contentHash": "cd3b6b18f55817be2801fb94847b64008936dc73bda99dd54876cba40ccc5592",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/drugs/human-drug-compounding/human-drug-compounding-policies-and-rules"
         }
       ],
       "importanceScore": 73,
