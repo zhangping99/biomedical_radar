@@ -1,52 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-11T11:48:36.241044860Z",
+  "generatedAt": "2026-09-11T12:20:54.055971381Z",
   "articles": [
-    {
-      "id": "544670ef-de0c-3b97-9e97-da41d9cf748d",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/01/cleveland-clinic-despite-men-not-trusting-what-they-see-online-some-are-letting-social-media-drive-their-behaviors",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/01/cleveland-clinic-despite-men-not-trusting-what-they-see-online-some-are-letting-social-media-drive-their-behaviors",
-      "titleOriginal": "Cleveland Clinic: Despite Men Not Trusting What They See Online, Some Are Letting Social Media Drive Their Behaviors",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-01T00:00:00Z",
-      "collectedAt": "2026-09-11T08:17:13.670143532Z",
-      "contentHash": "d96c24e00ccd895c74a23a2f9a5220a409fb324452da6048a483e5efe350d5e2",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/01/cleveland-clinic-despite-men-not-trusting-what-they-see-online-some-are-letting-social-media-drive-their-behaviors"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
     {
       "id": "e85e2fcc-6a1c-3f95-b278-52cdf8000bba",
       "sourceId": "gsk-press-releases",
@@ -73,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-01T07:00:00Z",
-      "collectedAt": "2026-09-11T06:36:35.378920536Z",
+      "collectedAt": "2026-09-11T12:20:51.889240451Z",
       "contentHash": "d052ba0ecf5f1232bfcbc5f713f6968940115e3c5b2b8ee4b6a03e0aa22321a3",
       "generated": false,
       "generatorVersion": null,
@@ -120,7 +75,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-01T14:00:00Z",
-      "collectedAt": "2026-09-11T06:36:34.654830539Z",
+      "collectedAt": "2026-09-11T12:20:50.984863582Z",
       "contentHash": "19dfaff760bf3bcbf44c0a8d46da9887d2a548c214d17fe160d6e560bd704628",
       "generated": false,
       "generatorVersion": null,
@@ -165,7 +120,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-01T12:05:00Z",
-      "collectedAt": "2026-09-11T06:36:38.622928318Z",
+      "collectedAt": "2026-09-11T12:20:53.922530166Z",
       "contentHash": "a3713cff720e8a3264c069508f98ce070a7f9d2d4a515d366a65c60af959fde3",
       "generated": false,
       "generatorVersion": null,
@@ -179,6 +134,51 @@
           "sourceName": "AbbVie News",
           "sourceTier": "B",
           "originalUrl": "https://news.abbvie.com/2026-09-01-SkinMedica-R-Adds-Barrier-Calming-Cream-to-its-Collection-of-Regenerative-Skincare-Offerings"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "544670ef-de0c-3b97-9e97-da41d9cf748d",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/01/cleveland-clinic-despite-men-not-trusting-what-they-see-online-some-are-letting-social-media-drive-their-behaviors",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/01/cleveland-clinic-despite-men-not-trusting-what-they-see-online-some-are-letting-social-media-drive-their-behaviors",
+      "titleOriginal": "Cleveland Clinic: Despite Men Not Trusting What They See Online, Some Are Letting Social Media Drive Their Behaviors",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-01T00:00:00Z",
+      "collectedAt": "2026-09-11T08:17:13.670143532Z",
+      "contentHash": "d96c24e00ccd895c74a23a2f9a5220a409fb324452da6048a483e5efe350d5e2",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/01/cleveland-clinic-despite-men-not-trusting-what-they-see-online-some-are-letting-social-media-drive-their-behaviors"
         }
       ],
       "importanceScore": 20,
