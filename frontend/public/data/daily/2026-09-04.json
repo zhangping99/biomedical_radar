@@ -1,7 +1,54 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-11T17:10:32.475215470Z",
+  "generatedAt": "2026-09-11T17:44:29.684178850Z",
   "articles": [
+    {
+      "id": "a418cdb3-04fe-32fe-9ed4-af3e857bd0a4",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42720437/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42720437",
+      "titleOriginal": "Culturally adapted post-diagnostic dementia support for South Asian people living with dementia and caregivers: a rapid review.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-04T00:00:00Z",
+      "collectedAt": "2026-09-11T17:44:27.725013883Z",
+      "contentHash": "a4e9bc8f5f88a9456f43c2d1115203bd871e13ede43436b9659804b41852cd72",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42720437/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "9bce63e6-dbcc-37d0-b823-155e09c1c4a8",
       "sourceId": "ema-news",
@@ -238,53 +285,6 @@
           "sourceName": "European Medicines Agency",
           "sourceTier": "A",
           "originalUrl": "https://www.ema.europa.eu/en/news/new-eu-supply-chain-end-visudyne-shortage"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "a418cdb3-04fe-32fe-9ed4-af3e857bd0a4",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42720437/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42720437",
-      "titleOriginal": "Culturally adapted post-diagnostic dementia support for South Asian people living with dementia and caregivers: a rapid review.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-04T00:00:00Z",
-      "collectedAt": "2026-09-11T07:16:41.012467853Z",
-      "contentHash": "a4e9bc8f5f88a9456f43c2d1115203bd871e13ede43436b9659804b41852cd72",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42720437/"
         }
       ],
       "importanceScore": 35,
