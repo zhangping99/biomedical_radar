@@ -1,7 +1,55 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-11T05:15:53.672764934Z",
+  "generatedAt": "2026-09-11T06:36:43.850689978Z",
   "articles": [
+    {
+      "id": "8de45168-ec4b-3939-872b-bbae264f2d36",
+      "sourceId": "lilly-news-releases",
+      "sourceName": "Eli Lilly News Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/lilly-reports-second-quarter-2026-financial-results-raises-full",
+      "canonicalUrl": "https://investor.lilly.com/news-releases/news-release-details/lilly-reports-second-quarter-2026-financial-results-raises-full",
+      "titleOriginal": "Lilly reports second-quarter 2026 financial results, raises full-year guidance, and highlights continued growth and pipeline progress",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "policy_release"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Eli Lilly and Company"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-05T10:45:00Z",
+      "collectedAt": "2026-09-11T06:36:34.660204977Z",
+      "contentHash": "65b2e31238bcdb4b4cae33b76c6aa9ae4c96f176df6bb04cfc1130483dde3cd5",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "lilly-news-releases",
+          "sourceName": "Eli Lilly News Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/lilly-reports-second-quarter-2026-financial-results-raises-full"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "7e94a2cc-5c07-3aee-8a09-d7127382ce22",
       "sourceId": "beijing-health-policy",
@@ -47,54 +95,6 @@
       "importanceScore": 50,
       "importanceReasons": [
         "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "8de45168-ec4b-3939-872b-bbae264f2d36",
-      "sourceId": "lilly-news-releases",
-      "sourceName": "Eli Lilly News Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/lilly-reports-second-quarter-2026-financial-results-raises-full",
-      "canonicalUrl": "https://investor.lilly.com/news-releases/news-release-details/lilly-reports-second-quarter-2026-financial-results-raises-full",
-      "titleOriginal": "Lilly reports second-quarter 2026 financial results, raises full-year guidance, and highlights continued growth and pipeline progress",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "policy_release"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "Eli Lilly and Company"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-08-05T10:45:00Z",
-      "collectedAt": "2026-09-10T21:50:34.168001366Z",
-      "contentHash": "65b2e31238bcdb4b4cae33b76c6aa9ae4c96f176df6bb04cfc1130483dde3cd5",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "lilly-news-releases",
-          "sourceName": "Eli Lilly News Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/lilly-reports-second-quarter-2026-financial-results-raises-full"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "高影响事件",
         "政策或安全相关"
       ]
     },
