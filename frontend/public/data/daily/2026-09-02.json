@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-11T17:44:29.684178850Z",
+  "generatedAt": "2026-09-11T18:44:10.471480219Z",
   "articles": [
+    {
+      "id": "b93af10b-7dbd-3bf4-8ae4-5305f976084b",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/02/cleveland-clinic-opens-two-new-research-buildings",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/02/cleveland-clinic-opens-two-new-research-buildings",
+      "titleOriginal": "Cleveland Clinic Opens Two New Research Buildings",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-02T00:00:00Z",
+      "collectedAt": "2026-09-11T18:44:05.178344607Z",
+      "contentHash": "d9b63bbbe5780a8716ed28935f7c19b6ae646214189b060ab1a458a2bd243ec1",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/02/cleveland-clinic-opens-two-new-research-buildings"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "8a39b667-cee1-3d82-b178-fd04e38be50f",
       "sourceId": "nature-reviews-cancer",
@@ -613,51 +658,6 @@
           "sourceName": "Peking Union Medical College Hospital Research",
           "sourceTier": "B",
           "originalUrl": "https://www.pumch.cn/detail/46498.html"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "b93af10b-7dbd-3bf4-8ae4-5305f976084b",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/02/cleveland-clinic-opens-two-new-research-buildings",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/02/cleveland-clinic-opens-two-new-research-buildings",
-      "titleOriginal": "Cleveland Clinic Opens Two New Research Buildings",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-02T00:00:00Z",
-      "collectedAt": "2026-09-11T08:17:13.665960416Z",
-      "contentHash": "d9b63bbbe5780a8716ed28935f7c19b6ae646214189b060ab1a458a2bd243ec1",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/02/cleveland-clinic-opens-two-new-research-buildings"
         }
       ],
       "importanceScore": 20,
