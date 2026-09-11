@@ -1,7 +1,57 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-10T22:35:45.608247865Z",
+  "generatedAt": "2026-09-11T04:38:17.258361399Z",
   "articles": [
+    {
+      "id": "c1cbbd87-7164-3de7-adc6-8c42f9effb2d",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/blood-blood-products/approved-blood-products",
+      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/blood-blood-products/approved-blood-products",
+      "titleOriginal": "Approved Blood Products",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "approval"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-08T16:18:14Z",
+      "collectedAt": "2026-09-11T04:38:14.260452017Z",
+      "contentHash": "fdaeba7e75e63684d99984c9a927b6d93ff581733e758c347a50ba32191414dc",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/blood-blood-products/approved-blood-products"
+        }
+      ],
+      "importanceScore": 73,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
     {
       "id": "a5095817-caf3-3b69-baba-db3f3abe78e6",
       "sourceId": "fda-medwatch-alerts",
@@ -28,7 +78,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-08T04:00:00Z",
-      "collectedAt": "2026-09-10T22:35:42.727545185Z",
+      "collectedAt": "2026-09-11T04:38:14.243733262Z",
       "contentHash": "a12b62e27324dc35972aaae89e9ef530a9920fd8e1e6fb7e4a76017c69c18f76",
       "generated": false,
       "generatorVersion": null,
@@ -49,6 +99,299 @@
         "官方一手来源",
         "高影响事件",
         "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "d39ec135-090f-379b-b47a-a6e8fa6d6a7c",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/biologics-post-market-activities/lot-release",
+      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/biologics-post-market-activities/lot-release",
+      "titleOriginal": "Lot Release",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-08T17:00:51Z",
+      "collectedAt": "2026-09-11T04:38:14.260237147Z",
+      "contentHash": "61d2f879aca99783a2383ee132d3de7f4d63472a56f56082da53d9868821d96b",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/biologics-post-market-activities/lot-release"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "c5502217-d5ea-3719-9b2b-00703e8f6cac",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/healthcare-providers-biologics",
+      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/healthcare-providers-biologics",
+      "titleOriginal": "Healthcare Providers (Biologics)",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-08T16:15:06Z",
+      "collectedAt": "2026-09-11T04:38:14.260701001Z",
+      "contentHash": "e4096abd97b6eba5e40e879c67e05e5f4e513c30fff82e59aee5ed0149f5f93f",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/healthcare-providers-biologics"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "2d1db4b4-fe86-3e0b-9a03-7b7ecba6ac6c",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/industry-biologics",
+      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/industry-biologics",
+      "titleOriginal": "Industry (Biologics)",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-08T16:13:06Z",
+      "collectedAt": "2026-09-11T04:38:14.260892897Z",
+      "contentHash": "0df77070912c801581ae1fb8c9b719ac323c9cc22d94eaa1c5a5839625f3ee13",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/industry-biologics"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "7befa8c7-65ea-3ef8-ae0e-2ea802d8cfc0",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/allergenics",
+      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/allergenics",
+      "titleOriginal": "Allergenics",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-08T15:49:21Z",
+      "collectedAt": "2026-09-11T04:38:14.261382219Z",
+      "contentHash": "e6360467012269808b6f0c99d5c26842cdcfdf9899250fc99eaa32ba1882b807",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/allergenics"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "62fd3399-76be-3658-9d78-722994a07106",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/tissue-tissue-products",
+      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/tissue-tissue-products",
+      "titleOriginal": "Tissue \u0026 Tissue Products",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-08T14:55:16Z",
+      "collectedAt": "2026-09-11T04:38:14.261853407Z",
+      "contentHash": "e5ba53c856910c44fba32be6b7d791e45cc1e0a3b5b4c900040f80a498d8067b",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/tissue-tissue-products"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "5c8a4d76-0882-3f4f-98f1-2798611595dd",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products",
+      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products",
+      "titleOriginal": "Cellular \u0026 Gene Therapy Products",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "drug_rd",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-08T14:57:26Z",
+      "collectedAt": "2026-09-11T04:38:14.261632787Z",
+      "contentHash": "a1fdcb223ce795846fb636d112e3c7b7d2a4cdef28500d32d1312c2b56c82627",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
         "近期更新"
       ]
     },
@@ -726,56 +1069,6 @@
       ]
     },
     {
-      "id": "c1cbbd87-7164-3de7-adc6-8c42f9effb2d",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/blood-blood-products/approved-blood-products",
-      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/blood-blood-products/approved-blood-products",
-      "titleOriginal": "Approved Blood Products",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "approval"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-08T16:18:14Z",
-      "collectedAt": "2026-09-10T12:55:17.891239148Z",
-      "contentHash": "fdaeba7e75e63684d99984c9a927b6d93ff581733e758c347a50ba32191414dc",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/blood-blood-products/approved-blood-products"
-        }
-      ],
-      "importanceScore": 73,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
       "id": "b44cadb6-73e1-3891-9bf2-0dded99d893e",
       "sourceId": "fda-drug-news",
       "sourceName": "U.S. Food and Drug Administration - Drugs",
@@ -825,153 +1118,6 @@
       ]
     },
     {
-      "id": "d39ec135-090f-379b-b47a-a6e8fa6d6a7c",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/biologics-post-market-activities/lot-release",
-      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/biologics-post-market-activities/lot-release",
-      "titleOriginal": "Lot Release",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-08T17:00:51Z",
-      "collectedAt": "2026-09-10T12:55:17.891049616Z",
-      "contentHash": "61d2f879aca99783a2383ee132d3de7f4d63472a56f56082da53d9868821d96b",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/biologics-post-market-activities/lot-release"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "c5502217-d5ea-3719-9b2b-00703e8f6cac",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/healthcare-providers-biologics",
-      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/healthcare-providers-biologics",
-      "titleOriginal": "Healthcare Providers (Biologics)",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-08T16:15:06Z",
-      "collectedAt": "2026-09-10T12:55:17.891409253Z",
-      "contentHash": "e4096abd97b6eba5e40e879c67e05e5f4e513c30fff82e59aee5ed0149f5f93f",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/healthcare-providers-biologics"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "2d1db4b4-fe86-3e0b-9a03-7b7ecba6ac6c",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/industry-biologics",
-      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/industry-biologics",
-      "titleOriginal": "Industry (Biologics)",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-08T16:13:06Z",
-      "collectedAt": "2026-09-10T12:55:17.891567196Z",
-      "contentHash": "0df77070912c801581ae1fb8c9b719ac323c9cc22d94eaa1c5a5839625f3ee13",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/industry-biologics"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
       "id": "f4b91444-d6e2-3eb5-8678-d9feac470587",
       "sourceId": "fda-drug-news",
       "sourceName": "U.S. Food and Drug Administration - Drugs",
@@ -1011,104 +1157,6 @@
           "sourceName": "U.S. Food and Drug Administration - Drugs",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/drugs/human-drug-compounding/registered-outsourcing-facilities"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "7befa8c7-65ea-3ef8-ae0e-2ea802d8cfc0",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/allergenics",
-      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/allergenics",
-      "titleOriginal": "Allergenics",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-08T15:49:21Z",
-      "collectedAt": "2026-09-10T12:55:17.892508927Z",
-      "contentHash": "e6360467012269808b6f0c99d5c26842cdcfdf9899250fc99eaa32ba1882b807",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/allergenics"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "62fd3399-76be-3658-9d78-722994a07106",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/tissue-tissue-products",
-      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/tissue-tissue-products",
-      "titleOriginal": "Tissue \u0026 Tissue Products",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-08T14:55:16Z",
-      "collectedAt": "2026-09-10T12:55:17.892864124Z",
-      "contentHash": "e5ba53c856910c44fba32be6b7d791e45cc1e0a3b5b4c900040f80a498d8067b",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/tissue-tissue-products"
         }
       ],
       "importanceScore": 58,
@@ -1305,54 +1353,6 @@
           "sourceName": "U.S. Food and Drug Administration - Drugs",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/drugs/drug-development-tool-ddt-qualification-programs/summary-metrics-drug-development-tool-qualification-projects-submitted-fda"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "5c8a4d76-0882-3f4f-98f1-2798611595dd",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products",
-      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products",
-      "titleOriginal": "Cellular \u0026 Gene Therapy Products",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "drug_rd",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-08T14:57:26Z",
-      "collectedAt": "2026-09-10T12:55:17.892688187Z",
-      "contentHash": "a1fdcb223ce795846fb636d112e3c7b7d2a4cdef28500d32d1312c2b56c82627",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products"
         }
       ],
       "importanceScore": 43,
