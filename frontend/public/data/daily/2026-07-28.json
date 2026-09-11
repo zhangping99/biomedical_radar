@@ -1,7 +1,54 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-11T06:36:43.850689978Z",
+  "generatedAt": "2026-09-11T07:17:02.509043932Z",
   "articles": [
+    {
+      "id": "39eff298-74cf-3c98-ac95-35a2b39615df",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42718878/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42718878",
+      "titleOriginal": "Longitudinal patient-reported outcomes and quality-of-life trajectories over 2 years in CAR-T therapy recipients.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-07-28T00:00:00Z",
+      "collectedAt": "2026-09-11T07:16:41.016794725Z",
+      "contentHash": "c3df7849c905417eeba10810683f1093a4f4fad8627f7524952539bfba1df2c8",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42718878/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "ee422afe-4fc3-3bf0-b753-673120c59f1a",
       "sourceId": "gsk-press-releases",
@@ -320,53 +367,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "39eff298-74cf-3c98-ac95-35a2b39615df",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42718878/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42718878",
-      "titleOriginal": "Longitudinal patient-reported outcomes and quality-of-life trajectories over 2 years in CAR-T therapy recipients.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-07-28T00:00:00Z",
-      "collectedAt": "2026-09-10T17:41:59.741980492Z",
-      "contentHash": "c3df7849c905417eeba10810683f1093a4f4fad8627f7524952539bfba1df2c8",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42718878/"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     }
   ]
 }

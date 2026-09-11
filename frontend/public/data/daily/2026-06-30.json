@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-11T06:36:43.850689978Z",
+  "generatedAt": "2026-09-11T07:17:02.509043932Z",
   "articles": [
+    {
+      "id": "628edcda-f25f-3913-97ae-2a7f1fcd57d5",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07674784",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07674784",
+      "titleOriginal": "Interventions to Enhance Quadriceps Output After ACLR",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "ACL"
+      ],
+      "publishedAt": "2026-06-30T00:00:00Z",
+      "collectedAt": "2026-09-11T07:16:40.672583143Z",
+      "contentHash": "9ad2c6ff21a55d9140db651625792e90d562ee60ffa6834f4229e37b1bc1527a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07674784"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "f3da1531-41d4-3c68-93d8-4bb611e27029",
       "sourceId": "sanofi-press-releases",
@@ -95,55 +144,6 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关"
-      ]
-    },
-    {
-      "id": "628edcda-f25f-3913-97ae-2a7f1fcd57d5",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07674784",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07674784",
-      "titleOriginal": "Interventions to Enhance Quadriceps Output After ACLR",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "ACL"
-      ],
-      "publishedAt": "2026-06-30T00:00:00Z",
-      "collectedAt": "2026-09-10T17:41:59.162836136Z",
-      "contentHash": "9ad2c6ff21a55d9140db651625792e90d562ee60ffa6834f4229e37b1bc1527a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07674784"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
       ]
     }
   ]

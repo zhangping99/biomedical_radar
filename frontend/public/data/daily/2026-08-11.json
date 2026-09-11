@@ -1,7 +1,57 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-11T06:36:43.850689978Z",
+  "generatedAt": "2026-09-11T07:17:02.509043932Z",
   "articles": [
+    {
+      "id": "b9314463-5ff9-3f50-a419-8ae9f8d6401b",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07757334",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07757334",
+      "titleOriginal": "Trauma-Focused Group Therapy for Adults With Trauma-Related Symptoms in Primary Care",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Psychological Trauma",
+        "Stress Disorders, Post-Traumatic; Mental Disorders"
+      ],
+      "publishedAt": "2026-08-11T00:00:00Z",
+      "collectedAt": "2026-09-11T07:16:40.669966073Z",
+      "contentHash": "10503c014bee20b021d4fafdd532e995c28a254f3f4770a3b60b0a879d75de0b",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07757334"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "b931b0d5-7065-3116-ab2f-7f16bc6944f5",
       "sourceId": "cleveland-clinic-news",
@@ -46,56 +96,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "b9314463-5ff9-3f50-a419-8ae9f8d6401b",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07757334",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07757334",
-      "titleOriginal": "Trauma-Focused Group Therapy for Adults With Trauma-Related Symptoms in Primary Care",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Psychological Trauma",
-        "Stress Disorders, Post-Traumatic; Mental Disorders"
-      ],
-      "publishedAt": "2026-08-11T00:00:00Z",
-      "collectedAt": "2026-09-10T17:41:59.157781341Z",
-      "contentHash": "10503c014bee20b021d4fafdd532e995c28a254f3f4770a3b60b0a879d75de0b",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07757334"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     },
     {
       "id": "08ab7c4f-c435-3279-a4f0-365be191291a",
