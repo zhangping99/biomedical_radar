@@ -1,7 +1,55 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-11T12:49:16.053829699Z",
+  "generatedAt": "2026-09-11T16:45:44.449862459Z",
   "articles": [
+    {
+      "id": "086438cb-6a6f-3214-b2bc-78aa7d136566",
+      "sourceId": "beijing-health-policy",
+      "sourceName": "Beijing Municipal Health Commission",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/ylws/202606/t20260629_4737264.html",
+      "canonicalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/ylws/202606/t20260629_4737264.html",
+      "titleOriginal": "北京市卫生健康委员会关于印发《综合诊查等11类医疗服务价格项目病案首页分类》的通知",
+      "titleZh": "北京市卫生健康委员会关于印发《综合诊查等11类医疗服务价格项目病案首页分类》的通知",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "北京市卫生健康委员会"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-06-26T00:00:00Z",
+      "collectedAt": "2026-09-11T16:45:41.952Z",
+      "contentHash": "4a4c8a07843daad86a7a9328323c19d9a1b47120d60f518171704a425c55c45a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "beijing-health-policy",
+          "sourceName": "Beijing Municipal Health Commission",
+          "sourceTier": "A",
+          "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/ylws/202606/t20260629_4737264.html"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "5cc97a9a-8648-336e-aa57-4ec561162205",
       "sourceId": "hengrui-focus-news",
@@ -94,54 +142,6 @@
       "importanceScore": 35,
       "importanceReasons": [
         "高影响事件"
-      ]
-    },
-    {
-      "id": "086438cb-6a6f-3214-b2bc-78aa7d136566",
-      "sourceId": "beijing-health-policy",
-      "sourceName": "Beijing Municipal Health Commission",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/ylws/202606/t20260629_4737264.html",
-      "canonicalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/ylws/202606/t20260629_4737264.html",
-      "titleOriginal": "北京市卫生健康委员会关于印发《综合诊查等11类医疗服务价格项目病案首页分类》的通知",
-      "titleZh": "北京市卫生健康委员会关于印发《综合诊查等11类医疗服务价格项目病案首页分类》的通知",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "北京市卫生健康委员会"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-06-26T00:00:00Z",
-      "collectedAt": "2026-09-11T11:48:33.149110145Z",
-      "contentHash": "4a4c8a07843daad86a7a9328323c19d9a1b47120d60f518171704a425c55c45a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "beijing-health-policy",
-          "sourceName": "Beijing Municipal Health Commission",
-          "sourceTier": "A",
-          "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/ylws/202606/t20260629_4737264.html"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
       ]
     }
   ]
