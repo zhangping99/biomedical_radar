@@ -1,54 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-11T18:44:10.471480219Z",
+  "generatedAt": "2026-09-11T19:09:25.339974364Z",
   "articles": [
-    {
-      "id": "a418cdb3-04fe-32fe-9ed4-af3e857bd0a4",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42720437/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42720437",
-      "titleOriginal": "Culturally adapted post-diagnostic dementia support for South Asian people living with dementia and caregivers: a rapid review.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-04T00:00:00Z",
-      "collectedAt": "2026-09-11T17:44:27.725013883Z",
-      "contentHash": "a4e9bc8f5f88a9456f43c2d1115203bd871e13ede43436b9659804b41852cd72",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42720437/"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
     {
       "id": "9bce63e6-dbcc-37d0-b823-155e09c1c4a8",
       "sourceId": "ema-news",
@@ -75,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T12:00:00Z",
-      "collectedAt": "2026-09-11T12:49:13.698082405Z",
+      "collectedAt": "2026-09-11T19:09:20.650939186Z",
       "contentHash": "28a2a6977d51fff7e119decfa2ee0f378a19363cfb78caf51cf21b30c25a8598",
       "generated": false,
       "generatorVersion": null,
@@ -124,7 +77,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T00:00:00Z",
-      "collectedAt": "2026-09-11T12:49:15.967580998Z",
+      "collectedAt": "2026-09-11T19:09:25.235064671Z",
       "contentHash": "745fde69e26b77ca7390a362662c7341d63fb67ced6163c4b11922e58e48a057",
       "generated": false,
       "generatorVersion": null,
@@ -173,7 +126,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T00:00:00Z",
-      "collectedAt": "2026-09-11T12:49:15.967770730Z",
+      "collectedAt": "2026-09-11T19:09:25.235291743Z",
       "contentHash": "1544eb55283343a4bd76da0da87ab75ef5e8ef98b12db6241fa47484591d7458",
       "generated": false,
       "generatorVersion": null,
@@ -222,7 +175,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T00:00:00Z",
-      "collectedAt": "2026-09-11T12:49:15.967881224Z",
+      "collectedAt": "2026-09-11T19:09:25.235443546Z",
       "contentHash": "eb78bb4fcaaeb977273d6bdfc1aae03afd33224d034c116e4b1b43c96baf6205",
       "generated": false,
       "generatorVersion": null,
@@ -271,7 +224,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T09:00:00Z",
-      "collectedAt": "2026-09-11T12:49:13.698675866Z",
+      "collectedAt": "2026-09-11T19:09:20.653296403Z",
       "contentHash": "55ea63792b055c8933f3127a2da526430588c7ce8ffb6e812a0b1d3662f1b61c",
       "generated": false,
       "generatorVersion": null,
@@ -285,6 +238,53 @@
           "sourceName": "European Medicines Agency",
           "sourceTier": "A",
           "originalUrl": "https://www.ema.europa.eu/en/news/new-eu-supply-chain-end-visudyne-shortage"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "a418cdb3-04fe-32fe-9ed4-af3e857bd0a4",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42720437/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42720437",
+      "titleOriginal": "Culturally adapted post-diagnostic dementia support for South Asian people living with dementia and caregivers: a rapid review.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-04T00:00:00Z",
+      "collectedAt": "2026-09-11T17:44:27.725013883Z",
+      "contentHash": "a4e9bc8f5f88a9456f43c2d1115203bd871e13ede43436b9659804b41852cd72",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42720437/"
         }
       ],
       "importanceScore": 35,
