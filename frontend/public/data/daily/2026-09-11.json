@@ -1,7 +1,990 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-12T17:48:52.627644341Z",
+  "generatedAt": "2026-09-12T18:22:10.032150186Z",
   "articles": [
+    {
+      "id": "d2b60cee-1610-3555-9257-2ed8d2aff5ed",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
+      "canonicalUrl": "https://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
+      "titleOriginal": "What\u0027s New Related to Drugs",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-11T21:19:52Z",
+      "collectedAt": "2026-09-12T18:22:07.277996803Z",
+      "contentHash": "bcb49a4d9a5942784cd6c8fbfa553c31f3f3660404e32d8c7bdb5bf34309db8a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs"
+        }
+      ],
+      "importanceScore": 80,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "5aec0789-1374-3d3c-951f-b97ad3608bea",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-therapy-target-muscle-loss-spinal-muscular-atrophy",
+      "canonicalUrl": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-therapy-target-muscle-loss-spinal-muscular-atrophy",
+      "titleOriginal": "FDA Approves First Therapy to Target Muscle Loss in Spinal Muscular Atrophy",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "approval"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-11T21:18:23Z",
+      "collectedAt": "2026-09-12T18:22:07.278261859Z",
+      "contentHash": "74341c59a70f3c8f280b3dfd9dc54ad15466766a1e333369be422cee02d0af45",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-therapy-target-muscle-loss-spinal-muscular-atrophy"
+        }
+      ],
+      "importanceScore": 80,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "c22b41bd-f869-3b85-be71-ac3df58db0e3",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-treatment-children-aged-4-11-years-apds-rare-genetic-disorder-immune-system",
+      "canonicalUrl": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-treatment-children-aged-4-11-years-apds-rare-genetic-disorder-immune-system",
+      "titleOriginal": "FDA approves first treatment for children aged 4-11 years with APDS, a rare genetic disorder of the immune system",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "approval"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-11T15:55:21Z",
+      "collectedAt": "2026-09-12T18:22:07.282684223Z",
+      "contentHash": "27edaf35eb2068c8952953a975bfc2f9cfaf0f3f19775e6261b1048eccd407e0",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-treatment-children-aged-4-11-years-apds-rare-genetic-disorder-immune-system"
+        }
+      ],
+      "importanceScore": 73,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "7068cf4c-033c-3234-a953-8519d462e641",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/influenza-virus-vaccine-safety-availability",
+      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/influenza-virus-vaccine-safety-availability",
+      "titleOriginal": "Influenza Virus Vaccine Safety \u0026 Availability",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-11T11:45:37Z",
+      "collectedAt": "2026-09-12T18:22:07.285328907Z",
+      "contentHash": "d75dfd2c4407eec03a2320e7b2726664eb1452c3655bafea4088d9c74ad857f7",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/influenza-virus-vaccine-safety-availability"
+        }
+      ],
+      "importanceScore": 73,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "b44cadb6-73e1-3891-9bf2-0dded99d893e",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2026",
+      "canonicalUrl": "https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2026",
+      "titleOriginal": "Novel Drug Approvals for 2026",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-11T21:40:58Z",
+      "collectedAt": "2026-09-12T18:22:07.277170425Z",
+      "contentHash": "ae48bd2b40dd3ae0abf70d4768a429d0152302557bcdf9f39813c36be9c2746e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2026"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "1d6acb18-aee2-39a3-baad-48a84138ef3b",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/notable-approvals-drugs",
+      "canonicalUrl": "https://www.fda.gov/drugs/news-events-human-drugs/notable-approvals-drugs",
+      "titleOriginal": "Notable Approvals | Drugs",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-11T21:27:47Z",
+      "collectedAt": "2026-09-12T18:22:07.277430973Z",
+      "contentHash": "9f38b63e8a1fdf0b01a29d958d77ff3257422a5f31c8befbbc65f65d5bf55a24",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/notable-approvals-drugs"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "b405f308-ae9c-3d17-9385-0aadb7684a8b",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/about-fda/accelerating-rare-disease-cures-arc-program/rare-disease-drug-approvals",
+      "canonicalUrl": "https://www.fda.gov/about-fda/accelerating-rare-disease-cures-arc-program/rare-disease-drug-approvals",
+      "titleOriginal": "Rare Disease Drug Approvals",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-11T21:25:06Z",
+      "collectedAt": "2026-09-12T18:22:07.277672345Z",
+      "contentHash": "9d7face288a15b44eb201fa32eeade0c018a84599a490c81bd712b11e09d3462",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/about-fda/accelerating-rare-disease-cures-arc-program/rare-disease-drug-approvals"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "b6407ebe-9e3d-3d16-aacb-c55aaef1050b",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/science-research-biologics/blood-research",
+      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/science-research-biologics/blood-research",
+      "titleOriginal": "Blood Research",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-11T20:41:20Z",
+      "collectedAt": "2026-09-12T18:22:07.275419334Z",
+      "contentHash": "0775223e7bd568100d59b3ff86b7e7564ba7a81d0c4cfa8167481a5b09d9b4d8",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/science-research-biologics/blood-research"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "18de60bf-4f83-3ef5-87b8-4377af4ed360",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/vaccines/vaccines-licensed-use-united-states",
+      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/vaccines/vaccines-licensed-use-united-states",
+      "titleOriginal": "Vaccines Licensed for Use in the United States",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-11T17:51:58Z",
+      "collectedAt": "2026-09-12T18:22:07.275712444Z",
+      "contentHash": "b8f34906a9618ed5e7c6e9f8ec5a3c9cc5f0f4131a6eca396ad9a0b68703bf5d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/vaccines/vaccines-licensed-use-united-states"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "018c3992-3cd9-34ec-a515-ffe21434c4a2",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/drugs/development-approval-process-drugs/cder-small-business-industry-assistance-sbia",
+      "canonicalUrl": "https://www.fda.gov/drugs/development-approval-process-drugs/cder-small-business-industry-assistance-sbia",
+      "titleOriginal": "CDER Small Business \u0026 Industry Assistance (SBIA)",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-11T17:28:11Z",
+      "collectedAt": "2026-09-12T18:22:07.278645228Z",
+      "contentHash": "6164817c669e86980f95c8463b19bc80b96dba577c6e23a6689f3dc5d1be9a28",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/drugs/development-approval-process-drugs/cder-small-business-industry-assistance-sbia"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "c6e2ee03-ece2-33dc-b38d-78ab54bfbc37",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/advancing-generic-drug-development-modernizing-bioequivalence-approaches-topical-transdermal",
+      "canonicalUrl": "https://www.fda.gov/drugs/news-events-human-drugs/advancing-generic-drug-development-modernizing-bioequivalence-approaches-topical-transdermal",
+      "titleOriginal": "Advancing Generic Drug Development: Modernizing Bioequivalence Approaches for Topical \u0026 Transdermal Products - 09/10/2026",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-11T17:27:56Z",
+      "collectedAt": "2026-09-12T18:22:07.278904533Z",
+      "contentHash": "70095eaff90f384e142f4db2e333c4e867c363f5fa6fbf1f96777bed6ad14267",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/advancing-generic-drug-development-modernizing-bioequivalence-approaches-topical-transdermal"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "00af7946-869c-3865-b6b5-707784b24873",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/eco-nams-webinar-series-qsars-predict-aquatic-toxicity-09172026",
+      "canonicalUrl": "https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/eco-nams-webinar-series-qsars-predict-aquatic-toxicity-09172026",
+      "titleOriginal": "Eco-NAMs Webinar Series | QSARs to Predict Aquatic Toxicity - 09/17/2026",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-11T16:16:16Z",
+      "collectedAt": "2026-09-12T18:22:07.282338576Z",
+      "contentHash": "6281a703f3cebffd56555d9d5e35960018995636897a77146338ddb5c2582521",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/eco-nams-webinar-series-qsars-predict-aquatic-toxicity-09172026"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "2b28fb4e-80c0-35e0-a177-fbf20e084f50",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
+      "canonicalUrl": "https://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
+      "titleOriginal": "Generic Drug Facilities, Sites and Organization Lists",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-11T15:36:35Z",
+      "collectedAt": "2026-09-12T18:22:07.283129688Z",
+      "contentHash": "c5c50007be7ce7a3238256dea09fc95ca4190012003cd21bb9e4c89dde9cf698",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "88055fc9-21f7-3e7f-b0ed-66a484f2dd08",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics",
+      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/news-events-biologics",
+      "titleOriginal": "News \u0026 Events (Biologics)",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-11T15:10:20Z",
+      "collectedAt": "2026-09-12T18:22:07.281198290Z",
+      "contentHash": "10210924443caa64632446e9452314814d0fe79782f45f3496a8b33efcad332e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "deca27c4-cd6e-3044-b5b6-90b2eb0ec1b5",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/office-therapeutic-products-otp-events-meetings-and-workshops",
+      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/office-therapeutic-products-otp-events-meetings-and-workshops",
+      "titleOriginal": "Office of Therapeutic Products (OTP) Events, Meetings, and Workshops",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-11T14:58:53Z",
+      "collectedAt": "2026-09-12T18:22:07.281458958Z",
+      "contentHash": "a400c5cccc4b33fa103948b919410db5a865343695cf1f67836d2aaf301765b3",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/office-therapeutic-products-otp-events-meetings-and-workshops"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "21b1aa04-8617-372f-873a-6e6ecc1ebbf7",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
+      "canonicalUrl": "https://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
+      "titleOriginal": "Drugs@FDA Data Files",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-11T12:59:54Z",
+      "collectedAt": "2026-09-12T18:22:07.283446702Z",
+      "contentHash": "e35c6dbeb7bb4563f50334ba9ae7a78b18257d0f8c70ac0b466c6d287adfe55a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "39cb28c0-40cd-3f25-b7b1-74565b902ca9",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/lot-release/importance-influenza-vaccination-health-care-personnel",
+      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/lot-release/importance-influenza-vaccination-health-care-personnel",
+      "titleOriginal": "Importance of Influenza Vaccination for Health Care Personnel",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-11T11:46:43Z",
+      "collectedAt": "2026-09-12T18:22:07.285059483Z",
+      "contentHash": "8809d0aa53ea21923585f9fe8a61bd89d0c8b05fd65c8f7fbc45155cdb246ce4",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/lot-release/importance-influenza-vaccination-health-care-personnel"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "c5502217-d5ea-3719-9b2b-00703e8f6cac",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/healthcare-providers-biologics",
+      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/healthcare-providers-biologics",
+      "titleOriginal": "Healthcare Providers (Biologics)",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-11T11:45:36Z",
+      "collectedAt": "2026-09-12T18:22:07.285565861Z",
+      "contentHash": "e4096abd97b6eba5e40e879c67e05e5f4e513c30fff82e59aee5ed0149f5f93f",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/healthcare-providers-biologics"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "45fcbf5c-1d64-3a97-ba49-a0d976fdab11",
+      "sourceId": "ema-news",
+      "sourceName": "European Medicines Agency",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-veterinary-medicinal-products-cvmp-8-10-september-2026",
+      "canonicalUrl": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-veterinary-medicinal-products-cvmp-8-10-september-2026",
+      "titleOriginal": "Meeting highlights from the Committee for Veterinary Medicinal Products (CVMP) 8-10 September 2026",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "EU",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "European Medicines Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-11T11:00:00Z",
+      "collectedAt": "2026-09-12T18:22:07.198194058Z",
+      "contentHash": "0ba781a4a0de9238b602b952f038a7158ac3538693e71150fa8e2af6a366a02f",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "ema-news",
+          "sourceName": "European Medicines Agency",
+          "sourceTier": "A",
+          "originalUrl": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-veterinary-medicinal-products-cvmp-8-10-september-2026"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "6aad0c9b-5f2c-3c48-af47-6844eb6661b8",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-09292026",
+      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-09292026",
+      "titleOriginal": "FDA Roundtable: Strengthening the Supply Chain for Blood Manufacturing - 09/29/2026",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "manufacturing_supply",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-11T16:37:25Z",
+      "collectedAt": "2026-09-12T18:22:07.279036630Z",
+      "contentHash": "56601bb2f52ffb3dbb41091463206937d80bd654c3cb6fb650dba2c84f0931f3",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-09292026"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
     {
       "id": "d3a89c19-eadc-3744-9ca2-70679b195f7a",
       "sourceId": "pumch-research",
@@ -2237,989 +3220,6 @@
       "importanceScore": 28,
       "importanceReasons": [
         "近期更新"
-      ]
-    },
-    {
-      "id": "d2b60cee-1610-3555-9257-2ed8d2aff5ed",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
-      "canonicalUrl": "https://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
-      "titleOriginal": "What\u0027s New Related to Drugs",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-11T21:19:52Z",
-      "collectedAt": "2026-09-12T15:30:34.000567494Z",
-      "contentHash": "bcb49a4d9a5942784cd6c8fbfa553c31f3f3660404e32d8c7bdb5bf34309db8a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "5aec0789-1374-3d3c-951f-b97ad3608bea",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-therapy-target-muscle-loss-spinal-muscular-atrophy",
-      "canonicalUrl": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-therapy-target-muscle-loss-spinal-muscular-atrophy",
-      "titleOriginal": "FDA Approves First Therapy to Target Muscle Loss in Spinal Muscular Atrophy",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "approval"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-11T21:18:23Z",
-      "collectedAt": "2026-09-12T15:30:34.000835696Z",
-      "contentHash": "74341c59a70f3c8f280b3dfd9dc54ad15466766a1e333369be422cee02d0af45",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-therapy-target-muscle-loss-spinal-muscular-atrophy"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "c22b41bd-f869-3b85-be71-ac3df58db0e3",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-treatment-children-aged-4-11-years-apds-rare-genetic-disorder-immune-system",
-      "canonicalUrl": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-treatment-children-aged-4-11-years-apds-rare-genetic-disorder-immune-system",
-      "titleOriginal": "FDA approves first treatment for children aged 4-11 years with APDS, a rare genetic disorder of the immune system",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "approval"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-11T15:55:21Z",
-      "collectedAt": "2026-09-12T15:30:34.002315742Z",
-      "contentHash": "27edaf35eb2068c8952953a975bfc2f9cfaf0f3f19775e6261b1048eccd407e0",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-treatment-children-aged-4-11-years-apds-rare-genetic-disorder-immune-system"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "7068cf4c-033c-3234-a953-8519d462e641",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/influenza-virus-vaccine-safety-availability",
-      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/influenza-virus-vaccine-safety-availability",
-      "titleOriginal": "Influenza Virus Vaccine Safety \u0026 Availability",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-11T11:45:37Z",
-      "collectedAt": "2026-09-12T15:30:34.017772345Z",
-      "contentHash": "d75dfd2c4407eec03a2320e7b2726664eb1452c3655bafea4088d9c74ad857f7",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/influenza-virus-vaccine-safety-availability"
-        }
-      ],
-      "importanceScore": 73,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "b44cadb6-73e1-3891-9bf2-0dded99d893e",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2026",
-      "canonicalUrl": "https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2026",
-      "titleOriginal": "Novel Drug Approvals for 2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-11T21:40:58Z",
-      "collectedAt": "2026-09-12T15:30:33.996702930Z",
-      "contentHash": "ae48bd2b40dd3ae0abf70d4768a429d0152302557bcdf9f39813c36be9c2746e",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2026"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "1d6acb18-aee2-39a3-baad-48a84138ef3b",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/notable-approvals-drugs",
-      "canonicalUrl": "https://www.fda.gov/drugs/news-events-human-drugs/notable-approvals-drugs",
-      "titleOriginal": "Notable Approvals | Drugs",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-11T21:27:47Z",
-      "collectedAt": "2026-09-12T15:30:33.997005105Z",
-      "contentHash": "9f38b63e8a1fdf0b01a29d958d77ff3257422a5f31c8befbbc65f65d5bf55a24",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/notable-approvals-drugs"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "b405f308-ae9c-3d17-9385-0aadb7684a8b",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/about-fda/accelerating-rare-disease-cures-arc-program/rare-disease-drug-approvals",
-      "canonicalUrl": "https://www.fda.gov/about-fda/accelerating-rare-disease-cures-arc-program/rare-disease-drug-approvals",
-      "titleOriginal": "Rare Disease Drug Approvals",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-11T21:25:06Z",
-      "collectedAt": "2026-09-12T15:30:33.997254511Z",
-      "contentHash": "9d7face288a15b44eb201fa32eeade0c018a84599a490c81bd712b11e09d3462",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/about-fda/accelerating-rare-disease-cures-arc-program/rare-disease-drug-approvals"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "b6407ebe-9e3d-3d16-aacb-c55aaef1050b",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/science-research-biologics/blood-research",
-      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/science-research-biologics/blood-research",
-      "titleOriginal": "Blood Research",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-11T20:41:20Z",
-      "collectedAt": "2026-09-12T15:30:34.009980078Z",
-      "contentHash": "0775223e7bd568100d59b3ff86b7e7564ba7a81d0c4cfa8167481a5b09d9b4d8",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/science-research-biologics/blood-research"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "18de60bf-4f83-3ef5-87b8-4377af4ed360",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/vaccines/vaccines-licensed-use-united-states",
-      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/vaccines/vaccines-licensed-use-united-states",
-      "titleOriginal": "Vaccines Licensed for Use in the United States",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-11T17:51:58Z",
-      "collectedAt": "2026-09-12T15:30:34.010231648Z",
-      "contentHash": "b8f34906a9618ed5e7c6e9f8ec5a3c9cc5f0f4131a6eca396ad9a0b68703bf5d",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/vaccines/vaccines-licensed-use-united-states"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "018c3992-3cd9-34ec-a515-ffe21434c4a2",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/drugs/development-approval-process-drugs/cder-small-business-industry-assistance-sbia",
-      "canonicalUrl": "https://www.fda.gov/drugs/development-approval-process-drugs/cder-small-business-industry-assistance-sbia",
-      "titleOriginal": "CDER Small Business \u0026 Industry Assistance (SBIA)",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-11T17:28:11Z",
-      "collectedAt": "2026-09-12T15:30:34.001237787Z",
-      "contentHash": "6164817c669e86980f95c8463b19bc80b96dba577c6e23a6689f3dc5d1be9a28",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/drugs/development-approval-process-drugs/cder-small-business-industry-assistance-sbia"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "c6e2ee03-ece2-33dc-b38d-78ab54bfbc37",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/advancing-generic-drug-development-modernizing-bioequivalence-approaches-topical-transdermal",
-      "canonicalUrl": "https://www.fda.gov/drugs/news-events-human-drugs/advancing-generic-drug-development-modernizing-bioequivalence-approaches-topical-transdermal",
-      "titleOriginal": "Advancing Generic Drug Development: Modernizing Bioequivalence Approaches for Topical \u0026 Transdermal Products - 09/10/2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-11T17:27:56Z",
-      "collectedAt": "2026-09-12T15:30:34.001517951Z",
-      "contentHash": "70095eaff90f384e142f4db2e333c4e867c363f5fa6fbf1f96777bed6ad14267",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/advancing-generic-drug-development-modernizing-bioequivalence-approaches-topical-transdermal"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "00af7946-869c-3865-b6b5-707784b24873",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/eco-nams-webinar-series-qsars-predict-aquatic-toxicity-09172026",
-      "canonicalUrl": "https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/eco-nams-webinar-series-qsars-predict-aquatic-toxicity-09172026",
-      "titleOriginal": "Eco-NAMs Webinar Series | QSARs to Predict Aquatic Toxicity - 09/17/2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-11T16:16:16Z",
-      "collectedAt": "2026-09-12T15:30:34.001967151Z",
-      "contentHash": "6281a703f3cebffd56555d9d5e35960018995636897a77146338ddb5c2582521",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/eco-nams-webinar-series-qsars-predict-aquatic-toxicity-09172026"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "2b28fb4e-80c0-35e0-a177-fbf20e084f50",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
-      "canonicalUrl": "https://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists",
-      "titleOriginal": "Generic Drug Facilities, Sites and Organization Lists",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-11T15:36:35Z",
-      "collectedAt": "2026-09-12T15:30:34.002786583Z",
-      "contentHash": "c5c50007be7ce7a3238256dea09fc95ca4190012003cd21bb9e4c89dde9cf698",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/industry/generic-drug-user-fee-amendments/generic-drug-facilities-sites-and-organization-lists"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "88055fc9-21f7-3e7f-b0ed-66a484f2dd08",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics",
-      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/news-events-biologics",
-      "titleOriginal": "News \u0026 Events (Biologics)",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-11T15:10:20Z",
-      "collectedAt": "2026-09-12T15:30:34.016679722Z",
-      "contentHash": "10210924443caa64632446e9452314814d0fe79782f45f3496a8b33efcad332e",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "deca27c4-cd6e-3044-b5b6-90b2eb0ec1b5",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/office-therapeutic-products-otp-events-meetings-and-workshops",
-      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/office-therapeutic-products-otp-events-meetings-and-workshops",
-      "titleOriginal": "Office of Therapeutic Products (OTP) Events, Meetings, and Workshops",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-11T14:58:53Z",
-      "collectedAt": "2026-09-12T15:30:34.016957321Z",
-      "contentHash": "a400c5cccc4b33fa103948b919410db5a865343695cf1f67836d2aaf301765b3",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/office-therapeutic-products-otp-events-meetings-and-workshops"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "21b1aa04-8617-372f-873a-6e6ecc1ebbf7",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
-      "canonicalUrl": "https://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
-      "titleOriginal": "Drugs@FDA Data Files",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-11T12:59:54Z",
-      "collectedAt": "2026-09-12T15:30:34.003111991Z",
-      "contentHash": "e35c6dbeb7bb4563f50334ba9ae7a78b18257d0f8c70ac0b466c6d287adfe55a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "39cb28c0-40cd-3f25-b7b1-74565b902ca9",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/lot-release/importance-influenza-vaccination-health-care-personnel",
-      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/lot-release/importance-influenza-vaccination-health-care-personnel",
-      "titleOriginal": "Importance of Influenza Vaccination for Health Care Personnel",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-11T11:46:43Z",
-      "collectedAt": "2026-09-12T15:30:34.017480208Z",
-      "contentHash": "8809d0aa53ea21923585f9fe8a61bd89d0c8b05fd65c8f7fbc45155cdb246ce4",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/lot-release/importance-influenza-vaccination-health-care-personnel"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "c5502217-d5ea-3719-9b2b-00703e8f6cac",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/healthcare-providers-biologics",
-      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/healthcare-providers-biologics",
-      "titleOriginal": "Healthcare Providers (Biologics)",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-11T11:45:36Z",
-      "collectedAt": "2026-09-12T15:30:34.018007805Z",
-      "contentHash": "e4096abd97b6eba5e40e879c67e05e5f4e513c30fff82e59aee5ed0149f5f93f",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/healthcare-providers-biologics"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "45fcbf5c-1d64-3a97-ba49-a0d976fdab11",
-      "sourceId": "ema-news",
-      "sourceName": "European Medicines Agency",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-veterinary-medicinal-products-cvmp-8-10-september-2026",
-      "canonicalUrl": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-veterinary-medicinal-products-cvmp-8-10-september-2026",
-      "titleOriginal": "Meeting highlights from the Committee for Veterinary Medicinal Products (CVMP) 8-10 September 2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "EU",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "European Medicines Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-11T11:00:00Z",
-      "collectedAt": "2026-09-12T15:30:33.988400509Z",
-      "contentHash": "0ba781a4a0de9238b602b952f038a7158ac3538693e71150fa8e2af6a366a02f",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "ema-news",
-          "sourceName": "European Medicines Agency",
-          "sourceTier": "A",
-          "originalUrl": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-veterinary-medicinal-products-cvmp-8-10-september-2026"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "6aad0c9b-5f2c-3c48-af47-6844eb6661b8",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-09292026",
-      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-09292026",
-      "titleOriginal": "FDA Roundtable: Strengthening the Supply Chain for Blood Manufacturing - 09/29/2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "manufacturing_supply",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-11T16:37:25Z",
-      "collectedAt": "2026-09-12T15:30:34.010523934Z",
-      "contentHash": "56601bb2f52ffb3dbb41091463206937d80bd654c3cb6fb650dba2c84f0931f3",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/fda-roundtable-strengthening-supply-chain-blood-manufacturing-09292026"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
       ]
     },
     {
