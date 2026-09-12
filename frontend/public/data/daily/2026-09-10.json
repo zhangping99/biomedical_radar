@@ -1,7 +1,54 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-12T07:08:20.789910037Z",
+  "generatedAt": "2026-09-12T08:07:17.915358309Z",
   "articles": [
+    {
+      "id": "77dc53ff-71b3-3de3-b951-e45ff995fa13",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/10/how-caring-for-grandkids-can-help-with-brain-health",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/10/how-caring-for-grandkids-can-help-with-brain-health",
+      "titleOriginal": "How Caring for Grandkids Can Help with Brain Health",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-10T00:00:00Z",
+      "collectedAt": "2026-09-12T08:07:13.859623227Z",
+      "contentHash": "ebf56c3f18763d7550d1e5745f36fda040ac37db0a49af9d441f3b5cb12e2d00",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/10/how-caring-for-grandkids-can-help-with-brain-health"
+        }
+      ],
+      "importanceScore": 28,
+      "importanceReasons": [
+        "近期更新"
+      ]
+    },
     {
       "id": "f85c3a40-13a9-3e48-9f64-69f1aac5d558",
       "sourceId": "clinicaltrials-recent",
@@ -2431,53 +2478,6 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "77dc53ff-71b3-3de3-b951-e45ff995fa13",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/10/how-caring-for-grandkids-can-help-with-brain-health",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/10/how-caring-for-grandkids-can-help-with-brain-health",
-      "titleOriginal": "How Caring for Grandkids Can Help with Brain Health",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-10T00:00:00Z",
-      "collectedAt": "2026-09-11T18:44:05.184660195Z",
-      "contentHash": "ebf56c3f18763d7550d1e5745f36fda040ac37db0a49af9d441f3b5cb12e2d00",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/10/how-caring-for-grandkids-can-help-with-brain-health"
-        }
-      ],
-      "importanceScore": 28,
-      "importanceReasons": [
         "近期更新"
       ]
     },
