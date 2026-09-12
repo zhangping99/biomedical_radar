@@ -1,7 +1,63 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-12T16:28:30.684320259Z",
+  "generatedAt": "2026-09-12T17:08:03.596190277Z",
   "articles": [
+    {
+      "id": "939284f0-4439-3854-9567-1b08aa254838",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07714538",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07714538",
+      "titleOriginal": "Breath Research Narrow Validation for Gastrointestinal Cancer Detection",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration",
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Oesophageal Squamous Cell Carcinoma",
+        "Oesophageal Adenocarcinoma",
+        "Gastric Adenocarcinoma",
+        "Pancreatic Ductal Adenocarcinoma (PDAC)",
+        "Cholangiocarcinoma",
+        "Hepatocellular Carcinoma (HCC)",
+        "Colorectal Adenocarcinoma"
+      ],
+      "publishedAt": "2026-07-20T00:00:00Z",
+      "collectedAt": "2026-09-12T17:08:01.964866845Z",
+      "contentHash": "503c9570e15d6c082e5f690bfa5e766f30b1e155968a1333cc4edc90f1fbdad4",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07714538"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "e0a678c8-36c1-3628-9e0f-b41ea245fffa",
       "sourceId": "gsk-press-releases",
@@ -47,62 +103,6 @@
       "importanceScore": 35,
       "importanceReasons": [
         "高影响事件"
-      ]
-    },
-    {
-      "id": "939284f0-4439-3854-9567-1b08aa254838",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07714538",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07714538",
-      "titleOriginal": "Breath Research Narrow Validation for Gastrointestinal Cancer Detection",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration",
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Oesophageal Squamous Cell Carcinoma",
-        "Oesophageal Adenocarcinoma",
-        "Gastric Adenocarcinoma",
-        "Pancreatic Ductal Adenocarcinoma (PDAC)",
-        "Cholangiocarcinoma",
-        "Hepatocellular Carcinoma (HCC)",
-        "Colorectal Adenocarcinoma"
-      ],
-      "publishedAt": "2026-07-20T00:00:00Z",
-      "collectedAt": "2026-09-12T07:08:19.223823467Z",
-      "contentHash": "503c9570e15d6c082e5f690bfa5e766f30b1e155968a1333cc4edc90f1fbdad4",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07714538"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
       ]
     }
   ]

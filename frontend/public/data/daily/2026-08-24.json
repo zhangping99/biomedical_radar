@@ -1,7 +1,57 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-12T16:28:30.684320259Z",
+  "generatedAt": "2026-09-12T17:08:03.596190277Z",
   "articles": [
+    {
+      "id": "a0cc9ad7-762c-3eeb-883c-89c049f502e7",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07783126",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07783126",
+      "titleOriginal": "Deep-learning Predictors of Abdominal Aortic Aneurysm Enlargement in Type II Endoleaks After Endovascular Aortic Repair: The RADAR Study",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Type II Endoleak",
+        "Abdominal Aortic Aneurysm Enlargement"
+      ],
+      "publishedAt": "2026-08-24T00:00:00Z",
+      "collectedAt": "2026-09-12T17:08:01.970276711Z",
+      "contentHash": "da071732862549744032cb2c9a272e6eb1dab9376429b8860422c191dcf77fa5",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07783126"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "607ff4fb-4fb5-304c-8eca-cd47f7ac074c",
       "sourceId": "gsk-press-releases",
@@ -94,56 +144,6 @@
       "importanceScore": 35,
       "importanceReasons": [
         "高影响事件"
-      ]
-    },
-    {
-      "id": "a0cc9ad7-762c-3eeb-883c-89c049f502e7",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07783126",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07783126",
-      "titleOriginal": "Deep-learning Predictors of Abdominal Aortic Aneurysm Enlargement in Type II Endoleaks After Endovascular Aortic Repair: The RADAR Study",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Type II Endoleak",
-        "Abdominal Aortic Aneurysm Enlargement"
-      ],
-      "publishedAt": "2026-08-24T00:00:00Z",
-      "collectedAt": "2026-09-12T07:08:19.225689364Z",
-      "contentHash": "da071732862549744032cb2c9a272e6eb1dab9376429b8860422c191dcf77fa5",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07783126"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
       ]
     },
     {
