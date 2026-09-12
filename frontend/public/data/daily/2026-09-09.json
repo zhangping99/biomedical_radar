@@ -1,7 +1,101 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-12T06:27:37.697391505Z",
+  "generatedAt": "2026-09-12T07:08:20.789910037Z",
   "articles": [
+    {
+      "id": "6b7cc5e6-8503-3173-aa3d-a2dc72654ee5",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42726908/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42726908",
+      "titleOriginal": "Spaced retrieval practice improves the uptake of and intention to use personal neuropsychological assessment feedback: a randomized cognitive experiment in a sample of older black and white veterans.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-09T00:00:00Z",
+      "collectedAt": "2026-09-12T07:08:19.685515475Z",
+      "contentHash": "fa3cfa220f5540df81c1c2cc14d0eca7a888dde0327441fb83ae6c33688b0f1a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42726908/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "55a95524-b461-3e97-a0b3-cde8ad122307",
+      "sourceId": "nature-reviews-cancer",
+      "sourceName": "Nature Reviews Cancer",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41568-026-00973-5",
+      "canonicalUrl": "https://www.nature.com/articles/s41568-026-00973-5",
+      "titleOriginal": "A guide to understanding tumour evolution through the lens of population genetics",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Reviews Cancer"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-09T00:00:00Z",
+      "collectedAt": "2026-09-12T07:08:19.475217604Z",
+      "contentHash": "5466c323b8462d06fa44040f81d743f8548a086658ac0f96753b53167d9799dc",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-reviews-cancer",
+          "sourceName": "Nature Reviews Cancer",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41568-026-00973-5"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "de484c30-ec4e-3e84-845b-2a1a20faf960",
       "sourceId": "health-canada-health-products",
@@ -380,54 +474,6 @@
           "sourceName": "PubMed",
           "sourceTier": "A",
           "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42717334/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "55a95524-b461-3e97-a0b3-cde8ad122307",
-      "sourceId": "nature-reviews-cancer",
-      "sourceName": "Nature Reviews Cancer",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41568-026-00973-5",
-      "canonicalUrl": "https://www.nature.com/articles/s41568-026-00973-5",
-      "titleOriginal": "A guide to understanding tumour evolution through the lens of population genetics",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Reviews Cancer"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-09T00:00:00Z",
-      "collectedAt": "2026-09-11T17:44:27.666480879Z",
-      "contentHash": "5466c323b8462d06fa44040f81d743f8548a086658ac0f96753b53167d9799dc",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-reviews-cancer",
-          "sourceName": "Nature Reviews Cancer",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41568-026-00973-5"
         }
       ],
       "importanceScore": 43,
