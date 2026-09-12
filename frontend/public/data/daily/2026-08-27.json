@@ -1,52 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-12T11:15:28.545666970Z",
+  "generatedAt": "2026-09-12T11:42:58.794844900Z",
   "articles": [
-    {
-      "id": "67a759f4-6688-3ee6-97e3-01fdc390b747",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/08/27/cleveland-clinic-first-in-ohio-to-perform-robotic-nipple-sparing-mastectomy",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/08/27/cleveland-clinic-first-in-ohio-to-perform-robotic-nipple-sparing-mastectomy",
-      "titleOriginal": "Cleveland Clinic First in Ohio to Perform Robotic Nipple-Sparing Mastectomy",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-08-27T00:00:00Z",
-      "collectedAt": "2026-09-12T08:07:13.862202702Z",
-      "contentHash": "3cacbde45040bc06fd32f21652c159f5881fbcb4a3630f008870ee5e5fd2f359",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/08/27/cleveland-clinic-first-in-ohio-to-perform-robotic-nipple-sparing-mastectomy"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
     {
       "id": "f5fd51d9-7470-343b-bc80-5b0d0ae29eba",
       "sourceId": "abbvie-news",
@@ -74,7 +29,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-08-27T06:00:00Z",
-      "collectedAt": "2026-09-12T06:27:33.808627651Z",
+      "collectedAt": "2026-09-12T11:42:58.465052007Z",
       "contentHash": "584885fc50404a1e2ea1b3be9bea5f67cc6fe3973821c056f21e2d96e5e82f3a",
       "generated": false,
       "generatorVersion": null,
@@ -121,7 +76,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-08-27T00:00:00Z",
-      "collectedAt": "2026-09-12T06:27:37.606700893Z",
+      "collectedAt": "2026-09-12T11:42:55.590523817Z",
       "contentHash": "67cf073f31ae5dd83f2af0f309390a1313bfef04355cfb50c47d4e3d889ac8b3",
       "generated": false,
       "generatorVersion": null,
@@ -168,7 +123,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-08-27T00:00:00Z",
-      "collectedAt": "2026-09-12T06:27:30.739391976Z",
+      "collectedAt": "2026-09-12T11:42:55.436020209Z",
       "contentHash": "ae10c6c9a2766022c068c6b84deba8a9b08f2727bb58951fb00c9c3796544f6a",
       "generated": false,
       "generatorVersion": null,
@@ -213,7 +168,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-08-27T00:00:00Z",
-      "collectedAt": "2026-09-12T06:27:33.602402333Z",
+      "collectedAt": "2026-09-12T11:42:58.654820213Z",
       "contentHash": "87e1fe809b229d70fc33fc0dff1a9dc5693e02275181df08f7fe8f29e9eee651",
       "generated": false,
       "generatorVersion": null,
@@ -227,6 +182,51 @@
           "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
           "sourceTier": "B",
           "originalUrl": "https://www.hengrui.com/media/detail-1019.html"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "67a759f4-6688-3ee6-97e3-01fdc390b747",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/08/27/cleveland-clinic-first-in-ohio-to-perform-robotic-nipple-sparing-mastectomy",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/08/27/cleveland-clinic-first-in-ohio-to-perform-robotic-nipple-sparing-mastectomy",
+      "titleOriginal": "Cleveland Clinic First in Ohio to Perform Robotic Nipple-Sparing Mastectomy",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-27T00:00:00Z",
+      "collectedAt": "2026-09-12T08:07:13.862202702Z",
+      "contentHash": "3cacbde45040bc06fd32f21652c159f5881fbcb4a3630f008870ee5e5fd2f359",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/08/27/cleveland-clinic-first-in-ohio-to-perform-robotic-nipple-sparing-mastectomy"
         }
       ],
       "importanceScore": 20,
