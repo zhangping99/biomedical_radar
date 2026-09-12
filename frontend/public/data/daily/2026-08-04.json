@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-12T05:02:26.643791067Z",
+  "generatedAt": "2026-09-12T06:27:37.697391505Z",
   "articles": [
     {
       "id": "4fca141b-3c81-35ad-b5ea-4a85605a8371",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-08-04T00:00:00Z",
-      "collectedAt": "2026-09-11T21:53:24.414118019Z",
+      "collectedAt": "2026-09-12T06:27:30.740611114Z",
       "contentHash": "aa6fe6414a98086da2644e9c20a3e12ee5870602ad4a689bf52d3efa52e1d8e2",
       "generated": false,
       "generatorVersion": null,
@@ -76,7 +76,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-08-04T00:00:00Z",
-      "collectedAt": "2026-09-11T21:53:25.366893468Z",
+      "collectedAt": "2026-09-12T06:27:32.129419029Z",
       "contentHash": "4c3c53002cf5d680c966064eba41f4b723ab69512ec9e61b09b999e378143637",
       "generated": false,
       "generatorVersion": null,
@@ -96,6 +96,51 @@
       "importanceReasons": [
         "高影响事件"
       ]
+    },
+    {
+      "id": "5eeed263-c61f-301f-9ebe-52db7e8d05eb",
+      "sourceId": "amgen-news-releases",
+      "sourceName": "Amgen News Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/08/amgen-reports-second-quarter-2026-financial-results",
+      "canonicalUrl": "https://www.amgen.com/newsroom/press-releases/2026/08/amgen-reports-second-quarter-2026-financial-results",
+      "titleOriginal": "AMGEN REPORTS SECOND QUARTER 2026 FINANCIAL RESULTS",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Amgen"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-04T00:00:00Z",
+      "collectedAt": "2026-09-12T06:27:37.606796151Z",
+      "contentHash": "a3d1904eb19c876f844cd93dc6caf2e0470df6214f6d19cad090ba049b93d11e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "amgen-news-releases",
+          "sourceName": "Amgen News Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/08/amgen-reports-second-quarter-2026-financial-results"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
     },
     {
       "id": "36b05674-899f-3276-bbe8-11bbd2caaefa",
@@ -123,7 +168,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-08-04T00:00:00Z",
-      "collectedAt": "2026-09-11T21:53:24.587251995Z",
+      "collectedAt": "2026-09-12T06:27:31.488758316Z",
       "contentHash": "e447cc4820ec4727f50466b2571d241a5e89844c2f6e13cd085767428ce399fd",
       "generated": false,
       "generatorVersion": null,
@@ -168,7 +213,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-08-04T00:00:00Z",
-      "collectedAt": "2026-09-11T21:53:26.776012532Z",
+      "collectedAt": "2026-09-12T06:27:33.603650556Z",
       "contentHash": "fe470193a6c1b35d29bf94a8d0621f53c4c94a242e3d78a5632a28599e602efe",
       "generated": false,
       "generatorVersion": null,
@@ -182,51 +227,6 @@
           "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
           "sourceTier": "B",
           "originalUrl": "https://www.hengrui.com/media/detail-1004.html"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "5eeed263-c61f-301f-9ebe-52db7e8d05eb",
-      "sourceId": "amgen-news-releases",
-      "sourceName": "Amgen News Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/08/amgen-reports-second-quarter-2026-financial-results",
-      "canonicalUrl": "https://www.amgen.com/newsroom/press-releases/2026/08/amgen-reports-second-quarter-2026-financial-results",
-      "titleOriginal": "AMGEN REPORTS SECOND QUARTER 2026 FINANCIAL RESULTS",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "Amgen"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-08-04T00:00:00Z",
-      "collectedAt": "2026-09-11T06:36:42.894005924Z",
-      "contentHash": "a3d1904eb19c876f844cd93dc6caf2e0470df6214f6d19cad090ba049b93d11e",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "amgen-news-releases",
-          "sourceName": "Amgen News Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/08/amgen-reports-second-quarter-2026-financial-results"
         }
       ],
       "importanceScore": 20,
