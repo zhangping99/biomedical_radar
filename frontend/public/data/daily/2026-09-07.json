@@ -1,51 +1,147 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-13T06:44:33.224540337Z",
+  "generatedAt": "2026-09-13T07:27:54.921082422Z",
   "articles": [
     {
-      "id": "290b9efb-828c-3293-a548-0613c7df4531",
-      "sourceId": "btch-research",
-      "sourceName": "Beijing Tsinghua Changgung Hospital Research",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://xinwen.bjd.com.cn/content/s6a9a97d7e4b0e42f8effdcf7.html?from\u003dappMessage\u0026timestamp\u003d1788745469197",
-      "canonicalUrl": "https://xinwen.bjd.com.cn/content/s6a9a97d7e4b0e42f8effdcf7.html?from\u003dappMessage\u0026timestamp\u003d1788745469197",
-      "titleOriginal": "北京日报 | 率先应用新技术!北京研发抗抑郁新药,有望填补国...",
-      "titleZh": "北京日报 | 率先应用新技术!北京研发抗抑郁新药,有望填补国...",
+      "id": "c1930097-fa90-39de-ae5d-1b84805b9f8a",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42730321/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42730321",
+      "titleOriginal": "Analgesic Efficacy of Continuous Bupivacaine Infusion versus Liposomal Bupivacaine in Parasacral Ischial Plane Block After Total Knee Arthroplasty: An Open-Label, Randomized, Controlled, Non-Inferiority Study.",
+      "titleZh": null,
       "summaryZh": null,
       "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "hospital_service",
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
       "eventTypes": [
         "update"
       ],
       "entities": [
         {
-          "type": "hospital",
-          "name": "北京清华长庚医院"
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
         }
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-07T00:00:00Z",
-      "collectedAt": "2026-09-12T17:48:49.125407102Z",
-      "contentHash": "b8b986d1cb18b772e30f34710c89a2a5d17aa0c86829f87a3e8974635017715a",
+      "collectedAt": "2026-09-13T07:27:53.605699995Z",
+      "contentHash": "110cef37c497ec1443e0ed637ffc8205d8fc5c84824930f0716205c53a5b528e",
       "generated": false,
       "generatorVersion": null,
       "generatedAt": null,
       "verificationStatus": "auto_checked",
       "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
+      "legalBasis": "official_api",
       "sourceLinks": [
         {
-          "sourceId": "btch-research",
-          "sourceName": "Beijing Tsinghua Changgung Hospital Research",
-          "sourceTier": "B",
-          "originalUrl": "https://xinwen.bjd.com.cn/content/s6a9a97d7e4b0e42f8effdcf7.html?from\u003dappMessage\u0026timestamp\u003d1788745469197"
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42730321/"
         }
       ],
-      "importanceScore": 20,
-      "importanceReasons": []
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "f9cfa24f-eaa5-3aa3-a0a3-f3e25879ba04",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42730297/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42730297",
+      "titleOriginal": "Association between youth athletes\u0027 sports specialization and injuries: a systematic review and meta-analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-07T00:00:00Z",
+      "collectedAt": "2026-09-13T07:27:53.606099120Z",
+      "contentHash": "dd442c39755bc623e1ad73c99b85f71f0beab125383a7851a5eb174dd2e52569",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42730297/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "75d5510d-9b11-31e5-a18c-07d96d49aa73",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42730009/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42730009",
+      "titleOriginal": "Comparative Evaluation of Three Cranberry Formulations in Women with Recurrent Urinary Tract Infections: An Observational Study.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-07T00:00:00Z",
+      "collectedAt": "2026-09-13T07:27:53.606471125Z",
+      "contentHash": "39e08560c323b23bd373b93a6d1e3e9f2ae3ca42bd5387f6af57be9c99f5ea87",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42730009/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
     },
     {
       "id": "cc6498f8-f2df-3d8d-af83-e67f7a9d9110",
@@ -73,7 +169,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-07T00:00:00Z",
-      "collectedAt": "2026-09-12T17:08:03.199967315Z",
+      "collectedAt": "2026-09-13T07:27:54.733930896Z",
       "contentHash": "b35efb8b6ffb0aa001b7c661f211e37aa094f75b268cf82249edd6e770f6f165",
       "generated": false,
       "generatorVersion": null,
@@ -120,7 +216,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-07T00:00:00Z",
-      "collectedAt": "2026-09-12T17:08:03.200074086Z",
+      "collectedAt": "2026-09-13T07:27:54.734092709Z",
       "contentHash": "4afae9ee212fcdc13c2df5e878dd4caa7acc2085116b97c08ee03f9de24d3895",
       "generated": false,
       "generatorVersion": null,
@@ -140,6 +236,51 @@
       "importanceReasons": [
         "官方一手来源"
       ]
+    },
+    {
+      "id": "290b9efb-828c-3293-a548-0613c7df4531",
+      "sourceId": "btch-research",
+      "sourceName": "Beijing Tsinghua Changgung Hospital Research",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://xinwen.bjd.com.cn/content/s6a9a97d7e4b0e42f8effdcf7.html?from\u003dappMessage\u0026timestamp\u003d1788745469197",
+      "canonicalUrl": "https://xinwen.bjd.com.cn/content/s6a9a97d7e4b0e42f8effdcf7.html?from\u003dappMessage\u0026timestamp\u003d1788745469197",
+      "titleOriginal": "北京日报 | 率先应用新技术!北京研发抗抑郁新药,有望填补国...",
+      "titleZh": "北京日报 | 率先应用新技术!北京研发抗抑郁新药,有望填补国...",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "北京清华长庚医院"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-07T00:00:00Z",
+      "collectedAt": "2026-09-12T17:48:49.125407102Z",
+      "contentHash": "b8b986d1cb18b772e30f34710c89a2a5d17aa0c86829f87a3e8974635017715a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "btch-research",
+          "sourceName": "Beijing Tsinghua Changgung Hospital Research",
+          "sourceTier": "B",
+          "originalUrl": "https://xinwen.bjd.com.cn/content/s6a9a97d7e4b0e42f8effdcf7.html?from\u003dappMessage\u0026timestamp\u003d1788745469197"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
     },
     {
       "id": "3f050255-00ca-3bc3-b1e4-d99395fd5025",
