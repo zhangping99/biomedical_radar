@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-13T05:24:04.742541987Z",
+  "generatedAt": "2026-09-13T06:44:33.224540337Z",
   "articles": [
     {
       "id": "ee422afe-4fc3-3bf0-b753-673120c59f1a",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-28T12:00:00Z",
-      "collectedAt": "2026-09-12T21:36:38.789771619Z",
+      "collectedAt": "2026-09-13T06:44:29.695770461Z",
       "contentHash": "f4b899fa356d68f3d8991242d51b91c79bafcfc6a5bb7a08deab668c0744060a",
       "generated": false,
       "generatorVersion": null,
@@ -75,7 +75,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-28T11:00:41Z",
-      "collectedAt": "2026-09-12T21:36:38.790144843Z",
+      "collectedAt": "2026-09-13T06:44:29.696070434Z",
       "contentHash": "d7646759703d5a1bb305fd3165da685ebd61e3040889a4492702897446ee8c04",
       "generated": false,
       "generatorVersion": null,
@@ -122,7 +122,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-28T12:05:00Z",
-      "collectedAt": "2026-09-12T21:36:38.789410697Z",
+      "collectedAt": "2026-09-13T06:44:29.695419557Z",
       "contentHash": "4ab5d2ce0b7e85f6d620ddc12816873069fd8fb12e2588607c50726468842802",
       "generated": false,
       "generatorVersion": null,
@@ -136,6 +136,141 @@
           "sourceName": "GSK Press Releases",
           "sourceTier": "B",
           "originalUrl": "https://www.gsk.com/en-gb/media/press-releases/gsk-to-establish-new-flagship-rd-centre-on-cambridge-biomedical-campus-uk/"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "deac3129-dd32-310a-a366-ea8f6a51fb4f",
+      "sourceId": "hengrui-focus-news",
+      "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.hengrui.com/media/detail-1001.html",
+      "canonicalUrl": "https://www.hengrui.com/media/detail-1001.html",
+      "titleOriginal": "捷报!恒瑞医药TF ADC创新药SHR-4375注射液获美国FDA孤儿药资格认定",
+      "titleZh": "捷报!恒瑞医药TF ADC创新药SHR-4375注射液获美国FDA孤儿药资格认定",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "恒瑞医药"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-07-28T00:00:00Z",
+      "collectedAt": "2026-09-13T06:44:32.491953987Z",
+      "contentHash": "78d308f6ba9a594adc574885c0d2d9815787e7a98a8da86f02d38d033dcefe2b",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "hengrui-focus-news",
+          "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
+          "sourceTier": "B",
+          "originalUrl": "https://www.hengrui.com/media/detail-1001.html"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "871383cb-6a0c-3ab9-b805-3aaacc28bdad",
+      "sourceId": "hansoh-news",
+      "sourceName": "翰森制药新闻发布",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.hansoh.cn/news/news-detail-514057.htm",
+      "canonicalUrl": "https://www.hansoh.cn/news/news-detail-514057.htm",
+      "titleOriginal": "翰森制药 | B7-H3 ADC Risvutatug Rezetecan(HS-20093)骨肉瘤III期临床ARTEMIS-011达到IRC-PFS主要终点",
+      "titleZh": "翰森制药 | B7-H3 ADC Risvutatug Rezetecan(HS-20093)骨肉瘤III期临床ARTEMIS-011达到IRC-PFS主要终点",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "drug_rd",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "翰森制药"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-07-28T00:00:00Z",
+      "collectedAt": "2026-09-13T06:44:33.132921327Z",
+      "contentHash": "8d294f8d7b1d682a9eed94b89cf69794eb6c08dae4faa22c4129b2eee2145bd6",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "hansoh-news",
+          "sourceName": "翰森制药新闻发布",
+          "sourceTier": "B",
+          "originalUrl": "https://www.hansoh.cn/news/news-detail-514057.htm"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "ed5391bc-f80d-37ab-9179-74d90b868597",
+      "sourceId": "hansoh-news",
+      "sourceName": "翰森制药新闻发布",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.hansoh.cn/news/news-detail-514055.htm",
+      "canonicalUrl": "https://www.hansoh.cn/news/news-detail-514055.htm",
+      "titleOriginal": "世界肝炎日 | 多一点看见,少一点偏见,科学治疗才是打败乙肝的最强答案",
+      "titleZh": "世界肝炎日 | 多一点看见,少一点偏见,科学治疗才是打败乙肝的最强答案",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "翰森制药"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-07-28T00:00:00Z",
+      "collectedAt": "2026-09-13T06:44:33.133105595Z",
+      "contentHash": "ed7d588b28010b7fee14f7a084f6822da4744e0ac5c38c5ab11eff7de624aa11",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "hansoh-news",
+          "sourceName": "翰森制药新闻发布",
+          "sourceTier": "B",
+          "originalUrl": "https://www.hansoh.cn/news/news-detail-514055.htm"
         }
       ],
       "importanceScore": 20,
@@ -181,141 +316,6 @@
           "sourceName": "Amgen News Releases",
           "sourceTier": "B",
           "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/07/amgen-announces-webcast-of-2026-second-quarter-financial-results"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "deac3129-dd32-310a-a366-ea8f6a51fb4f",
-      "sourceId": "hengrui-focus-news",
-      "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.hengrui.com/media/detail-1001.html",
-      "canonicalUrl": "https://www.hengrui.com/media/detail-1001.html",
-      "titleOriginal": "捷报!恒瑞医药TF ADC创新药SHR-4375注射液获美国FDA孤儿药资格认定",
-      "titleZh": "捷报!恒瑞医药TF ADC创新药SHR-4375注射液获美国FDA孤儿药资格认定",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "恒瑞医药"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-07-28T00:00:00Z",
-      "collectedAt": "2026-09-12T21:36:40.857919700Z",
-      "contentHash": "78d308f6ba9a594adc574885c0d2d9815787e7a98a8da86f02d38d033dcefe2b",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "hengrui-focus-news",
-          "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
-          "sourceTier": "B",
-          "originalUrl": "https://www.hengrui.com/media/detail-1001.html"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "871383cb-6a0c-3ab9-b805-3aaacc28bdad",
-      "sourceId": "hansoh-news",
-      "sourceName": "翰森制药新闻发布",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.hansoh.cn/news/news-detail-514057.htm",
-      "canonicalUrl": "https://www.hansoh.cn/news/news-detail-514057.htm",
-      "titleOriginal": "翰森制药 | B7-H3 ADC Risvutatug Rezetecan(HS-20093)骨肉瘤III期临床ARTEMIS-011达到IRC-PFS主要终点",
-      "titleZh": "翰森制药 | B7-H3 ADC Risvutatug Rezetecan(HS-20093)骨肉瘤III期临床ARTEMIS-011达到IRC-PFS主要终点",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "drug_rd",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "翰森制药"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-07-28T00:00:00Z",
-      "collectedAt": "2026-09-12T21:36:41.772019064Z",
-      "contentHash": "8d294f8d7b1d682a9eed94b89cf69794eb6c08dae4faa22c4129b2eee2145bd6",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "hansoh-news",
-          "sourceName": "翰森制药新闻发布",
-          "sourceTier": "B",
-          "originalUrl": "https://www.hansoh.cn/news/news-detail-514057.htm"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "ed5391bc-f80d-37ab-9179-74d90b868597",
-      "sourceId": "hansoh-news",
-      "sourceName": "翰森制药新闻发布",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.hansoh.cn/news/news-detail-514055.htm",
-      "canonicalUrl": "https://www.hansoh.cn/news/news-detail-514055.htm",
-      "titleOriginal": "世界肝炎日 | 多一点看见,少一点偏见,科学治疗才是打败乙肝的最强答案",
-      "titleZh": "世界肝炎日 | 多一点看见,少一点偏见,科学治疗才是打败乙肝的最强答案",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "翰森制药"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-07-28T00:00:00Z",
-      "collectedAt": "2026-09-12T21:36:41.772243544Z",
-      "contentHash": "ed7d588b28010b7fee14f7a084f6822da4744e0ac5c38c5ab11eff7de624aa11",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "hansoh-news",
-          "sourceName": "翰森制药新闻发布",
-          "sourceTier": "B",
-          "originalUrl": "https://www.hansoh.cn/news/news-detail-514055.htm"
         }
       ],
       "importanceScore": 20,
