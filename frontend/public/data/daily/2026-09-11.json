@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-14T19:20:40.863240122Z",
+  "generatedAt": "2026-09-14T19:56:10.702986284Z",
   "articles": [
+    {
+      "id": "50dbb6be-4936-39ab-abe5-b328022e86ce",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/11/study-shows-benefits-of-coffee-for-liver-health",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/11/study-shows-benefits-of-coffee-for-liver-health",
+      "titleOriginal": "Study Shows Benefits of Coffee for Liver Health",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-11T00:00:00Z",
+      "collectedAt": "2026-09-14T19:56:07.728081101Z",
+      "contentHash": "450f8c36acc0e488a41d4bee71f9790fd9308cad65ddc360e4387d3ae273f2c8",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/11/study-shows-benefits-of-coffee-for-liver-health"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "2a1172b9-cce0-3922-a69a-a8197938f6dc",
       "sourceId": "pubmed-recent",
@@ -1388,51 +1433,6 @@
           "sourceName": "Eli Lilly News Releases",
           "sourceTier": "B",
           "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/lilly-completes-acquisition-ataibeckley-advance-therapies"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "50dbb6be-4936-39ab-abe5-b328022e86ce",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/11/study-shows-benefits-of-coffee-for-liver-health",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/11/study-shows-benefits-of-coffee-for-liver-health",
-      "titleOriginal": "Study Shows Benefits of Coffee for Liver Health",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-11T00:00:00Z",
-      "collectedAt": "2026-09-14T09:14:21.760858526Z",
-      "contentHash": "450f8c36acc0e488a41d4bee71f9790fd9308cad65ddc360e4387d3ae273f2c8",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/11/study-shows-benefits-of-coffee-for-liver-health"
         }
       ],
       "importanceScore": 20,
