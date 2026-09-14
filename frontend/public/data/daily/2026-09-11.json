@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-14T07:53:00.782926697Z",
+  "generatedAt": "2026-09-14T09:14:29.050648054Z",
   "articles": [
+    {
+      "id": "50dbb6be-4936-39ab-abe5-b328022e86ce",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/11/study-shows-benefits-of-coffee-for-liver-health",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/11/study-shows-benefits-of-coffee-for-liver-health",
+      "titleOriginal": "Study Shows Benefits of Coffee for Liver Health",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-11T00:00:00Z",
+      "collectedAt": "2026-09-14T09:14:21.760858526Z",
+      "contentHash": "450f8c36acc0e488a41d4bee71f9790fd9308cad65ddc360e4387d3ae273f2c8",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/11/study-shows-benefits-of-coffee-for-liver-health"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "125c1fd3-dc9e-34f1-b5b3-2e2363b44f50",
       "sourceId": "clinicaltrials-recent",
@@ -2016,53 +2061,6 @@
           "sourceName": "Peking Union Medical College Hospital Research",
           "sourceTier": "B",
           "originalUrl": "https://www.pumch.cn/detail/46582.html"
-        }
-      ],
-      "importanceScore": 28,
-      "importanceReasons": [
-        "近期更新"
-      ]
-    },
-    {
-      "id": "50dbb6be-4936-39ab-abe5-b328022e86ce",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/11/study-shows-benefits-of-coffee-for-liver-health",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/11/study-shows-benefits-of-coffee-for-liver-health",
-      "titleOriginal": "Study Shows Benefits of Coffee for Liver Health",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-11T00:00:00Z",
-      "collectedAt": "2026-09-13T18:20:00.311290675Z",
-      "contentHash": "450f8c36acc0e488a41d4bee71f9790fd9308cad65ddc360e4387d3ae273f2c8",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/11/study-shows-benefits-of-coffee-for-liver-health"
         }
       ],
       "importanceScore": 28,

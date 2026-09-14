@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-14T07:53:00.782926697Z",
+  "generatedAt": "2026-09-14T09:14:29.050648054Z",
   "articles": [
+    {
+      "id": "0102560a-3fdc-397d-a780-14d10297a02b",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/08/should-kids-have-mental-health-days",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/08/should-kids-have-mental-health-days",
+      "titleOriginal": "Should Kids Have Mental Health Days?",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-08T00:00:00Z",
+      "collectedAt": "2026-09-14T09:14:21.761622013Z",
+      "contentHash": "ba48154b9783e372ff1b5bec5c1a82570173dbf1218fa01d1af9610f44204cce",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/08/should-kids-have-mental-health-days"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "a10c934a-bf3e-3bcb-81f4-521666bc7ee5",
       "sourceId": "pubmed-recent",
@@ -555,51 +600,6 @@
           "sourceName": "Peking Union Medical College Hospital Research",
           "sourceTier": "B",
           "originalUrl": "https://www.pumch.cn/detail/46547.html"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "0102560a-3fdc-397d-a780-14d10297a02b",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/08/should-kids-have-mental-health-days",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/08/should-kids-have-mental-health-days",
-      "titleOriginal": "Should Kids Have Mental Health Days?",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-08T00:00:00Z",
-      "collectedAt": "2026-09-13T18:20:00.312964131Z",
-      "contentHash": "ba48154b9783e372ff1b5bec5c1a82570173dbf1218fa01d1af9610f44204cce",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/08/should-kids-have-mental-health-days"
         }
       ],
       "importanceScore": 20,
