@@ -1,7 +1,61 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-15T17:45:51.638084716Z",
+  "generatedAt": "2026-09-15T18:10:59.418140513Z",
   "articles": [
+    {
+      "id": "b6543175-a150-32c8-b3f1-b177a60e95e0",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07748403",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07748403",
+      "titleOriginal": "A Study of the Safety and Efficacy of Prime Editing (PM577) in Participants With Wilson Disease (WD)",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert",
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Wilson Disease",
+        "Wilson\u0027s Disease",
+        "Wilsons Disease"
+      ],
+      "publishedAt": "2026-08-05T00:00:00Z",
+      "collectedAt": "2026-09-15T18:10:57.667525389Z",
+      "contentHash": "8f7a4fda5b99a8a6a3df91b1c2c74cb96554ecd8e2e5ec40d913a634a8c88413",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07748403"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "8de45168-ec4b-3939-872b-bbae264f2d36",
       "sourceId": "lilly-news-releases",

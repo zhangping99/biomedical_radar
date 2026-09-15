@@ -1,7 +1,59 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-15T17:45:51.638084716Z",
+  "generatedAt": "2026-09-15T18:10:59.418140513Z",
   "articles": [
+    {
+      "id": "cdf6399a-69d6-3346-8fc2-c5506c218a11",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07805512",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07805512",
+      "titleOriginal": "A Study to Evaluate the Effectiveness and Safety of Restylane Shaype in the Improvement of Jawline Definition",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert",
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Jawline Definition"
+      ],
+      "publishedAt": "2026-09-04T00:00:00Z",
+      "collectedAt": "2026-09-15T18:10:57.673073147Z",
+      "contentHash": "c2de2b550b9c70bd0ea7b2af6fca5ae34b1d7c76c2f6912a7439b7fdcc006e7f",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07805512"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "9bce63e6-dbcc-37d0-b823-155e09c1c4a8",
       "sourceId": "ema-news",
