@@ -1,54 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-16T12:02:58.563914902Z",
+  "generatedAt": "2026-09-16T12:48:38.678946462Z",
   "articles": [
-    {
-      "id": "2b6e60af-cd93-33b9-a334-fada79791a5e",
-      "sourceId": "nature-medicine",
-      "sourceName": "Nature Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41591-026-04587-0",
-      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04587-0",
-      "titleOriginal": "A multimodal murmuration for immunotherapy",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-13T00:00:00Z",
-      "collectedAt": "2026-09-16T07:40:15.543874056Z",
-      "contentHash": "8abf2af39203b1b4d8b5528b5d784acf34db490c5b88a4f095118bca3df0a586",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-medicine",
-          "sourceName": "Nature Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41591-026-04587-0"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
     {
       "id": "9e850c5c-fe6e-39db-aaeb-4941250ac450",
       "sourceId": "gsk-press-releases",
@@ -75,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-13T19:30:00Z",
-      "collectedAt": "2026-09-16T06:40:42.161617655Z",
+      "collectedAt": "2026-09-16T12:48:35.377075710Z",
       "contentHash": "3c1cfbd0de17273fb789d94e44769c827547bec018f6eb9051a8de7cd4f1a8d0",
       "generated": false,
       "generatorVersion": null,
@@ -122,7 +75,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-13T08:00:00Z",
-      "collectedAt": "2026-09-16T06:40:42.161984361Z",
+      "collectedAt": "2026-09-16T12:48:35.377231982Z",
       "contentHash": "8e7b6ed9beb4ce5f4355167dfe1911d62a72b8a454d2f03be77ff15a47354c88",
       "generated": false,
       "generatorVersion": null,
@@ -138,10 +91,8 @@
           "originalUrl": "https://www.gsk.com/en-gb/media/press-releases/ris-rez-reduced-risk-of-death-by-54-versus-topotecan-in-patients-with-relapsed-small-cell-lung-cancer-in-china/"
         }
       ],
-      "importanceScore": 28,
-      "importanceReasons": [
-        "近期更新"
-      ]
+      "importanceScore": 20,
+      "importanceReasons": []
     },
     {
       "id": "284160b4-e1e2-39fd-acef-5fde4bcec585",
@@ -169,7 +120,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-13T00:00:00Z",
-      "collectedAt": "2026-09-16T06:40:44.809308718Z",
+      "collectedAt": "2026-09-16T12:48:38.615897300Z",
       "contentHash": "515d60c915734f52f1a1326c63b33995a5e7d53c480607a078551d7a19e241a1",
       "generated": false,
       "generatorVersion": null,
@@ -187,6 +138,53 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
+    },
+    {
+      "id": "2b6e60af-cd93-33b9-a334-fada79791a5e",
+      "sourceId": "nature-medicine",
+      "sourceName": "Nature Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41591-026-04587-0",
+      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04587-0",
+      "titleOriginal": "A multimodal murmuration for immunotherapy",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-13T00:00:00Z",
+      "collectedAt": "2026-09-16T07:40:15.543874056Z",
+      "contentHash": "8abf2af39203b1b4d8b5528b5d784acf34db490c5b88a4f095118bca3df0a586",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-medicine",
+          "sourceName": "Nature Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41591-026-04587-0"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
     },
     {
       "id": "b78603b7-4fac-3a3c-93cc-1f4c64661f0c",
