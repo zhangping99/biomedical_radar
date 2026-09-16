@@ -1,7 +1,97 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-16T05:17:42.460316129Z",
+  "generatedAt": "2026-09-16T06:40:44.998950910Z",
   "articles": [
+    {
+      "id": "44c82c54-fe72-31c4-8e68-a6593011fb74",
+      "sourceId": "pfizer-press-releases",
+      "sourceName": "Pfizer Press Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-receive-us-fda-approval-xfg-adapted",
+      "canonicalUrl": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-receive-us-fda-approval-xfg-adapted",
+      "titleOriginal": "Pfizer and BioNTech Receive U.S. FDA Approval for XFG-adapted COVID-19 Vaccine",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Pfizer"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-27T00:00:00Z",
+      "collectedAt": "2026-09-16T06:40:41.408573554Z",
+      "contentHash": "ae10c6c9a2766022c068c6b84deba8a9b08f2727bb58951fb00c9c3796544f6a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "pfizer-press-releases",
+          "sourceName": "Pfizer Press Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-receive-us-fda-approval-xfg-adapted"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "db5d3ae5-b63e-3cf5-b4cc-58015f69e922",
+      "sourceId": "hengrui-focus-news",
+      "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.hengrui.com/media/detail-1019.html",
+      "canonicalUrl": "https://www.hengrui.com/media/detail-1019.html",
+      "titleOriginal": "再传捷报!恒瑞医药创新药氟唑帕利胶囊(艾瑞颐®)专利荣获中国专利金奖",
+      "titleZh": "再传捷报!恒瑞医药创新药氟唑帕利胶囊(艾瑞颐®)专利荣获中国专利金奖",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "恒瑞医药"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-27T00:00:00Z",
+      "collectedAt": "2026-09-16T06:40:44.648369949Z",
+      "contentHash": "87e1fe809b229d70fc33fc0dff1a9dc5693e02275181df08f7fe8f29e9eee651",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "hengrui-focus-news",
+          "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
+          "sourceTier": "B",
+          "originalUrl": "https://www.hengrui.com/media/detail-1019.html"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "9939c2de-5b79-3d8c-86a7-2e7fd9cb6872",
       "sourceId": "fda-medwatch-alerts",
@@ -50,96 +140,6 @@
         "高影响事件",
         "政策或安全相关"
       ]
-    },
-    {
-      "id": "44c82c54-fe72-31c4-8e68-a6593011fb74",
-      "sourceId": "pfizer-press-releases",
-      "sourceName": "Pfizer Press Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-receive-us-fda-approval-xfg-adapted",
-      "canonicalUrl": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-receive-us-fda-approval-xfg-adapted",
-      "titleOriginal": "Pfizer and BioNTech Receive U.S. FDA Approval for XFG-adapted COVID-19 Vaccine",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "Pfizer"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-08-27T00:00:00Z",
-      "collectedAt": "2026-09-15T22:25:36.259040362Z",
-      "contentHash": "ae10c6c9a2766022c068c6b84deba8a9b08f2727bb58951fb00c9c3796544f6a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "pfizer-press-releases",
-          "sourceName": "Pfizer Press Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-receive-us-fda-approval-xfg-adapted"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "db5d3ae5-b63e-3cf5-b4cc-58015f69e922",
-      "sourceId": "hengrui-focus-news",
-      "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.hengrui.com/media/detail-1019.html",
-      "canonicalUrl": "https://www.hengrui.com/media/detail-1019.html",
-      "titleOriginal": "再传捷报!恒瑞医药创新药氟唑帕利胶囊(艾瑞颐®)专利荣获中国专利金奖",
-      "titleZh": "再传捷报!恒瑞医药创新药氟唑帕利胶囊(艾瑞颐®)专利荣获中国专利金奖",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "恒瑞医药"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-08-27T00:00:00Z",
-      "collectedAt": "2026-09-15T22:25:39.087191934Z",
-      "contentHash": "87e1fe809b229d70fc33fc0dff1a9dc5693e02275181df08f7fe8f29e9eee651",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "hengrui-focus-news",
-          "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
-          "sourceTier": "B",
-          "originalUrl": "https://www.hengrui.com/media/detail-1019.html"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     },
     {
       "id": "61de2e0b-7ff8-3203-8601-e44d40b0972c",
