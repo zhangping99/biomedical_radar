@@ -1,7 +1,102 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-16T17:43:45.448635792Z",
+  "generatedAt": "2026-09-16T18:11:23.960798157Z",
   "articles": [
+    {
+      "id": "7e389df2-abed-3340-ac03-bafd771b220c",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42746347/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42746347",
+      "titleOriginal": "Multitarget Pharmacological Mechanisms and Safety Profiles of Six Ethnobotanically Prioritized Indonesian Medicinal Plants for Cardiometabolic Disorders: A Systematic Review.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-11T00:00:00Z",
+      "collectedAt": "2026-09-16T18:11:23.212039955Z",
+      "contentHash": "56926f498e301d1c96ac5a147f2523d962ef6f66df8c6dcb1ac137715d9457e6",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42746347/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件"
+      ]
+    },
+    {
+      "id": "93d09372-1172-3bf9-88f7-a3acb44d6da5",
+      "sourceId": "nature-reviews-cancer",
+      "sourceName": "Nature Reviews Cancer",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41568-026-00982-4",
+      "canonicalUrl": "https://www.nature.com/articles/s41568-026-00982-4",
+      "titleOriginal": "Making breast cancer innovation deliver for every woman",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Reviews Cancer"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-11T00:00:00Z",
+      "collectedAt": "2026-09-16T18:11:23.187361709Z",
+      "contentHash": "a0e2f8b5e5493cd960c34d890c2b618bb78d9e4b01036588fe596a02142c8d2e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-reviews-cancer",
+          "sourceName": "Nature Reviews Cancer",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41568-026-00982-4"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "9fef813c-2e8b-35a9-8177-c936b9454530",
       "sourceId": "hengrui-focus-news",
@@ -187,53 +282,6 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关"
-      ]
-    },
-    {
-      "id": "93d09372-1172-3bf9-88f7-a3acb44d6da5",
-      "sourceId": "nature-reviews-cancer",
-      "sourceName": "Nature Reviews Cancer",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41568-026-00982-4",
-      "canonicalUrl": "https://www.nature.com/articles/s41568-026-00982-4",
-      "titleOriginal": "Making breast cancer innovation deliver for every woman",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Reviews Cancer"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-11T00:00:00Z",
-      "collectedAt": "2026-09-16T07:40:16.915348626Z",
-      "contentHash": "a0e2f8b5e5493cd960c34d890c2b618bb78d9e4b01036588fe596a02142c8d2e",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-reviews-cancer",
-          "sourceName": "Nature Reviews Cancer",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41568-026-00982-4"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
       ]
     },
     {
