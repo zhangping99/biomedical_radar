@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-15T22:53:30.518787080Z",
+  "generatedAt": "2026-09-16T04:47:59.291650397Z",
   "articles": [
     {
       "id": "78266f5e-b126-346f-bdc0-4562ad98d8ee",
@@ -29,7 +29,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-15T17:21:01Z",
-      "collectedAt": "2026-09-15T22:53:28.114574200Z",
+      "collectedAt": "2026-09-16T04:47:54.711467550Z",
       "contentHash": "9a277f4aa1e3562d305e2cec13ff00c791fa8396462791ad64f8b8f209ee3293",
       "generated": false,
       "generatorVersion": null,
@@ -54,19 +54,19 @@
       ]
     },
     {
-      "id": "174249d1-26ae-3a98-a6eb-f98081d88b20",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
+      "id": "d2b60cee-1610-3555-9257-2ed8d2aff5ed",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
       "sourceTier": "A",
       "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-29-june-to-03-july-2026",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-29-june-to-03-july-2026",
-      "titleOriginal": "Field Safety Notices: 29 June to 03 July 2026",
+      "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
+      "canonicalUrl": "https://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
+      "titleOriginal": "What\u0027s New Related to Drugs",
       "titleZh": null,
       "summaryZh": null,
       "whyItMattersZh": null,
       "language": "en",
-      "region": "OTHER",
+      "region": "US",
       "category": "quality_safety",
       "eventTypes": [
         "safety_alert"
@@ -74,13 +74,13 @@
       "entities": [
         {
           "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
+          "name": "U.S. Food and Drug Administration"
         }
       ],
       "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-15T22:53:28.956828982Z",
-      "contentHash": "487b4d0e64d6bae5fffb2df53e7e3af961a9efe6582c26373b0738a4bf05f0bf",
+      "publishedAt": "2026-09-15T21:07:21Z",
+      "collectedAt": "2026-09-16T04:47:54.702316835Z",
+      "contentHash": "bcb49a4d9a5942784cd6c8fbfa553c31f3f3660404e32d8c7bdb5bf34309db8a",
       "generated": false,
       "generatorVersion": null,
       "generatedAt": null,
@@ -89,10 +89,10 @@
       "legalBasis": "rss_allowed",
       "sourceLinks": [
         {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
           "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-29-june-to-03-july-2026"
+          "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs"
         }
       ],
       "importanceScore": 80,
@@ -104,19 +104,19 @@
       ]
     },
     {
-      "id": "4b0f5819-8031-35cd-ae67-4814f4fff67a",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
+      "id": "84fbfd56-6638-3d9d-b4d8-5ae3c4bd078c",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
       "sourceTier": "A",
       "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-july-2026",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-july-2026",
-      "titleOriginal": "MHRA Safety Roundup: July 2026",
+      "originalUrl": "http://www.fda.gov/drugs/medication-health-fraud-notifications/sexual-enhancement-and-energy-product-notifications",
+      "canonicalUrl": "https://www.fda.gov/drugs/medication-health-fraud-notifications/sexual-enhancement-and-energy-product-notifications",
+      "titleOriginal": "Sexual Enhancement and Energy Product Notifications",
       "titleZh": null,
       "summaryZh": null,
       "whyItMattersZh": null,
       "language": "en",
-      "region": "OTHER",
+      "region": "US",
       "category": "quality_safety",
       "eventTypes": [
         "safety_alert"
@@ -124,13 +124,13 @@
       "entities": [
         {
           "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
+          "name": "U.S. Food and Drug Administration"
         }
       ],
       "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-15T22:53:28.956726071Z",
-      "contentHash": "6e5aa845b28a0396feaa5d60e6ccaecf2d506a23d25c4ee7ddae327c15fd1179",
+      "publishedAt": "2026-09-15T21:06:57Z",
+      "collectedAt": "2026-09-16T04:47:54.706051679Z",
+      "contentHash": "78fd6dd6c489c7e3c562df7db28260f4fd7f7f21c7f9d1c5fc4b9880e09ed8d5",
       "generated": false,
       "generatorVersion": null,
       "generatedAt": null,
@@ -139,610 +139,10 @@
       "legalBasis": "rss_allowed",
       "sourceLinks": [
         {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
           "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-july-2026"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "f9d90672-9fab-32ef-b983-e5d1bb9d3d21",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/drager-atlan-anaesthesia-workstations-risk-of-ventilator-failure-dsi-slash-2026-slash-005",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/drager-atlan-anaesthesia-workstations-risk-of-ventilator-failure-dsi-slash-2026-slash-005",
-      "titleOriginal": "Dräger Atlan Anaesthesia workstations: risk of ventilator failure (DSI/2026/005)",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-15T22:53:28.956589888Z",
-      "contentHash": "64669bff5675e15826b2f038ce405d2be48d34409e4650e7056f39f0dcc19355",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/drager-atlan-anaesthesia-workstations-risk-of-ventilator-failure-dsi-slash-2026-slash-005"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "6c7fb265-13d7-3e86-8d0c-139aa2d68e32",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-27-to-31-july-2026",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-27-to-31-july-2026",
-      "titleOriginal": "Field Safety Notices: 27 to 31 July 2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-15T22:53:28.954585618Z",
-      "contentHash": "b752a51c123f207179b102482d1b7ab0c1d54225e83db6dafa590e8b44532674",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-27-to-31-july-2026"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "7e675870-3793-398a-b768-1362dadff4ec",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-3-to-7-august-2026",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-3-to-7-august-2026",
-      "titleOriginal": "Field Safety Notices: 3 to 7 August 2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-15T22:53:28.954014005Z",
-      "contentHash": "782ad8c059e526ba4a8b2d0f4d17a6f7f2e6f4726abf5c075d754765873d9b10",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-3-to-7-august-2026"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "52377702-3710-38b0-9f6b-90eb44b4942a",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/national-patient-safety-alert-resmed-astral-100-and-150-ventilators-potential-for-patient-harm-due-to-unexpected-interruption-of-ventilation-therapy-natpsa-slash-2026-slash-004-slash-mhra",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/national-patient-safety-alert-resmed-astral-100-and-150-ventilators-potential-for-patient-harm-due-to-unexpected-interruption-of-ventilation-therapy-natpsa-slash-2026-slash-004-slash-mhra",
-      "titleOriginal": "National Patient Safety Alert: ResMed Astral 100 and 150 Ventilators: Potential for Patient Harm due to Unexpected Interruption of Ventilation Therapy (NatPSA/2026/004/MHRA)",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-15T22:53:28.953718966Z",
-      "contentHash": "dd38c8952d52b1f0863016eac76938bc96b5d58b5ea127964d5388fb98991447",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/national-patient-safety-alert-resmed-astral-100-and-150-ventilators-potential-for-patient-harm-due-to-unexpected-interruption-of-ventilation-therapy-natpsa-slash-2026-slash-004-slash-mhra"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "9e3ab50c-9908-3699-b9c5-292939ed6eb4",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-13-to-17-july-2026",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-13-to-17-july-2026",
-      "titleOriginal": "Field Safety Notices: 13 to 17 July 2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-15T22:53:28.951885889Z",
-      "contentHash": "44cde8767fe4d8c3383abd914e49ce8542553cea4e276f3ae6b87a209c580f0d",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-13-to-17-july-2026"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "4a3049a4-17bd-31a0-97d9-65aa0d4dce84",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-10-to-14-august-2026",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-10-to-14-august-2026",
-      "titleOriginal": "Field Safety Notices: 10 to 14 August 2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-15T22:53:28.950325597Z",
-      "contentHash": "d57e28d7c9cde46808adb159ad6f439eb598cd8a11402d5e304ad16884adea52",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-10-to-14-august-2026"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "f944fda0-a7f5-3b9f-a4ab-84853d637d5f",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/class-2-medicines-recall-zentiva-pharma-uk-limited-fingolimod-zentiva-0-dot-5-mg-capsules-el-26-a-slash-37",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/class-2-medicines-recall-zentiva-pharma-uk-limited-fingolimod-zentiva-0-dot-5-mg-capsules-el-26-a-slash-37",
-      "titleOriginal": "Class 2 Medicines Recall: Zentiva Pharma UK Limited, Fingolimod Zentiva 0.5 mg Capsules, EL(26)A/37",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-15T22:53:28.950182571Z",
-      "contentHash": "d59605e033cc38357f61361b2b9cc2d074d5d8726aa8f0911dd581463fecbc4c",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/class-2-medicines-recall-zentiva-pharma-uk-limited-fingolimod-zentiva-0-dot-5-mg-capsules-el-26-a-slash-37"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "52ec7a76-f741-3fc1-8c68-e1a99b78d525",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-17-to-21-august-2026",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-17-to-21-august-2026",
-      "titleOriginal": "Field Safety Notices: 17 to 21 August 2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-15T22:53:28.949894736Z",
-      "contentHash": "057030281e292ede3194d5665711b0856e86fbdfb9954637984aeb55d882e643",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-17-to-21-august-2026"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "eef429f4-94d9-36b6-b941-c139b4d86cc7",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-august-2026",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-august-2026",
-      "titleOriginal": "MHRA Safety Roundup: August 2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-15T22:53:28.949324445Z",
-      "contentHash": "22eaba65cdab98ad2dbb956c87ab19321f7816761813fafa7160792a82477196",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-august-2026"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "fb009654-397c-32dc-83bc-b37c7d32a5f3",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-24-to-28-august-2026",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-24-to-28-august-2026",
-      "titleOriginal": "Field Safety Notices: 24 to 28 August 2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-15T22:53:28.948858359Z",
-      "contentHash": "70268ede8c8133ea1d255bdc06c3e55c6168c254812ef0b56900678c4cf34deb",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-24-to-28-august-2026"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "53c70e9e-cc24-35c1-ba1f-f3ec7a856f80",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-31-august-to-4-september-2026",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-31-august-to-4-september-2026",
-      "titleOriginal": "Field Safety Notices: 31 August to 4 September 2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-15T22:53:28.948733466Z",
-      "contentHash": "b25062868e9f5ccb2377196bb20251177c70d5e7b89d91955777de0ee82ecef0",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-31-august-to-4-september-2026"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "81c35c66-5e71-374b-823b-6a6038f6059d",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-7-september-to-11-september-2026",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-7-september-to-11-september-2026",
-      "titleOriginal": "Field Safety Notices: 7 September to 11 September 2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-15T22:53:28.948393173Z",
-      "contentHash": "781ca1d12789831aa2a2b059e44044cf5832d2d3755f8dbc9ffbb19c86b53ca0",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-7-september-to-11-september-2026"
+          "originalUrl": "http://www.fda.gov/drugs/medication-health-fraud-notifications/sexual-enhancement-and-energy-product-notifications"
         }
       ],
       "importanceScore": 80,
@@ -779,7 +179,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-15T19:14:46Z",
-      "collectedAt": "2026-09-15T22:53:28.109306012Z",
+      "collectedAt": "2026-09-16T04:47:54.707655750Z",
       "contentHash": "ad839c43690658c5d5c8a4a55c4c961b836225642dd2887e84955c14c7b2ea05",
       "generated": false,
       "generatorVersion": null,
@@ -793,56 +193,6 @@
           "sourceName": "U.S. Food and Drug Administration - Drugs",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/about-fda/fda-pharmacy-student-experiential-program/how-apply"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "d2b60cee-1610-3555-9257-2ed8d2aff5ed",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
-      "canonicalUrl": "https://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
-      "titleOriginal": "What\u0027s New Related to Drugs",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-15T17:28:41Z",
-      "collectedAt": "2026-09-15T22:53:28.114159749Z",
-      "contentHash": "bcb49a4d9a5942784cd6c8fbfa553c31f3f3660404e32d8c7bdb5bf34309db8a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs"
         }
       ],
       "importanceScore": 80,
@@ -879,7 +229,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-15T17:21:48Z",
-      "collectedAt": "2026-09-15T22:53:28.114353078Z",
+      "collectedAt": "2026-09-16T04:47:54.711329312Z",
       "contentHash": "a8d8fb4cd49513592db82f191fd767051683a9fef9b24a7c08753b34ab873b3f",
       "generated": false,
       "generatorVersion": null,
@@ -930,7 +280,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-15T15:26:24Z",
-      "collectedAt": "2026-09-15T22:53:28.115129041Z",
+      "collectedAt": "2026-09-16T04:47:54.711866700Z",
       "contentHash": "2cacceb580f2a5b7e78dfc6bd7f185e46aa67a0f35a76107e95c2aeddb26bf5d",
       "generated": false,
       "generatorVersion": null,
@@ -981,7 +331,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-15T14:32:30Z",
-      "collectedAt": "2026-09-15T22:53:28.115531460Z",
+      "collectedAt": "2026-09-16T04:47:54.712109545Z",
       "contentHash": "2480f124c334efb2ad1a30a503144767dad2dcc2d22f62de0c0f8157560829bd",
       "generated": false,
       "generatorVersion": null,
@@ -1031,7 +381,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-15T04:00:00Z",
-      "collectedAt": "2026-09-15T22:53:28.104985619Z",
+      "collectedAt": "2026-09-16T04:47:54.702675870Z",
       "contentHash": "1bffc0c566b67d046505ecdaf885c8705e1a47453878512484bcc1300fff2ea4",
       "generated": false,
       "generatorVersion": null,
@@ -1081,7 +431,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-15T00:00:00Z",
-      "collectedAt": "2026-09-15T22:53:28.762274439Z",
+      "collectedAt": "2026-09-16T04:47:55.372296803Z",
       "contentHash": "b893ae3bd11573abcfff7b9bb948e773b8f3369aa9453599439ee19433e39cd7",
       "generated": false,
       "generatorVersion": null,
@@ -1097,42 +447,42 @@
           "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/organikar-gummies-foreign-site-not-listed-site-licence"
         }
       ],
-      "importanceScore": 80,
+      "importanceScore": 73,
       "importanceReasons": [
         "官方一手来源",
         "高影响事件",
         "政策或安全相关",
-        "24小时内更新"
+        "近期更新"
       ]
     },
     {
-      "id": "8874e54e-69e5-3404-8569-2b1a1700b28c",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
+      "id": "d0975519-4391-3cf1-be9e-f70ff68f5563",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
       "sourceTier": "A",
       "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/belzer-uw-r-cold-storage-solution-and-belzer-mps-r-uw-machine-perfusion-solution-manufactured-by-carnamedica-ukrp-bridge-to-life-updated-advice-on-the-contamination-of-fluid-dsi-slash-2026-slash-006-update-to-dsi-slash-2023-slash-",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/belzer-uw-r-cold-storage-solution-and-belzer-mps-r-uw-machine-perfusion-solution-manufactured-by-carnamedica-ukrp-bridge-to-life-updated-advice-on-the-contamination-of-fluid-dsi-slash-2026-slash-006-update-to-dsi-slash-2023-slash-",
-      "titleOriginal": "Belzer UW® Cold Storage Solution and Belzer MPS® (UW Machine Perfusion Solution): manufactured by Carnamedica (UKRP: Bridge to Life): Updated advice on the contamination of fluid DSI/2026/006 (update to DSI/2023/005)",
+      "originalUrl": "http://www.fda.gov/drugs/medication-health-fraud-notifications/deep-may-be-harmful-due-hidden-ingredient",
+      "canonicalUrl": "https://www.fda.gov/drugs/medication-health-fraud-notifications/deep-may-be-harmful-due-hidden-ingredient",
+      "titleOriginal": "DEEP may be harmful due to hidden ingredient",
       "titleZh": null,
       "summaryZh": null,
       "whyItMattersZh": null,
       "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
+      "region": "US",
+      "category": "policy_regulation",
       "eventTypes": [
         "update"
       ],
       "entities": [
         {
           "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
+          "name": "U.S. Food and Drug Administration"
         }
       ],
       "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-15T22:53:28.954367031Z",
-      "contentHash": "0efb4b556a10d9e093a6dd71ceb25dc462db33de543eb6f3cc8b0e6286114643",
+      "publishedAt": "2026-09-15T21:04:50Z",
+      "collectedAt": "2026-09-16T04:47:54.706380724Z",
+      "contentHash": "85cecb5b337ee2b445c9aa9976428b50ba3c5432167109d24d5edd25eafbb0c2",
       "generated": false,
       "generatorVersion": null,
       "generatedAt": null,
@@ -1141,10 +491,10 @@
       "legalBasis": "rss_allowed",
       "sourceLinks": [
         {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
           "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/belzer-uw-r-cold-storage-solution-and-belzer-mps-r-uw-machine-perfusion-solution-manufactured-by-carnamedica-ukrp-bridge-to-life-updated-advice-on-the-contamination-of-fluid-dsi-slash-2026-slash-006-update-to-dsi-slash-2023-slash-"
+          "originalUrl": "http://www.fda.gov/drugs/medication-health-fraud-notifications/deep-may-be-harmful-due-hidden-ingredient"
         }
       ],
       "importanceScore": 65,
@@ -1155,33 +505,33 @@
       ]
     },
     {
-      "id": "00a764c1-ef18-3dac-9fc0-e860588ca378",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
+      "id": "cf59f051-cea5-3f62-8dae-b4ffc400a762",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
       "sourceTier": "A",
       "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/devices-supplied-without-valid-ukca-slash-ce-conformity-markings-or-certification-remove-from-use-and-place-in-quarantine-dsi-slash-2026-slash-007",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/devices-supplied-without-valid-ukca-slash-ce-conformity-markings-or-certification-remove-from-use-and-place-in-quarantine-dsi-slash-2026-slash-007",
-      "titleOriginal": "Devices supplied without valid UKCA/CE conformity markings or certification: remove from use and place in quarantine (DSI/2026/007)",
+      "originalUrl": "http://www.fda.gov/drugs/medication-health-fraud-notifications/beauty-911-may-be-harmful-due-hidden-ingredient",
+      "canonicalUrl": "https://www.fda.gov/drugs/medication-health-fraud-notifications/beauty-911-may-be-harmful-due-hidden-ingredient",
+      "titleOriginal": "Beauty 911 may be harmful due to hidden ingredient",
       "titleZh": null,
       "summaryZh": null,
       "whyItMattersZh": null,
       "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
+      "region": "US",
+      "category": "policy_regulation",
       "eventTypes": [
         "update"
       ],
       "entities": [
         {
           "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
+          "name": "U.S. Food and Drug Administration"
         }
       ],
       "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-15T22:53:28.954113961Z",
-      "contentHash": "16d66f0745ed1a7180e8a5a909ade38af0746e86d7f31963fcfb119ce71687c3",
+      "publishedAt": "2026-09-15T21:04:32Z",
+      "collectedAt": "2026-09-16T04:47:54.706648827Z",
+      "contentHash": "123b50c57eb7974a99dcfb566a85a964c7212f3cea31d5fb9d2570a9f6b6b24b",
       "generated": false,
       "generatorVersion": null,
       "generatedAt": null,
@@ -1190,10 +540,10 @@
       "legalBasis": "rss_allowed",
       "sourceLinks": [
         {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
           "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/devices-supplied-without-valid-ukca-slash-ce-conformity-markings-or-certification-remove-from-use-and-place-in-quarantine-dsi-slash-2026-slash-007"
+          "originalUrl": "http://www.fda.gov/drugs/medication-health-fraud-notifications/beauty-911-may-be-harmful-due-hidden-ingredient"
         }
       ],
       "importanceScore": 65,
@@ -1204,33 +554,33 @@
       ]
     },
     {
-      "id": "f30e0f80-504b-3081-a70a-78238552ac71",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
+      "id": "bf3083ef-3405-3b23-a082-9b65d29341aa",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
       "sourceTier": "A",
       "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/all-rectal-catheters-gas-and-colic-relievers-do-not-use-in-infants-including-for-the-treatment-of-colic-gas-related-discomfort-or-constipation-dsi-slash-2026-slash-008",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/all-rectal-catheters-gas-and-colic-relievers-do-not-use-in-infants-including-for-the-treatment-of-colic-gas-related-discomfort-or-constipation-dsi-slash-2026-slash-008",
-      "titleOriginal": "Rectal catheters sold for personal use (gas and colic relievers): Do not use in infants, including for the treatment of colic, gas-related discomfort or constipation (DSI/2026/008)",
+      "originalUrl": "http://www.fda.gov/drugs/medication-health-fraud-notifications/luze-fit-intensity-may-be-harmful-due-hidden-ingredient",
+      "canonicalUrl": "https://www.fda.gov/drugs/medication-health-fraud-notifications/luze-fit-intensity-may-be-harmful-due-hidden-ingredient",
+      "titleOriginal": "LUZE Fit Intensity may be harmful due to hidden ingredient",
       "titleZh": null,
       "summaryZh": null,
       "whyItMattersZh": null,
       "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
+      "region": "US",
+      "category": "policy_regulation",
       "eventTypes": [
         "update"
       ],
       "entities": [
         {
           "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
+          "name": "U.S. Food and Drug Administration"
         }
       ],
       "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-15T22:53:28.950013657Z",
-      "contentHash": "4c20ac2da734293558a3dffcfc197d1f1cbff37e571e55d6c1a45c3f4cdc0860",
+      "publishedAt": "2026-09-15T21:03:40Z",
+      "collectedAt": "2026-09-16T04:47:54.707012844Z",
+      "contentHash": "ec1087720c0de9f1e33bdcd907049e8bb8e560fa520de20658f328fbc5991b27",
       "generated": false,
       "generatorVersion": null,
       "generatedAt": null,
@@ -1239,157 +589,10 @@
       "legalBasis": "rss_allowed",
       "sourceLinks": [
         {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
           "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/all-rectal-catheters-gas-and-colic-relievers-do-not-use-in-infants-including-for-the-treatment-of-colic-gas-related-discomfort-or-constipation-dsi-slash-2026-slash-008"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "c7e79492-b720-3b20-9629-d730b6361f91",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/ngpod-ph-testing-device-quarantine-and-dispose-of-all-devices-dsi-slash-2026-slash-009",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/ngpod-ph-testing-device-quarantine-and-dispose-of-all-devices-dsi-slash-2026-slash-009",
-      "titleOriginal": "NGPod pH testing device: quarantine and dispose of all devices (DSI/2026/009)",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-15T22:53:28.949456471Z",
-      "contentHash": "1d4fc9e231e4a4c32791f1e7cb840a618c3100093426c8fb479a5aabcaa49afc",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/ngpod-ph-testing-device-quarantine-and-dispose-of-all-devices-dsi-slash-2026-slash-009"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "f827e2cd-a967-3c55-be38-b2512cb4d0da",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/cobalt-chrome-modular-neck-hip-replacements-risk-of-metal-wear-effects-and-revision-surgery-dsi-slash-2026-slash-010",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/cobalt-chrome-modular-neck-hip-replacements-risk-of-metal-wear-effects-and-revision-surgery-dsi-slash-2026-slash-010",
-      "titleOriginal": "Cobalt-chrome modular neck hip replacements: risk of metal-wear effects and revision surgery (DSI/2026/010)",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-15T22:53:28.949120306Z",
-      "contentHash": "5cb422cbc0f87dc609a14aead3ff6787f677bbd50daa6d7b7e4350f6ab2f132a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/cobalt-chrome-modular-neck-hip-replacements-risk-of-metal-wear-effects-and-revision-surgery-dsi-slash-2026-slash-010"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "c7ca4dd5-c7fc-37ac-aeaf-93e50417dead",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/filters-should-be-used-during-the-administration-of-parenteral-nutrition-for-patients-in-all-care-settings-dsi-slash-2026-slash-011",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/filters-should-be-used-during-the-administration-of-parenteral-nutrition-for-patients-in-all-care-settings-dsi-slash-2026-slash-011",
-      "titleOriginal": "Filters should be used during the administration of Parenteral Nutrition for patients in all care settings DSI/2026/011",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-15T22:53:28.948969886Z",
-      "contentHash": "3001d70e852b1df66509d466eda79ab67fcebd07e11e56f6fc24372f3e0c2bdb",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/filters-should-be-used-during-the-administration-of-parenteral-nutrition-for-patients-in-all-care-settings-dsi-slash-2026-slash-011"
+          "originalUrl": "http://www.fda.gov/drugs/medication-health-fraud-notifications/luze-fit-intensity-may-be-harmful-due-hidden-ingredient"
         }
       ],
       "importanceScore": 65,
@@ -1425,7 +628,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-15T19:59:06Z",
-      "collectedAt": "2026-09-15T22:53:28.101468626Z",
+      "collectedAt": "2026-09-16T04:47:54.704582236Z",
       "contentHash": "f1d8436068c0c88495ec30ee90e00b8ee9df37220e95c542560d21c1d92d5ac9",
       "generated": false,
       "generatorVersion": null,
@@ -1474,7 +677,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-15T19:58:01Z",
-      "collectedAt": "2026-09-15T22:53:28.101925986Z",
+      "collectedAt": "2026-09-16T04:47:54.706050653Z",
       "contentHash": "ad203063a103e9e107da4dce50bedbb4192474cd8458b150083806c037a26551",
       "generated": false,
       "generatorVersion": null,
@@ -1523,7 +726,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-15T19:57:53Z",
-      "collectedAt": "2026-09-15T22:53:28.102287529Z",
+      "collectedAt": "2026-09-16T04:47:54.706430614Z",
       "contentHash": "65b65a61a6a4ee04cb924b1fad945a39482d411932f2748897b77a10cdc011c5",
       "generated": false,
       "generatorVersion": null,
@@ -1572,7 +775,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-15T19:56:15Z",
-      "collectedAt": "2026-09-15T22:53:28.105742995Z",
+      "collectedAt": "2026-09-16T04:47:54.706739769Z",
       "contentHash": "b655c3032f4846b9deba582ec0fedef797be819a1f857d5dbfcc8d6394042b8d",
       "generated": false,
       "generatorVersion": null,
@@ -1621,7 +824,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-15T19:23:25Z",
-      "collectedAt": "2026-09-15T22:53:28.107116199Z",
+      "collectedAt": "2026-09-16T04:47:54.707880203Z",
       "contentHash": "a9d9f0be22a8cdde0f743caed328513fb62f36ff5ce74d9c01162df69db61b01",
       "generated": false,
       "generatorVersion": null,
@@ -1670,7 +873,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-15T19:17:14Z",
-      "collectedAt": "2026-09-15T22:53:28.108848551Z",
+      "collectedAt": "2026-09-16T04:47:54.707291763Z",
       "contentHash": "ae2414b0b6458e1e0ea6b2bf7897a5740924b60b1a30f7fee70a292cd6af470a",
       "generated": false,
       "generatorVersion": null,
@@ -1719,7 +922,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-15T19:16:24Z",
-      "collectedAt": "2026-09-15T22:53:28.109089199Z",
+      "collectedAt": "2026-09-16T04:47:54.707491423Z",
       "contentHash": "504345e3d105098465967eaf455adabc7a706e2a874b506f77aa9b6de23fa69b",
       "generated": false,
       "generatorVersion": null,
@@ -1768,7 +971,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-15T19:13:43Z",
-      "collectedAt": "2026-09-15T22:53:28.111951993Z",
+      "collectedAt": "2026-09-16T04:47:54.713449735Z",
       "contentHash": "0d9d88f2f08f52466456734c917b83606f09318b76b50f69ea5cbf3cb3eb34f0",
       "generated": false,
       "generatorVersion": null,
@@ -1817,7 +1020,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-15T19:06:24Z",
-      "collectedAt": "2026-09-15T22:53:28.112965217Z",
+      "collectedAt": "2026-09-16T04:47:54.717921416Z",
       "contentHash": "e7a18a761c4da0e8173a2766520fb9169fe7deec95b180d5f779fbfb889eafce",
       "generated": false,
       "generatorVersion": null,
@@ -1866,7 +1069,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-15T19:05:39Z",
-      "collectedAt": "2026-09-15T22:53:28.111128721Z",
+      "collectedAt": "2026-09-16T04:47:54.709283056Z",
       "contentHash": "da036c4fe7e0248bd13fe889154626d4c8c37d6e0ea92ecb556af109e1b0ae86",
       "generated": false,
       "generatorVersion": null,
@@ -1915,7 +1118,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-15T18:58:59Z",
-      "collectedAt": "2026-09-15T22:53:28.116304978Z",
+      "collectedAt": "2026-09-16T04:47:54.718722490Z",
       "contentHash": "d65adc3ab5c66c446bdf972775fe00472b0b618cb9224e3fa19f38df59ae6df4",
       "generated": false,
       "generatorVersion": null,
@@ -1964,7 +1167,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-15T18:32:36Z",
-      "collectedAt": "2026-09-15T22:53:28.119145722Z",
+      "collectedAt": "2026-09-16T04:47:54.720195815Z",
       "contentHash": "e05730ff0279199f494c17e13264312ada423e92e0f85656143aa71d5728838c",
       "generated": false,
       "generatorVersion": null,
@@ -2013,7 +1216,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-15T18:31:11Z",
-      "collectedAt": "2026-09-15T22:53:28.119338801Z",
+      "collectedAt": "2026-09-16T04:47:54.720362716Z",
       "contentHash": "a400c5cccc4b33fa103948b919410db5a865343695cf1f67836d2aaf301765b3",
       "generated": false,
       "generatorVersion": null,
@@ -2062,7 +1265,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-15T17:53:26Z",
-      "collectedAt": "2026-09-15T22:53:28.113902741Z",
+      "collectedAt": "2026-09-16T04:47:54.711111224Z",
       "contentHash": "d8641b54b0566040f2cdbe0692d3b81097902b78380de67ebe32b96f4a0c96f6",
       "generated": false,
       "generatorVersion": null,
@@ -2111,7 +1314,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-15T15:43:41Z",
-      "collectedAt": "2026-09-15T22:53:28.114877985Z",
+      "collectedAt": "2026-09-16T04:47:54.711680941Z",
       "contentHash": "c5c50007be7ce7a3238256dea09fc95ca4190012003cd21bb9e4c89dde9cf698",
       "generated": false,
       "generatorVersion": null,
@@ -2160,7 +1363,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-15T15:30:54Z",
-      "collectedAt": "2026-09-15T22:53:28.123326347Z",
+      "collectedAt": "2026-09-16T04:47:54.723824098Z",
       "contentHash": "59d4223186107f7f225f6a2b735b051661ac87c56c07e1fa080f5d2966860c27",
       "generated": false,
       "generatorVersion": null,
@@ -2209,7 +1412,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-15T13:59:11Z",
-      "collectedAt": "2026-09-15T22:53:28.115923779Z",
+      "collectedAt": "2026-09-16T04:47:54.712565090Z",
       "contentHash": "c5574b71336040a5596fe0001d86d470dc1aa48d2b54c1d0d1a6db09224ca3cf",
       "generated": false,
       "generatorVersion": null,
@@ -2258,7 +1461,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-15T13:53:31Z",
-      "collectedAt": "2026-09-15T22:53:28.116169136Z",
+      "collectedAt": "2026-09-16T04:47:54.712755987Z",
       "contentHash": "c7da271a3b408e93115f8bd9ead6ce4c9b0765ca7372e9d12f3170c557ac84c1",
       "generated": false,
       "generatorVersion": null,
@@ -2278,6 +1481,488 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "c4cfd35a-46cc-3141-b837-36dbcd1202c6",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/finding-your-support-team-while-participating-clinical-trial-10302024",
+      "canonicalUrl": "https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/finding-your-support-team-while-participating-clinical-trial-10302024",
+      "titleOriginal": "Finding Your Support Team While Participating in a Clinical Trial - 10/30/2024",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration",
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-15T19:54:19Z",
+      "collectedAt": "2026-09-16T04:47:54.706984877Z",
+      "contentHash": "db818138864cfc94341ee0609f472bbe5889a34466e08a2d4dfd337deced5a72",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/finding-your-support-team-while-participating-clinical-trial-10302024"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "c5743c97-8bc5-3cdf-8d8f-a567df2548a7",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/about-fda/scientific-internships-fellowships-trainees-and-non-us-citizens/fda-pharmacy-student-experiential-program",
+      "canonicalUrl": "https://www.fda.gov/about-fda/scientific-internships-fellowships-trainees-and-non-us-citizens/fda-pharmacy-student-experiential-program",
+      "titleOriginal": "FDA Pharmacy Student Experiential Program",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "device_diagnostics",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-15T19:14:17Z",
+      "collectedAt": "2026-09-16T04:47:54.707848180Z",
+      "contentHash": "0c2c9d3b60645c919213859460b6796c43941300c31b093017392bf659b280ff",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/about-fda/scientific-internships-fellowships-trainees-and-non-us-citizens/fda-pharmacy-student-experiential-program"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "0ecd3d42-a051-3f0b-9984-67b1102399b8",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-nonclinical-assessment-cell-and-gene-therapy-products-08302023",
+      "canonicalUrl": "https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-nonclinical-assessment-cell-and-gene-therapy-products-08302023",
+      "titleOriginal": "OTP Town Hall: Nonclinical Assessment of Cell and Gene Therapy Products - 08/30/2023",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "drug_rd",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-15T18:50:27Z",
+      "collectedAt": "2026-09-16T04:47:54.719307139Z",
+      "contentHash": "47ee5b128081d4411f0e25783d06e86d37fd449f3fe673d16a0fe3e339a57770",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-nonclinical-assessment-cell-and-gene-therapy-products-08302023"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "475307ef-1467-3266-80f9-b358c940bcd6",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/otp-town-hall-cmc-readiness-gene-therapy-blas-06042024",
+      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/otp-town-hall-cmc-readiness-gene-therapy-blas-06042024",
+      "titleOriginal": "OTP Town Hall: CMC Readiness for Gene Therapy BLAs - 06/04/2024",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "manufacturing_supply",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-15T18:45:44Z",
+      "collectedAt": "2026-09-16T04:47:54.719720610Z",
+      "contentHash": "ed835387c812e97b21772b40040e7aad848bbf6b4834a20be6f1f247a28bf73a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/otp-town-hall-cmc-readiness-gene-therapy-blas-06042024"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "c30a71aa-58a1-3293-8490-2761a98ef7e9",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otat-town-hall-clinical-development-gene-therapy-products-rare-diseases-02072023",
+      "canonicalUrl": "https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otat-town-hall-clinical-development-gene-therapy-products-rare-diseases-02072023",
+      "titleOriginal": "OTAT Town Hall: Clinical Development of Gene Therapy Products for Rare Diseases - 02/07/2023",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "drug_rd",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-15T16:30:50Z",
+      "collectedAt": "2026-09-16T04:47:54.720563417Z",
+      "contentHash": "ecda0bb0fe99820eb6a94b4f8c51e95e01bb5fcdab07dc8fcdf44726dd18ce98",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otat-town-hall-clinical-development-gene-therapy-products-rare-diseases-02072023"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "bc4c989d-ad45-3256-8857-7a6b6cddf43a",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-gene-therapy-chemistry-manufacturing-and-controls-april-2023-04252023",
+      "canonicalUrl": "https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-gene-therapy-chemistry-manufacturing-and-controls-april-2023-04252023",
+      "titleOriginal": "OTP Town Hall: Gene Therapy Chemistry, Manufacturing, and Controls – April 2023 - 04/25/2023",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "manufacturing_supply",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-15T16:29:44Z",
+      "collectedAt": "2026-09-16T04:47:54.720978501Z",
+      "contentHash": "31f3423b1aaf324c7a7b1a458d176c1828d37011781b6b87b16681e66c765f4b",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-gene-therapy-chemistry-manufacturing-and-controls-april-2023-04252023"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "0066df62-04ea-3d9c-b6b5-d4bb659a73d9",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-cell-therapy-chemistry-manufacturing-and-controls-june-2023-06082023",
+      "canonicalUrl": "https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-cell-therapy-chemistry-manufacturing-and-controls-june-2023-06082023",
+      "titleOriginal": "OTP Town Hall: Cell Therapy Chemistry, Manufacturing, and Controls – June 2023 - 06/08/2023",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "manufacturing_supply",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-15T16:26:43Z",
+      "collectedAt": "2026-09-16T04:47:54.721337991Z",
+      "contentHash": "47311c3ba9b777e07828fdad807bf229f4233fe031b75d7ea65916044628035d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-cell-therapy-chemistry-manufacturing-and-controls-june-2023-06082023"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "4d2d84d4-ce5c-32fd-9a8b-9b4da7970606",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/clinical-trials-patient-experience-04132023",
+      "canonicalUrl": "https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/clinical-trials-patient-experience-04132023",
+      "titleOriginal": "Clinical Trials: The Patient Experience - 04/13/2023",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration",
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-15T15:14:30Z",
+      "collectedAt": "2026-09-16T04:47:54.724220164Z",
+      "contentHash": "76f22895993d2549eeb6be20931ddd61b18157126d9dc9e8aa552858cd8e9053",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/clinical-trials-patient-experience-04132023"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "e52d1ae4-d17a-3eb9-864e-9f73dcf57653",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/industry/fda-actions-accelerate-and-modernize-early-and-late-stage-clinical-development",
+      "canonicalUrl": "https://www.fda.gov/industry/fda-actions-accelerate-and-modernize-early-and-late-stage-clinical-development",
+      "titleOriginal": "FDA Actions to Accelerate and Modernize Early and Late-Stage Clinical Development",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "drug_rd",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-15T13:50:10Z",
+      "collectedAt": "2026-09-16T04:47:54.712954555Z",
+      "contentHash": "c5575edc7464a34b520253193ffeb84041be60a62b390530d1634c41b9e0ec49",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/industry/fda-actions-accelerate-and-modernize-early-and-late-stage-clinical-development"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "ab3d252f-5494-3837-9bf1-6e139c6b21ba",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/industry/fda-expedited-investigational-new-drug-ind-pilot-program/expedited-ind-rolling-submission-process-and-program-structure",
+      "canonicalUrl": "https://www.fda.gov/industry/fda-expedited-investigational-new-drug-ind-pilot-program/expedited-ind-rolling-submission-process-and-program-structure",
+      "titleOriginal": "Expedited IND Rolling Submission Process and Program Structure",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "drug_rd",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-15T13:45:16Z",
+      "collectedAt": "2026-09-16T04:47:54.713920056Z",
+      "contentHash": "3e0c71fc22cf30c21793a8e1186ee30488e520a94d4f9c8bdd4e7ce056847fdc",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/industry/fda-expedited-investigational-new-drug-ind-pilot-program/expedited-ind-rolling-submission-process-and-program-structure"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
         "24小时内更新"
       ]
     },
@@ -2468,680 +2153,6 @@
           "sourceName": "Chinese Center for Disease Control and Prevention",
           "sourceTier": "A",
           "originalUrl": "https://www.chinacdc.cn/zxyw/202609/t20260910_1840047.html"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "a954bece-2e1b-3362-81bd-e43979684e7c",
-      "sourceId": "china-cdc-news",
-      "sourceName": "Chinese Center for Disease Control and Prevention",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.chinacdc.cn/zxyw/202609/t20260910_1840051.html",
-      "canonicalUrl": "https://www.chinacdc.cn/zxyw/202609/t20260910_1840051.html",
-      "titleOriginal": "中心(院)举办2026年教师节“师恩如光,桃李芬芳”主题活动",
-      "titleZh": "中心(院)举办2026年教师节“师恩如光,桃李芬芳”主题活动",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "public_health",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "中国疾病预防控制中心"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-15T22:53:30.344238929Z",
-      "contentHash": "2efa79b4af625f9d35076123142cf1f5ac599d65ba562de7171d62d0e2850029",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "china-cdc-news",
-          "sourceName": "Chinese Center for Disease Control and Prevention",
-          "sourceTier": "A",
-          "originalUrl": "https://www.chinacdc.cn/zxyw/202609/t20260910_1840051.html"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "1bb07f36-f468-3a4e-9d01-5807533f387b",
-      "sourceId": "china-cdc-news",
-      "sourceName": "Chinese Center for Disease Control and Prevention",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.chinacdc.cn/zxyw/202609/t20260910_1840073.html",
-      "canonicalUrl": "https://www.chinacdc.cn/zxyw/202609/t20260910_1840073.html",
-      "titleOriginal": "“非洲国家新发再发传染病防控技术培训班”和“发展中国家慢性病防控技术培训班”举行联合开班仪式",
-      "titleZh": "“非洲国家新发再发传染病防控技术培训班”和“发展中国家慢性病防控技术培训班”举行联合开班仪式",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "public_health",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "中国疾病预防控制中心"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-15T22:53:30.344115538Z",
-      "contentHash": "ed421fff536953344bcd45d2764a4effee045eb0794b0fb50cbdff76081d9d37",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "china-cdc-news",
-          "sourceName": "Chinese Center for Disease Control and Prevention",
-          "sourceTier": "A",
-          "originalUrl": "https://www.chinacdc.cn/zxyw/202609/t20260910_1840073.html"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "3d3685e1-b37d-33c0-962d-3ccdefbc36b5",
-      "sourceId": "china-cdc-news",
-      "sourceName": "Chinese Center for Disease Control and Prevention",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.chinacdc.cn/zxyw/202609/t20260914_1840114.html",
-      "canonicalUrl": "https://www.chinacdc.cn/zxyw/202609/t20260914_1840114.html",
-      "titleOriginal": "全国包虫病综合防治工作推进会在西宁召开",
-      "titleZh": "全国包虫病综合防治工作推进会在西宁召开",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "public_health",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "中国疾病预防控制中心"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-15T22:53:30.344005173Z",
-      "contentHash": "569829b784c7f31e371f8d263d3da7865a75e1240c7ac1fdccf0d12eb71d8143",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "china-cdc-news",
-          "sourceName": "Chinese Center for Disease Control and Prevention",
-          "sourceTier": "A",
-          "originalUrl": "https://www.chinacdc.cn/zxyw/202609/t20260914_1840114.html"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "2c4353a2-c272-3359-add2-bae3ef6bf9fd",
-      "sourceId": "china-cdc-news",
-      "sourceName": "Chinese Center for Disease Control and Prevention",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.chinacdc.cn/zxyw/202609/t20260915_1840118.html",
-      "canonicalUrl": "https://www.chinacdc.cn/zxyw/202609/t20260915_1840118.html",
-      "titleOriginal": "王健伟主任(院长)会见美国疾控中心新任在华项目负责人米安德博士",
-      "titleZh": "王健伟主任(院长)会见美国疾控中心新任在华项目负责人米安德博士",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "public_health",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "中国疾病预防控制中心"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-15T22:53:30.343685449Z",
-      "contentHash": "0bdc1a8c50518367aa263a8c0b5e996733ca5c4f173a2a105b2989a1db7058e4",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "china-cdc-news",
-          "sourceName": "Chinese Center for Disease Control and Prevention",
-          "sourceTier": "A",
-          "originalUrl": "https://www.chinacdc.cn/zxyw/202609/t20260915_1840118.html"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "c4cfd35a-46cc-3141-b837-36dbcd1202c6",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/finding-your-support-team-while-participating-clinical-trial-10302024",
-      "canonicalUrl": "https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/finding-your-support-team-while-participating-clinical-trial-10302024",
-      "titleOriginal": "Finding Your Support Team While Participating in a Clinical Trial - 10/30/2024",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration",
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-15T19:54:19Z",
-      "collectedAt": "2026-09-15T22:53:28.106002989Z",
-      "contentHash": "db818138864cfc94341ee0609f472bbe5889a34466e08a2d4dfd337deced5a72",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/finding-your-support-team-while-participating-clinical-trial-10302024"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "c5743c97-8bc5-3cdf-8d8f-a567df2548a7",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/about-fda/scientific-internships-fellowships-trainees-and-non-us-citizens/fda-pharmacy-student-experiential-program",
-      "canonicalUrl": "https://www.fda.gov/about-fda/scientific-internships-fellowships-trainees-and-non-us-citizens/fda-pharmacy-student-experiential-program",
-      "titleOriginal": "FDA Pharmacy Student Experiential Program",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "device_diagnostics",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-15T19:14:17Z",
-      "collectedAt": "2026-09-15T22:53:28.109565454Z",
-      "contentHash": "0c2c9d3b60645c919213859460b6796c43941300c31b093017392bf659b280ff",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/about-fda/scientific-internships-fellowships-trainees-and-non-us-citizens/fda-pharmacy-student-experiential-program"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "0ecd3d42-a051-3f0b-9984-67b1102399b8",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-nonclinical-assessment-cell-and-gene-therapy-products-08302023",
-      "canonicalUrl": "https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-nonclinical-assessment-cell-and-gene-therapy-products-08302023",
-      "titleOriginal": "OTP Town Hall: Nonclinical Assessment of Cell and Gene Therapy Products - 08/30/2023",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "drug_rd",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-15T18:50:27Z",
-      "collectedAt": "2026-09-15T22:53:28.117188391Z",
-      "contentHash": "47ee5b128081d4411f0e25783d06e86d37fd449f3fe673d16a0fe3e339a57770",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-nonclinical-assessment-cell-and-gene-therapy-products-08302023"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "475307ef-1467-3266-80f9-b358c940bcd6",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/otp-town-hall-cmc-readiness-gene-therapy-blas-06042024",
-      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/otp-town-hall-cmc-readiness-gene-therapy-blas-06042024",
-      "titleOriginal": "OTP Town Hall: CMC Readiness for Gene Therapy BLAs - 06/04/2024",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "manufacturing_supply",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-15T18:45:44Z",
-      "collectedAt": "2026-09-15T22:53:28.118474614Z",
-      "contentHash": "ed835387c812e97b21772b40040e7aad848bbf6b4834a20be6f1f247a28bf73a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/otp-town-hall-cmc-readiness-gene-therapy-blas-06042024"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "c30a71aa-58a1-3293-8490-2761a98ef7e9",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otat-town-hall-clinical-development-gene-therapy-products-rare-diseases-02072023",
-      "canonicalUrl": "https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otat-town-hall-clinical-development-gene-therapy-products-rare-diseases-02072023",
-      "titleOriginal": "OTAT Town Hall: Clinical Development of Gene Therapy Products for Rare Diseases - 02/07/2023",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "drug_rd",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-15T16:30:50Z",
-      "collectedAt": "2026-09-15T22:53:28.121613742Z",
-      "contentHash": "ecda0bb0fe99820eb6a94b4f8c51e95e01bb5fcdab07dc8fcdf44726dd18ce98",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otat-town-hall-clinical-development-gene-therapy-products-rare-diseases-02072023"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "bc4c989d-ad45-3256-8857-7a6b6cddf43a",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-gene-therapy-chemistry-manufacturing-and-controls-april-2023-04252023",
-      "canonicalUrl": "https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-gene-therapy-chemistry-manufacturing-and-controls-april-2023-04252023",
-      "titleOriginal": "OTP Town Hall: Gene Therapy Chemistry, Manufacturing, and Controls – April 2023 - 04/25/2023",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "manufacturing_supply",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-15T16:29:44Z",
-      "collectedAt": "2026-09-15T22:53:28.122218466Z",
-      "contentHash": "31f3423b1aaf324c7a7b1a458d176c1828d37011781b6b87b16681e66c765f4b",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-gene-therapy-chemistry-manufacturing-and-controls-april-2023-04252023"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "0066df62-04ea-3d9c-b6b5-d4bb659a73d9",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-cell-therapy-chemistry-manufacturing-and-controls-june-2023-06082023",
-      "canonicalUrl": "https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-cell-therapy-chemistry-manufacturing-and-controls-june-2023-06082023",
-      "titleOriginal": "OTP Town Hall: Cell Therapy Chemistry, Manufacturing, and Controls – June 2023 - 06/08/2023",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "manufacturing_supply",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-15T16:26:43Z",
-      "collectedAt": "2026-09-15T22:53:28.122764712Z",
-      "contentHash": "47311c3ba9b777e07828fdad807bf229f4233fe031b75d7ea65916044628035d",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/otp-town-hall-cell-therapy-chemistry-manufacturing-and-controls-june-2023-06082023"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "4d2d84d4-ce5c-32fd-9a8b-9b4da7970606",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/clinical-trials-patient-experience-04132023",
-      "canonicalUrl": "https://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/clinical-trials-patient-experience-04132023",
-      "titleOriginal": "Clinical Trials: The Patient Experience - 04/13/2023",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration",
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-15T15:14:30Z",
-      "collectedAt": "2026-09-15T22:53:28.125393461Z",
-      "contentHash": "76f22895993d2549eeb6be20931ddd61b18157126d9dc9e8aa552858cd8e9053",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/clinical-trials-patient-experience-04132023"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "ab3d252f-5494-3837-9bf1-6e139c6b21ba",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/industry/fda-expedited-investigational-new-drug-ind-pilot-program/expedited-ind-rolling-submission-process-and-program-structure",
-      "canonicalUrl": "https://www.fda.gov/industry/fda-expedited-investigational-new-drug-ind-pilot-program/expedited-ind-rolling-submission-process-and-program-structure",
-      "titleOriginal": "Expedited IND Rolling Submission Process and Program Structure",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "drug_rd",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-15T13:51:40Z",
-      "collectedAt": "2026-09-15T22:53:28.117891850Z",
-      "contentHash": "3e0c71fc22cf30c21793a8e1186ee30488e520a94d4f9c8bdd4e7ce056847fdc",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/industry/fda-expedited-investigational-new-drug-ind-pilot-program/expedited-ind-rolling-submission-process-and-program-structure"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "e52d1ae4-d17a-3eb9-864e-9f73dcf57653",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/industry/fda-actions-accelerate-and-modernize-early-and-late-stage-clinical-development",
-      "canonicalUrl": "https://www.fda.gov/industry/fda-actions-accelerate-and-modernize-early-and-late-stage-clinical-development",
-      "titleOriginal": "FDA Actions to Accelerate and Modernize Early and Late-Stage Clinical Development",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "drug_rd",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-15T13:50:10Z",
-      "collectedAt": "2026-09-15T22:53:28.119758041Z",
-      "contentHash": "c5575edc7464a34b520253193ffeb84041be60a62b390530d1634c41b9e0ec49",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/industry/fda-actions-accelerate-and-modernize-early-and-late-stage-clinical-development"
         }
       ],
       "importanceScore": 50,
