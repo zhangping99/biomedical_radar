@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-17T19:14:01.747333785Z",
+  "generatedAt": "2026-09-17T19:43:25.094997571Z",
   "articles": [
     {
       "id": "9bce63e6-dbcc-37d0-b823-155e09c1c4a8",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T12:00:00Z",
-      "collectedAt": "2026-09-17T13:26:25.655064245Z",
+      "collectedAt": "2026-09-17T19:43:22.385312717Z",
       "contentHash": "28a2a6977d51fff7e119decfa2ee0f378a19363cfb78caf51cf21b30c25a8598",
       "generated": false,
       "generatorVersion": null,
@@ -77,7 +77,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-04T00:00:00Z",
-      "collectedAt": "2026-09-17T13:26:26.228946017Z",
+      "collectedAt": "2026-09-17T19:43:24.833993280Z",
       "contentHash": "745fde69e26b77ca7390a362662c7341d63fb67ced6163c4b11922e58e48a057",
       "generated": false,
       "generatorVersion": null,
@@ -98,6 +98,53 @@
         "官方一手来源",
         "高影响事件",
         "政策或安全相关"
+      ]
+    },
+    {
+      "id": "84c683dc-27d4-331d-98e5-e9ff6ba89ebb",
+      "sourceId": "ema-news",
+      "sourceName": "European Medicines Agency",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.ema.europa.eu/en/news/new-eu-supply-chain-end-visudyne-shortage",
+      "canonicalUrl": "https://www.ema.europa.eu/en/news/new-eu-supply-chain-end-visudyne-shortage",
+      "titleOriginal": "New EU supply chain to end Visudyne shortage",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "EU",
+      "category": "manufacturing_supply",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "European Medicines Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-04T09:00:00Z",
+      "collectedAt": "2026-09-17T19:43:22.386853243Z",
+      "contentHash": "55ea63792b055c8933f3127a2da526430588c7ce8ffb6e812a0b1d3662f1b61c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "ema-news",
+          "sourceName": "European Medicines Agency",
+          "sourceTier": "A",
+          "originalUrl": "https://www.ema.europa.eu/en/news/new-eu-supply-chain-end-visudyne-shortage"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
       ]
     },
     {
@@ -196,53 +243,6 @@
         "官方一手来源",
         "高影响事件",
         "政策或安全相关"
-      ]
-    },
-    {
-      "id": "84c683dc-27d4-331d-98e5-e9ff6ba89ebb",
-      "sourceId": "ema-news",
-      "sourceName": "European Medicines Agency",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.ema.europa.eu/en/news/new-eu-supply-chain-end-visudyne-shortage",
-      "canonicalUrl": "https://www.ema.europa.eu/en/news/new-eu-supply-chain-end-visudyne-shortage",
-      "titleOriginal": "New EU supply chain to end Visudyne shortage",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "EU",
-      "category": "manufacturing_supply",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "European Medicines Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-04T09:00:00Z",
-      "collectedAt": "2026-09-17T13:26:25.656712542Z",
-      "contentHash": "55ea63792b055c8933f3127a2da526430588c7ce8ffb6e812a0b1d3662f1b61c",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "ema-news",
-          "sourceName": "European Medicines Agency",
-          "sourceTier": "A",
-          "originalUrl": "https://www.ema.europa.eu/en/news/new-eu-supply-chain-end-visudyne-shortage"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
       ]
     },
     {
