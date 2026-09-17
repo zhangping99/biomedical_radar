@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-17T17:44:12.432063001Z",
+  "generatedAt": "2026-09-17T18:11:22.766072950Z",
   "articles": [
+    {
+      "id": "606b73bd-208e-3f55-b7ce-c954c2574a74",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07659782",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07659782",
+      "titleOriginal": "A Phase 2 Study of VS-7375 in Patients With KRAS G12D-Mutated Non-Small Cell Lung Cancer",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Non-Small Cell Lung Cancer"
+      ],
+      "publishedAt": "2026-06-22T00:00:00Z",
+      "collectedAt": "2026-09-17T18:11:21.464892453Z",
+      "contentHash": "5e7b425b0111e86515a53242adde6c6b0e1b5756518e37a84aa12621d78b67fc",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07659782"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "4b91f441-ab6c-391c-83db-29326f0fd61c",
       "sourceId": "sanofi-press-releases",
