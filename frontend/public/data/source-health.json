@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-17T08:53:29.068575622Z",
-  "batchStartedAt": "2026-09-17T08:53:25.295101445Z",
-  "batchCompletedAt": "2026-09-17T08:53:29.068575622Z",
+  "generatedAt": "2026-09-17T12:05:39.252209720Z",
+  "batchStartedAt": "2026-09-17T12:05:28.397510299Z",
+  "batchCompletedAt": "2026-09-17T12:05:39.252209720Z",
   "sources": [
     {
       "sourceId": "3sbio-news",
@@ -56,8 +56,8 @@
       "sourceId": "beijing-health-policy",
       "sourceName": "Beijing Municipal Health Commission",
       "status": "ok",
-      "startedAt": "2026-09-17T05:22:54.199397148Z",
-      "completedAt": "2026-09-17T05:22:56.709513889Z",
+      "startedAt": "2026-09-17T12:05:28.401828505Z",
+      "completedAt": "2026-09-17T12:05:31.399832918Z",
       "fetchedCount": 20,
       "newCount": 20,
       "duplicateCount": 0,
@@ -103,18 +103,16 @@
     {
       "sourceId": "cde-drug-review-updates",
       "sourceName": "NMPA Center for Drug Evaluation",
-      "status": "ok",
-      "startedAt": "2026-09-17T05:22:54.197378432Z",
-      "completedAt": "2026-09-17T05:22:58.202740427Z",
-      "fetchedCount": 20,
-      "newCount": 11,
-      "duplicateCount": 9,
-      "failedCount": 0,
-      "httpStatusClasses": {
-        "2xx": 1
-      },
-      "errorCode": null,
-      "nextRetryAt": null
+      "status": "failed",
+      "startedAt": "2026-09-17T12:05:28.398959906Z",
+      "completedAt": "2026-09-17T12:05:39.220806954Z",
+      "fetchedCount": 0,
+      "newCount": 0,
+      "duplicateCount": 0,
+      "failedCount": 1,
+      "httpStatusClasses": {},
+      "errorCode": "CONNECTEXCEPTION",
+      "nextRetryAt": "2026-09-17T18:05:39.220810360Z"
     },
     {
       "sourceId": "china-cdc-news",
@@ -263,18 +261,16 @@
     {
       "sourceId": "guangdong-health-explain",
       "sourceName": "广东省卫生健康委政策解读",
-      "status": "ok",
-      "startedAt": "2026-09-17T05:22:56.709596796Z",
-      "completedAt": "2026-09-17T05:22:58.814185232Z",
-      "fetchedCount": 20,
-      "newCount": 20,
+      "status": "failed",
+      "startedAt": "2026-09-17T12:05:31.023539471Z",
+      "completedAt": "2026-09-17T12:05:33.980769049Z",
+      "fetchedCount": 0,
+      "newCount": 0,
       "duplicateCount": 0,
-      "failedCount": 0,
-      "httpStatusClasses": {
-        "2xx": 1
-      },
-      "errorCode": null,
-      "nextRetryAt": null
+      "failedCount": 1,
+      "httpStatusClasses": {},
+      "errorCode": "CONNECTEXCEPTION",
+      "nextRetryAt": "2026-09-17T18:05:33.980779455Z"
     },
     {
       "sourceId": "hansoh-news",
@@ -471,30 +467,34 @@
     {
       "sourceId": "nhsa-healthcare-security-updates",
       "sourceName": "National Healthcare Security Administration Policies",
-      "status": "failed",
-      "startedAt": "2026-09-17T05:22:54.198314070Z",
-      "completedAt": "2026-09-17T05:23:55.625706717Z",
-      "fetchedCount": 0,
-      "newCount": 0,
+      "status": "ok",
+      "startedAt": "2026-09-17T12:05:28.401411034Z",
+      "completedAt": "2026-09-17T12:05:31.023474534Z",
+      "fetchedCount": 20,
+      "newCount": 20,
       "duplicateCount": 0,
-      "failedCount": 1,
-      "httpStatusClasses": {},
-      "errorCode": "HTTPCONNECTTIMEOUTEXCEPTION",
-      "nextRetryAt": "2026-09-17T11:23:55.625716291Z"
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
     },
     {
       "sourceId": "nhsa-policy-explain",
       "sourceName": "国家医保局政策解读",
-      "status": "failed",
-      "startedAt": "2026-09-17T05:22:54.201945402Z",
-      "completedAt": "2026-09-17T05:24:57.060862592Z",
-      "fetchedCount": 0,
-      "newCount": 0,
+      "status": "ok",
+      "startedAt": "2026-09-17T12:05:28.408257512Z",
+      "completedAt": "2026-09-17T12:05:31.450577067Z",
+      "fetchedCount": 20,
+      "newCount": 20,
       "duplicateCount": 0,
-      "failedCount": 1,
-      "httpStatusClasses": {},
-      "errorCode": "HTTPCONNECTTIMEOUTEXCEPTION",
-      "nextRetryAt": "2026-09-17T11:24:57.060874905Z"
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
     },
     {
       "sourceId": "nmpa-public-notices",
