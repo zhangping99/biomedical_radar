@@ -1,7 +1,55 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-18T18:37:42.501038545Z",
+  "generatedAt": "2026-09-18T19:01:48.489191416Z",
   "articles": [
+    {
+      "id": "1c0d026d-fdb5-3ddb-99c5-365d625ada56",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/tzield-teplizumab-and-risk-viral-reactivation",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/tzield-teplizumab-and-risk-viral-reactivation",
+      "titleOriginal": "TZIELD (teplizumab) and the Risk of Viral Reactivation",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-14T00:00:00Z",
+      "collectedAt": "2026-09-18T19:01:48.358533660Z",
+      "contentHash": "9b9ca5777c283ce58af64580bc58cb322c544c4cb0e130e22194456622d9001e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/tzield-teplizumab-and-risk-viral-reactivation"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "9a7ba7e6-232a-3222-aff1-388eb5836aef",
       "sourceId": "pumch-research",
@@ -553,54 +601,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "1c0d026d-fdb5-3ddb-99c5-365d625ada56",
-      "sourceId": "health-canada-health-products",
-      "sourceName": "Health Canada Health Product Recalls",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/tzield-teplizumab-and-risk-viral-reactivation",
-      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/tzield-teplizumab-and-risk-viral-reactivation",
-      "titleOriginal": "TZIELD (teplizumab) and the Risk of Viral Reactivation",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Health Canada"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-14T00:00:00Z",
-      "collectedAt": "2026-09-18T12:57:51.079695123Z",
-      "contentHash": "9b9ca5777c283ce58af64580bc58cb322c544c4cb0e130e22194456622d9001e",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "health-canada-health-products",
-          "sourceName": "Health Canada Health Product Recalls",
-          "sourceTier": "A",
-          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/tzield-teplizumab-and-risk-viral-reactivation"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
     },
     {
       "id": "5905df31-7019-3c05-ac4d-5da99226ff47",
@@ -1960,55 +1960,6 @@
           "sourceName": "FDA Vaccines, Blood and Biologics",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/advisory-committees/vaccines-and-related-biological-products-advisory-committee/2026-meeting-materials-vaccines-and-related-biological-products-advisory-committee"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "75eecf93-47cd-3b07-813a-275525f54d29",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-1-2026-meeting-announcement",
-      "canonicalUrl": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-1-2026-meeting-announcement",
-      "titleOriginal": "Vaccines and Related Biological Products Advisory Committee October 1, 2026 Meeting Announcement - 10/01/2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-14T14:35:25Z",
-      "collectedAt": "2026-09-15T13:32:12.209879584Z",
-      "contentHash": "b6701e8e308c5d81adcdfb9a1e07b21e8600fa963438db27aadf3517743f7d17",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-1-2026-meeting-announcement"
         }
       ],
       "importanceScore": 65,
