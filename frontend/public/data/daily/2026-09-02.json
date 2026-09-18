@@ -1,7 +1,54 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-18T19:01:48.489191416Z",
+  "generatedAt": "2026-09-18T21:15:27.992926494Z",
   "articles": [
+    {
+      "id": "6150f29c-3861-3a99-be93-ea1836d73ed4",
+      "sourceId": "nhsa-healthcare-security-updates",
+      "sourceName": "National Healthcare Security Administration Policies",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.nhsa.gov.cn/art/2026/9/2/art_53_21976.html",
+      "canonicalUrl": "https://www.nhsa.gov.cn/art/2026/9/2/art_53_21976.html",
+      "titleOriginal": "国家医疗保障局关于印发按病组和病种分值付费3.0版分组方案并做好落地实施相关工作的通知",
+      "titleZh": "国家医疗保障局关于印发按病组和病种分值付费3.0版分组方案并做好落地实施相关工作的通知",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "reimbursement_access",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "国家医疗保障局"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-02T00:00:00Z",
+      "collectedAt": "2026-09-18T21:15:25.933588308Z",
+      "contentHash": "5d0391870b2b5179a0e61b71d6f60aea3b63569b5f1f451dc7f20808e76f1871",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "nhsa-healthcare-security-updates",
+          "sourceName": "National Healthcare Security Administration Policies",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nhsa.gov.cn/art/2026/9/2/art_53_21976.html"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "314c327d-7836-3bd4-beef-6c4f6582279d",
       "sourceId": "fda-medwatch-alerts",
@@ -329,53 +376,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "6150f29c-3861-3a99-be93-ea1836d73ed4",
-      "sourceId": "nhsa-healthcare-security-updates",
-      "sourceName": "National Healthcare Security Administration Policies",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.nhsa.gov.cn/art/2026/9/2/art_53_21976.html",
-      "canonicalUrl": "https://www.nhsa.gov.cn/art/2026/9/2/art_53_21976.html",
-      "titleOriginal": "国家医疗保障局关于印发按病组和病种分值付费3.0版分组方案并做好落地实施相关工作的通知",
-      "titleZh": "国家医疗保障局关于印发按病组和病种分值付费3.0版分组方案并做好落地实施相关工作的通知",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "reimbursement_access",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "国家医疗保障局"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-02T00:00:00Z",
-      "collectedAt": "2026-09-18T16:43:32.104323153Z",
-      "contentHash": "5d0391870b2b5179a0e61b71d6f60aea3b63569b5f1f451dc7f20808e76f1871",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "nhsa-healthcare-security-updates",
-          "sourceName": "National Healthcare Security Administration Policies",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nhsa.gov.cn/art/2026/9/2/art_53_21976.html"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     },
     {
       "id": "e9657e4f-04b3-3472-add1-49d65a550fbf",
