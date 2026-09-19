@@ -1,7 +1,54 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-19T07:19:27.977097146Z",
+  "generatedAt": "2026-09-19T08:16:31.983775683Z",
   "articles": [
+    {
+      "id": "bad999d3-5d48-3f33-bdc1-26e443e4f573",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/17/doctor-debunks-popular-sleep-products",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/17/doctor-debunks-popular-sleep-products",
+      "titleOriginal": "Doctor Debunks Popular Sleep Products",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-17T00:00:00Z",
+      "collectedAt": "2026-09-19T08:16:26.057287058Z",
+      "contentHash": "9cd3ce70928a4456069a52d5b226107f3691910910494595345a6cdc08b7333a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/17/doctor-debunks-popular-sleep-products"
+        }
+      ],
+      "importanceScore": 28,
+      "importanceReasons": [
+        "近期更新"
+      ]
+    },
     {
       "id": "b246bdf1-dda1-36db-ac8e-28a3d36960f9",
       "sourceId": "pubmed-recent",
@@ -2276,53 +2323,6 @@
       "importanceScore": 43,
       "importanceReasons": [
         "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "bad999d3-5d48-3f33-bdc1-26e443e4f573",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/17/doctor-debunks-popular-sleep-products",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/17/doctor-debunks-popular-sleep-products",
-      "titleOriginal": "Doctor Debunks Popular Sleep Products",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-17T00:00:00Z",
-      "collectedAt": "2026-09-18T18:37:39.480904329Z",
-      "contentHash": "9cd3ce70928a4456069a52d5b226107f3691910910494595345a6cdc08b7333a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/17/doctor-debunks-popular-sleep-products"
-        }
-      ],
-      "importanceScore": 28,
-      "importanceReasons": [
         "近期更新"
       ]
     },
