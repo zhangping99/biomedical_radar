@@ -1,7 +1,58 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-19T06:33:24.616466933Z",
+  "generatedAt": "2026-09-19T07:19:27.977097146Z",
   "articles": [
+    {
+      "id": "f44f2d0c-eb14-3269-baea-9d12428d5ed3",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07748429",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07748429",
+      "titleOriginal": "Placebo Effect on Cycling Performance: Laboratory Crossover Study",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Physical Performance",
+        "Placebo Effect",
+        "Cognitive Performance"
+      ],
+      "publishedAt": "2026-08-05T00:00:00Z",
+      "collectedAt": "2026-09-19T07:19:26.551262639Z",
+      "contentHash": "d6336b08514ca2c48f13e20a4981a86d7345d184e8253ac894131cf3b3ce303a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07748429"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "7e94a2cc-5c07-3aee-8a09-d7127382ce22",
       "sourceId": "beijing-health-policy",
@@ -48,57 +99,6 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关"
-      ]
-    },
-    {
-      "id": "f44f2d0c-eb14-3269-baea-9d12428d5ed3",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07748429",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07748429",
-      "titleOriginal": "Placebo Effect on Cycling Performance: Laboratory Crossover Study",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Physical Performance",
-        "Placebo Effect",
-        "Cognitive Performance"
-      ],
-      "publishedAt": "2026-08-05T00:00:00Z",
-      "collectedAt": "2026-09-18T17:40:23.159588915Z",
-      "contentHash": "d6336b08514ca2c48f13e20a4981a86d7345d184e8253ac894131cf3b3ce303a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07748429"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
       ]
     },
     {
