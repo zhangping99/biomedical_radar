@@ -1,7 +1,55 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-19T18:11:45.610808318Z",
+  "generatedAt": "2026-09-19T18:36:17.021995251Z",
   "articles": [
+    {
+      "id": "07df0009-eed6-3032-8760-fb38b6b42b63",
+      "sourceId": "pmda-safety-updates",
+      "sourceName": "Japan PMDA Safety Updates",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/risk-communications/0001.html",
+      "canonicalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/risk-communications/0001.html",
+      "titleOriginal": "PMDA Risk Communications: Azathioprine etc. posted",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "JP",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Pharmaceuticals and Medical Devices Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-25T00:00:00Z",
+      "collectedAt": "2026-09-19T18:36:15.564545368Z",
+      "contentHash": "9429bd28626fc36d74120f54813b61a17c57d1fcfbfdc8c6bd13f12531d2d2b2",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "pmda-safety-updates",
+          "sourceName": "Japan PMDA Safety Updates",
+          "sourceTier": "A",
+          "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/risk-communications/0001.html"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "fc830c5b-30d3-3ea9-889f-4f4cffbf4dc8",
       "sourceId": "bjcancer-research",
@@ -137,54 +185,6 @@
       "importanceScore": 35,
       "importanceReasons": [
         "官方一手来源"
-      ]
-    },
-    {
-      "id": "07df0009-eed6-3032-8760-fb38b6b42b63",
-      "sourceId": "pmda-safety-updates",
-      "sourceName": "Japan PMDA Safety Updates",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/risk-communications/0001.html",
-      "canonicalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/risk-communications/0001.html",
-      "titleOriginal": "PMDA Risk Communications: Azathioprine etc. posted",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "JP",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Pharmaceuticals and Medical Devices Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-08-25T00:00:00Z",
-      "collectedAt": "2026-09-19T12:29:30.834654993Z",
-      "contentHash": "9429bd28626fc36d74120f54813b61a17c57d1fcfbfdc8c6bd13f12531d2d2b2",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "pmda-safety-updates",
-          "sourceName": "Japan PMDA Safety Updates",
-          "sourceTier": "A",
-          "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/risk-communications/0001.html"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
       ]
     },
     {

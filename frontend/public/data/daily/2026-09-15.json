@@ -1,7 +1,105 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-19T18:11:45.610808318Z",
+  "generatedAt": "2026-09-19T18:36:17.021995251Z",
   "articles": [
+    {
+      "id": "e22f2412-37d3-3afa-b196-8a0d16e5b86c",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring",
+      "titleOriginal": "Esophageal pH Monitoring Capsule Recall: Medtronic and Given Imaging Remove Esophageal pH Monitoring Capsule Delivery Device",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-15T04:00:00Z",
+      "collectedAt": "2026-09-19T18:36:14.210947266Z",
+      "contentHash": "1bffc0c566b67d046505ecdaf885c8705e1a47453878512484bcc1300fff2ea4",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "a5d3d46f-85a5-334c-8327-845369021784",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/organikar-gummies-foreign-site-not-listed-site-licence",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/organikar-gummies-foreign-site-not-listed-site-licence",
+      "titleOriginal": "Organika® Gummies: Foreign site not listed on site licence",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-15T00:00:00Z",
+      "collectedAt": "2026-09-19T18:36:14.645645068Z",
+      "contentHash": "b893ae3bd11573abcfff7b9bb948e773b8f3369aa9453599439ee19433e39cd7",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/organikar-gummies-foreign-site-not-listed-site-licence"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "7d98606c-c861-3caa-a70b-f8b5dfc04473",
       "sourceId": "pumch-research",
@@ -694,104 +792,6 @@
       "importanceScore": 35,
       "importanceReasons": [
         "官方一手来源"
-      ]
-    },
-    {
-      "id": "e22f2412-37d3-3afa-b196-8a0d16e5b86c",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring",
-      "titleOriginal": "Esophageal pH Monitoring Capsule Recall: Medtronic and Given Imaging Remove Esophageal pH Monitoring Capsule Delivery Device",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-15T04:00:00Z",
-      "collectedAt": "2026-09-19T12:29:29.699292179Z",
-      "contentHash": "1bffc0c566b67d046505ecdaf885c8705e1a47453878512484bcc1300fff2ea4",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "a5d3d46f-85a5-334c-8327-845369021784",
-      "sourceId": "health-canada-health-products",
-      "sourceName": "Health Canada Health Product Recalls",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/organikar-gummies-foreign-site-not-listed-site-licence",
-      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/organikar-gummies-foreign-site-not-listed-site-licence",
-      "titleOriginal": "Organika® Gummies: Foreign site not listed on site licence",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Health Canada"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-15T00:00:00Z",
-      "collectedAt": "2026-09-19T12:29:30.007099051Z",
-      "contentHash": "b893ae3bd11573abcfff7b9bb948e773b8f3369aa9453599439ee19433e39cd7",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "health-canada-health-products",
-          "sourceName": "Health Canada Health Product Recalls",
-          "sourceTier": "A",
-          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/organikar-gummies-foreign-site-not-listed-site-licence"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
       ]
     },
     {
