@@ -1,54 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-20T11:48:32.812003013Z",
+  "generatedAt": "2026-09-20T12:36:25.814095793Z",
   "articles": [
-    {
-      "id": "a0863fc2-4b2f-37ad-93b9-00407b4ee081",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42761251/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42761251",
-      "titleOriginal": "Tamibarotene with venetoclax and azacitidine in RARA(+) acute myeloid leukemia: results from the SY-1425-202 study.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-07-28T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:53.969956315Z",
-      "contentHash": "516419938e29c912856b9585a60d2085040ed6d46d332c49cc6812e2a974edee",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42761251/"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
     {
       "id": "ee422afe-4fc3-3bf0-b753-673120c59f1a",
       "sourceId": "gsk-press-releases",
@@ -75,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-28T12:00:00Z",
-      "collectedAt": "2026-09-20T06:55:39.744824054Z",
+      "collectedAt": "2026-09-20T12:36:23.470731058Z",
       "contentHash": "f4b899fa356d68f3d8991242d51b91c79bafcfc6a5bb7a08deab668c0744060a",
       "generated": false,
       "generatorVersion": null,
@@ -122,7 +75,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-28T11:00:41Z",
-      "collectedAt": "2026-09-20T06:55:39.745224471Z",
+      "collectedAt": "2026-09-20T12:36:23.471039832Z",
       "contentHash": "d7646759703d5a1bb305fd3165da685ebd61e3040889a4492702897446ee8c04",
       "generated": false,
       "generatorVersion": null,
@@ -169,7 +122,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-28T12:05:00Z",
-      "collectedAt": "2026-09-20T06:55:39.744468561Z",
+      "collectedAt": "2026-09-20T12:36:23.470495914Z",
       "contentHash": "4ab5d2ce0b7e85f6d620ddc12816873069fd8fb12e2588607c50726468842802",
       "generated": false,
       "generatorVersion": null,
@@ -183,6 +136,51 @@
           "sourceName": "GSK Press Releases",
           "sourceTier": "B",
           "originalUrl": "https://www.gsk.com/en-gb/media/press-releases/gsk-to-establish-new-flagship-rd-centre-on-cambridge-biomedical-campus-uk/"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "82f5e4b1-d1f9-3511-9118-c813ef5c310b",
+      "sourceId": "amgen-news-releases",
+      "sourceName": "Amgen News Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/07/amgen-announces-webcast-of-2026-second-quarter-financial-results",
+      "canonicalUrl": "https://www.amgen.com/newsroom/press-releases/2026/07/amgen-announces-webcast-of-2026-second-quarter-financial-results",
+      "titleOriginal": "AMGEN ANNOUNCES WEBCAST OF 2026 SECOND QUARTER FINANCIAL RESULTS",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Amgen"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-07-28T00:00:00Z",
+      "collectedAt": "2026-09-20T12:36:23.921869703Z",
+      "contentHash": "2d73b56dac49931310f4fc9974376174944c5f8278b0c7c395c9613e210b88ff",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "amgen-news-releases",
+          "sourceName": "Amgen News Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/07/amgen-announces-webcast-of-2026-second-quarter-financial-results"
         }
       ],
       "importanceScore": 20,
@@ -214,7 +212,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-28T00:00:00Z",
-      "collectedAt": "2026-09-20T06:55:43.557790704Z",
+      "collectedAt": "2026-09-20T12:36:25.585834107Z",
       "contentHash": "78d308f6ba9a594adc574885c0d2d9815787e7a98a8da86f02d38d033dcefe2b",
       "generated": false,
       "generatorVersion": null,
@@ -259,7 +257,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-28T00:00:00Z",
-      "collectedAt": "2026-09-20T06:55:41.894863156Z",
+      "collectedAt": "2026-09-20T12:36:25.707228190Z",
       "contentHash": "8d294f8d7b1d682a9eed94b89cf69794eb6c08dae4faa22c4129b2eee2145bd6",
       "generated": false,
       "generatorVersion": null,
@@ -304,7 +302,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-28T00:00:00Z",
-      "collectedAt": "2026-09-20T06:55:41.895118462Z",
+      "collectedAt": "2026-09-20T12:36:25.707377484Z",
       "contentHash": "ed7d588b28010b7fee14f7a084f6822da4744e0ac5c38c5ab11eff7de624aa11",
       "generated": false,
       "generatorVersion": null,
@@ -324,49 +322,51 @@
       "importanceReasons": []
     },
     {
-      "id": "82f5e4b1-d1f9-3511-9118-c813ef5c310b",
-      "sourceId": "amgen-news-releases",
-      "sourceName": "Amgen News Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/07/amgen-announces-webcast-of-2026-second-quarter-financial-results",
-      "canonicalUrl": "https://www.amgen.com/newsroom/press-releases/2026/07/amgen-announces-webcast-of-2026-second-quarter-financial-results",
-      "titleOriginal": "AMGEN ANNOUNCES WEBCAST OF 2026 SECOND QUARTER FINANCIAL RESULTS",
+      "id": "a0863fc2-4b2f-37ad-93b9-00407b4ee081",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42761251/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42761251",
+      "titleOriginal": "Tamibarotene with venetoclax and azacitidine in RARA(+) acute myeloid leukemia: results from the SY-1425-202 study.",
       "titleZh": null,
       "summaryZh": null,
       "whyItMattersZh": null,
       "language": "en",
-      "region": "US",
-      "category": "pharma_biotech",
+      "region": "GLOBAL",
+      "category": "research_academic",
       "eventTypes": [
         "update"
       ],
       "entities": [
         {
-          "type": "company",
-          "name": "Amgen"
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
         }
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-28T00:00:00Z",
-      "collectedAt": "2026-09-19T21:43:05.556665429Z",
-      "contentHash": "2d73b56dac49931310f4fc9974376174944c5f8278b0c7c395c9613e210b88ff",
+      "collectedAt": "2026-09-20T07:43:53.969956315Z",
+      "contentHash": "516419938e29c912856b9585a60d2085040ed6d46d332c49cc6812e2a974edee",
       "generated": false,
       "generatorVersion": null,
       "generatedAt": null,
       "verificationStatus": "auto_checked",
       "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
+      "legalBasis": "official_api",
       "sourceLinks": [
         {
-          "sourceId": "amgen-news-releases",
-          "sourceName": "Amgen News Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/07/amgen-announces-webcast-of-2026-second-quarter-financial-results"
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42761251/"
         }
       ],
-      "importanceScore": 20,
-      "importanceReasons": []
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
     },
     {
       "id": "39eff298-74cf-3c98-ac95-35a2b39615df",
