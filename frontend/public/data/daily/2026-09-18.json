@@ -1,7 +1,1559 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-20T16:57:56.877582861Z",
+  "generatedAt": "2026-09-20T17:27:49.750744539Z",
   "articles": [
+    {
+      "id": "bb41d969-d2a2-3373-9c2d-293c53417d9c",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760088/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760088",
+      "titleOriginal": "Effectiveness and safety of electroacupuncture combined with conventional therapy for peripheral facial palsy: a systematic review and meta-analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.552470444Z",
+      "contentHash": "a9e23309051be562b9cc33601e357e1d9cf68a1981435930b1666bdd44fa2090",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760088/"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "e0baa2a1-f2e0-3d25-bd32-45b1671a586a",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07827573",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07827573",
+      "titleOriginal": "A Study to Learn How Well Participants With a Specific Type of Early Breast Cancer (ER-Positive, HER2-Negative) Tolerate and Stay on Treatment With Giredestrant and How They Feel During Treatment",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Early Breast Cancer",
+        "Estrogen Receptor-Positive Breast Cancer",
+        "HER2-Negative Breast Cancer"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.244388463Z",
+      "contentHash": "47271f0a19fd5647f6c05de8846974b0770ace8904307750279376b08663212a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07827573"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "15f7d2a9-bba0-3b96-afd1-8dcffe25d00c",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07827040",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07827040",
+      "titleOriginal": "Effectiveness of a Multi-disciplinary Vision Rehabilitation Programme in Improving the Overall Quality of Life of Visually Impaired Adults",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Visual Impairments",
+        "Low Vision Digital Assistance",
+        "Adults"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.246653324Z",
+      "contentHash": "e6eadacd8796bb32d9e6e633a56fd0ce6020a195c5ffdb3b3cf058c089f3bf16",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07827040"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "fe217588-34e8-394e-84a5-0b4ec1e21f17",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07828210",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07828210",
+      "titleOriginal": "NeuroAiD Patient-Reported Outcomes in Patients With Mild to Moderate Ischemic Stroke",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Stroke",
+        "Stroke, Acute Ischemic",
+        "Stroke, Ischemic",
+        "Stroke, Cryptogenic",
+        "Stroke, Cardiovascular"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.246958100Z",
+      "contentHash": "e1e98dfaa8effd525c6f6d0f94ae38a2716162e48f4b777616a94d5fb0584f95",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07828210"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "0924816b-32f2-388a-b236-51cd67051745",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07828093",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07828093",
+      "titleOriginal": "Effect of Agave Consumption on Performance and Gut Microbiota in Adults Undergoing Physical Training",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Dysbiosis"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.248057294Z",
+      "contentHash": "509c7191f195efe253888bd99a3819922ae009c934f472c1cce3b7e14f3cb9ee",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07828093"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "cef97e0e-041c-36cf-8e7f-4f96eb04530f",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07829133",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07829133",
+      "titleOriginal": "Pilot HIV Self-Testing And Self-collected STI Testing Strategy for Sex Worker Empowerment Study",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "HIV",
+        "Syphilis",
+        "Gonorrhea",
+        "Chlamydia"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.248252197Z",
+      "contentHash": "f6e9c95559fa2910831c612ed20d146187239b6ad5c1a2ca208d2205d6452e5b",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07829133"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "cd732d01-c833-36c6-aed4-9003f4c45c5a",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42763552/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42763552",
+      "titleOriginal": "Peripheral Inflammatory Biomarkers as Predictors of Antidepressant Treatment Response in Major Depressive Disorder: An Updated Systematic Review and Meta-Analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.544260320Z",
+      "contentHash": "526a1fc93a2359dbca7f3886ac5727a69b05e651273f23e82f47e5c6a90b88ea",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42763552/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "bf242457-7c3c-34b2-a147-e241de2be4f1",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42761611/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42761611",
+      "titleOriginal": "Spiritual Care in Serious Illness: A Narrative Review of Low- and Middle-Income Country Evidence.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.548414413Z",
+      "contentHash": "825ea3c85654c7cfdeded03502987461cb839cfe36687f70db3599dfd3bf44cc",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42761611/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "28ec3dc1-9d0c-37b0-b6a9-f32ab537ac8c",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760729/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760729",
+      "titleOriginal": "Psychological intervention for disputing irrational beliefs associated with work stress amongst tourism educators and mathematicians with hypertension.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.548746130Z",
+      "contentHash": "0b1e8bc0b57cbc81884c8603523c4fbc1e0fe61ab83a4acb5237fccfed18c442",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760729/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "c0ee488c-9131-3adc-88db-714e00142f69",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760699/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760699",
+      "titleOriginal": "The NF-κB pathway in inflammatory responses in preeclampsia: A systematic review and meta-analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.548987358Z",
+      "contentHash": "bb7af538498c4a3d83c759cbc5b6fbaac3d0ec70cd2463e42ec4ecc9410b5cd9",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760699/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "7cee1c1b-29c0-33fd-b1d0-fd16a0e252b4",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760676/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760676",
+      "titleOriginal": "Effect of esketamine on postoperative pulmonary complications after radical surgery for lung cancer: A randomized double-blind controlled trial.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.549445269Z",
+      "contentHash": "f9acc801b10695c15b3a34d983cdf72c92970d28bcd5019db9f5bd092c68a16a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760676/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "7f4c44f7-84f8-36c5-8ffb-c0ec1e79e615",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760675/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760675",
+      "titleOriginal": "High potency and water dispersible Boswellia extract reduces pain and inflammation in subjects with osteoarthritis of the knee: A randomized, double-blind, placebo-controlled trial.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.549610076Z",
+      "contentHash": "f8d654c5876cb0e74529cb6e60202b1752bc052c7cf5ecc203941b9808ccfe80",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760675/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "2844f659-6765-3d4f-a81d-089dd8e711a1",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760652/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760652",
+      "titleOriginal": "Meta-analysis of PAX1/JAM3 methylation performance in high-risk HPV-positive women.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.549803926Z",
+      "contentHash": "5298a31199ca6fd6dfd09e90eeb67b7152e301ce54f4308fb57a2d3bd6990510",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760652/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "36e8744c-37ea-3b5d-b950-a442813ef25e",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760651/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760651",
+      "titleOriginal": "Cardiorespiratory adaptations to high-intensity interval training in young boxers: A randomized controlled study.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.549947263Z",
+      "contentHash": "7bb4c69a5561e93e4a953e23f9f0dd454818a46f92659e329a723e138aedd801",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760651/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "626f8afd-fe6a-3f71-8861-8876958e9007",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760575/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760575",
+      "titleOriginal": "Physical activity and oxidative stress biomarkers in humans: a systematic review and quantitative meta-analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.550329433Z",
+      "contentHash": "0965222d8a4fc30b49852a535e112ab47e85ba2fa885845f375167f3f768e66b",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760575/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "bf94f1de-1885-3988-8e2e-e362f34510d8",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760543/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760543",
+      "titleOriginal": "Early-life serum protein profiles associated with bronchopulmonary dysplasia in extremely preterm infants.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.550820336Z",
+      "contentHash": "41adb70641d6a2b99b977a79409f90a97a2ce83f12fee0a41be984f3c6b9b311",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760543/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "da1bd124-3c86-3fbb-a027-bd838c4bcec7",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760535/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760535",
+      "titleOriginal": "Risk factors for frailty in older adults with cancer: a systematic review.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.551013805Z",
+      "contentHash": "f93998f2d396b33c059b076419bc4a21910bc3fcd64ad26555dd737a5ff8178e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760535/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "3475f152-a925-33ae-849f-655d493dca82",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760492/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760492",
+      "titleOriginal": "Neoplasms Metastatic to the Larynx: A Systematic Review.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.551194451Z",
+      "contentHash": "b6ed8280ef77ac4097762b22ed6fa280a02cfc4f321373cbccb262f10d1dcb6e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760492/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "8657fd59-3c20-32c2-99c8-4f65979fa5a4",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760461/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760461",
+      "titleOriginal": "The Association Between Visual Impairment and Delirium: A Systematic Review and Meta-Analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.551362033Z",
+      "contentHash": "802db4f6e106efeb161e776e11a51c8ea66267f3d7543dc37b3020b5cdd80c55",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760461/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "cdccc107-ec34-3640-ba8e-3517817adf7b",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760327/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760327",
+      "titleOriginal": "Levothyroxine therapy for euthyroidism restoration results in clinically insignificant weight and anthropometric changes: a systematic review and meta-analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.551952681Z",
+      "contentHash": "78afbafbf932bd5b6280bfe0e94939b80230c5695ee7195541812a6024f2d5a9",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760327/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "cce1c08a-95ba-3532-8078-8ddd5f232774",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760295/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760295",
+      "titleOriginal": "Home-based telerehabilitation on motor function in youth with cerebral palsy: systematic review and meta-analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.552123038Z",
+      "contentHash": "1fb4b5137f904140b463a3cb3c523963caf3770b5f6b2151a6388445593fe5db",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760295/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "7096a4c0-48fc-35e2-b192-db417cf1acdd",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760140/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760140",
+      "titleOriginal": "Impact of time to diagnosis in patients with progressive fibrotic ILD: a systematic review.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.552307150Z",
+      "contentHash": "a22e29732bf7ca5a8b10f571836f202db6a2a08e2813d359ccf43f49b0c2032d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760140/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "b1257cc5-0c69-357f-a03b-49e1ae2f6b51",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760070/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760070",
+      "titleOriginal": "Association of fragmented QRS complex with mortality and clinical outcomes in patients with pulmonary embolism: an updated meta-analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.552632825Z",
+      "contentHash": "31d88f826fb74f572b82f71c8dd54e60350e76600761f1b191241fc1570e855c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760070/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "6e33a6ee-f535-387a-9d53-8828f8df4319",
+      "sourceId": "nature-medicine",
+      "sourceName": "Nature Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41591-026-04708-9",
+      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04708-9",
+      "titleOriginal": "Editorial Expression of Concern: SWI/SNF-mutant cancers depend on catalytic and non-catalytic activity of EZH2",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.357649494Z",
+      "contentHash": "2f8ab08ce3be0313a9897aca60d6e6d799e85a6957ba98375c1dd32efebcca5a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-medicine",
+          "sourceName": "Nature Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41591-026-04708-9"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "bf336a95-6801-3b47-8194-ed279afff1c2",
+      "sourceId": "nature-medicine",
+      "sourceName": "Nature Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/d41591-026-00046-y",
+      "canonicalUrl": "https://www.nature.com/articles/d41591-026-00046-y",
+      "titleOriginal": "\u003cb\u003eHow genes shape personality and experience\u003c/b\u003e",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.358049117Z",
+      "contentHash": "965129278aa1b59162521d39a6bd2f200560b928102022b0aea175450f84687e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-medicine",
+          "sourceName": "Nature Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/d41591-026-00046-y"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "93a71dc9-d90c-3cd4-975b-602c9c0b4469",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.15.26363181v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.15.26363181v1?rss\u003d1",
+      "titleOriginal": "Liwen Ablation versus Modified Morrow Myectomy for Obstructive Hypertrophic Cardiomyopathy: 1-Year Hemodynamic and Conduction Outcomes",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.832195575Z",
+      "contentHash": "132679afc85ef8c8257a32853aed7762614965168111126398337cbdb5a71903",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.15.26363181v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "高影响事件",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "333f8c2c-cfba-3e3b-ae64-f360c287256f",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.16.26363205v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.16.26363205v1?rss\u003d1",
+      "titleOriginal": "Association of Helicobacter Pylori Infection and Dyslipidemia Among Individuals Attending General Health Checkups at Tribhuvan University Teaching Hospital.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.831088176Z",
+      "contentHash": "5458950475accbd32fbbae0436a132795dbc7f1c4d04e963a124c564d3a26365",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.16.26363205v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 28,
+      "importanceReasons": [
+        "近期更新"
+      ]
+    },
+    {
+      "id": "80dde9e4-8534-3d1d-a5bd-fcea3c27d090",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.14.26362515v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.14.26362515v1?rss\u003d1",
+      "titleOriginal": "Exploring the role of social networks in shaping STI disclosure among adolescents and young people using a health behavioral model in Lusaka, Zambia.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.832619473Z",
+      "contentHash": "0241afdbadb9a68eb80b0585cea097f6521b22e228366de06d8214ccac3393f6",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.14.26362515v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 28,
+      "importanceReasons": [
+        "近期更新"
+      ]
+    },
+    {
+      "id": "ce0018fc-2632-328f-86f1-e3f0f9dc28fd",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.15.26363188v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.15.26363188v1?rss\u003d1",
+      "titleOriginal": "Hepatitis E virus immunoglobulin G seropositivity and kidney dysfunction among United States adults",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.833062767Z",
+      "contentHash": "34b76c3b757a5744970e75b13e61c2248b0c2cc9963b09374f2277cd027f670a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.15.26363188v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 28,
+      "importanceReasons": [
+        "近期更新"
+      ]
+    },
+    {
+      "id": "fc2b89d9-f90d-372d-9a76-dcce5b7e0018",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.16.26363211v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.16.26363211v1?rss\u003d1",
+      "titleOriginal": "Association between blood urea nitrogen-to-albumin ratio and kidney stones: A cross-sectional study based on NHANES",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.837061081Z",
+      "contentHash": "10da358b84771e3d6e8f9b5eb738e40d769e38a8d045c194630cce9277bd3b9f",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.16.26363211v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 28,
+      "importanceReasons": [
+        "近期更新"
+      ]
+    },
+    {
+      "id": "6f5d27d0-a0b2-3b2f-8e61-557a817b4543",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.15.26363182v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.15.26363182v1?rss\u003d1",
+      "titleOriginal": "DXA-derived body composition and blood pressure in underweight and overweight adolescent girls in rural and urban South Africa",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.840403014Z",
+      "contentHash": "2f1016209deed9a2d08d4fea35a0910b3ef191b9266d6792fa7c19399035d7cf",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.15.26363182v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 28,
+      "importanceReasons": [
+        "近期更新"
+      ]
+    },
+    {
+      "id": "8f2af1f2-89a4-3ef4-8cd7-bf6a459c413c",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.15.26363185v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.15.26363185v1?rss\u003d1",
+      "titleOriginal": "Contact without protection: high antenatal attendance, minimal hepatitis B testing in Nigerias mother-to-child prevention cascade -- how far from elimination?",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-09-20T17:27:48.840706187Z",
+      "contentHash": "81adafec7328264b80ae3d67d855b99bfbc194eb30afad18ad00765e68fd55b7",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.15.26363185v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 28,
+      "importanceReasons": [
+        "近期更新"
+      ]
+    },
     {
       "id": "91d7bbf3-67a8-3af9-955f-e930ae235c47",
       "sourceId": "lilly-news-releases",
@@ -1518,55 +3070,6 @@
       ]
     },
     {
-      "id": "bb41d969-d2a2-3373-9c2d-293c53417d9c",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760088/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760088",
-      "titleOriginal": "Effectiveness and safety of electroacupuncture combined with conventional therapy for peripheral facial palsy: a systematic review and meta-analysis.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:53.973513552Z",
-      "contentHash": "a9e23309051be562b9cc33601e357e1d9cf68a1981435930b1666bdd44fa2090",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760088/"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "近期更新"
-      ]
-    },
-    {
       "id": "6980351f-c589-3447-b579-2d82673622c8",
       "sourceId": "pubmed-recent",
       "sourceName": "PubMed",
@@ -1612,1035 +3115,6 @@
       "importanceReasons": [
         "官方一手来源",
         "高影响事件",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "e0baa2a1-f2e0-3d25-bd32-45b1671a586a",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07827573",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07827573",
-      "titleOriginal": "A Study to Learn How Well Participants With a Specific Type of Early Breast Cancer (ER-Positive, HER2-Negative) Tolerate and Stay on Treatment With Giredestrant and How They Feel During Treatment",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Early Breast Cancer",
-        "Estrogen Receptor-Positive Breast Cancer",
-        "HER2-Negative Breast Cancer"
-      ],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:53.524915759Z",
-      "contentHash": "47271f0a19fd5647f6c05de8846974b0770ace8904307750279376b08663212a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07827573"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "15f7d2a9-bba0-3b96-afd1-8dcffe25d00c",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07827040",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07827040",
-      "titleOriginal": "Effectiveness of a Multi-disciplinary Vision Rehabilitation Programme in Improving the Overall Quality of Life of Visually Impaired Adults",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Visual Impairments",
-        "Low Vision Digital Assistance",
-        "Adults"
-      ],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:53.532160307Z",
-      "contentHash": "e6eadacd8796bb32d9e6e633a56fd0ce6020a195c5ffdb3b3cf058c089f3bf16",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07827040"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "fe217588-34e8-394e-84a5-0b4ec1e21f17",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07828210",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07828210",
-      "titleOriginal": "NeuroAiD Patient-Reported Outcomes in Patients With Mild to Moderate Ischemic Stroke",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Stroke",
-        "Stroke, Acute Ischemic",
-        "Stroke, Ischemic",
-        "Stroke, Cryptogenic",
-        "Stroke, Cardiovascular"
-      ],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:53.532592516Z",
-      "contentHash": "e1e98dfaa8effd525c6f6d0f94ae38a2716162e48f4b777616a94d5fb0584f95",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07828210"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "0924816b-32f2-388a-b236-51cd67051745",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07828093",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07828093",
-      "titleOriginal": "Effect of Agave Consumption on Performance and Gut Microbiota in Adults Undergoing Physical Training",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Dysbiosis"
-      ],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:53.534278491Z",
-      "contentHash": "509c7191f195efe253888bd99a3819922ae009c934f472c1cce3b7e14f3cb9ee",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07828093"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "cef97e0e-041c-36cf-8e7f-4f96eb04530f",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07829133",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07829133",
-      "titleOriginal": "Pilot HIV Self-Testing And Self-collected STI Testing Strategy for Sex Worker Empowerment Study",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "HIV",
-        "Syphilis",
-        "Gonorrhea",
-        "Chlamydia"
-      ],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:53.537649701Z",
-      "contentHash": "f6e9c95559fa2910831c612ed20d146187239b6ad5c1a2ca208d2205d6452e5b",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07829133"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "bf242457-7c3c-34b2-a147-e241de2be4f1",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42761611/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42761611",
-      "titleOriginal": "Spiritual Care in Serious Illness: A Narrative Review of Low- and Middle-Income Country Evidence.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:53.969800443Z",
-      "contentHash": "825ea3c85654c7cfdeded03502987461cb839cfe36687f70db3599dfd3bf44cc",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42761611/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "28ec3dc1-9d0c-37b0-b6a9-f32ab537ac8c",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760729/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760729",
-      "titleOriginal": "Psychological intervention for disputing irrational beliefs associated with work stress amongst tourism educators and mathematicians with hypertension.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:53.970147252Z",
-      "contentHash": "0b1e8bc0b57cbc81884c8603523c4fbc1e0fe61ab83a4acb5237fccfed18c442",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760729/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "c0ee488c-9131-3adc-88db-714e00142f69",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760699/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760699",
-      "titleOriginal": "The NF-κB pathway in inflammatory responses in preeclampsia: A systematic review and meta-analysis.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:53.970330936Z",
-      "contentHash": "bb7af538498c4a3d83c759cbc5b6fbaac3d0ec70cd2463e42ec4ecc9410b5cd9",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760699/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "7cee1c1b-29c0-33fd-b1d0-fd16a0e252b4",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760676/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760676",
-      "titleOriginal": "Effect of esketamine on postoperative pulmonary complications after radical surgery for lung cancer: A randomized double-blind controlled trial.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:53.970769927Z",
-      "contentHash": "f9acc801b10695c15b3a34d983cdf72c92970d28bcd5019db9f5bd092c68a16a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760676/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "7f4c44f7-84f8-36c5-8ffb-c0ec1e79e615",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760675/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760675",
-      "titleOriginal": "High potency and water dispersible Boswellia extract reduces pain and inflammation in subjects with osteoarthritis of the knee: A randomized, double-blind, placebo-controlled trial.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:53.970950565Z",
-      "contentHash": "f8d654c5876cb0e74529cb6e60202b1752bc052c7cf5ecc203941b9808ccfe80",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760675/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "2844f659-6765-3d4f-a81d-089dd8e711a1",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760652/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760652",
-      "titleOriginal": "Meta-analysis of PAX1/JAM3 methylation performance in high-risk HPV-positive women.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:53.971149197Z",
-      "contentHash": "5298a31199ca6fd6dfd09e90eeb67b7152e301ce54f4308fb57a2d3bd6990510",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760652/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "36e8744c-37ea-3b5d-b950-a442813ef25e",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760651/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760651",
-      "titleOriginal": "Cardiorespiratory adaptations to high-intensity interval training in young boxers: A randomized controlled study.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:53.971296853Z",
-      "contentHash": "7bb4c69a5561e93e4a953e23f9f0dd454818a46f92659e329a723e138aedd801",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760651/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "626f8afd-fe6a-3f71-8861-8876958e9007",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760575/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760575",
-      "titleOriginal": "Physical activity and oxidative stress biomarkers in humans: a systematic review and quantitative meta-analysis.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:53.971667497Z",
-      "contentHash": "0965222d8a4fc30b49852a535e112ab47e85ba2fa885845f375167f3f768e66b",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760575/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "bf94f1de-1885-3988-8e2e-e362f34510d8",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760543/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760543",
-      "titleOriginal": "Early-life serum protein profiles associated with bronchopulmonary dysplasia in extremely preterm infants.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:53.971983679Z",
-      "contentHash": "41adb70641d6a2b99b977a79409f90a97a2ce83f12fee0a41be984f3c6b9b311",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760543/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "da1bd124-3c86-3fbb-a027-bd838c4bcec7",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760535/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760535",
-      "titleOriginal": "Risk factors for frailty in older adults with cancer: a systematic review.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:53.972135883Z",
-      "contentHash": "f93998f2d396b33c059b076419bc4a21910bc3fcd64ad26555dd737a5ff8178e",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760535/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "3475f152-a925-33ae-849f-655d493dca82",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760492/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760492",
-      "titleOriginal": "Neoplasms Metastatic to the Larynx: A Systematic Review.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:53.972319267Z",
-      "contentHash": "b6ed8280ef77ac4097762b22ed6fa280a02cfc4f321373cbccb262f10d1dcb6e",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760492/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "8657fd59-3c20-32c2-99c8-4f65979fa5a4",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760461/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760461",
-      "titleOriginal": "The Association Between Visual Impairment and Delirium: A Systematic Review and Meta-Analysis.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:53.972518660Z",
-      "contentHash": "802db4f6e106efeb161e776e11a51c8ea66267f3d7543dc37b3020b5cdd80c55",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760461/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "cdccc107-ec34-3640-ba8e-3517817adf7b",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760327/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760327",
-      "titleOriginal": "Levothyroxine therapy for euthyroidism restoration results in clinically insignificant weight and anthropometric changes: a systematic review and meta-analysis.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:53.973004379Z",
-      "contentHash": "78afbafbf932bd5b6280bfe0e94939b80230c5695ee7195541812a6024f2d5a9",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760327/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "cce1c08a-95ba-3532-8078-8ddd5f232774",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760295/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760295",
-      "titleOriginal": "Home-based telerehabilitation on motor function in youth with cerebral palsy: systematic review and meta-analysis.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:53.973185869Z",
-      "contentHash": "1fb4b5137f904140b463a3cb3c523963caf3770b5f6b2151a6388445593fe5db",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760295/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "7096a4c0-48fc-35e2-b192-db417cf1acdd",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760140/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760140",
-      "titleOriginal": "Impact of time to diagnosis in patients with progressive fibrotic ILD: a systematic review.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:53.973334908Z",
-      "contentHash": "a22e29732bf7ca5a8b10f571836f202db6a2a08e2813d359ccf43f49b0c2032d",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760140/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "b1257cc5-0c69-357f-a03b-49e1ae2f6b51",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760070/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760070",
-      "titleOriginal": "Association of fragmented QRS complex with mortality and clinical outcomes in patients with pulmonary embolism: an updated meta-analysis.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:53.973673481Z",
-      "contentHash": "31d88f826fb74f572b82f71c8dd54e60350e76600761f1b191241fc1570e855c",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760070/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
         "近期更新"
       ]
     },
@@ -2737,432 +3211,6 @@
       "importanceScore": 43,
       "importanceReasons": [
         "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "6e33a6ee-f535-387a-9d53-8828f8df4319",
-      "sourceId": "nature-medicine",
-      "sourceName": "Nature Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41591-026-04708-9",
-      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04708-9",
-      "titleOriginal": "Editorial Expression of Concern: SWI/SNF-mutant cancers depend on catalytic and non-catalytic activity of EZH2",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:53.566530911Z",
-      "contentHash": "2f8ab08ce3be0313a9897aca60d6e6d799e85a6957ba98375c1dd32efebcca5a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-medicine",
-          "sourceName": "Nature Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41591-026-04708-9"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "bf336a95-6801-3b47-8194-ed279afff1c2",
-      "sourceId": "nature-medicine",
-      "sourceName": "Nature Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/d41591-026-00046-y",
-      "canonicalUrl": "https://www.nature.com/articles/d41591-026-00046-y",
-      "titleOriginal": "\u003cb\u003eHow genes shape personality and experience\u003c/b\u003e",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:53.567141042Z",
-      "contentHash": "965129278aa1b59162521d39a6bd2f200560b928102022b0aea175450f84687e",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-medicine",
-          "sourceName": "Nature Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/d41591-026-00046-y"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "93a71dc9-d90c-3cd4-975b-602c9c0b4469",
-      "sourceId": "medrxiv-recent",
-      "sourceName": "medRxiv",
-      "sourceTier": "B",
-      "sourceType": "journal",
-      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.15.26363181v1?rss\u003d1",
-      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.15.26363181v1?rss\u003d1",
-      "titleOriginal": "Liwen Ablation versus Modified Morrow Myectomy for Obstructive Hypertrophic Cardiomyopathy: 1-Year Hemodynamic and Conduction Outcomes",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "medRxiv"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:54.442586026Z",
-      "contentHash": "132679afc85ef8c8257a32853aed7762614965168111126398337cbdb5a71903",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "unreviewed",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "medrxiv-recent",
-          "sourceName": "medRxiv",
-          "sourceTier": "B",
-          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.15.26363181v1?rss\u003d1"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "高影响事件",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "333f8c2c-cfba-3e3b-ae64-f360c287256f",
-      "sourceId": "medrxiv-recent",
-      "sourceName": "medRxiv",
-      "sourceTier": "B",
-      "sourceType": "journal",
-      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.16.26363205v1?rss\u003d1",
-      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.16.26363205v1?rss\u003d1",
-      "titleOriginal": "Association of Helicobacter Pylori Infection and Dyslipidemia Among Individuals Attending General Health Checkups at Tribhuvan University Teaching Hospital.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "medRxiv"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:54.441227995Z",
-      "contentHash": "5458950475accbd32fbbae0436a132795dbc7f1c4d04e963a124c564d3a26365",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "unreviewed",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "medrxiv-recent",
-          "sourceName": "medRxiv",
-          "sourceTier": "B",
-          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.16.26363205v1?rss\u003d1"
-        }
-      ],
-      "importanceScore": 28,
-      "importanceReasons": [
-        "近期更新"
-      ]
-    },
-    {
-      "id": "80dde9e4-8534-3d1d-a5bd-fcea3c27d090",
-      "sourceId": "medrxiv-recent",
-      "sourceName": "medRxiv",
-      "sourceTier": "B",
-      "sourceType": "journal",
-      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.14.26362515v1?rss\u003d1",
-      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.14.26362515v1?rss\u003d1",
-      "titleOriginal": "Exploring the role of social networks in shaping STI disclosure among adolescents and young people using a health behavioral model in Lusaka, Zambia.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "medRxiv"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:54.442976507Z",
-      "contentHash": "0241afdbadb9a68eb80b0585cea097f6521b22e228366de06d8214ccac3393f6",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "unreviewed",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "medrxiv-recent",
-          "sourceName": "medRxiv",
-          "sourceTier": "B",
-          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.14.26362515v1?rss\u003d1"
-        }
-      ],
-      "importanceScore": 28,
-      "importanceReasons": [
-        "近期更新"
-      ]
-    },
-    {
-      "id": "ce0018fc-2632-328f-86f1-e3f0f9dc28fd",
-      "sourceId": "medrxiv-recent",
-      "sourceName": "medRxiv",
-      "sourceTier": "B",
-      "sourceType": "journal",
-      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.15.26363188v1?rss\u003d1",
-      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.15.26363188v1?rss\u003d1",
-      "titleOriginal": "Hepatitis E virus immunoglobulin G seropositivity and kidney dysfunction among United States adults",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "medRxiv"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:54.443310482Z",
-      "contentHash": "34b76c3b757a5744970e75b13e61c2248b0c2cc9963b09374f2277cd027f670a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "unreviewed",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "medrxiv-recent",
-          "sourceName": "medRxiv",
-          "sourceTier": "B",
-          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.15.26363188v1?rss\u003d1"
-        }
-      ],
-      "importanceScore": 28,
-      "importanceReasons": [
-        "近期更新"
-      ]
-    },
-    {
-      "id": "fc2b89d9-f90d-372d-9a76-dcce5b7e0018",
-      "sourceId": "medrxiv-recent",
-      "sourceName": "medRxiv",
-      "sourceTier": "B",
-      "sourceType": "journal",
-      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.16.26363211v1?rss\u003d1",
-      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.16.26363211v1?rss\u003d1",
-      "titleOriginal": "Association between blood urea nitrogen-to-albumin ratio and kidney stones: A cross-sectional study based on NHANES",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "medRxiv"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:54.447320226Z",
-      "contentHash": "10da358b84771e3d6e8f9b5eb738e40d769e38a8d045c194630cce9277bd3b9f",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "unreviewed",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "medrxiv-recent",
-          "sourceName": "medRxiv",
-          "sourceTier": "B",
-          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.16.26363211v1?rss\u003d1"
-        }
-      ],
-      "importanceScore": 28,
-      "importanceReasons": [
-        "近期更新"
-      ]
-    },
-    {
-      "id": "6f5d27d0-a0b2-3b2f-8e61-557a817b4543",
-      "sourceId": "medrxiv-recent",
-      "sourceName": "medRxiv",
-      "sourceTier": "B",
-      "sourceType": "journal",
-      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.15.26363182v1?rss\u003d1",
-      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.15.26363182v1?rss\u003d1",
-      "titleOriginal": "DXA-derived body composition and blood pressure in underweight and overweight adolescent girls in rural and urban South Africa",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "medRxiv"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:54.450727163Z",
-      "contentHash": "2f1016209deed9a2d08d4fea35a0910b3ef191b9266d6792fa7c19399035d7cf",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "unreviewed",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "medrxiv-recent",
-          "sourceName": "medRxiv",
-          "sourceTier": "B",
-          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.15.26363182v1?rss\u003d1"
-        }
-      ],
-      "importanceScore": 28,
-      "importanceReasons": [
-        "近期更新"
-      ]
-    },
-    {
-      "id": "8f2af1f2-89a4-3ef4-8cd7-bf6a459c413c",
-      "sourceId": "medrxiv-recent",
-      "sourceName": "medRxiv",
-      "sourceTier": "B",
-      "sourceType": "journal",
-      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.15.26363185v1?rss\u003d1",
-      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.15.26363185v1?rss\u003d1",
-      "titleOriginal": "Contact without protection: high antenatal attendance, minimal hepatitis B testing in Nigerias mother-to-child prevention cascade -- how far from elimination?",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "medRxiv"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-09-20T07:43:54.451001166Z",
-      "contentHash": "81adafec7328264b80ae3d67d855b99bfbc194eb30afad18ad00765e68fd55b7",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "unreviewed",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "medrxiv-recent",
-          "sourceName": "medRxiv",
-          "sourceTier": "B",
-          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.15.26363185v1?rss\u003d1"
-        }
-      ],
-      "importanceScore": 28,
-      "importanceReasons": [
         "近期更新"
       ]
     },
