@@ -1,7 +1,252 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-20T12:36:25.814095793Z",
+  "generatedAt": "2026-09-20T13:02:55.471580662Z",
   "articles": [
+    {
+      "id": "a798f3fc-4391-3a1f-85e1-5b79d54d8b8f",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/epidural-kit-correction-medical-action-industries-issues-correction-epidural-kits-containing-spectra",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/epidural-kit-correction-medical-action-industries-issues-correction-epidural-kits-containing-spectra",
+      "titleOriginal": "Epidural Kit Correction: Medical Action Industries Issues Correction for Epidural Kits Containing Spectra Medical Devices Lidocaine Ampules",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-10T04:00:00Z",
+      "collectedAt": "2026-09-20T13:02:52.559185938Z",
+      "contentHash": "b8b66a26ba68bfbfaf9cc05def22531cd2a022a5c49a5b228572b39fe6dce988",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/epidural-kit-correction-medical-action-industries-issues-correction-epidural-kits-containing-spectra"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "6b043b74-4416-355c-aa47-d97eea66f517",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/dxc-500i-clinical-analyzer-and-dxc-500-au-clinical-chemistry-analyzer",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/dxc-500i-clinical-analyzer-and-dxc-500-au-clinical-chemistry-analyzer",
+      "titleOriginal": "Dxc 500i Clinical Analyzer and Dxc 500 AU Clinical Chemistry Analyzer",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-10T00:00:00Z",
+      "collectedAt": "2026-09-20T13:02:52.755116632Z",
+      "contentHash": "c040a02d373f7d35059fbd9b150425d0c4b3d90fea7b61646351aa6201fc8d82",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/dxc-500i-clinical-analyzer-and-dxc-500-au-clinical-chemistry-analyzer"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "19875a75-89e2-3c17-9ec3-828101b6bc24",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/centricity-high-acuity-anesthesia-1",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/centricity-high-acuity-anesthesia-1",
+      "titleOriginal": "Centricity High Acuity Anesthesia",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-10T00:00:00Z",
+      "collectedAt": "2026-09-20T13:02:52.756623155Z",
+      "contentHash": "4bfda7b6a6e5eebd3bc6adc4dfe1d1d37dd018be983e5f7e3e052e643be68696",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/centricity-high-acuity-anesthesia-1"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "a449aa5e-81cd-3f17-b33e-117616437104",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/imn-screws-system-advanced-locking-screw",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/imn-screws-system-advanced-locking-screw",
+      "titleOriginal": "IMN Screws System Advanced Locking Screw",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-10T00:00:00Z",
+      "collectedAt": "2026-09-20T13:02:52.756805435Z",
+      "contentHash": "ab891e765f32183c7c485d8dfed7c7d2f9eaa2ba668e1bdbe3d0b742c4d665ab",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/imn-screws-system-advanced-locking-screw"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "b6c8afd2-70e4-308d-b662-bbef18778f52",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/generic-acetaminophen-teva-recalled-because-it-may-contain-foreign-material",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/generic-acetaminophen-teva-recalled-because-it-may-contain-foreign-material",
+      "titleOriginal": "Generic acetaminophen by Teva recalled because it may contain foreign material",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-10T00:00:00Z",
+      "collectedAt": "2026-09-20T13:02:52.757001321Z",
+      "contentHash": "0c545683c68c1b39e65dcf8d53d92cbf03cfb463ca82b36f179736f4fadf1415",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/generic-acetaminophen-teva-recalled-because-it-may-contain-foreign-material"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "92746a17-5f14-3ac8-b625-f753396a908e",
       "sourceId": "abbvie-news",
@@ -280,251 +525,6 @@
       "importanceScore": 35,
       "importanceReasons": [
         "官方一手来源"
-      ]
-    },
-    {
-      "id": "a798f3fc-4391-3a1f-85e1-5b79d54d8b8f",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/epidural-kit-correction-medical-action-industries-issues-correction-epidural-kits-containing-spectra",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/epidural-kit-correction-medical-action-industries-issues-correction-epidural-kits-containing-spectra",
-      "titleOriginal": "Epidural Kit Correction: Medical Action Industries Issues Correction for Epidural Kits Containing Spectra Medical Devices Lidocaine Ampules",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-10T04:00:00Z",
-      "collectedAt": "2026-09-20T04:52:30.381598186Z",
-      "contentHash": "b8b66a26ba68bfbfaf9cc05def22531cd2a022a5c49a5b228572b39fe6dce988",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/epidural-kit-correction-medical-action-industries-issues-correction-epidural-kits-containing-spectra"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "6b043b74-4416-355c-aa47-d97eea66f517",
-      "sourceId": "health-canada-health-products",
-      "sourceName": "Health Canada Health Product Recalls",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/dxc-500i-clinical-analyzer-and-dxc-500-au-clinical-chemistry-analyzer",
-      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/dxc-500i-clinical-analyzer-and-dxc-500-au-clinical-chemistry-analyzer",
-      "titleOriginal": "Dxc 500i Clinical Analyzer and Dxc 500 AU Clinical Chemistry Analyzer",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Health Canada"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-10T00:00:00Z",
-      "collectedAt": "2026-09-20T04:52:30.740729447Z",
-      "contentHash": "c040a02d373f7d35059fbd9b150425d0c4b3d90fea7b61646351aa6201fc8d82",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "health-canada-health-products",
-          "sourceName": "Health Canada Health Product Recalls",
-          "sourceTier": "A",
-          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/dxc-500i-clinical-analyzer-and-dxc-500-au-clinical-chemistry-analyzer"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "19875a75-89e2-3c17-9ec3-828101b6bc24",
-      "sourceId": "health-canada-health-products",
-      "sourceName": "Health Canada Health Product Recalls",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/centricity-high-acuity-anesthesia-1",
-      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/centricity-high-acuity-anesthesia-1",
-      "titleOriginal": "Centricity High Acuity Anesthesia",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Health Canada"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-10T00:00:00Z",
-      "collectedAt": "2026-09-20T04:52:30.740930401Z",
-      "contentHash": "4bfda7b6a6e5eebd3bc6adc4dfe1d1d37dd018be983e5f7e3e052e643be68696",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "health-canada-health-products",
-          "sourceName": "Health Canada Health Product Recalls",
-          "sourceTier": "A",
-          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/centricity-high-acuity-anesthesia-1"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "a449aa5e-81cd-3f17-b33e-117616437104",
-      "sourceId": "health-canada-health-products",
-      "sourceName": "Health Canada Health Product Recalls",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/imn-screws-system-advanced-locking-screw",
-      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/imn-screws-system-advanced-locking-screw",
-      "titleOriginal": "IMN Screws System Advanced Locking Screw",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Health Canada"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-10T00:00:00Z",
-      "collectedAt": "2026-09-20T04:52:30.741111427Z",
-      "contentHash": "ab891e765f32183c7c485d8dfed7c7d2f9eaa2ba668e1bdbe3d0b742c4d665ab",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "health-canada-health-products",
-          "sourceName": "Health Canada Health Product Recalls",
-          "sourceTier": "A",
-          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/imn-screws-system-advanced-locking-screw"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "b6c8afd2-70e4-308d-b662-bbef18778f52",
-      "sourceId": "health-canada-health-products",
-      "sourceName": "Health Canada Health Product Recalls",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/generic-acetaminophen-teva-recalled-because-it-may-contain-foreign-material",
-      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/generic-acetaminophen-teva-recalled-because-it-may-contain-foreign-material",
-      "titleOriginal": "Generic acetaminophen by Teva recalled because it may contain foreign material",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Health Canada"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-10T00:00:00Z",
-      "collectedAt": "2026-09-20T04:52:30.741289468Z",
-      "contentHash": "0c545683c68c1b39e65dcf8d53d92cbf03cfb463ca82b36f179736f4fadf1415",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "health-canada-health-products",
-          "sourceName": "Health Canada Health Product Recalls",
-          "sourceTier": "A",
-          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/generic-acetaminophen-teva-recalled-because-it-may-contain-foreign-material"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
       ]
     },
     {
