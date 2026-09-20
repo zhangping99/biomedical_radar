@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-20T07:43:54.939009855Z",
+  "generatedAt": "2026-09-20T08:48:09.952978025Z",
   "articles": [
+    {
+      "id": "886d478e-a13e-3704-b9c9-7c04d01c0003",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/09/cleveland-clinic-partners-with-luminai-to-transform-health-system-operations",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/09/cleveland-clinic-partners-with-luminai-to-transform-health-system-operations",
+      "titleOriginal": "Cleveland Clinic Partners with Luminai to Transform Health System Operations",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-09T00:00:00Z",
+      "collectedAt": "2026-09-20T08:48:06.096698550Z",
+      "contentHash": "7b853141ec3aa00459024de88c0223a3f8c153d716cce95b707bcd5f19ffeb8d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/09/cleveland-clinic-partners-with-luminai-to-transform-health-system-operations"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "55a95524-b461-3e97-a0b3-cde8ad122307",
       "sourceId": "nature-reviews-cancer",
@@ -97,51 +142,6 @@
         "高影响事件",
         "政策或安全相关"
       ]
-    },
-    {
-      "id": "886d478e-a13e-3704-b9c9-7c04d01c0003",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/09/cleveland-clinic-partners-with-luminai-to-transform-health-system-operations",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/09/cleveland-clinic-partners-with-luminai-to-transform-health-system-operations",
-      "titleOriginal": "Cleveland Clinic Partners with Luminai to Transform Health System Operations",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-09T00:00:00Z",
-      "collectedAt": "2026-09-19T18:11:42.570779396Z",
-      "contentHash": "7b853141ec3aa00459024de88c0223a3f8c153d716cce95b707bcd5f19ffeb8d",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/09/cleveland-clinic-partners-with-luminai-to-transform-health-system-operations"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     },
     {
       "id": "27fcb246-4dba-36b2-8e7f-8cf4d0c96fb8",
