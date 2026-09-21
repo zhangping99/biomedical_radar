@@ -1,7 +1,201 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-21T15:05:57.390186152Z",
+  "generatedAt": "2026-09-21T19:25:47.421109646Z",
   "articles": [
+    {
+      "id": "a26c182b-532d-3e40-bf11-ae902446f81a",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07826741",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07826741",
+      "titleOriginal": "Intrathecal Morphine and Transversalis Fascia Plane Block for Analgesia After Open Inguinal Hernia Repair",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Pain, Postoperative",
+        "Inguinal Hernia Unilateral",
+        "Intrathecal Morphine",
+        "Transversalis Fascia Plane Block",
+        "Multimodal Analgesia"
+      ],
+      "publishedAt": "2026-09-17T00:00:00Z",
+      "collectedAt": "2026-09-21T19:25:45.857003917Z",
+      "contentHash": "1db5223455f70cda381e4287090e38cdc3895af71e2bc99f8d8276f1a470c9d4",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07826741"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "ef37a551-3c12-3ba0-af6e-c63ca9d18171",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42765016/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42765016",
+      "titleOriginal": "Analysis of postural control through nonlinear methods in older adults: a randomized controlled trial.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-17T00:00:00Z",
+      "collectedAt": "2026-09-21T19:25:46.451657393Z",
+      "contentHash": "65fdba6d3c596ca241671da9c87da433bd28ee4a2ea60733c8425eeb7b546c74",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42765016/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "9b085006-4d75-3464-a65a-d96bc873a561",
+      "sourceId": "nature-medicine",
+      "sourceName": "Nature Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41591-026-04646-6",
+      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04646-6",
+      "titleOriginal": "Levetiracetam therapeutically targets GABAergic synapses in diffuse midline glioma",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-17T00:00:00Z",
+      "collectedAt": "2026-09-21T19:25:46.946056981Z",
+      "contentHash": "750db3274a1b4fcec52edd9f60e31f47b6c12792b44c86c2bf2e8eb7b2222054",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-medicine",
+          "sourceName": "Nature Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41591-026-04646-6"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "955104c3-20a8-3b3a-b81a-9c18f2554cb0",
+      "sourceId": "nature-biotechnology",
+      "sourceName": "Nature Biotechnology",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41587-026-03319-6",
+      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03319-6",
+      "titleOriginal": "Gene editing using large insertions",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Biotechnology"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-17T00:00:00Z",
+      "collectedAt": "2026-09-21T19:25:46.974072764Z",
+      "contentHash": "8c4ffa27a737c12f31b873262ffc24fa00c5408a1c024c83314414a010b37628",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-biotechnology",
+          "sourceName": "Nature Biotechnology",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41587-026-03319-6"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "7e00222c-a65b-3df5-85b1-144d9c42d17e",
       "sourceId": "fda-biologics-news",
@@ -720,100 +914,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "9b085006-4d75-3464-a65a-d96bc873a561",
-      "sourceId": "nature-medicine",
-      "sourceName": "Nature Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41591-026-04646-6",
-      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04646-6",
-      "titleOriginal": "Levetiracetam therapeutically targets GABAergic synapses in diffuse midline glioma",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-17T00:00:00Z",
-      "collectedAt": "2026-09-21T07:56:37.495171080Z",
-      "contentHash": "750db3274a1b4fcec52edd9f60e31f47b6c12792b44c86c2bf2e8eb7b2222054",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-medicine",
-          "sourceName": "Nature Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41591-026-04646-6"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "955104c3-20a8-3b3a-b81a-9c18f2554cb0",
-      "sourceId": "nature-biotechnology",
-      "sourceName": "Nature Biotechnology",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41587-026-03319-6",
-      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03319-6",
-      "titleOriginal": "Gene editing using large insertions",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Biotechnology"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-17T00:00:00Z",
-      "collectedAt": "2026-09-21T07:56:37.918177007Z",
-      "contentHash": "8c4ffa27a737c12f31b873262ffc24fa00c5408a1c024c83314414a010b37628",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-biotechnology",
-          "sourceName": "Nature Biotechnology",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41587-026-03319-6"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     },
     {
       "id": "6968243f-cc03-3088-abde-a4d03b4c1dc7",

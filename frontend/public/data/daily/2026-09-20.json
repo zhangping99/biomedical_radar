@@ -1,51 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-21T15:05:57.390186152Z",
+  "generatedAt": "2026-09-21T19:25:47.421109646Z",
   "articles": [
     {
-      "id": "e18bd278-168a-3248-a856-fcdbc2a6d62d",
-      "sourceId": "pumch-research",
-      "sourceName": "Peking Union Medical College Hospital Research",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://www.pumch.cn/detail/46769.html",
-      "canonicalUrl": "https://www.pumch.cn/detail/46769.html",
-      "titleOriginal": "科技成果转化公示〔2026〕51号---关于“检测包虫病的病原体并分型的组合物、试剂盒及用途”的科研成果转让",
-      "titleZh": "科技成果转化公示〔2026〕51号---关于“检测包虫病的病原体并分型的组合物、试剂盒及用途”的科研成果转让",
-      "summaryZh": "北京协和医院拥有的“检测包虫病的病原体并分型的组合物、试剂盒及用途”科研成果，拟进行科技成果转让，欢迎有兴趣的单位来参与洽谈转让。...",
+      "id": "68bf004f-0adf-369f-b2f1-f44a6b324ad1",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42764383/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42764383",
+      "titleOriginal": "What can we learn on ALS pathophysiology from iPSC-derived motor neurons harbouring TARBDP mutations: a systematic review.",
+      "titleZh": null,
+      "summaryZh": null,
       "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "hospital_service",
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
       "eventTypes": [
         "update"
       ],
       "entities": [
         {
-          "type": "hospital",
-          "name": "北京协和医院"
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
         }
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-20T00:00:00Z",
-      "collectedAt": "2026-09-21T09:16:27.804094544Z",
-      "contentHash": "4e26f536f046e5f764cbc8eb02cc815492d5faa00b8c46e8a5e54ce7e1157d0b",
+      "collectedAt": "2026-09-21T19:25:46.452900207Z",
+      "contentHash": "c0a322599eef08a5167b2287226a2ddca4a1b2366d1fd07735658d0fb82f8c66",
       "generated": false,
       "generatorVersion": null,
       "generatedAt": null,
       "verificationStatus": "auto_checked",
       "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
+      "legalBasis": "official_api",
       "sourceLinks": [
         {
-          "sourceId": "pumch-research",
-          "sourceName": "Peking Union Medical College Hospital Research",
-          "sourceTier": "B",
-          "originalUrl": "https://www.pumch.cn/detail/46769.html"
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42764383/"
         }
       ],
-      "importanceScore": 28,
+      "importanceScore": 43,
       "importanceReasons": [
+        "官方一手来源",
         "近期更新"
       ]
     },
@@ -75,7 +76,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-20T00:00:00Z",
-      "collectedAt": "2026-09-21T07:56:37.968438750Z",
+      "collectedAt": "2026-09-21T19:25:46.454080405Z",
       "contentHash": "4539fd99732687727fb4d895e08c3b791fc240e9af374e09f75b6e42e2ede496",
       "generated": false,
       "generatorVersion": null,
@@ -123,7 +124,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-20T00:00:00Z",
-      "collectedAt": "2026-09-21T07:56:37.968527023Z",
+      "collectedAt": "2026-09-21T19:25:46.454237344Z",
       "contentHash": "349a37980c7c5a2a5822894346981842e642415d0304cdd75bd95e1caf7cf472",
       "generated": false,
       "generatorVersion": null,
@@ -171,7 +172,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-20T00:00:00Z",
-      "collectedAt": "2026-09-21T07:56:37.968617369Z",
+      "collectedAt": "2026-09-21T19:25:46.454396348Z",
       "contentHash": "635db1a71ca798383f6419763bd2575ad1918deea26fd8d7db918e3526019a7f",
       "generated": false,
       "generatorVersion": null,
@@ -219,7 +220,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-20T00:00:00Z",
-      "collectedAt": "2026-09-21T07:56:37.968890501Z",
+      "collectedAt": "2026-09-21T19:25:46.455063429Z",
       "contentHash": "b265d17616fef5798830a27769800f1daddd2a4fc493b05adb11dabc18bb0b42",
       "generated": false,
       "generatorVersion": null,
@@ -238,6 +239,53 @@
       "importanceScore": 43,
       "importanceReasons": [
         "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "e18bd278-168a-3248-a856-fcdbc2a6d62d",
+      "sourceId": "pumch-research",
+      "sourceName": "Peking Union Medical College Hospital Research",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://www.pumch.cn/detail/46769.html",
+      "canonicalUrl": "https://www.pumch.cn/detail/46769.html",
+      "titleOriginal": "科技成果转化公示〔2026〕51号---关于“检测包虫病的病原体并分型的组合物、试剂盒及用途”的科研成果转让",
+      "titleZh": "科技成果转化公示〔2026〕51号---关于“检测包虫病的病原体并分型的组合物、试剂盒及用途”的科研成果转让",
+      "summaryZh": "北京协和医院拥有的“检测包虫病的病原体并分型的组合物、试剂盒及用途”科研成果，拟进行科技成果转让，欢迎有兴趣的单位来参与洽谈转让。...",
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "北京协和医院"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-20T00:00:00Z",
+      "collectedAt": "2026-09-21T09:16:27.804094544Z",
+      "contentHash": "4e26f536f046e5f764cbc8eb02cc815492d5faa00b8c46e8a5e54ce7e1157d0b",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "pumch-research",
+          "sourceName": "Peking Union Medical College Hospital Research",
+          "sourceTier": "B",
+          "originalUrl": "https://www.pumch.cn/detail/46769.html"
+        }
+      ],
+      "importanceScore": 28,
+      "importanceReasons": [
         "近期更新"
       ]
     },
@@ -1756,54 +1804,6 @@
           "sourceName": "Europe PMC",
           "sourceTier": "A",
           "originalUrl": "https://europepmc.org/article/MED/PMC13579088"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "dde5cda9-a773-3449-b559-129447e57004",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760033/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760033",
-      "titleOriginal": "Haloperidol for Hypoactive and Hyperactive Delirium in ICU Patients-A Post Hoc Bayesian Analysis of the AID-ICU Trial.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-20T17:27:48.552814443Z",
-      "contentHash": "6451e5e70fb8ecc484051bd8f33c8315f2baba8fe0eebef93e11ea91aadf62ba",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42760033/"
         }
       ],
       "importanceScore": 50,

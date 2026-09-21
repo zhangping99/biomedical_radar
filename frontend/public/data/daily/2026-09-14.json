@@ -1,7 +1,102 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-21T15:05:57.390186152Z",
+  "generatedAt": "2026-09-21T19:25:47.421109646Z",
   "articles": [
+    {
+      "id": "ca71c53b-df61-367f-91b3-4b1c0995f3e5",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42764848/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42764848",
+      "titleOriginal": "From perception to response: translational progress implementation challenges of wearable non-invasive continuous vital sign monitoring in early warning for inpatients.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-14T00:00:00Z",
+      "collectedAt": "2026-09-21T19:25:46.452114607Z",
+      "contentHash": "19a14351c71f1f6a08b81803dafda4017912686f87cbbb7deb17f20dd9336abf",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42764848/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件"
+      ]
+    },
+    {
+      "id": "d086fc20-b6bb-3ccf-b62b-ce6785890542",
+      "sourceId": "nature-biotechnology",
+      "sourceName": "Nature Biotechnology",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41587-026-03308-9",
+      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03308-9",
+      "titleOriginal": "An engineered nanopore identifies saccharides, amino acids, peptides and ribonucleotides",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Biotechnology"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-14T00:00:00Z",
+      "collectedAt": "2026-09-21T19:25:46.975050779Z",
+      "contentHash": "a6d5e44a55d03bed18260e735d726e0e6a0649f2eef48d17adb46c0da1e85f1e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-biotechnology",
+          "sourceName": "Nature Biotechnology",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41587-026-03308-9"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "1c0d026d-fdb5-3ddb-99c5-365d625ada56",
       "sourceId": "health-canada-health-products",
@@ -274,53 +369,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "d086fc20-b6bb-3ccf-b62b-ce6785890542",
-      "sourceId": "nature-biotechnology",
-      "sourceName": "Nature Biotechnology",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41587-026-03308-9",
-      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03308-9",
-      "titleOriginal": "An engineered nanopore identifies saccharides, amino acids, peptides and ribonucleotides",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Biotechnology"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-14T00:00:00Z",
-      "collectedAt": "2026-09-21T07:56:37.919012898Z",
-      "contentHash": "a6d5e44a55d03bed18260e735d726e0e6a0649f2eef48d17adb46c0da1e85f1e",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-biotechnology",
-          "sourceName": "Nature Biotechnology",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41587-026-03308-9"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     },
     {
       "id": "9a7ba7e6-232a-3222-aff1-388eb5836aef",

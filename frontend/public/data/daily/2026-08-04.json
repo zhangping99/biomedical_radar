@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-21T15:05:57.390186152Z",
+  "generatedAt": "2026-09-21T19:25:47.421109646Z",
   "articles": [
+    {
+      "id": "16f74b0c-671a-3eb5-a0ff-556a91594a79",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07744152",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07744152",
+      "titleOriginal": "A Study to Test How Well Different Doses of BI 3822971 Are Tolerated by People With Advanced Cancer (Solid Tumours)",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Solid Tumours"
+      ],
+      "publishedAt": "2026-08-04T00:00:00Z",
+      "collectedAt": "2026-09-21T19:25:45.855980746Z",
+      "contentHash": "83338e99e765af6540d169a27d5387f204432ee3dfbd78e48a26e853fe23a6f9",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07744152"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "4fca141b-3c81-35ad-b5ea-4a85605a8371",
       "sourceId": "pfizer-press-releases",
