@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-21T14:31:28.733820386Z",
+  "generatedAt": "2026-09-21T15:05:57.390186152Z",
   "articles": [
+    {
+      "id": "de484c30-ec4e-3e84-845b-2a1a20faf960",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/philips-ingenia-achieva-and-intera-mr-systems",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/philips-ingenia-achieva-and-intera-mr-systems",
+      "titleOriginal": "Philips Ingenia, Achieva and Intera MR Systems",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-09T00:00:00Z",
+      "collectedAt": "2026-09-21T15:05:52.621695296Z",
+      "contentHash": "b5eecba50494a4e289b1a17f8b19b30029865ef5819e6a4f0df82ab882d727bb",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/philips-ingenia-achieva-and-intera-mr-systems"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "55a95524-b461-3e97-a0b3-cde8ad122307",
       "sourceId": "nature-reviews-cancer",
@@ -47,55 +96,6 @@
       "importanceScore": 35,
       "importanceReasons": [
         "官方一手来源"
-      ]
-    },
-    {
-      "id": "de484c30-ec4e-3e84-845b-2a1a20faf960",
-      "sourceId": "health-canada-health-products",
-      "sourceName": "Health Canada Health Product Recalls",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/philips-ingenia-achieva-and-intera-mr-systems",
-      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/philips-ingenia-achieva-and-intera-mr-systems",
-      "titleOriginal": "Philips Ingenia, Achieva and Intera MR Systems",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Health Canada"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-09T00:00:00Z",
-      "collectedAt": "2026-09-21T04:53:53.896349806Z",
-      "contentHash": "b5eecba50494a4e289b1a17f8b19b30029865ef5819e6a4f0df82ab882d727bb",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "health-canada-health-products",
-          "sourceName": "Health Canada Health Product Recalls",
-          "sourceTier": "A",
-          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/philips-ingenia-achieva-and-intera-mr-systems"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
       ]
     },
     {

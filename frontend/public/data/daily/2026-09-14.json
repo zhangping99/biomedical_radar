@@ -1,7 +1,55 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-21T14:31:28.733820386Z",
+  "generatedAt": "2026-09-21T15:05:57.390186152Z",
   "articles": [
+    {
+      "id": "1c0d026d-fdb5-3ddb-99c5-365d625ada56",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/tzield-teplizumab-and-risk-viral-reactivation",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/tzield-teplizumab-and-risk-viral-reactivation",
+      "titleOriginal": "TZIELD (teplizumab) and the Risk of Viral Reactivation",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-14T00:00:00Z",
+      "collectedAt": "2026-09-21T15:05:52.620790335Z",
+      "contentHash": "9b9ca5777c283ce58af64580bc58cb322c544c4cb0e130e22194456622d9001e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/tzield-teplizumab-and-risk-viral-reactivation"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "9e850c5c-fe6e-39db-aaeb-4941250ac450",
       "sourceId": "gsk-press-releases",
@@ -272,54 +320,6 @@
       "importanceScore": 35,
       "importanceReasons": [
         "官方一手来源"
-      ]
-    },
-    {
-      "id": "1c0d026d-fdb5-3ddb-99c5-365d625ada56",
-      "sourceId": "health-canada-health-products",
-      "sourceName": "Health Canada Health Product Recalls",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/tzield-teplizumab-and-risk-viral-reactivation",
-      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/tzield-teplizumab-and-risk-viral-reactivation",
-      "titleOriginal": "TZIELD (teplizumab) and the Risk of Viral Reactivation",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Health Canada"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-14T00:00:00Z",
-      "collectedAt": "2026-09-21T04:53:53.895971418Z",
-      "contentHash": "9b9ca5777c283ce58af64580bc58cb322c544c4cb0e130e22194456622d9001e",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "health-canada-health-products",
-          "sourceName": "Health Canada Health Product Recalls",
-          "sourceTier": "A",
-          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/tzield-teplizumab-and-risk-viral-reactivation"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
       ]
     },
     {
