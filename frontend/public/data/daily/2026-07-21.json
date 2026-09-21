@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-21T13:21:41.268141572Z",
+  "generatedAt": "2026-09-21T14:31:28.733820386Z",
   "articles": [
     {
       "id": "3bd853bf-fbbb-365c-87b1-d474d354c068",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-07-21T10:28:42Z",
-      "collectedAt": "2026-09-21T07:04:11.693605364Z",
+      "collectedAt": "2026-09-21T14:31:24.247886023Z",
       "contentHash": "f2cd05c386ec25c3d5e63360aaca51440a9a591f20b88b5364c0a6805b9d3a21",
       "generated": false,
       "generatorVersion": null,
@@ -48,6 +48,51 @@
       "importanceReasons": [
         "高影响事件"
       ]
+    },
+    {
+      "id": "e647169b-7577-3c4d-9fa2-9ca8b8a86522",
+      "sourceId": "sanofi-press-releases",
+      "sourceName": "Sanofi Press Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-07-21-16-00-00-3330752",
+      "canonicalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-07-21-16-00-00-3330752",
+      "titleOriginal": "Press Release: Sanofi evolves its Executive Committee to support its next strategic chapter",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "EU",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Sanofi"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-07-21T00:00:00Z",
+      "collectedAt": "2026-09-21T14:31:23.985154407Z",
+      "contentHash": "37381d03659b21338d05dd0b198ad47eaae52e3803d2988f02c6900875cb0bbe",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "sanofi-press-releases",
+          "sourceName": "Sanofi Press Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-07-21-16-00-00-3330752"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
     },
     {
       "id": "198fde86-85df-39b4-80cf-7f62962a5e5d",
@@ -89,51 +134,6 @@
           "sourceName": "Merck News Releases",
           "sourceTier": "B",
           "originalUrl": "https://www.merck.com/news/investigational-once-weekly-oral-hiv-treatment-regimen-of-islatravir-and-lenacapavir-maintained-virological-suppression-in-adults-with-hiv-who-switched-antiretroviral-therapy/"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "e647169b-7577-3c4d-9fa2-9ca8b8a86522",
-      "sourceId": "sanofi-press-releases",
-      "sourceName": "Sanofi Press Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-07-21-16-00-00-3330752",
-      "canonicalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-07-21-16-00-00-3330752",
-      "titleOriginal": "Press Release: Sanofi evolves its Executive Committee to support its next strategic chapter",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "EU",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "Sanofi"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-07-21T00:00:00Z",
-      "collectedAt": "2026-09-21T07:04:11.530543044Z",
-      "contentHash": "37381d03659b21338d05dd0b198ad47eaae52e3803d2988f02c6900875cb0bbe",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "sanofi-press-releases",
-          "sourceName": "Sanofi Press Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-07-21-16-00-00-3330752"
         }
       ],
       "importanceScore": 20,
