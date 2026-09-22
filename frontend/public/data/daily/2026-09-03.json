@@ -1,7 +1,54 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-22T05:23:03.257647822Z",
+  "generatedAt": "2026-09-22T06:45:16.868574048Z",
   "articles": [
+    {
+      "id": "f9bda476-d09d-38c9-994f-119e80fdce4b",
+      "sourceId": "abbvie-news",
+      "sourceName": "AbbVie News",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://news.abbvie.com/2026-09-03-AbbVie-Announces-Positive-Topline-Results-from-the-Phase-3-CERVINO-Trial-Showing-Etentamig-Significantly-Improved-Response-Rate-and-Progression-Free-Survival-in-Patients-with-Relapsed-Refractory-Multiple-Myeloma",
+      "canonicalUrl": "https://news.abbvie.com/2026-09-03-AbbVie-Announces-Positive-Topline-Results-from-the-Phase-3-CERVINO-Trial-Showing-Etentamig-Significantly-Improved-Response-Rate-and-Progression-Free-Survival-in-Patients-with-Relapsed-Refractory-Multiple-Myeloma",
+      "titleOriginal": "AbbVie Announces Positive Topline Results from the Phase 3 CERVINO Trial Showing Etentamig Significantly Improved Response Rate and Progression-Free Survival in Patients with Relapsed/Refractory Multiple Myeloma",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "drug_rd",
+      "eventTypes": [
+        "phase_3_result"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "AbbVie"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-03T13:15:00Z",
+      "collectedAt": "2026-09-22T06:45:14.779630324Z",
+      "contentHash": "6d34100291e61450c49140a94e1e3f60176ac3da7f6206aa61d25a823455fad1",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "abbvie-news",
+          "sourceName": "AbbVie News",
+          "sourceTier": "B",
+          "originalUrl": "https://news.abbvie.com/2026-09-03-AbbVie-Announces-Positive-Topline-Results-from-the-Phase-3-CERVINO-Trial-Showing-Etentamig-Significantly-Improved-Response-Rate-and-Progression-Free-Survival-in-Patients-with-Relapsed-Refractory-Multiple-Myeloma"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "高影响事件"
+      ]
+    },
     {
       "id": "b20ebc0f-3015-3d70-918a-8ebcdbbe62f1",
       "sourceId": "fda-medwatch-alerts",
@@ -242,53 +289,6 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关"
-      ]
-    },
-    {
-      "id": "f9bda476-d09d-38c9-994f-119e80fdce4b",
-      "sourceId": "abbvie-news",
-      "sourceName": "AbbVie News",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://news.abbvie.com/2026-09-03-AbbVie-Announces-Positive-Topline-Results-from-the-Phase-3-CERVINO-Trial-Showing-Etentamig-Significantly-Improved-Response-Rate-and-Progression-Free-Survival-in-Patients-with-Relapsed-Refractory-Multiple-Myeloma",
-      "canonicalUrl": "https://news.abbvie.com/2026-09-03-AbbVie-Announces-Positive-Topline-Results-from-the-Phase-3-CERVINO-Trial-Showing-Etentamig-Significantly-Improved-Response-Rate-and-Progression-Free-Survival-in-Patients-with-Relapsed-Refractory-Multiple-Myeloma",
-      "titleOriginal": "AbbVie Announces Positive Topline Results from the Phase 3 CERVINO Trial Showing Etentamig Significantly Improved Response Rate and Progression-Free Survival in Patients with Relapsed/Refractory Multiple Myeloma",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "drug_rd",
-      "eventTypes": [
-        "phase_3_result"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "AbbVie"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-03T13:15:00Z",
-      "collectedAt": "2026-09-21T22:48:18.937002127Z",
-      "contentHash": "6d34100291e61450c49140a94e1e3f60176ac3da7f6206aa61d25a823455fad1",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "abbvie-news",
-          "sourceName": "AbbVie News",
-          "sourceTier": "B",
-          "originalUrl": "https://news.abbvie.com/2026-09-03-AbbVie-Announces-Positive-Topline-Results-from-the-Phase-3-CERVINO-Trial-Showing-Etentamig-Significantly-Improved-Response-Rate-and-Progression-Free-Survival-in-Patients-with-Relapsed-Refractory-Multiple-Myeloma"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "高影响事件"
       ]
     },
     {
