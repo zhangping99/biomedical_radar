@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-22T18:04:27.193971222Z",
+  "generatedAt": "2026-09-22T19:05:31.324850056Z",
   "articles": [
+    {
+      "id": "98790dda-bd45-3e01-a147-d724e0dc683b",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/14/cleveland-clinic-begins-offering-appointment-only-flu-vaccinations",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/14/cleveland-clinic-begins-offering-appointment-only-flu-vaccinations",
+      "titleOriginal": "Cleveland Clinic Begins Offering Appointment-Only Flu Vaccinations",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-14T00:00:00Z",
+      "collectedAt": "2026-09-22T19:05:25.956301079Z",
+      "contentHash": "f80a73342e35feb7f0c9c5bf36ac2336a19706dc1c71069510e5fd7e4b61f7e8",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/14/cleveland-clinic-begins-offering-appointment-only-flu-vaccinations"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "d086fc20-b6bb-3ccf-b62b-ce6785890542",
       "sourceId": "nature-biotechnology",
@@ -276,51 +321,6 @@
         "官方一手来源",
         "政策或安全相关"
       ]
-    },
-    {
-      "id": "98790dda-bd45-3e01-a147-d724e0dc683b",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/14/cleveland-clinic-begins-offering-appointment-only-flu-vaccinations",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/14/cleveland-clinic-begins-offering-appointment-only-flu-vaccinations",
-      "titleOriginal": "Cleveland Clinic Begins Offering Appointment-Only Flu Vaccinations",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-14T00:00:00Z",
-      "collectedAt": "2026-09-22T08:47:40.634116213Z",
-      "contentHash": "f80a73342e35feb7f0c9c5bf36ac2336a19706dc1c71069510e5fd7e4b61f7e8",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/14/cleveland-clinic-begins-offering-appointment-only-flu-vaccinations"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     },
     {
       "id": "ca71c53b-df61-367f-91b3-4b1c0995f3e5",
