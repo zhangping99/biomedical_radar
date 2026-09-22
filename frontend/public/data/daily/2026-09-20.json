@@ -1,7 +1,55 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-22T06:45:16.868574048Z",
+  "generatedAt": "2026-09-22T07:41:36.322701848Z",
   "articles": [
+    {
+      "id": "68bf004f-0adf-369f-b2f1-f44a6b324ad1",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42764383/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42764383",
+      "titleOriginal": "What can we learn on ALS pathophysiology from iPSC-derived motor neurons harbouring TARBDP mutations: a systematic review.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-20T00:00:00Z",
+      "collectedAt": "2026-09-22T07:41:35.430663915Z",
+      "contentHash": "c0a322599eef08a5167b2287226a2ddca4a1b2366d1fd07735658d0fb82f8c66",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42764383/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
     {
       "id": "e18bd278-168a-3248-a856-fcdbc2a6d62d",
       "sourceId": "pumch-research",
@@ -46,54 +94,6 @@
       ],
       "importanceScore": 28,
       "importanceReasons": [
-        "近期更新"
-      ]
-    },
-    {
-      "id": "68bf004f-0adf-369f-b2f1-f44a6b324ad1",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42764383/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42764383",
-      "titleOriginal": "What can we learn on ALS pathophysiology from iPSC-derived motor neurons harbouring TARBDP mutations: a systematic review.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-20T00:00:00Z",
-      "collectedAt": "2026-09-21T19:25:46.452900207Z",
-      "contentHash": "c0a322599eef08a5167b2287226a2ddca4a1b2366d1fd07735658d0fb82f8c66",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42764383/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
         "近期更新"
       ]
     },

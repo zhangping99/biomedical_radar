@@ -1,7 +1,57 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-22T06:45:16.868574048Z",
+  "generatedAt": "2026-09-22T07:41:36.322701848Z",
   "articles": [
+    {
+      "id": "db88ad8b-f636-3385-a117-154d1a5c4d3c",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07793383",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07793383",
+      "titleOriginal": "Adaptive Decision Support for Addiction Treatment (ADAPT) Serial Randomized Testing for Usability, Round 3",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Opioid Abuse (Disorder)",
+        "Clinical Decision Support"
+      ],
+      "publishedAt": "2026-08-28T00:00:00Z",
+      "collectedAt": "2026-09-22T07:41:35.107009311Z",
+      "contentHash": "c5d050236de1c0e772342fa9372e67f0fe41f4f3481e39d438fb1e56d932c226",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07793383"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "37982a5c-21dd-3e8d-8d95-bf745ef2cacc",
       "sourceId": "lilly-news-releases",
@@ -375,56 +425,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "db88ad8b-f636-3385-a117-154d1a5c4d3c",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07793383",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07793383",
-      "titleOriginal": "Adaptive Decision Support for Addiction Treatment (ADAPT) Serial Randomized Testing for Usability, Round 3",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Opioid Abuse (Disorder)",
-        "Clinical Decision Support"
-      ],
-      "publishedAt": "2026-08-28T00:00:00Z",
-      "collectedAt": "2026-09-21T19:25:45.858795014Z",
-      "contentHash": "c5d050236de1c0e772342fa9372e67f0fe41f4f3481e39d438fb1e56d932c226",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07793383"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     },
     {
       "id": "d401c764-63aa-3c1f-ac08-9345d3855ed9",
