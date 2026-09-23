@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-23T06:37:13.325872432Z",
+  "generatedAt": "2026-09-23T07:44:06.287158283Z",
   "articles": [
+    {
+      "id": "8c3c78e9-f237-3545-b6af-ea07a1c9e9f5",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07737756",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07737756",
+      "titleOriginal": "A Real-World Medical Chart Review of Spinal Muscular Atrophy Patients Treated With Onasemnogene Abeparvovec in Saudi Arabia",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Spinal Muscular Atrophy"
+      ],
+      "publishedAt": "2026-07-30T00:00:00Z",
+      "collectedAt": "2026-09-23T07:44:05.242504616Z",
+      "contentHash": "dd2e41e70460fa03e287cd1217b62d8fe8aae275df21a582c1d85d6f69eeb0c6",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07737756"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "d65b28c0-5bae-3010-80a2-64c7f9a6273a",
       "sourceId": "sanofi-press-releases",
@@ -188,55 +237,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "8c3c78e9-f237-3545-b6af-ea07a1c9e9f5",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07737756",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07737756",
-      "titleOriginal": "A Real-World Medical Chart Review of Spinal Muscular Atrophy Patients Treated With Onasemnogene Abeparvovec in Saudi Arabia",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Spinal Muscular Atrophy"
-      ],
-      "publishedAt": "2026-07-30T00:00:00Z",
-      "collectedAt": "2026-09-22T18:04:25.345262447Z",
-      "contentHash": "dd2e41e70460fa03e287cd1217b62d8fe8aae275df21a582c1d85d6f69eeb0c6",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07737756"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     },
     {
       "id": "91e6314b-7bbb-38eb-bf78-a3ad60199a9d",

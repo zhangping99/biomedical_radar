@@ -1,7 +1,150 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-23T06:37:13.325872432Z",
+  "generatedAt": "2026-09-23T07:44:06.287158283Z",
   "articles": [
+    {
+      "id": "1e927c0e-b6f5-3c2a-846e-91dea1e8b3ce",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07826013",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07826013",
+      "titleOriginal": "The Effect of Horticultural Therapy on Anxiety and Quality of Life",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Horticultural Therapy"
+      ],
+      "publishedAt": "2026-09-17T00:00:00Z",
+      "collectedAt": "2026-09-23T07:44:05.243406890Z",
+      "contentHash": "d2fcc05522978a694645213f1791b81a5c3eef48f0c18bb8ab51cb4eddc69b79",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07826013"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "ccf11c65-c599-36c0-9581-1bad9bf7b270",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42770474/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42770474",
+      "titleOriginal": "Bicruciate-retaining versus cruciate-retaining total knee arthroplasty in implant fixation: a 10-year follow-up of a randomized RSA trial.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-17T00:00:00Z",
+      "collectedAt": "2026-09-23T07:44:06.003235712Z",
+      "contentHash": "6ac64a11991f10ae358767b31e1711baf778f4501d5da0fd1386d294b202edec",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42770474/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "955104c3-20a8-3b3a-b81a-9c18f2554cb0",
+      "sourceId": "nature-biotechnology",
+      "sourceName": "Nature Biotechnology",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41587-026-03319-6",
+      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03319-6",
+      "titleOriginal": "Gene editing using large insertions",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Biotechnology"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-17T00:00:00Z",
+      "collectedAt": "2026-09-23T07:44:05.596902903Z",
+      "contentHash": "8c4ffa27a737c12f31b873262ffc24fa00c5408a1c024c83314414a010b37628",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-biotechnology",
+          "sourceName": "Nature Biotechnology",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41587-026-03319-6"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "4f6b2074-4bd6-3201-9a59-ffea203f61ab",
       "sourceId": "abbvie-news",
@@ -384,102 +527,6 @@
       "importanceReasons": []
     },
     {
-      "id": "1e927c0e-b6f5-3c2a-846e-91dea1e8b3ce",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07826013",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07826013",
-      "titleOriginal": "The Effect of Horticultural Therapy on Anxiety and Quality of Life",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Horticultural Therapy"
-      ],
-      "publishedAt": "2026-09-17T00:00:00Z",
-      "collectedAt": "2026-09-22T18:04:25.347047360Z",
-      "contentHash": "d2fcc05522978a694645213f1791b81a5c3eef48f0c18bb8ab51cb4eddc69b79",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07826013"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "ccf11c65-c599-36c0-9581-1bad9bf7b270",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42770474/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42770474",
-      "titleOriginal": "Bicruciate-retaining versus cruciate-retaining total knee arthroplasty in implant fixation: a 10-year follow-up of a randomized RSA trial.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-17T00:00:00Z",
-      "collectedAt": "2026-09-22T18:04:25.906244065Z",
-      "contentHash": "6ac64a11991f10ae358767b31e1711baf778f4501d5da0fd1386d294b202edec",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42770474/"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
       "id": "9b085006-4d75-3464-a65a-d96bc873a561",
       "sourceId": "nature-medicine",
       "sourceName": "Nature Medicine",
@@ -519,53 +566,6 @@
           "sourceName": "Nature Medicine",
           "sourceTier": "A",
           "originalUrl": "https://www.nature.com/articles/s41591-026-04646-6"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "955104c3-20a8-3b3a-b81a-9c18f2554cb0",
-      "sourceId": "nature-biotechnology",
-      "sourceName": "Nature Biotechnology",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41587-026-03319-6",
-      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03319-6",
-      "titleOriginal": "Gene editing using large insertions",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Biotechnology"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-17T00:00:00Z",
-      "collectedAt": "2026-09-22T18:04:25.654402774Z",
-      "contentHash": "8c4ffa27a737c12f31b873262ffc24fa00c5408a1c024c83314414a010b37628",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-biotechnology",
-          "sourceName": "Nature Biotechnology",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41587-026-03319-6"
         }
       ],
       "importanceScore": 35,

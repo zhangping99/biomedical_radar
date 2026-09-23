@@ -1,7 +1,60 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-23T06:37:13.325872432Z",
+  "generatedAt": "2026-09-23T07:44:06.287158283Z",
   "articles": [
+    {
+      "id": "f34d7062-16dd-349a-b43e-7a545396c1ea",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07775313",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07775313",
+      "titleOriginal": "Base-Edited Hematopoietic Stem/Progenitor Cell Gene Therapy for Treatment of CXCR4-WHIM",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "WHIM",
+        "Warts",
+        "Hypogammaglobulinemia",
+        "Immunodeficiency",
+        "Myelokathexis"
+      ],
+      "publishedAt": "2026-08-20T00:00:00Z",
+      "collectedAt": "2026-09-23T07:44:05.243506230Z",
+      "contentHash": "162792342c8d39a32b71ea38293a7e298a89a5ed1eefda2fd973cbc637de3e50",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07775313"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "76bbf412-4a5f-3f3a-b942-25d992bc9d03",
       "sourceId": "hengrui-focus-news",
@@ -46,59 +99,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "f34d7062-16dd-349a-b43e-7a545396c1ea",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07775313",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07775313",
-      "titleOriginal": "Base-Edited Hematopoietic Stem/Progenitor Cell Gene Therapy for Treatment of CXCR4-WHIM",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "WHIM",
-        "Warts",
-        "Hypogammaglobulinemia",
-        "Immunodeficiency",
-        "Myelokathexis"
-      ],
-      "publishedAt": "2026-08-20T00:00:00Z",
-      "collectedAt": "2026-09-22T18:04:25.347166981Z",
-      "contentHash": "162792342c8d39a32b71ea38293a7e298a89a5ed1eefda2fd973cbc637de3e50",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07775313"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     }
   ]
 }
