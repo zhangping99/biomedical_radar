@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-23T12:59:31.916538366Z",
+  "generatedAt": "2026-09-23T13:37:57.656932770Z",
   "articles": [
+    {
+      "id": "66ce23a4-fd1e-3860-9ce5-c6f2ad170f37",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ana-salazar-modela-tu-cuerpo-inc-issues-nationwide-voluntary-recall-lipofit-extreme-fat-burner-20",
+      "canonicalUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ana-salazar-modela-tu-cuerpo-inc-issues-nationwide-voluntary-recall-lipofit-extreme-fat-burner-20",
+      "titleOriginal": "Ana Salazar Modela Tu Cuerpo Inc. Issues Nationwide Voluntary Recall of Lipofit Extreme Fat Burner 2.0 Due to Presence of Undeclared Fluoxetine and 2,4-Dinitrophenol (DNP)",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-31T04:00:00Z",
+      "collectedAt": "2026-09-23T13:37:55.486940530Z",
+      "contentHash": "6e85f2b07a55a6334e5b08e686bcdf7ece4950017204ee24a5f2d46b1fe48323",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ana-salazar-modela-tu-cuerpo-inc-issues-nationwide-voluntary-recall-lipofit-extreme-fat-burner-20"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "dd9d59c4-ad66-3fc4-aea0-4b9042d170e3",
       "sourceId": "lilly-news-releases",
@@ -141,55 +190,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "66ce23a4-fd1e-3860-9ce5-c6f2ad170f37",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ana-salazar-modela-tu-cuerpo-inc-issues-nationwide-voluntary-recall-lipofit-extreme-fat-burner-20",
-      "canonicalUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ana-salazar-modela-tu-cuerpo-inc-issues-nationwide-voluntary-recall-lipofit-extreme-fat-burner-20",
-      "titleOriginal": "Ana Salazar Modela Tu Cuerpo Inc. Issues Nationwide Voluntary Recall of Lipofit Extreme Fat Burner 2.0 Due to Presence of Undeclared Fluoxetine and 2,4-Dinitrophenol (DNP)",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-08-31T04:00:00Z",
-      "collectedAt": "2026-09-23T04:43:32.555332321Z",
-      "contentHash": "6e85f2b07a55a6334e5b08e686bcdf7ece4950017204ee24a5f2d46b1fe48323",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ana-salazar-modela-tu-cuerpo-inc-issues-nationwide-voluntary-recall-lipofit-extreme-fat-burner-20"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
     },
     {
       "id": "d32d659f-59bf-39a5-a64e-02a9d2fedf88",
