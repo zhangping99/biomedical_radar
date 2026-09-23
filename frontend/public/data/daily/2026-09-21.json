@@ -1,7 +1,105 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-23T17:57:57.125000863Z",
+  "generatedAt": "2026-09-23T18:24:08.646000089Z",
   "articles": [
+    {
+      "id": "0591d171-0454-3052-a8e6-cd4449952b64",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07830173",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07830173",
+      "titleOriginal": "\" Effects of Task Oriented Training on Balance With or Without Textured Insoles in Patient With Peripheral Diabetic Neuropathy.\"",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Balance Impairment in Peripheral Diabetic Neuropathy"
+      ],
+      "publishedAt": "2026-09-21T00:00:00Z",
+      "collectedAt": "2026-09-23T18:24:07.351672024Z",
+      "contentHash": "88b6b3984a4ac6cc5532edeec7033eb31fba4e498a76b7fd7073a116753b2932",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07830173"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "3f6fbee1-56d5-3697-9a7d-23d47651ce46",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42773453/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42773453",
+      "titleOriginal": "Sexual and gender minority parents\u0027 experiences of lactation: a meta-ethnographic review.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-21T00:00:00Z",
+      "collectedAt": "2026-09-23T18:24:07.962590487Z",
+      "contentHash": "225bfe8a6889c13de3b6c23c3c3f45894053e5429a13fc216690bf7a171bc7da",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42773453/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
     {
       "id": "01b565b4-ba1b-3f0f-9d15-999accd6d511",
       "sourceId": "merck-news-releases",
