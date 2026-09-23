@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-23T19:11:44.540338203Z",
+  "generatedAt": "2026-09-23T19:40:46.591280724Z",
   "articles": [
     {
       "id": "b20ebc0f-3015-3d70-918a-8ebcdbbe62f1",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-03T04:00:00Z",
-      "collectedAt": "2026-09-23T13:37:55.478780025Z",
+      "collectedAt": "2026-09-23T19:40:44.536440558Z",
       "contentHash": "832f9f7b079afb840ed6695996b9b8bebdb2793d9bee3270e7b6ab9eea366043",
       "generated": false,
       "generatorVersion": null,
@@ -77,7 +77,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-03T04:00:00Z",
-      "collectedAt": "2026-09-23T13:37:55.481052183Z",
+      "collectedAt": "2026-09-23T19:40:44.537418621Z",
       "contentHash": "2ebd9fdf3c69a0df375bf0e38ebb377f070d2294d10d5f6431294175915f2a2e",
       "generated": false,
       "generatorVersion": null,
@@ -126,7 +126,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-03T04:00:00Z",
-      "collectedAt": "2026-09-23T13:37:55.479049200Z",
+      "collectedAt": "2026-09-23T19:40:44.536673331Z",
       "contentHash": "ae1f324a66dcb81aae178a3abc6033f5b338b04cf9f988fc674aa6df33b6116e",
       "generated": false,
       "generatorVersion": null,
@@ -140,54 +140,6 @@
           "sourceName": "FDA MedWatch Safety Alerts",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "1211fee0-37c4-3b11-9319-ffb0accead64",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
-      "titleOriginal": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-03T04:00:00Z",
-      "collectedAt": "2026-09-23T13:37:55.482290315Z",
-      "contentHash": "e4fc647817a710c1f1e6c4362f3aaa4124a7dc808522e433532e3cccfe7d689f",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software"
         }
       ],
       "importanceScore": 50,
@@ -222,7 +174,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-03T04:00:00Z",
-      "collectedAt": "2026-09-23T13:37:55.482586981Z",
+      "collectedAt": "2026-09-23T19:40:44.536930641Z",
       "contentHash": "998a9aa982220a144270efae79a79ecce24bd1a829825956edd76b84b2e1025d",
       "generated": false,
       "generatorVersion": null,
@@ -236,6 +188,54 @@
           "sourceName": "FDA MedWatch Safety Alerts",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "1211fee0-37c4-3b11-9319-ffb0accead64",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
+      "titleOriginal": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-03T04:00:00Z",
+      "collectedAt": "2026-09-23T19:40:44.537151142Z",
+      "contentHash": "e4fc647817a710c1f1e6c4362f3aaa4124a7dc808522e433532e3cccfe7d689f",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software"
         }
       ],
       "importanceScore": 50,
