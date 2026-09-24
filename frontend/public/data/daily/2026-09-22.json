@@ -1,7 +1,54 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-24T07:34:58.048544022Z",
+  "generatedAt": "2026-09-24T08:44:13.323648367Z",
   "articles": [
+    {
+      "id": "fac5d1ef-c8ae-3923-a2ce-c00dad76c11b",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/22/properly-fueling-your-child-for-sports",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/22/properly-fueling-your-child-for-sports",
+      "titleOriginal": "Properly Fueling Your Child for Sports",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-22T00:00:00Z",
+      "collectedAt": "2026-09-24T08:44:13.271803896Z",
+      "contentHash": "bc51c757a20b8493ee35a64296be9e6638704156b71be8392c386bd1563ae0d1",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/22/properly-fueling-your-child-for-sports"
+        }
+      ],
+      "importanceScore": 28,
+      "importanceReasons": [
+        "近期更新"
+      ]
+    },
     {
       "id": "d4864144-1906-34b5-913c-a7b08801bfda",
       "sourceId": "pubmed-recent",
@@ -1312,53 +1359,6 @@
       "importanceScore": 43,
       "importanceReasons": [
         "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "fac5d1ef-c8ae-3923-a2ce-c00dad76c11b",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/22/properly-fueling-your-child-for-sports",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/22/properly-fueling-your-child-for-sports",
-      "titleOriginal": "Properly Fueling Your Child for Sports",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-22T00:00:00Z",
-      "collectedAt": "2026-09-23T19:11:40.445132250Z",
-      "contentHash": "bc51c757a20b8493ee35a64296be9e6638704156b71be8392c386bd1563ae0d1",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/22/properly-fueling-your-child-for-sports"
-        }
-      ],
-      "importanceScore": 28,
-      "importanceReasons": [
         "近期更新"
       ]
     },
