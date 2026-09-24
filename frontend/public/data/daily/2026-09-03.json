@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-24T19:29:12.411689708Z",
+  "generatedAt": "2026-09-24T20:00:02.424823526Z",
   "articles": [
     {
       "id": "b20ebc0f-3015-3d70-918a-8ebcdbbe62f1",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-03T04:00:00Z",
-      "collectedAt": "2026-09-24T13:32:53.485880233Z",
+      "collectedAt": "2026-09-24T19:59:59.875905547Z",
       "contentHash": "832f9f7b079afb840ed6695996b9b8bebdb2793d9bee3270e7b6ab9eea366043",
       "generated": false,
       "generatorVersion": null,
@@ -77,7 +77,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-03T04:00:00Z",
-      "collectedAt": "2026-09-24T13:32:53.486829131Z",
+      "collectedAt": "2026-09-24T19:59:59.876369863Z",
       "contentHash": "2ebd9fdf3c69a0df375bf0e38ebb377f070d2294d10d5f6431294175915f2a2e",
       "generated": false,
       "generatorVersion": null,
@@ -97,54 +97,6 @@
       "importanceReasons": [
         "官方一手来源",
         "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "21c89feb-390e-3f1b-8fbc-dda7a8759ad1",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
-      "titleOriginal": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-03T04:00:00Z",
-      "collectedAt": "2026-09-24T13:32:53.486108797Z",
-      "contentHash": "ae1f324a66dcb81aae178a3abc6033f5b338b04cf9f988fc674aa6df33b6116e",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
         "政策或安全相关"
       ]
     },
@@ -174,7 +126,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-03T04:00:00Z",
-      "collectedAt": "2026-09-24T13:32:53.486325523Z",
+      "collectedAt": "2026-09-24T19:59:59.876131891Z",
       "contentHash": "998a9aa982220a144270efae79a79ecce24bd1a829825956edd76b84b2e1025d",
       "generated": false,
       "generatorVersion": null,
@@ -222,7 +174,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-03T04:00:00Z",
-      "collectedAt": "2026-09-24T13:32:53.486557622Z",
+      "collectedAt": "2026-09-24T19:59:59.879508982Z",
       "contentHash": "e4fc647817a710c1f1e6c4362f3aaa4124a7dc808522e433532e3cccfe7d689f",
       "generated": false,
       "generatorVersion": null,
@@ -236,6 +188,54 @@
           "sourceName": "FDA MedWatch Safety Alerts",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "21c89feb-390e-3f1b-8fbc-dda7a8759ad1",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+      "titleOriginal": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-03T04:00:00Z",
+      "collectedAt": "2026-09-24T13:32:53.486108797Z",
+      "contentHash": "ae1f324a66dcb81aae178a3abc6033f5b338b04cf9f988fc674aa6df33b6116e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed"
         }
       ],
       "importanceScore": 50,
