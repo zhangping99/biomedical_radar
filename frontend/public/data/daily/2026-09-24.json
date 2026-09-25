@@ -1,7 +1,405 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-25T22:46:20.738608542Z",
+  "generatedAt": "2026-09-25T23:18:03.294415339Z",
   "articles": [
+    {
+      "id": "87081c92-cc7a-33ba-b826-3585609d9ed9",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers",
+      "titleOriginal": "Heart Pump Controller Recall: Abiomed Removes Automated Impella Controllers",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-24T04:00:00Z",
+      "collectedAt": "2026-09-25T23:18:01.394205727Z",
+      "contentHash": "daed6cfe0a64773922591328aa5114e15db48df3a89b755a82b8b3cc60b6e3ce",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers"
+        }
+      ],
+      "importanceScore": 73,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "fe02de6b-dc52-3c9e-867a-ff23d94edfdc",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-becton-dickinson-issues-correction-kits-and-procedure-trays-containing",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-becton-dickinson-issues-correction-kits-and-procedure-trays-containing",
+      "titleOriginal": "Convenience Kit Correction: Becton Dickinson Issues Correction for Kits and Procedure Trays Containing Recalled Sodium Chloride Ampules",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-24T04:00:00Z",
+      "collectedAt": "2026-09-25T23:18:01.394498987Z",
+      "contentHash": "422ca48fed6c07533e6f497b489e8e9b357dea68d432dbcb9b568885de9f79b8",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-becton-dickinson-issues-correction-kits-and-procedure-trays-containing"
+        }
+      ],
+      "importanceScore": 73,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "1cdf9045-a706-38cb-8d94-65308a9d1cd9",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/interstimtm-systems",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/interstimtm-systems",
+      "titleOriginal": "InterStimTM Systems",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-24T00:00:00Z",
+      "collectedAt": "2026-09-25T23:18:01.778353963Z",
+      "contentHash": "6f2454d0b0ef294f39c106c46a8f7805671193c6846f6c82aba567d97392a514",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/interstimtm-systems"
+        }
+      ],
+      "importanceScore": 73,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "fcf8ae3f-97af-3859-9e6c-3b0fc6477daa",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/likoralltm-patient-lift-systems",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/likoralltm-patient-lift-systems",
+      "titleOriginal": "LikorallTM Patient Lift Systems",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-24T00:00:00Z",
+      "collectedAt": "2026-09-25T23:18:01.778566402Z",
+      "contentHash": "5710358ebe9d35f40d4020025d13d88d93bfedbfe5a13f756c5aea460f3d432e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/likoralltm-patient-lift-systems"
+        }
+      ],
+      "importanceScore": 73,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "ff53645b-a0b7-3bd6-a9a5-85148b652a65",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/apo-semaglutide-injection-incorrect-dose-display-0",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/apo-semaglutide-injection-incorrect-dose-display-0",
+      "titleOriginal": "Apo-Semaglutide Injection : Incorrect dose display",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-24T00:00:00Z",
+      "collectedAt": "2026-09-25T23:18:01.778767779Z",
+      "contentHash": "5cbab7461df4c86a1ac9374ad81202857fae70cf72c6429792b295c9d27076cf",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/apo-semaglutide-injection-incorrect-dose-display-0"
+        }
+      ],
+      "importanceScore": 73,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "c5fdfbc8-f0e5-3552-8506-a99d2f895fe1",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/inzoner-detachment-system",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/inzoner-detachment-system",
+      "titleOriginal": "Inzone® Detachment System",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-24T00:00:00Z",
+      "collectedAt": "2026-09-25T23:18:01.778963025Z",
+      "contentHash": "60c2bcbfefa78e04ac363b2d9f045548ffe4206d01a42c93aac1301851e84616",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/inzoner-detachment-system"
+        }
+      ],
+      "importanceScore": 73,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "5fdecd51-2b78-3594-acd4-06fcb070d337",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/public-meeting-recommendations-reauthorization-prescription-drug-user-fee-act-pdufa-09162026",
+      "canonicalUrl": "https://www.fda.gov/drugs/news-events-human-drugs/public-meeting-recommendations-reauthorization-prescription-drug-user-fee-act-pdufa-09162026",
+      "titleOriginal": "Public Meeting on the Recommendations for Reauthorization of the Prescription Drug User Fee Act (PDUFA) - 09/16/2026",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-24T22:32:35Z",
+      "collectedAt": "2026-09-25T23:18:01.405033202Z",
+      "contentHash": "747f89c7324b2fc2763a312eedacb12c273b79ffc0eb19c0051618ccccc2437f",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/public-meeting-recommendations-reauthorization-prescription-drug-user-fee-act-pdufa-09162026"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "312b8f62-d278-339f-8457-b355a56fcd28",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
+      "canonicalUrl": "https://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
+      "titleOriginal": "Drugs@FDA Data Files",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-24T13:19:09Z",
+      "collectedAt": "2026-09-25T23:18:01.395535725Z",
+      "contentHash": "e35c6dbeb7bb4563f50334ba9ae7a78b18257d0f8c70ac0b466c6d287adfe55a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
     {
       "id": "281fd232-2ad3-3b15-9d64-aa49b44634fe",
       "sourceId": "lilly-news-releases",
@@ -194,355 +592,6 @@
       ]
     },
     {
-      "id": "87081c92-cc7a-33ba-b826-3585609d9ed9",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers",
-      "titleOriginal": "Heart Pump Controller Recall: Abiomed Removes Automated Impella Controllers",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-24T04:00:00Z",
-      "collectedAt": "2026-09-25T20:01:11.784638899Z",
-      "contentHash": "daed6cfe0a64773922591328aa5114e15db48df3a89b755a82b8b3cc60b6e3ce",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers"
-        }
-      ],
-      "importanceScore": 73,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "fe02de6b-dc52-3c9e-867a-ff23d94edfdc",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-becton-dickinson-issues-correction-kits-and-procedure-trays-containing",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-becton-dickinson-issues-correction-kits-and-procedure-trays-containing",
-      "titleOriginal": "Convenience Kit Correction: Becton Dickinson Issues Correction for Kits and Procedure Trays Containing Recalled Sodium Chloride Ampules",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-24T04:00:00Z",
-      "collectedAt": "2026-09-25T20:01:11.790379985Z",
-      "contentHash": "422ca48fed6c07533e6f497b489e8e9b357dea68d432dbcb9b568885de9f79b8",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-becton-dickinson-issues-correction-kits-and-procedure-trays-containing"
-        }
-      ],
-      "importanceScore": 73,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "1cdf9045-a706-38cb-8d94-65308a9d1cd9",
-      "sourceId": "health-canada-health-products",
-      "sourceName": "Health Canada Health Product Recalls",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/interstimtm-systems",
-      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/interstimtm-systems",
-      "titleOriginal": "InterStimTM Systems",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Health Canada"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-24T00:00:00Z",
-      "collectedAt": "2026-09-25T20:01:14.380779423Z",
-      "contentHash": "6f2454d0b0ef294f39c106c46a8f7805671193c6846f6c82aba567d97392a514",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "health-canada-health-products",
-          "sourceName": "Health Canada Health Product Recalls",
-          "sourceTier": "A",
-          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/interstimtm-systems"
-        }
-      ],
-      "importanceScore": 73,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "fcf8ae3f-97af-3859-9e6c-3b0fc6477daa",
-      "sourceId": "health-canada-health-products",
-      "sourceName": "Health Canada Health Product Recalls",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/likoralltm-patient-lift-systems",
-      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/likoralltm-patient-lift-systems",
-      "titleOriginal": "LikorallTM Patient Lift Systems",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Health Canada"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-24T00:00:00Z",
-      "collectedAt": "2026-09-25T20:01:14.380934272Z",
-      "contentHash": "5710358ebe9d35f40d4020025d13d88d93bfedbfe5a13f756c5aea460f3d432e",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "health-canada-health-products",
-          "sourceName": "Health Canada Health Product Recalls",
-          "sourceTier": "A",
-          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/likoralltm-patient-lift-systems"
-        }
-      ],
-      "importanceScore": 73,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "ff53645b-a0b7-3bd6-a9a5-85148b652a65",
-      "sourceId": "health-canada-health-products",
-      "sourceName": "Health Canada Health Product Recalls",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/apo-semaglutide-injection-incorrect-dose-display-0",
-      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/apo-semaglutide-injection-incorrect-dose-display-0",
-      "titleOriginal": "Apo-Semaglutide Injection : Incorrect dose display",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Health Canada"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-24T00:00:00Z",
-      "collectedAt": "2026-09-25T20:01:14.381103975Z",
-      "contentHash": "5cbab7461df4c86a1ac9374ad81202857fae70cf72c6429792b295c9d27076cf",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "health-canada-health-products",
-          "sourceName": "Health Canada Health Product Recalls",
-          "sourceTier": "A",
-          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/apo-semaglutide-injection-incorrect-dose-display-0"
-        }
-      ],
-      "importanceScore": 73,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "c5fdfbc8-f0e5-3552-8506-a99d2f895fe1",
-      "sourceId": "health-canada-health-products",
-      "sourceName": "Health Canada Health Product Recalls",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/inzoner-detachment-system",
-      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/inzoner-detachment-system",
-      "titleOriginal": "Inzone® Detachment System",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Health Canada"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-24T00:00:00Z",
-      "collectedAt": "2026-09-25T20:01:14.381260306Z",
-      "contentHash": "60c2bcbfefa78e04ac363b2d9f045548ffe4206d01a42c93aac1301851e84616",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "health-canada-health-products",
-          "sourceName": "Health Canada Health Product Recalls",
-          "sourceTier": "A",
-          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/inzoner-detachment-system"
-        }
-      ],
-      "importanceScore": 73,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "5fdecd51-2b78-3594-acd4-06fcb070d337",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/public-meeting-recommendations-reauthorization-prescription-drug-user-fee-act-pdufa-09162026",
-      "canonicalUrl": "https://www.fda.gov/drugs/news-events-human-drugs/public-meeting-recommendations-reauthorization-prescription-drug-user-fee-act-pdufa-09162026",
-      "titleOriginal": "Public Meeting on the Recommendations for Reauthorization of the Prescription Drug User Fee Act (PDUFA) - 09/16/2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-24T22:32:35Z",
-      "collectedAt": "2026-09-25T20:01:11.798227329Z",
-      "contentHash": "747f89c7324b2fc2763a312eedacb12c273b79ffc0eb19c0051618ccccc2437f",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/public-meeting-recommendations-reauthorization-prescription-drug-user-fee-act-pdufa-09162026"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
       "id": "f4b91444-d6e2-3eb5-8678-d9feac470587",
       "sourceId": "fda-drug-news",
       "sourceName": "U.S. Food and Drug Administration - Drugs",
@@ -687,55 +736,6 @@
         "官方一手来源",
         "政策或安全相关",
         "24小时内更新"
-      ]
-    },
-    {
-      "id": "312b8f62-d278-339f-8457-b355a56fcd28",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
-      "canonicalUrl": "https://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files",
-      "titleOriginal": "Drugs@FDA Data Files",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-24T13:19:09Z",
-      "collectedAt": "2026-09-25T20:01:11.791538507Z",
-      "contentHash": "e35c6dbeb7bb4563f50334ba9ae7a78b18257d0f8c70ac0b466c6d287adfe55a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "近期更新"
       ]
     },
     {
