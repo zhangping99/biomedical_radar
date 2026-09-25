@@ -1,7 +1,54 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-25T07:45:29.709608862Z",
+  "generatedAt": "2026-09-25T09:04:12.835636180Z",
   "articles": [
+    {
+      "id": "5cf24092-facd-37d8-847d-06c0cbcebf13",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/25/six-cleveland-clinic-hospitals-recognized-as-top-performers-by-vizient",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/25/six-cleveland-clinic-hospitals-recognized-as-top-performers-by-vizient",
+      "titleOriginal": "Six Cleveland Clinic Hospitals Recognized as Top Performers by Vizient",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-25T00:00:00Z",
+      "collectedAt": "2026-09-25T09:04:09.446717323Z",
+      "contentHash": "247fdb22e3485e29b88972a0b59bbd4167e777ca0957fa81f5c33bf5b7ff603e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/25/six-cleveland-clinic-hospitals-recognized-as-top-performers-by-vizient"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "24小时内更新"
+      ]
+    },
     {
       "id": "f4f4b9a9-e499-37dc-bb40-ec6026b4ee52",
       "sourceId": "europe-pmc-recent",
@@ -4134,53 +4181,6 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "5cf24092-facd-37d8-847d-06c0cbcebf13",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/25/six-cleveland-clinic-hospitals-recognized-as-top-performers-by-vizient",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/25/six-cleveland-clinic-hospitals-recognized-as-top-performers-by-vizient",
-      "titleOriginal": "Six Cleveland Clinic Hospitals Recognized as Top Performers by Vizient",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-25T00:00:00Z",
-      "collectedAt": "2026-09-24T19:29:06.190511271Z",
-      "contentHash": "247fdb22e3485e29b88972a0b59bbd4167e777ca0957fa81f5c33bf5b7ff603e",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/25/six-cleveland-clinic-hospitals-recognized-as-top-performers-by-vizient"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
         "24小时内更新"
       ]
     },
