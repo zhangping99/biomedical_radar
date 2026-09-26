@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-26T22:11:06.878424660Z",
+  "generatedAt": "2026-09-26T22:48:37.749777086Z",
   "articles": [
     {
       "id": "dcb6498b-81d3-3a7f-9d87-11e994f52453",
@@ -29,7 +29,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-23T19:30:50Z",
-      "collectedAt": "2026-09-26T19:13:09.848605275Z",
+      "collectedAt": "2026-09-26T22:48:35.909713571Z",
       "contentHash": "8e995dbc9dcb19c84c6f4fada6c1b002ce43841bc927769d78f69df23487ef5b",
       "generated": false,
       "generatorVersion": null,
@@ -45,12 +45,11 @@
           "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/fda-takes-action-new-boxed-warning-adzynma-enzyme-replacement-therapy-congenital-thrombotic"
         }
       ],
-      "importanceScore": 88,
+      "importanceScore": 80,
       "importanceReasons": [
         "官方一手来源",
         "高影响事件",
-        "政策或安全相关",
-        "近期更新"
+        "政策或安全相关"
       ]
     },
     {
@@ -79,7 +78,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-23T19:31:30Z",
-      "collectedAt": "2026-09-26T19:13:09.848442422Z",
+      "collectedAt": "2026-09-26T22:48:35.909519824Z",
       "contentHash": "0a574b5e8bb19bc281b3d72c8c59196acf885f3e498bc939e99d3605180a9ec6",
       "generated": false,
       "generatorVersion": null,
@@ -95,12 +94,11 @@
           "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/2026-safety-and-availability-communications"
         }
       ],
-      "importanceScore": 73,
+      "importanceScore": 65,
       "importanceReasons": [
         "官方一手来源",
         "高影响事件",
-        "政策或安全相关",
-        "近期更新"
+        "政策或安全相关"
       ]
     },
     {
@@ -129,7 +127,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-23T14:31:12Z",
-      "collectedAt": "2026-09-26T19:13:09.848832183Z",
+      "collectedAt": "2026-09-26T22:48:35.909942429Z",
       "contentHash": "17c84213daaf134a25029a4afb7c9b13c8ad619f9531745d82d38c87511e3136",
       "generated": false,
       "generatorVersion": null,
@@ -178,7 +176,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-23T00:00:00Z",
-      "collectedAt": "2026-09-26T19:13:10.429002681Z",
+      "collectedAt": "2026-09-26T22:48:36.481910957Z",
       "contentHash": "e25871408be6516da738d03d5eb1577d0cef17e696a4afed1e5bad7bc57bfe05",
       "generated": false,
       "generatorVersion": null,
@@ -227,7 +225,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-23T00:00:00Z",
-      "collectedAt": "2026-09-26T19:13:10.429125104Z",
+      "collectedAt": "2026-09-26T22:48:36.482021501Z",
       "contentHash": "30715cfd1bbd1e868638da8d6d40b63de2180aff9bf95e222ad2d946e6057d98",
       "generated": false,
       "generatorVersion": null,
@@ -276,7 +274,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-23T19:48:55Z",
-      "collectedAt": "2026-09-26T19:13:09.847943027Z",
+      "collectedAt": "2026-09-26T22:48:35.907270117Z",
       "contentHash": "fc98e573fafce6836080535f0272696bd441438c43f99206d021c545ec43bd17",
       "generated": false,
       "generatorVersion": null,
@@ -290,55 +288,6 @@
           "sourceName": "FDA Vaccines, Blood and Biologics",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "94335c44-88e9-376a-aa97-0d5ac7e5ed17",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-ventilator-issue-react-health",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-ventilator-issue-react-health",
-      "titleOriginal": "Early Alert: Ventilator Issue from React Health",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-23T04:00:00Z",
-      "collectedAt": "2026-09-26T19:13:09.842992354Z",
-      "contentHash": "b5c7d8d77becff793f3a288c59c9ad220b2ab7534688d13fcd71d8b625a32e78",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-ventilator-issue-react-health"
         }
       ],
       "importanceScore": 50,
@@ -373,7 +322,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-23T04:00:00Z",
-      "collectedAt": "2026-09-26T19:13:09.843192943Z",
+      "collectedAt": "2026-09-26T22:48:35.904479670Z",
       "contentHash": "1036651edef9ddf242b4d591444ff0202e2f1fc61115362b1797856a66ecbf74",
       "generated": false,
       "generatorVersion": null,
@@ -387,6 +336,54 @@
           "sourceName": "FDA MedWatch Safety Alerts",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-issue-abiomed"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "94335c44-88e9-376a-aa97-0d5ac7e5ed17",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-ventilator-issue-react-health",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-ventilator-issue-react-health",
+      "titleOriginal": "Early Alert: Ventilator Issue from React Health",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-23T04:00:00Z",
+      "collectedAt": "2026-09-26T22:48:35.904747216Z",
+      "contentHash": "b5c7d8d77becff793f3a288c59c9ad220b2ab7534688d13fcd71d8b625a32e78",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-ventilator-issue-react-health"
         }
       ],
       "importanceScore": 50,
