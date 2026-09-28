@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-28T15:55:09.342885780Z",
+  "generatedAt": "2026-09-28T16:44:58.950822567Z",
   "articles": [
+    {
+      "id": "0407daf0-f056-37ed-8f63-c02eb0fa689e",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/rapicidetm-pa-high-level-disinfectant",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/rapicidetm-pa-high-level-disinfectant",
+      "titleOriginal": "RAPICIDETM PA High Level Disinfectant",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-17T00:00:00Z",
+      "collectedAt": "2026-09-28T16:44:56.669788378Z",
+      "contentHash": "6693be10f991804b29d4ad2a2232750fe5ece152a6d8ed53a574847c89c54dcb",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/rapicidetm-pa-high-level-disinfectant"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "4f6b2074-4bd6-3201-9a59-ffea203f61ab",
       "sourceId": "abbvie-news",
@@ -139,55 +188,6 @@
       "importanceScore": 35,
       "importanceReasons": [
         "官方一手来源"
-      ]
-    },
-    {
-      "id": "0407daf0-f056-37ed-8f63-c02eb0fa689e",
-      "sourceId": "health-canada-health-products",
-      "sourceName": "Health Canada Health Product Recalls",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/rapicidetm-pa-high-level-disinfectant",
-      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/rapicidetm-pa-high-level-disinfectant",
-      "titleOriginal": "RAPICIDETM PA High Level Disinfectant",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Health Canada"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-17T00:00:00Z",
-      "collectedAt": "2026-09-28T05:21:40.273502314Z",
-      "contentHash": "6693be10f991804b29d4ad2a2232750fe5ece152a6d8ed53a574847c89c54dcb",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "health-canada-health-products",
-          "sourceName": "Health Canada Health Product Recalls",
-          "sourceTier": "A",
-          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/rapicidetm-pa-high-level-disinfectant"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
       ]
     },
     {
