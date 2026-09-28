@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-28T16:44:58.950822567Z",
-  "batchStartedAt": "2026-09-28T16:44:52.901608272Z",
-  "batchCompletedAt": "2026-09-28T16:44:58.950822567Z",
+  "generatedAt": "2026-09-28T20:32:54.413535029Z",
+  "batchStartedAt": "2026-09-28T20:32:52.256625962Z",
+  "batchCompletedAt": "2026-09-28T20:32:54.413535029Z",
   "sources": [
     {
       "sourceId": "3sbio-news",
@@ -152,8 +152,8 @@
       "sourceId": "clinicaltrials-recent",
       "sourceName": "ClinicalTrials.gov",
       "status": "ok",
-      "startedAt": "2026-09-28T08:40:13.528110326Z",
-      "completedAt": "2026-09-28T08:40:14.225912695Z",
+      "startedAt": "2026-09-28T20:32:52.258167801Z",
+      "completedAt": "2026-09-28T20:32:52.799376409Z",
       "fetchedCount": 20,
       "newCount": 20,
       "duplicateCount": 0,
@@ -183,18 +183,18 @@
     {
       "sourceId": "europe-pmc-recent",
       "sourceName": "Europe PMC",
-      "status": "ok",
-      "startedAt": "2026-09-28T08:40:13.529933153Z",
-      "completedAt": "2026-09-28T08:40:32.533525298Z",
-      "fetchedCount": 40,
-      "newCount": 40,
+      "status": "failed",
+      "startedAt": "2026-09-28T20:32:52.258425383Z",
+      "completedAt": "2026-09-28T20:32:54.314286593Z",
+      "fetchedCount": 0,
+      "newCount": 0,
       "duplicateCount": 0,
-      "failedCount": 0,
+      "failedCount": 1,
       "httpStatusClasses": {
-        "2xx": 1
+        "5xx": 1
       },
-      "errorCode": null,
-      "nextRetryAt": null
+      "errorCode": "HTTP_503",
+      "nextRetryAt": "2026-09-29T08:32:54.314414472Z"
     },
     {
       "sourceId": "fda-biologics-news",
@@ -360,8 +360,8 @@
       "sourceId": "medrxiv-recent",
       "sourceName": "medRxiv",
       "status": "ok",
-      "startedAt": "2026-09-28T08:40:14.267660976Z",
-      "completedAt": "2026-09-28T08:40:14.780118020Z",
+      "startedAt": "2026-09-28T20:32:52.869770129Z",
+      "completedAt": "2026-09-28T20:32:53.426756996Z",
       "fetchedCount": 20,
       "newCount": 20,
       "duplicateCount": 0,
@@ -408,8 +408,8 @@
       "sourceId": "nature-biotechnology",
       "sourceName": "Nature Biotechnology",
       "status": "ok",
-      "startedAt": "2026-09-28T08:40:14.452315261Z",
-      "completedAt": "2026-09-28T08:40:14.495082624Z",
+      "startedAt": "2026-09-28T20:32:53.097528303Z",
+      "completedAt": "2026-09-28T20:32:53.161552558Z",
       "fetchedCount": 8,
       "newCount": 8,
       "duplicateCount": 0,
@@ -424,8 +424,8 @@
       "sourceId": "nature-medicine",
       "sourceName": "Nature Medicine",
       "status": "ok",
-      "startedAt": "2026-09-28T08:40:13.533299830Z",
-      "completedAt": "2026-09-28T08:40:14.267627538Z",
+      "startedAt": "2026-09-28T20:32:52.259545641Z",
+      "completedAt": "2026-09-28T20:32:52.869734983Z",
       "fetchedCount": 8,
       "newCount": 8,
       "duplicateCount": 0,
@@ -440,8 +440,8 @@
       "sourceId": "nature-reviews-cancer",
       "sourceName": "Nature Reviews Cancer",
       "status": "ok",
-      "startedAt": "2026-09-28T08:40:14.495111387Z",
-      "completedAt": "2026-09-28T08:40:14.527583408Z",
+      "startedAt": "2026-09-28T20:32:53.161594687Z",
+      "completedAt": "2026-09-28T20:32:53.201347876Z",
       "fetchedCount": 8,
       "newCount": 8,
       "duplicateCount": 0,
@@ -455,18 +455,18 @@
     {
       "sourceId": "nejm-current-issue",
       "sourceName": "New England Journal of Medicine",
-      "status": "failed",
-      "startedAt": "2026-09-28T08:40:14.226120915Z",
-      "completedAt": "2026-09-28T08:40:14.452222342Z",
-      "fetchedCount": 0,
-      "newCount": 0,
+      "status": "ok",
+      "startedAt": "2026-09-28T20:32:52.799543771Z",
+      "completedAt": "2026-09-28T20:32:53.395569096Z",
+      "fetchedCount": 20,
+      "newCount": 20,
       "duplicateCount": 0,
-      "failedCount": 1,
+      "failedCount": 0,
       "httpStatusClasses": {
-        "4xx": 1
+        "2xx": 1
       },
-      "errorCode": "HTTP_403",
-      "nextRetryAt": "2026-09-28T20:40:14.452279707Z"
+      "errorCode": null,
+      "nextRetryAt": null
     },
     {
       "sourceId": "nhsa-healthcare-security-updates",
@@ -566,8 +566,8 @@
       "sourceId": "pubmed-recent",
       "sourceName": "PubMed",
       "status": "ok",
-      "startedAt": "2026-09-28T08:40:13.530766484Z",
-      "completedAt": "2026-09-28T08:40:14.570412154Z",
+      "startedAt": "2026-09-28T20:32:52.259052855Z",
+      "completedAt": "2026-09-28T20:32:53.097498337Z",
       "fetchedCount": 40,
       "newCount": 40,
       "duplicateCount": 0,

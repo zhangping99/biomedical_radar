@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-28T16:44:58.950822567Z",
+  "generatedAt": "2026-09-28T20:32:54.413535029Z",
   "articles": [
+    {
+      "id": "c0e14572-2083-34ce-b7c5-1a755c97f5be",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07748728",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07748728",
+      "titleOriginal": "TLL-018 in Patients With Moderate to Severe Active Rheumatoid Arthritis With Inadequate Response or Intolerance to csDMARDs",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Rheumatoid Arthritis (RA)"
+      ],
+      "publishedAt": "2026-08-06T00:00:00Z",
+      "collectedAt": "2026-09-28T20:32:52.785458216Z",
+      "contentHash": "351720d91e26e05aa75d157b0ff6e27bbec4b4bb34d2a7be65de21f8b3af49d7",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07748728"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "9f6d4b27-4def-3d86-9b94-9aaa409263b7",
       "sourceId": "merck-news-releases",
