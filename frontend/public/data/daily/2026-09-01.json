@@ -1,7 +1,54 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-29T22:36:29.468371876Z",
+  "generatedAt": "2026-09-29T23:10:20.062060708Z",
   "articles": [
+    {
+      "id": "e85e2fcc-6a1c-3f95-b278-52cdf8000bba",
+      "sourceId": "gsk-press-releases",
+      "sourceName": "GSK Press Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.gsk.com/en-gb/media/press-releases/gsk-to-advance-mrna-seasonal-flu-vaccine-candidate-to-phase-iii-following-positive-phase-ii-data/",
+      "canonicalUrl": "https://www.gsk.com/en-gb/media/press-releases/gsk-to-advance-mrna-seasonal-flu-vaccine-candidate-to-phase-iii-following-positive-phase-ii-data",
+      "titleOriginal": "GSK to advance mRNA seasonal flu vaccine candidate to phase III following positive phase II data",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "drug_rd",
+      "eventTypes": [
+        "phase_3_result"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "GSK"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-01T07:00:00Z",
+      "collectedAt": "2026-09-29T23:10:16.538632359Z",
+      "contentHash": "d052ba0ecf5f1232bfcbc5f713f6968940115e3c5b2b8ee4b6a03e0aa22321a3",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "gsk-press-releases",
+          "sourceName": "GSK Press Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://www.gsk.com/en-gb/media/press-releases/gsk-to-advance-mrna-seasonal-flu-vaccine-candidate-to-phase-iii-following-positive-phase-ii-data/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "高影响事件"
+      ]
+    },
     {
       "id": "6566ef5c-5257-35d0-8a1b-79467b94ae8d",
       "sourceId": "ema-news",
@@ -48,53 +95,6 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关"
-      ]
-    },
-    {
-      "id": "e85e2fcc-6a1c-3f95-b278-52cdf8000bba",
-      "sourceId": "gsk-press-releases",
-      "sourceName": "GSK Press Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.gsk.com/en-gb/media/press-releases/gsk-to-advance-mrna-seasonal-flu-vaccine-candidate-to-phase-iii-following-positive-phase-ii-data/",
-      "canonicalUrl": "https://www.gsk.com/en-gb/media/press-releases/gsk-to-advance-mrna-seasonal-flu-vaccine-candidate-to-phase-iii-following-positive-phase-ii-data",
-      "titleOriginal": "GSK to advance mRNA seasonal flu vaccine candidate to phase III following positive phase II data",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "drug_rd",
-      "eventTypes": [
-        "phase_3_result"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "GSK"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-01T07:00:00Z",
-      "collectedAt": "2026-09-29T14:19:03.207243015Z",
-      "contentHash": "d052ba0ecf5f1232bfcbc5f713f6968940115e3c5b2b8ee4b6a03e0aa22321a3",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "gsk-press-releases",
-          "sourceName": "GSK Press Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://www.gsk.com/en-gb/media/press-releases/gsk-to-advance-mrna-seasonal-flu-vaccine-candidate-to-phase-iii-following-positive-phase-ii-data/"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "高影响事件"
       ]
     },
     {
