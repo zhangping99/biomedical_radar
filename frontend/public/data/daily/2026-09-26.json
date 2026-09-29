@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-29T07:28:39.347930147Z",
+  "generatedAt": "2026-09-29T08:27:09.640280192Z",
   "articles": [
     {
       "id": "60fe789d-b639-3756-adf4-0923414de849",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-26T00:00:00Z",
-      "collectedAt": "2026-09-28T20:32:53.085156669Z",
+      "collectedAt": "2026-09-29T08:27:04.213995558Z",
       "contentHash": "e638c56353a4b791dcfea8a9d125d2fb37ed341808ec04087083c3d9b42fdf4e",
       "generated": false,
       "generatorVersion": null,
@@ -44,10 +44,9 @@
           "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42803247/"
         }
       ],
-      "importanceScore": 43,
+      "importanceScore": 35,
       "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
+        "官方一手来源"
       ]
     },
     {
@@ -858,54 +857,6 @@
           "sourceName": "PubMed",
           "sourceTier": "A",
           "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42786965/"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "877802cc-bc6c-3062-8905-f7f63c5e8128",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42788241/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42788241",
-      "titleOriginal": "Quantifying Pancreatic Fat Using a Free-Breathing Acquisition in Adults With Obesity Undergoing Diet-Induced Weight Loss-Results From the LION Study.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-09-26T07:38:34.020994618Z",
-      "contentHash": "a75c39c2585feacdce6aac56786b00e484a6a34caf378d931e87fc81608abc14",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42788241/"
         }
       ],
       "importanceScore": 50,
