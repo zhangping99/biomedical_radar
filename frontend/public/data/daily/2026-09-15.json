@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-29T19:24:30.943251464Z",
+  "generatedAt": "2026-09-29T20:12:06.741862444Z",
   "articles": [
+    {
+      "id": "8989845e-a7f1-34ea-b054-2816ee4ef9fc",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/15/cleveland-clinic-childrens-named-among-the-nations-best-childrens-hospitals",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/15/cleveland-clinic-childrens-named-among-the-nations-best-childrens-hospitals",
+      "titleOriginal": "Cleveland Clinic Children’s Named Among the Nation’s Best Children’s Hospitals",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-15T00:00:00Z",
+      "collectedAt": "2026-09-29T20:12:04.134243151Z",
+      "contentHash": "dc23e13f1cb8d6a6cf0f8fd71083b132257b3a560d5f8a552876b5647bc51048",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/15/cleveland-clinic-childrens-named-among-the-nations-best-childrens-hospitals"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "45a88845-1995-3361-a4ee-4c3b2bd1ee5b",
       "sourceId": "nature-reviews-cancer",
@@ -511,51 +556,6 @@
           "sourceName": "Pfizer Press Releases",
           "sourceTier": "B",
           "originalUrl": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-invites-public-listen-webcast-pfizer-discussion-24"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "8989845e-a7f1-34ea-b054-2816ee4ef9fc",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/15/cleveland-clinic-childrens-named-among-the-nations-best-childrens-hospitals",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/15/cleveland-clinic-childrens-named-among-the-nations-best-childrens-hospitals",
-      "titleOriginal": "Cleveland Clinic Children’s Named Among the Nation’s Best Children’s Hospitals",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-15T00:00:00Z",
-      "collectedAt": "2026-09-27T09:30:17.285685062Z",
-      "contentHash": "dc23e13f1cb8d6a6cf0f8fd71083b132257b3a560d5f8a552876b5647bc51048",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/15/cleveland-clinic-childrens-named-among-the-nations-best-childrens-hospitals"
         }
       ],
       "importanceScore": 20,
