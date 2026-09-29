@@ -1,7 +1,54 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-29T06:18:11.162087425Z",
+  "generatedAt": "2026-09-29T07:28:39.347930147Z",
   "articles": [
+    {
+      "id": "52d1a0f6-8630-3266-96c3-370185bbe29b",
+      "sourceId": "lilly-news-releases",
+      "sourceName": "Eli Lilly News Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/new-phase-3b-data-lillys-taltz-ixekizumab-and-zepbound",
+      "canonicalUrl": "https://investor.lilly.com/news-releases/news-release-details/new-phase-3b-data-lillys-taltz-ixekizumab-and-zepbound",
+      "titleOriginal": "New Phase 3b data on Lilly\u0027s Taltz (ixekizumab) and Zepbound (tirzepatide) used together showed improved and durable efficacy at one year in adults with psoriatic disease and obesity",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "drug_rd",
+      "eventTypes": [
+        "phase_3_result"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Eli Lilly and Company"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-31T11:00:00Z",
+      "collectedAt": "2026-09-29T07:28:35.447810946Z",
+      "contentHash": "0432074bee300ecf13670d9348cb90f99d354906f3fdf3b68e95d8088d933dd3",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "lilly-news-releases",
+          "sourceName": "Eli Lilly News Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/new-phase-3b-data-lillys-taltz-ixekizumab-and-zepbound"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "高影响事件"
+      ]
+    },
     {
       "id": "dd9d59c4-ad66-3fc4-aea0-4b9042d170e3",
       "sourceId": "lilly-news-releases",
@@ -48,53 +95,6 @@
       "importanceReasons": [
         "高影响事件",
         "政策或安全相关"
-      ]
-    },
-    {
-      "id": "52d1a0f6-8630-3266-96c3-370185bbe29b",
-      "sourceId": "lilly-news-releases",
-      "sourceName": "Eli Lilly News Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/new-phase-3b-data-lillys-taltz-ixekizumab-and-zepbound",
-      "canonicalUrl": "https://investor.lilly.com/news-releases/news-release-details/new-phase-3b-data-lillys-taltz-ixekizumab-and-zepbound",
-      "titleOriginal": "New Phase 3b data on Lilly\u0027s Taltz (ixekizumab) and Zepbound (tirzepatide) used together showed improved and durable efficacy at one year in adults with psoriatic disease and obesity",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "drug_rd",
-      "eventTypes": [
-        "phase_3_result"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "Eli Lilly and Company"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-08-31T11:00:00Z",
-      "collectedAt": "2026-09-28T23:54:33.724012645Z",
-      "contentHash": "0432074bee300ecf13670d9348cb90f99d354906f3fdf3b68e95d8088d933dd3",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "lilly-news-releases",
-          "sourceName": "Eli Lilly News Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/new-phase-3b-data-lillys-taltz-ixekizumab-and-zepbound"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "高影响事件"
       ]
     },
     {
