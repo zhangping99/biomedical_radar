@@ -1,7 +1,57 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-29T18:04:54.761860313Z",
+  "generatedAt": "2026-09-29T19:24:30.943251464Z",
   "articles": [
+    {
+      "id": "baf3d3a5-92f4-34fd-b458-9f2aa2c8eb2b",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07771829",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07771829",
+      "titleOriginal": "QLESP Block Versus PENG+LFCN Block for Total Hip Arthroplasty",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Pain Management",
+        "Arthroplasty Total Hip Replacement"
+      ],
+      "publishedAt": "2026-08-18T00:00:00Z",
+      "collectedAt": "2026-09-29T19:24:30.123795120Z",
+      "contentHash": "096bc88fb285fd191e219ceb8c365035ddac6eb04e72a1c48340efdaace28855",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07771829"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "1243f1ab-e719-3b7f-8411-095869220668",
       "sourceId": "abbvie-news",
