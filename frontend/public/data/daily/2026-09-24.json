@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-30T20:16:38.509155773Z",
+  "generatedAt": "2026-09-30T20:48:35.337935502Z",
   "articles": [
     {
       "id": "87081c92-cc7a-33ba-b826-3585609d9ed9",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-24T04:00:00Z",
-      "collectedAt": "2026-09-30T14:54:41.032458285Z",
+      "collectedAt": "2026-09-30T20:48:33.690996927Z",
       "contentHash": "daed6cfe0a64773922591328aa5114e15db48df3a89b755a82b8b3cc60b6e3ce",
       "generated": false,
       "generatorVersion": null,
@@ -77,7 +77,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-24T04:00:00Z",
-      "collectedAt": "2026-09-30T14:54:41.032774596Z",
+      "collectedAt": "2026-09-30T20:48:33.691202007Z",
       "contentHash": "422ca48fed6c07533e6f497b489e8e9b357dea68d432dbcb9b568885de9f79b8",
       "generated": false,
       "generatorVersion": null,
@@ -126,7 +126,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-24T00:00:00Z",
-      "collectedAt": "2026-09-30T14:54:42.426125930Z",
+      "collectedAt": "2026-09-30T20:48:34.084091924Z",
       "contentHash": "6f2454d0b0ef294f39c106c46a8f7805671193c6846f6c82aba567d97392a514",
       "generated": false,
       "generatorVersion": null,
@@ -175,7 +175,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-24T00:00:00Z",
-      "collectedAt": "2026-09-30T14:54:42.426223896Z",
+      "collectedAt": "2026-09-30T20:48:34.084205085Z",
       "contentHash": "5710358ebe9d35f40d4020025d13d88d93bfedbfe5a13f756c5aea460f3d432e",
       "generated": false,
       "generatorVersion": null,
@@ -224,7 +224,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-24T00:00:00Z",
-      "collectedAt": "2026-09-30T14:54:42.426319829Z",
+      "collectedAt": "2026-09-30T20:48:34.084323364Z",
       "contentHash": "5cbab7461df4c86a1ac9374ad81202857fae70cf72c6429792b295c9d27076cf",
       "generated": false,
       "generatorVersion": null,
@@ -273,7 +273,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-24T00:00:00Z",
-      "collectedAt": "2026-09-30T14:54:42.426396983Z",
+      "collectedAt": "2026-09-30T20:48:34.084426269Z",
       "contentHash": "60c2bcbfefa78e04ac363b2d9f045548ffe4206d01a42c93aac1301851e84616",
       "generated": false,
       "generatorVersion": null,
@@ -901,55 +901,6 @@
       "importanceReasons": [
         "官方一手来源",
         "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "f4b91444-d6e2-3eb5-8678-d9feac470587",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/drugs/human-drug-compounding/registered-outsourcing-facilities",
-      "canonicalUrl": "https://www.fda.gov/drugs/human-drug-compounding/registered-outsourcing-facilities",
-      "titleOriginal": "Registered Outsourcing Facilities",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-24T20:43:55Z",
-      "collectedAt": "2026-09-25T20:01:11.798500236Z",
-      "contentHash": "5bc7d2667168854acd74397d12d746d1d35e85f5ba6e2792de8c3d8e04bcb7ba",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/drugs/human-drug-compounding/registered-outsourcing-facilities"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
         "政策或安全相关",
         "24小时内更新"
       ]
@@ -1915,55 +1866,6 @@
           "sourceName": "U.S. Food and Drug Administration - Drugs",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/industry/biosimilar-user-fee-amendments/bsufa-iv-fiscal-years-2028-2032"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "018c3992-3cd9-34ec-a515-ffe21434c4a2",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/drugs/development-approval-process-drugs/cder-small-business-industry-assistance-sbia",
-      "canonicalUrl": "https://www.fda.gov/drugs/development-approval-process-drugs/cder-small-business-industry-assistance-sbia",
-      "titleOriginal": "CDER Small Business \u0026 Industry Assistance (SBIA)",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-24T13:06:26Z",
-      "collectedAt": "2026-09-25T13:45:48.190322298Z",
-      "contentHash": "6164817c669e86980f95c8463b19bc80b96dba577c6e23a6689f3dc5d1be9a28",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/drugs/development-approval-process-drugs/cder-small-business-industry-assistance-sbia"
         }
       ],
       "importanceScore": 65,
