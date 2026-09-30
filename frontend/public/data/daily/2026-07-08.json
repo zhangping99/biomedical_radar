@@ -1,7 +1,59 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-30T07:21:41.950000356Z",
+  "generatedAt": "2026-09-30T08:30:57.194068039Z",
   "articles": [
+    {
+      "id": "430635da-4c24-3354-940f-2b0b69819fb7",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07690163",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07690163",
+      "titleOriginal": "DIabetes GLycemic Assessment in Newly Confirmed Episodes",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Type 2 Diabetes (T2DM)",
+        "Obesity Type 2 Diabetes Mellitus",
+        "Obesity \u0026 Overweight",
+        "Insulin Resistance"
+      ],
+      "publishedAt": "2026-07-08T00:00:00Z",
+      "collectedAt": "2026-09-30T08:30:56.395739627Z",
+      "contentHash": "1812a4b9c7993e47aeaf5a63489db2ad77281028796b0711b4e322ee255e8df2",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07690163"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "0d736827-0baa-357a-a874-34f80db84508",
       "sourceId": "hengrui-focus-news",
@@ -91,58 +143,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "430635da-4c24-3354-940f-2b0b69819fb7",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07690163",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07690163",
-      "titleOriginal": "DIabetes GLycemic Assessment in Newly Confirmed Episodes",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Type 2 Diabetes (T2DM)",
-        "Obesity Type 2 Diabetes Mellitus",
-        "Obesity \u0026 Overweight",
-        "Insulin Resistance"
-      ],
-      "publishedAt": "2026-07-08T00:00:00Z",
-      "collectedAt": "2026-09-29T19:24:30.128907542Z",
-      "contentHash": "1812a4b9c7993e47aeaf5a63489db2ad77281028796b0711b4e322ee255e8df2",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07690163"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     }
   ]
 }

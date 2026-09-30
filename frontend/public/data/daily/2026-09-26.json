@@ -1,7 +1,55 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-30T07:21:41.950000356Z",
+  "generatedAt": "2026-09-30T08:30:57.194068039Z",
   "articles": [
+    {
+      "id": "7fd4aa40-a67f-340e-b856-6e65ee38882f",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.22.26363696v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.22.26363696v1?rss\u003d1",
+      "titleOriginal": "Evaluation of Deep Learning Based Early Warning Indicators of Epidemic Outbreaks",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "safety_alert",
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-26T00:00:00Z",
+      "collectedAt": "2026-09-30T08:30:57.083706406Z",
+      "contentHash": "180391f5d7c970735a2f8dfbc469acac4e08a235204fb3ccb89ee43e632e780b",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.22.26363696v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "高影响事件"
+      ]
+    },
     {
       "id": "3bb2834f-1a59-3646-9cc6-156272a76dae",
       "sourceId": "pubmed-recent",
@@ -28,7 +76,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-26T00:00:00Z",
-      "collectedAt": "2026-09-29T19:24:30.419338402Z",
+      "collectedAt": "2026-09-30T08:30:56.822271261Z",
       "contentHash": "59a6229551dbf0fd13feaed261e06ccca6747293b44beaeca16718e26c71d018",
       "generated": false,
       "generatorVersion": null,
@@ -48,6 +96,96 @@
       "importanceReasons": [
         "官方一手来源"
       ]
+    },
+    {
+      "id": "24a08f6a-524c-363c-9324-a5d0e13c3964",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.22.26363331v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.22.26363331v1?rss\u003d1",
+      "titleOriginal": "Worsening pre-existing health conditions in U.S. adults with Long COVID",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-26T00:00:00Z",
+      "collectedAt": "2026-09-30T08:30:57.083507220Z",
+      "contentHash": "2ba2db8a434d0d791f762f3761885fbfc8f40cde473cb6d853d8d51e8f90bd08",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.22.26363331v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "45f917b6-4bd7-338a-9ddf-5ccabf19bf61",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.18.26363395v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.18.26363395v1?rss\u003d1",
+      "titleOriginal": "Quantifying the genetic separability of disease subtypes",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-26T00:00:00Z",
+      "collectedAt": "2026-09-30T08:30:57.083835377Z",
+      "contentHash": "2d357efcebdcd0ad5362e6b5d10b5f857e65f17ee97be493f055c837d42be313",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.09.18.26363395v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
     },
     {
       "id": "60fe789d-b639-3756-adf4-0923414de849",

@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-30T07:21:41.950000356Z",
+  "generatedAt": "2026-09-30T08:30:57.194068039Z",
   "articles": [
+    {
+      "id": "2101fbe9-567f-3b0a-9fad-46d885b73640",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07751731",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07751731",
+      "titleOriginal": "Survey to Determine Incarcerated Persons\u0027 Views on Surrogate Decision Making",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Healthy Volunteers"
+      ],
+      "publishedAt": "2026-08-07T00:00:00Z",
+      "collectedAt": "2026-09-30T08:30:56.396377214Z",
+      "contentHash": "9beb33e5140e37c792b36134e610034e51a8e68c3fc3b6dc7343b9078e041273",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07751731"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "6db7fb3d-9c13-30f2-a8de-502f02c15a3d",
       "sourceId": "hengrui-focus-news",
@@ -275,55 +324,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "2101fbe9-567f-3b0a-9fad-46d885b73640",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07751731",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07751731",
-      "titleOriginal": "Survey to Determine Incarcerated Persons\u0027 Views on Surrogate Decision Making",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Healthy Volunteers"
-      ],
-      "publishedAt": "2026-08-07T00:00:00Z",
-      "collectedAt": "2026-09-29T19:24:30.129927283Z",
-      "contentHash": "9beb33e5140e37c792b36134e610034e51a8e68c3fc3b6dc7343b9078e041273",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07751731"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     },
     {
       "id": "0d809611-5081-3cab-9946-e01ff21083a0",
