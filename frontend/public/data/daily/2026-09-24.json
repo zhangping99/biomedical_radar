@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-30T08:30:57.194068039Z",
+  "generatedAt": "2026-09-30T09:59:03.493702403Z",
   "articles": [
+    {
+      "id": "6c8a970a-8221-34c4-937e-0c5783082ba8",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/24/american-academy-of-pediatrics-expands-newborn-screening-guidelines",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/24/american-academy-of-pediatrics-expands-newborn-screening-guidelines",
+      "titleOriginal": "American Academy of Pediatrics Expands Newborn Screening Guidelines",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-24T00:00:00Z",
+      "collectedAt": "2026-09-30T09:58:58.547636014Z",
+      "contentHash": "f43285394c557ab7480845ddc501f6ade805566a886f3875c365370292dded1c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/24/american-academy-of-pediatrics-expands-newborn-screening-guidelines"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "b0ae4627-a715-3db6-960d-4bbefb2f856c",
       "sourceId": "clinicaltrials-recent",
@@ -479,51 +524,6 @@
         "高影响事件",
         "政策或安全相关"
       ]
-    },
-    {
-      "id": "6c8a970a-8221-34c4-937e-0c5783082ba8",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/24/american-academy-of-pediatrics-expands-newborn-screening-guidelines",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/24/american-academy-of-pediatrics-expands-newborn-screening-guidelines",
-      "titleOriginal": "American Academy of Pediatrics Expands Newborn Screening Guidelines",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-24T00:00:00Z",
-      "collectedAt": "2026-09-29T20:12:04.125996264Z",
-      "contentHash": "f43285394c557ab7480845ddc501f6ade805566a886f3875c365370292dded1c",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/24/american-academy-of-pediatrics-expands-newborn-screening-guidelines"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     },
     {
       "id": "fc6f10cc-bd51-3533-a139-b4da5457f4ed",
