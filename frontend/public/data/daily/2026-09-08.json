@@ -1,7 +1,152 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-30T14:54:42.825843832Z",
+  "generatedAt": "2026-09-30T19:17:20.503456024Z",
   "articles": [
+    {
+      "id": "a1036bcd-959b-3ed2-b251-81c394d70716",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07806149",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07806149",
+      "titleOriginal": "NHLBI SESAME (SEptal Scoring Along Midline Endocardium) Multi-Center Prospective Study Using Improvised Off-Label Devices",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Hypertrophic Cardiomyopathy",
+        "Left Ventricular Outflow Obstruction",
+        "Systolic Anterior Motion"
+      ],
+      "publishedAt": "2026-09-08T00:00:00Z",
+      "collectedAt": "2026-09-30T19:17:19.176088471Z",
+      "contentHash": "50083224dda8d14050e2fefb3af75d756c90e7f408aefefd1459de4f49a4aa0d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07806149"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "1a5883dc-4095-3e64-9504-3a01ff1f9dc6",
+      "sourceId": "nature-reviews-cancer",
+      "sourceName": "Nature Reviews Cancer",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41568-026-00974-4",
+      "canonicalUrl": "https://www.nature.com/articles/s41568-026-00974-4",
+      "titleOriginal": "Reflecting on 25 years of cancer research: transformative advances and unmet expectations",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Reviews Cancer"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-08T00:00:00Z",
+      "collectedAt": "2026-09-30T19:17:19.570095722Z",
+      "contentHash": "3d9dc29ef9273b37c9849945247cb4249bc184284f8cbd65abeaa4d3cbe6a621",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-reviews-cancer",
+          "sourceName": "Nature Reviews Cancer",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41568-026-00974-4"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "c9c8d56e-2430-351c-8004-b12093f9d30b",
+      "sourceId": "nature-reviews-cancer",
+      "sourceName": "Nature Reviews Cancer",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41568-026-00970-8",
+      "canonicalUrl": "https://www.nature.com/articles/s41568-026-00970-8",
+      "titleOriginal": "A single-cell lens into the co-evolution of genotypes and phenotypes in cancer",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Reviews Cancer"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-08T00:00:00Z",
+      "collectedAt": "2026-09-30T19:17:19.570524250Z",
+      "contentHash": "6f282b3ca9cf9374edac310476d388d6ccc9359d8658c6458446301bffd67050",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-reviews-cancer",
+          "sourceName": "Nature Reviews Cancer",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41568-026-00970-8"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "a5095817-caf3-3b69-baba-db3f3abe78e6",
       "sourceId": "fda-medwatch-alerts",
@@ -181,100 +326,6 @@
           "sourceName": "National Healthcare Security Administration Policies",
           "sourceTier": "A",
           "originalUrl": "https://www.nhsa.gov.cn/art/2026/9/8/art_53_22046.html"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "1a5883dc-4095-3e64-9504-3a01ff1f9dc6",
-      "sourceId": "nature-reviews-cancer",
-      "sourceName": "Nature Reviews Cancer",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41568-026-00974-4",
-      "canonicalUrl": "https://www.nature.com/articles/s41568-026-00974-4",
-      "titleOriginal": "Reflecting on 25 years of cancer research: transformative advances and unmet expectations",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Reviews Cancer"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-08T00:00:00Z",
-      "collectedAt": "2026-09-30T08:30:56.729001279Z",
-      "contentHash": "3d9dc29ef9273b37c9849945247cb4249bc184284f8cbd65abeaa4d3cbe6a621",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-reviews-cancer",
-          "sourceName": "Nature Reviews Cancer",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41568-026-00974-4"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "c9c8d56e-2430-351c-8004-b12093f9d30b",
-      "sourceId": "nature-reviews-cancer",
-      "sourceName": "Nature Reviews Cancer",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41568-026-00970-8",
-      "canonicalUrl": "https://www.nature.com/articles/s41568-026-00970-8",
-      "titleOriginal": "A single-cell lens into the co-evolution of genotypes and phenotypes in cancer",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Reviews Cancer"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-08T00:00:00Z",
-      "collectedAt": "2026-09-30T08:30:56.729348585Z",
-      "contentHash": "6f282b3ca9cf9374edac310476d388d6ccc9359d8658c6458446301bffd67050",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-reviews-cancer",
-          "sourceName": "Nature Reviews Cancer",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41568-026-00970-8"
         }
       ],
       "importanceScore": 35,
