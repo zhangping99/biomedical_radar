@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-01T15:26:39.178043317Z",
+  "generatedAt": "2026-10-01T19:01:00.749148711Z",
   "articles": [
     {
       "id": "34179bf0-4a71-3f2e-b27a-8069c9a1af2f",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-08-04T00:00:00Z",
-      "collectedAt": "2026-10-01T07:44:41.966151143Z",
+      "collectedAt": "2026-10-01T19:00:58.176670703Z",
       "contentHash": "4c3c53002cf5d680c966064eba41f4b723ab69512ec9e61b09b999e378143637",
       "generated": false,
       "generatorVersion": null,
@@ -48,6 +48,51 @@
       "importanceReasons": [
         "高影响事件"
       ]
+    },
+    {
+      "id": "55aa84f1-6882-3541-a671-ef8e4781e37a",
+      "sourceId": "hengrui-focus-news",
+      "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.hengrui.com/media/detail-1004.html",
+      "canonicalUrl": "https://www.hengrui.com/media/detail-1004.html",
+      "titleOriginal": "央视报道恒瑞医药携手国自然支持基础研究",
+      "titleZh": "央视报道恒瑞医药携手国自然支持基础研究",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "恒瑞医药"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-04T00:00:00Z",
+      "collectedAt": "2026-10-01T19:01:00.103688329Z",
+      "contentHash": "fe470193a6c1b35d29bf94a8d0621f53c4c94a242e3d78a5632a28599e602efe",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "hengrui-focus-news",
+          "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
+          "sourceTier": "B",
+          "originalUrl": "https://www.hengrui.com/media/detail-1004.html"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
     },
     {
       "id": "5eeed263-c61f-301f-9ebe-52db7e8d05eb",
@@ -89,51 +134,6 @@
           "sourceName": "Amgen News Releases",
           "sourceTier": "B",
           "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/08/amgen-reports-second-quarter-2026-financial-results"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "55aa84f1-6882-3541-a671-ef8e4781e37a",
-      "sourceId": "hengrui-focus-news",
-      "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.hengrui.com/media/detail-1004.html",
-      "canonicalUrl": "https://www.hengrui.com/media/detail-1004.html",
-      "titleOriginal": "央视报道恒瑞医药携手国自然支持基础研究",
-      "titleZh": "央视报道恒瑞医药携手国自然支持基础研究",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "恒瑞医药"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-08-04T00:00:00Z",
-      "collectedAt": "2026-10-01T07:44:43.769215023Z",
-      "contentHash": "fe470193a6c1b35d29bf94a8d0621f53c4c94a242e3d78a5632a28599e602efe",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "hengrui-focus-news",
-          "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
-          "sourceTier": "B",
-          "originalUrl": "https://www.hengrui.com/media/detail-1004.html"
         }
       ],
       "importanceScore": 20,
