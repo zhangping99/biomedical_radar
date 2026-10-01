@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-01T19:01:00.749148711Z",
+  "generatedAt": "2026-10-01T19:31:18.474149964Z",
   "articles": [
+    {
+      "id": "66978ef6-6fa2-3db6-a42b-54970f4d389a",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07818434",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07818434",
+      "titleOriginal": "Prevalence of Renal Insufficiency in Patients With Type 2 Diabetes",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Diabetic Kidney Disease"
+      ],
+      "publishedAt": "2026-09-14T00:00:00Z",
+      "collectedAt": "2026-10-01T19:31:16.843487809Z",
+      "contentHash": "51f7479f302111c3c128270374c85e1069f64586c3828f198c92ecb8c80aa733",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07818434"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "9e850c5c-fe6e-39db-aaeb-4941250ac450",
       "sourceId": "gsk-press-releases",
