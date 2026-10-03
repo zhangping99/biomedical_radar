@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-03T08:04:24.938121765Z",
+  "generatedAt": "2026-10-03T09:24:50.538950205Z",
   "articles": [
+    {
+      "id": "40e9120a-3e4e-3c73-a706-c28389806b26",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/23/carson-valley-health-becomes-cleveland-clinic-connected-member",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/23/carson-valley-health-becomes-cleveland-clinic-connected-member",
+      "titleOriginal": "Carson Valley Health Becomes Cleveland Clinic Connected Member",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-23T00:00:00Z",
+      "collectedAt": "2026-10-03T09:24:45.742278709Z",
+      "contentHash": "bf3629da1deb8df35be867e4d70787688b8f5b4c0abff745bd98b5c62f293fc2",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/23/carson-valley-health-becomes-cleveland-clinic-connected-member"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "112e84f7-6482-3480-a0b7-1b17db200a99",
       "sourceId": "beijing-health-policy",
@@ -244,51 +289,6 @@
         "官方一手来源",
         "政策或安全相关"
       ]
-    },
-    {
-      "id": "40e9120a-3e4e-3c73-a706-c28389806b26",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/23/carson-valley-health-becomes-cleveland-clinic-connected-member",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/23/carson-valley-health-becomes-cleveland-clinic-connected-member",
-      "titleOriginal": "Carson Valley Health Becomes Cleveland Clinic Connected Member",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-23T00:00:00Z",
-      "collectedAt": "2026-10-02T10:01:30.694216451Z",
-      "contentHash": "bf3629da1deb8df35be867e4d70787688b8f5b4c0abff745bd98b5c62f293fc2",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/23/carson-valley-health-becomes-cleveland-clinic-connected-member"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     },
     {
       "id": "f15b2943-5269-31fb-965d-a100847f1a26",
