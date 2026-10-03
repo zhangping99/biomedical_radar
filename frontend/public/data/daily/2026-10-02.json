@@ -1,7 +1,103 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-03T21:45:31.784777781Z",
+  "generatedAt": "2026-10-03T22:24:20.468055323Z",
   "articles": [
+    {
+      "id": "aa4ddf55-f8e2-3644-8511-3cc142e5c54a",
+      "sourceId": "abbvie-news",
+      "sourceName": "AbbVie News",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://news.abbvie.com/2026-10-02-AbbVie-to-Participate-in-Federal-340B-Rebate-Model-Pilot",
+      "canonicalUrl": "https://news.abbvie.com/2026-10-02-AbbVie-to-Participate-in-Federal-340B-Rebate-Model-Pilot",
+      "titleOriginal": "AbbVie to Participate in Federal 340B Rebate Model Pilot",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "approval"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "AbbVie"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-02T19:49:00Z",
+      "collectedAt": "2026-10-03T22:24:19.390151040Z",
+      "contentHash": "bf53aebf6b388193350d7fbf8b2f468a640e9218a8404812e8ea863aa83be642",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "abbvie-news",
+          "sourceName": "AbbVie News",
+          "sourceTier": "B",
+          "originalUrl": "https://news.abbvie.com/2026-10-02-AbbVie-to-Participate-in-Federal-340B-Rebate-Model-Pilot"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "高影响事件",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "158d41ff-dcf1-3e8c-ab74-98cc2b77b3d5",
+      "sourceId": "lilly-news-releases",
+      "sourceName": "Eli Lilly News Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/lillys-jaypirca-pirtobrutinib-first-and-only-approved-non-1",
+      "canonicalUrl": "https://investor.lilly.com/news-releases/news-release-details/lillys-jaypirca-pirtobrutinib-first-and-only-approved-non-1",
+      "titleOriginal": "Lilly\u0027s Jaypirca (pirtobrutinib), the first-and-only approved non-covalent BTK inhibitor, receives expanded indication from U.S. FDA for certain patients with previously untreated CLL/SLL",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "approval"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Eli Lilly and Company"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-02T19:05:00Z",
+      "collectedAt": "2026-10-03T22:24:17.235748883Z",
+      "contentHash": "2bfd0df1b5ee6b9bd18acbb8351096a139c0c69852c2375de6728708bd539282",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "lilly-news-releases",
+          "sourceName": "Eli Lilly News Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/lillys-jaypirca-pirtobrutinib-first-and-only-approved-non-1"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "高影响事件",
+        "近期更新"
+      ]
+    },
     {
       "id": "a3856c10-6de9-33b4-a2e3-c1cef2f0e7b1",
       "sourceId": "fda-biologics-news",
@@ -4224,102 +4320,6 @@
       "importanceScore": 28,
       "importanceReasons": [
         "近期更新"
-      ]
-    },
-    {
-      "id": "aa4ddf55-f8e2-3644-8511-3cc142e5c54a",
-      "sourceId": "abbvie-news",
-      "sourceName": "AbbVie News",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://news.abbvie.com/2026-10-02-AbbVie-to-Participate-in-Federal-340B-Rebate-Model-Pilot",
-      "canonicalUrl": "https://news.abbvie.com/2026-10-02-AbbVie-to-Participate-in-Federal-340B-Rebate-Model-Pilot",
-      "titleOriginal": "AbbVie to Participate in Federal 340B Rebate Model Pilot",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "approval"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "AbbVie"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-02T19:49:00Z",
-      "collectedAt": "2026-10-03T17:34:51.750128675Z",
-      "contentHash": "bf53aebf6b388193350d7fbf8b2f468a640e9218a8404812e8ea863aa83be642",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "abbvie-news",
-          "sourceName": "AbbVie News",
-          "sourceTier": "B",
-          "originalUrl": "https://news.abbvie.com/2026-10-02-AbbVie-to-Participate-in-Federal-340B-Rebate-Model-Pilot"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "高影响事件",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "158d41ff-dcf1-3e8c-ab74-98cc2b77b3d5",
-      "sourceId": "lilly-news-releases",
-      "sourceName": "Eli Lilly News Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/lillys-jaypirca-pirtobrutinib-first-and-only-approved-non-1",
-      "canonicalUrl": "https://investor.lilly.com/news-releases/news-release-details/lillys-jaypirca-pirtobrutinib-first-and-only-approved-non-1",
-      "titleOriginal": "Lilly\u0027s Jaypirca (pirtobrutinib), the first-and-only approved non-covalent BTK inhibitor, receives expanded indication from U.S. FDA for certain patients with previously untreated CLL/SLL",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "approval"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "Eli Lilly and Company"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-02T19:05:00Z",
-      "collectedAt": "2026-10-03T17:34:48.496117191Z",
-      "contentHash": "2bfd0df1b5ee6b9bd18acbb8351096a139c0c69852c2375de6728708bd539282",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "lilly-news-releases",
-          "sourceName": "Eli Lilly News Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/lillys-jaypirca-pirtobrutinib-first-and-only-approved-non-1"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "高影响事件",
-        "24小时内更新"
       ]
     },
     {
