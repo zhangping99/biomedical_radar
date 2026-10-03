@@ -1,7 +1,54 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-03T05:16:42.422396541Z",
+  "generatedAt": "2026-10-03T05:45:53.348580831Z",
   "articles": [
+    {
+      "id": "7b62f509-6cfb-3edd-b474-9bed90d151ca",
+      "sourceId": "nhsa-healthcare-security-updates",
+      "sourceName": "National Healthcare Security Administration Policies",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.nhsa.gov.cn/art/2026/9/15/art_53_22142.html",
+      "canonicalUrl": "https://www.nhsa.gov.cn/art/2026/9/15/art_53_22142.html",
+      "titleOriginal": "国家医疗保障局关于试行高水平新技术新产品医疗服务价格项目预立项制度的通知",
+      "titleZh": "国家医疗保障局关于试行高水平新技术新产品医疗服务价格项目预立项制度的通知",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "reimbursement_access",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "国家医疗保障局"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-15T00:00:00Z",
+      "collectedAt": "2026-10-03T05:45:53.312143567Z",
+      "contentHash": "62fc59ac28afd89667c2c0808ad12b0ddca823eb0e4b89807bb9e752dc4e552c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "nhsa-healthcare-security-updates",
+          "sourceName": "National Healthcare Security Administration Policies",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nhsa.gov.cn/art/2026/9/15/art_53_22142.html"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "e22f2412-37d3-3afa-b196-8a0d16e5b86c",
       "sourceId": "fda-medwatch-alerts",
@@ -142,53 +189,6 @@
       "importanceReasons": [
         "官方一手来源",
         "高影响事件"
-      ]
-    },
-    {
-      "id": "7b62f509-6cfb-3edd-b474-9bed90d151ca",
-      "sourceId": "nhsa-healthcare-security-updates",
-      "sourceName": "National Healthcare Security Administration Policies",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.nhsa.gov.cn/art/2026/9/15/art_53_22142.html",
-      "canonicalUrl": "https://www.nhsa.gov.cn/art/2026/9/15/art_53_22142.html",
-      "titleOriginal": "国家医疗保障局关于试行高水平新技术新产品医疗服务价格项目预立项制度的通知",
-      "titleZh": "国家医疗保障局关于试行高水平新技术新产品医疗服务价格项目预立项制度的通知",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "reimbursement_access",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "国家医疗保障局"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-15T00:00:00Z",
-      "collectedAt": "2026-10-02T22:33:40.943916863Z",
-      "contentHash": "62fc59ac28afd89667c2c0808ad12b0ddca823eb0e4b89807bb9e752dc4e552c",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "nhsa-healthcare-security-updates",
-          "sourceName": "National Healthcare Security Administration Policies",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nhsa.gov.cn/art/2026/9/15/art_53_22142.html"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
       ]
     },
     {
