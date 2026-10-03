@@ -1,7 +1,144 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-03T16:43:07.961727369Z",
+  "generatedAt": "2026-10-03T17:34:57.501582505Z",
   "articles": [
+    {
+      "id": "fb78bfb3-3c96-3dbe-a87a-cda67d974d5e",
+      "sourceId": "abbvie-news",
+      "sourceName": "AbbVie News",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://news.abbvie.com/2026-09-28-U-S-FDA-Approves-AbbVies-JUVMO-TM-tavapadon-for-Parkinsons-Disease",
+      "canonicalUrl": "https://news.abbvie.com/2026-09-28-U-S-FDA-Approves-AbbVies-JUVMO-TM-tavapadon-for-Parkinsons-Disease",
+      "titleOriginal": "U.S. FDA Approves AbbVie\u0027s JUVMOTM (tavapadon) for Parkinson\u0027s Disease",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "approval"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "AbbVie"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-28T12:00:00Z",
+      "collectedAt": "2026-10-03T17:34:51.751216898Z",
+      "contentHash": "2e38038685c67f248035d0acfeed458604c63e525b625341cab777ca231572ca",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "abbvie-news",
+          "sourceName": "AbbVie News",
+          "sourceTier": "B",
+          "originalUrl": "https://news.abbvie.com/2026-09-28-U-S-FDA-Approves-AbbVies-JUVMO-TM-tavapadon-for-Parkinsons-Disease"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "高影响事件"
+      ]
+    },
+    {
+      "id": "54e44935-9669-3732-9a8c-2d0905b9bae5",
+      "sourceId": "lilly-news-releases",
+      "sourceName": "Eli Lilly News Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/lilly-launches-lilly-change-course-commitment-aiming-address",
+      "canonicalUrl": "https://investor.lilly.com/news-releases/news-release-details/lilly-launches-lilly-change-course-commitment-aiming-address",
+      "titleOriginal": "Lilly launches the Lilly Change the Course Commitment, aiming to address treatment gaps in diabetes and obesity in LMICs",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Eli Lilly and Company"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-28T10:45:00Z",
+      "collectedAt": "2026-10-03T17:34:48.502939457Z",
+      "contentHash": "cbbfabee553faeace0250d9eaf0f7b072ae4e6af3400d73bf1273ecc93880cfa",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "lilly-news-releases",
+          "sourceName": "Eli Lilly News Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/lilly-launches-lilly-change-course-commitment-aiming-address"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "c6acfd4a-0193-3012-9bea-b4a9c32508a4",
+      "sourceId": "merck-news-releases",
+      "sourceName": "Merck News Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.merck.com/news/merck-enters-into-exclusive-global-license-agreement-with-scibrunch-therapeutics-for-spr2015-an-investigational-oral-kras-g12d-on-inhibitor/",
+      "canonicalUrl": "https://www.merck.com/news/merck-enters-into-exclusive-global-license-agreement-with-scibrunch-therapeutics-for-spr2015-an-investigational-oral-kras-g12d-on-inhibitor",
+      "titleOriginal": "Merck Enters into Exclusive Global License Agreement with SciBrunch Therapeutics for SPR2015, an Investigational Oral KRAS G12D (ON) Inhibitor",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Merck"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-28T00:00:00Z",
+      "collectedAt": "2026-10-03T17:34:48.530595473Z",
+      "contentHash": "b4506423a611d03d12d7e74efb1584ff3e31976010669fb54339927521d99e54",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "merck-news-releases",
+          "sourceName": "Merck News Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://www.merck.com/news/merck-enters-into-exclusive-global-license-agreement-with-scibrunch-therapeutics-for-spr2015-an-investigational-oral-kras-g12d-on-inhibitor/"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "34c9349b-d895-366b-8e0f-e92001b42003",
       "sourceId": "fda-biologics-news",
@@ -145,143 +282,6 @@
         "官方一手来源",
         "政策或安全相关"
       ]
-    },
-    {
-      "id": "fb78bfb3-3c96-3dbe-a87a-cda67d974d5e",
-      "sourceId": "abbvie-news",
-      "sourceName": "AbbVie News",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://news.abbvie.com/2026-09-28-U-S-FDA-Approves-AbbVies-JUVMO-TM-tavapadon-for-Parkinsons-Disease",
-      "canonicalUrl": "https://news.abbvie.com/2026-09-28-U-S-FDA-Approves-AbbVies-JUVMO-TM-tavapadon-for-Parkinsons-Disease",
-      "titleOriginal": "U.S. FDA Approves AbbVie\u0027s JUVMOTM (tavapadon) for Parkinson\u0027s Disease",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "approval"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "AbbVie"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-28T12:00:00Z",
-      "collectedAt": "2026-10-03T12:42:23.501445152Z",
-      "contentHash": "2e38038685c67f248035d0acfeed458604c63e525b625341cab777ca231572ca",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "abbvie-news",
-          "sourceName": "AbbVie News",
-          "sourceTier": "B",
-          "originalUrl": "https://news.abbvie.com/2026-09-28-U-S-FDA-Approves-AbbVies-JUVMO-TM-tavapadon-for-Parkinsons-Disease"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "高影响事件"
-      ]
-    },
-    {
-      "id": "54e44935-9669-3732-9a8c-2d0905b9bae5",
-      "sourceId": "lilly-news-releases",
-      "sourceName": "Eli Lilly News Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/lilly-launches-lilly-change-course-commitment-aiming-address",
-      "canonicalUrl": "https://investor.lilly.com/news-releases/news-release-details/lilly-launches-lilly-change-course-commitment-aiming-address",
-      "titleOriginal": "Lilly launches the Lilly Change the Course Commitment, aiming to address treatment gaps in diabetes and obesity in LMICs",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "Eli Lilly and Company"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-28T10:45:00Z",
-      "collectedAt": "2026-10-03T12:42:20.773125421Z",
-      "contentHash": "cbbfabee553faeace0250d9eaf0f7b072ae4e6af3400d73bf1273ecc93880cfa",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "lilly-news-releases",
-          "sourceName": "Eli Lilly News Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://investor.lilly.com/news-releases/news-release-details/lilly-launches-lilly-change-course-commitment-aiming-address"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "c6acfd4a-0193-3012-9bea-b4a9c32508a4",
-      "sourceId": "merck-news-releases",
-      "sourceName": "Merck News Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.merck.com/news/merck-enters-into-exclusive-global-license-agreement-with-scibrunch-therapeutics-for-spr2015-an-investigational-oral-kras-g12d-on-inhibitor/",
-      "canonicalUrl": "https://www.merck.com/news/merck-enters-into-exclusive-global-license-agreement-with-scibrunch-therapeutics-for-spr2015-an-investigational-oral-kras-g12d-on-inhibitor",
-      "titleOriginal": "Merck Enters into Exclusive Global License Agreement with SciBrunch Therapeutics for SPR2015, an Investigational Oral KRAS G12D (ON) Inhibitor",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "Merck"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-28T00:00:00Z",
-      "collectedAt": "2026-10-03T12:42:20.661770449Z",
-      "contentHash": "b4506423a611d03d12d7e74efb1584ff3e31976010669fb54339927521d99e54",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "merck-news-releases",
-          "sourceName": "Merck News Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://www.merck.com/news/merck-enters-into-exclusive-global-license-agreement-with-scibrunch-therapeutics-for-spr2015-an-investigational-oral-kras-g12d-on-inhibitor/"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     },
     {
       "id": "e703cb7c-44fb-39d2-98bb-9385527adb40",
