@@ -1,52 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-04T18:47:10.693490962Z",
+  "generatedAt": "2026-10-04T19:35:55.110162895Z",
   "articles": [
-    {
-      "id": "40e9120a-3e4e-3c73-a706-c28389806b26",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/23/carson-valley-health-becomes-cleveland-clinic-connected-member",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/23/carson-valley-health-becomes-cleveland-clinic-connected-member",
-      "titleOriginal": "Carson Valley Health Becomes Cleveland Clinic Connected Member",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-23T00:00:00Z",
-      "collectedAt": "2026-10-04T18:47:08.179113344Z",
-      "contentHash": "bf3629da1deb8df35be867e4d70787688b8f5b4c0abff745bd98b5c62f293fc2",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/23/carson-valley-health-becomes-cleveland-clinic-connected-member"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
     {
       "id": "dcb6498b-81d3-3a7f-9d87-11e994f52453",
       "sourceId": "fda-biologics-news",
@@ -74,7 +29,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-23T19:30:50Z",
-      "collectedAt": "2026-10-04T14:04:48.131576869Z",
+      "collectedAt": "2026-10-04T19:35:52.499367548Z",
       "contentHash": "8e995dbc9dcb19c84c6f4fada6c1b002ce43841bc927769d78f69df23487ef5b",
       "generated": false,
       "generatorVersion": null,
@@ -123,7 +78,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-23T14:31:12Z",
-      "collectedAt": "2026-10-04T14:04:48.134855306Z",
+      "collectedAt": "2026-10-04T19:35:52.499686645Z",
       "contentHash": "17c84213daaf134a25029a4afb7c9b13c8ad619f9531745d82d38c87511e3136",
       "generated": false,
       "generatorVersion": null,
@@ -172,7 +127,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-23T04:00:00Z",
-      "collectedAt": "2026-10-04T14:04:48.121212559Z",
+      "collectedAt": "2026-10-04T19:35:52.487409340Z",
       "contentHash": "1036651edef9ddf242b4d591444ff0202e2f1fc61115362b1797856a66ecbf74",
       "generated": false,
       "generatorVersion": null,
@@ -220,7 +175,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-23T04:00:00Z",
-      "collectedAt": "2026-10-04T14:04:48.121519213Z",
+      "collectedAt": "2026-10-04T19:35:52.487969728Z",
       "contentHash": "b5c7d8d77becff793f3a288c59c9ad220b2ab7534688d13fcd71d8b625a32e78",
       "generated": false,
       "generatorVersion": null,
@@ -241,6 +196,51 @@
         "官方一手来源",
         "政策或安全相关"
       ]
+    },
+    {
+      "id": "40e9120a-3e4e-3c73-a706-c28389806b26",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/23/carson-valley-health-becomes-cleveland-clinic-connected-member",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/23/carson-valley-health-becomes-cleveland-clinic-connected-member",
+      "titleOriginal": "Carson Valley Health Becomes Cleveland Clinic Connected Member",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-23T00:00:00Z",
+      "collectedAt": "2026-10-04T18:47:08.179113344Z",
+      "contentHash": "bf3629da1deb8df35be867e4d70787688b8f5b4c0abff745bd98b5c62f293fc2",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/23/carson-valley-health-becomes-cleveland-clinic-connected-member"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
     },
     {
       "id": "112e84f7-6482-3480-a0b7-1b17db200a99",
