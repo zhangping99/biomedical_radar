@@ -1,7 +1,55 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-04T05:50:23.179222883Z",
+  "generatedAt": "2026-10-04T06:21:11.107241197Z",
   "articles": [
+    {
+      "id": "112e84f7-6482-3480-a0b7-1b17db200a99",
+      "sourceId": "beijing-health-policy",
+      "sourceName": "Beijing Municipal Health Commission",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202609/t20260924_4879765.html",
+      "canonicalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202609/t20260924_4879765.html",
+      "titleOriginal": "北京市卫生健康委员会关于同意北京中科白癜风医院继续停业的批复",
+      "titleZh": "北京市卫生健康委员会关于同意北京中科白癜风医院继续停业的批复",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "北京市卫生健康委员会"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-23T00:00:00Z",
+      "collectedAt": "2026-10-04T06:21:09.185987488Z",
+      "contentHash": "78c18f88575674025db6db6b5deb9481ec2c702e4a88ead3edfa213326e820d8",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "beijing-health-policy",
+          "sourceName": "Beijing Municipal Health Commission",
+          "sourceTier": "A",
+          "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202609/t20260924_4879765.html"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "dcb6498b-81d3-3a7f-9d87-11e994f52453",
       "sourceId": "fda-biologics-news",
@@ -189,54 +237,6 @@
           "sourceName": "FDA MedWatch Safety Alerts",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-ventilator-issue-react-health"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "112e84f7-6482-3480-a0b7-1b17db200a99",
-      "sourceId": "beijing-health-policy",
-      "sourceName": "Beijing Municipal Health Commission",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202609/t20260924_4879765.html",
-      "canonicalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202609/t20260924_4879765.html",
-      "titleOriginal": "北京市卫生健康委员会关于同意北京中科白癜风医院继续停业的批复",
-      "titleZh": "北京市卫生健康委员会关于同意北京中科白癜风医院继续停业的批复",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "北京市卫生健康委员会"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-23T00:00:00Z",
-      "collectedAt": "2026-10-03T21:45:29.865063432Z",
-      "contentHash": "78c18f88575674025db6db6b5deb9481ec2c702e4a88ead3edfa213326e820d8",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "beijing-health-policy",
-          "sourceName": "Beijing Municipal Health Commission",
-          "sourceTier": "A",
-          "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202609/t20260924_4879765.html"
         }
       ],
       "importanceScore": 50,
