@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-05T21:24:18.946306225Z",
+  "generatedAt": "2026-10-05T21:29:04.177273093Z",
   "articles": [
+    {
+      "id": "ce06ff48-deff-325a-bedf-6f53f6617cac",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07789119",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07789119",
+      "titleOriginal": "Prospective Collection And Molecular Analysis Of Biospecimens And Clinical Data From Patients With Urothelial Carcinoma And Related Malignancies Of The Urinary Tract",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Urothelial Carcinoma"
+      ],
+      "publishedAt": "2026-08-27T00:00:00Z",
+      "collectedAt": "2026-10-05T21:29:02.604776295Z",
+      "contentHash": "9286e3a96a2efb36593945cf63f40171fc45d017e37f2565297a5408074071f4",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07789119"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "db5d3ae5-b63e-3cf5-b4cc-58015f69e922",
       "sourceId": "hengrui-focus-news",

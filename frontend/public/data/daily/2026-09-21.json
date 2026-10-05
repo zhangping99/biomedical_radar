@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-05T21:24:18.946306225Z",
+  "generatedAt": "2026-10-05T21:29:04.177273093Z",
   "articles": [
+    {
+      "id": "6f2ecbbd-45f6-365f-9257-8fa0fd1e4b5b",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07830602",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07830602",
+      "titleOriginal": "Home-based Pulmonary Rehabilitation in Interstitial Lung Disease",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Interstitial Lung Diseases"
+      ],
+      "publishedAt": "2026-09-21T00:00:00Z",
+      "collectedAt": "2026-10-05T21:29:02.606532578Z",
+      "contentHash": "ebf9017f3db7cb2ae770e41e0a630e153855bd03809296198e0ed7e40bc9f2fa",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07830602"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "01b565b4-ba1b-3f0f-9d15-999accd6d511",
       "sourceId": "merck-news-releases",
