@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-05T15:16:39.822565642Z",
+  "generatedAt": "2026-10-05T17:08:18.434754166Z",
   "articles": [
+    {
+      "id": "e22f2412-37d3-3afa-b196-8a0d16e5b86c",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring",
+      "titleOriginal": "Esophageal pH Monitoring Capsule Recall: Medtronic and Given Imaging Remove Esophageal pH Monitoring Capsule Delivery Device",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-15T04:00:00Z",
+      "collectedAt": "2026-10-05T17:08:15.500742126Z",
+      "contentHash": "1bffc0c566b67d046505ecdaf885c8705e1a47453878512484bcc1300fff2ea4",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "fdeb2506-043b-30e6-8e69-caaf410c4c3a",
       "sourceId": "nhsa-policy-explain",
@@ -188,55 +237,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "e22f2412-37d3-3afa-b196-8a0d16e5b86c",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring",
-      "titleOriginal": "Esophageal pH Monitoring Capsule Recall: Medtronic and Given Imaging Remove Esophageal pH Monitoring Capsule Delivery Device",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-15T04:00:00Z",
-      "collectedAt": "2026-10-05T05:36:43.642394465Z",
-      "contentHash": "1bffc0c566b67d046505ecdaf885c8705e1a47453878512484bcc1300fff2ea4",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
     },
     {
       "id": "99cf8d66-45b5-3aeb-8aaa-7051cf2cfe31",
@@ -1459,55 +1459,6 @@
           "sourceName": "FDA Vaccines, Blood and Biologics",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/fda-cber-webinar-human-gene-therapy-products-incorporating-human-genome-editing-02292024"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "66aceac3-e242-3da1-8797-446a31aaf5f5",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/center-biologics-evaluation-and-research-patient-engagement-program",
-      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/center-biologics-evaluation-and-research-patient-engagement-program",
-      "titleOriginal": "Center for Biologics Evaluation and Research Patient Engagement Program",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-15T19:13:43Z",
-      "collectedAt": "2026-09-17T13:26:25.910172758Z",
-      "contentHash": "0d9d88f2f08f52466456734c917b83606f09318b76b50f69ea5cbf3cb3eb34f0",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/development-approval-process-cber/center-biologics-evaluation-and-research-patient-engagement-program"
         }
       ],
       "importanceScore": 58,
