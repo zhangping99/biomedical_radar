@@ -1,7 +1,99 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-06T18:36:57.939798221Z",
+  "generatedAt": "2026-10-06T19:01:56.662386490Z",
   "articles": [
+    {
+      "id": "aa4ddf55-f8e2-3644-8511-3cc142e5c54a",
+      "sourceId": "abbvie-news",
+      "sourceName": "AbbVie News",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://news.abbvie.com/2026-10-02-AbbVie-to-Participate-in-Federal-340B-Rebate-Model-Pilot",
+      "canonicalUrl": "https://news.abbvie.com/2026-10-02-AbbVie-to-Participate-in-Federal-340B-Rebate-Model-Pilot",
+      "titleOriginal": "AbbVie to Participate in Federal 340B Rebate Model Pilot",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "approval"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "AbbVie"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-02T19:49:00Z",
+      "collectedAt": "2026-10-06T19:01:55.740041328Z",
+      "contentHash": "bf53aebf6b388193350d7fbf8b2f468a640e9218a8404812e8ea863aa83be642",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "abbvie-news",
+          "sourceName": "AbbVie News",
+          "sourceTier": "B",
+          "originalUrl": "https://news.abbvie.com/2026-10-02-AbbVie-to-Participate-in-Federal-340B-Rebate-Model-Pilot"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "高影响事件"
+      ]
+    },
+    {
+      "id": "0129b5d6-91e0-3617-8b51-8441f32360cc",
+      "sourceId": "hansoh-news",
+      "sourceName": "翰森制药新闻发布",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.hansoh.cn/news/news-detail-514085.htm",
+      "canonicalUrl": "https://www.hansoh.cn/news/news-detail-514085.htm",
+      "titleOriginal": "EASD 2026 | 48周减重19.3%,胃肠道耐受性优异!双偏向型GLP-1/GIP受体激动剂奥莱泊肽III期(LIGHTEN)研究数据以突破性摘要口头报告公布",
+      "titleZh": "EASD 2026 | 48周减重19.3%,胃肠道耐受性优异!双偏向型GLP-1/GIP受体激动剂奥莱泊肽III期(LIGHTEN)研究数据以突破性摘要口头报告公布",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "翰森制药"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-02T00:00:00Z",
+      "collectedAt": "2026-10-06T19:01:56.091427427Z",
+      "contentHash": "3393b08861871a19cf2505e3a46797d18ae61b5ad88f0b8aa8f9a75d8cac9cee",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "hansoh-news",
+          "sourceName": "翰森制药新闻发布",
+          "sourceTier": "B",
+          "originalUrl": "https://www.hansoh.cn/news/news-detail-514085.htm"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "a039f7fd-c5c2-38cf-b4a7-556601902342",
       "sourceId": "fda-biologics-news",
@@ -1109,98 +1201,6 @@
       "importanceReasons": [
         "官方一手来源"
       ]
-    },
-    {
-      "id": "aa4ddf55-f8e2-3644-8511-3cc142e5c54a",
-      "sourceId": "abbvie-news",
-      "sourceName": "AbbVie News",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://news.abbvie.com/2026-10-02-AbbVie-to-Participate-in-Federal-340B-Rebate-Model-Pilot",
-      "canonicalUrl": "https://news.abbvie.com/2026-10-02-AbbVie-to-Participate-in-Federal-340B-Rebate-Model-Pilot",
-      "titleOriginal": "AbbVie to Participate in Federal 340B Rebate Model Pilot",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "approval"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "AbbVie"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-02T19:49:00Z",
-      "collectedAt": "2026-10-06T08:05:07.435988155Z",
-      "contentHash": "bf53aebf6b388193350d7fbf8b2f468a640e9218a8404812e8ea863aa83be642",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "abbvie-news",
-          "sourceName": "AbbVie News",
-          "sourceTier": "B",
-          "originalUrl": "https://news.abbvie.com/2026-10-02-AbbVie-to-Participate-in-Federal-340B-Rebate-Model-Pilot"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "高影响事件"
-      ]
-    },
-    {
-      "id": "0129b5d6-91e0-3617-8b51-8441f32360cc",
-      "sourceId": "hansoh-news",
-      "sourceName": "翰森制药新闻发布",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.hansoh.cn/news/news-detail-514085.htm",
-      "canonicalUrl": "https://www.hansoh.cn/news/news-detail-514085.htm",
-      "titleOriginal": "EASD 2026 | 48周减重19.3%,胃肠道耐受性优异!双偏向型GLP-1/GIP受体激动剂奥莱泊肽III期(LIGHTEN)研究数据以突破性摘要口头报告公布",
-      "titleZh": "EASD 2026 | 48周减重19.3%,胃肠道耐受性优异!双偏向型GLP-1/GIP受体激动剂奥莱泊肽III期(LIGHTEN)研究数据以突破性摘要口头报告公布",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "翰森制药"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-02T00:00:00Z",
-      "collectedAt": "2026-10-06T08:05:07.066412927Z",
-      "contentHash": "3393b08861871a19cf2505e3a46797d18ae61b5ad88f0b8aa8f9a75d8cac9cee",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "hansoh-news",
-          "sourceName": "翰森制药新闻发布",
-          "sourceTier": "B",
-          "originalUrl": "https://www.hansoh.cn/news/news-detail-514085.htm"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     },
     {
       "id": "458d4586-dd1a-34ba-afa2-600b52085cf7",
