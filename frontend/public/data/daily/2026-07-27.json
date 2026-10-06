@@ -1,7 +1,58 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-06T08:05:07.558444997Z",
+  "generatedAt": "2026-10-06T08:57:10.922315091Z",
   "articles": [
+    {
+      "id": "53efca87-9cfd-36bf-a78d-08e4eebc03dc",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07728175",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07728175",
+      "titleOriginal": "Effects of Sirolimus on Asymptomatic ApoE4 Carriers",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Genetic Predisposition to Disease",
+        "Healthy Volunteer",
+        "APOE-4 Positive"
+      ],
+      "publishedAt": "2026-07-27T00:00:00Z",
+      "collectedAt": "2026-10-06T08:57:07.144585602Z",
+      "contentHash": "28df416980145b0ef2483708953f85f49f31ad2acf046c1d32591e2609f00042",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07728175"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "d4211ddc-3978-3caf-bcbb-6150aab3b54c",
       "sourceId": "gsk-press-releases",
@@ -47,57 +98,6 @@
       "importanceScore": 35,
       "importanceReasons": [
         "高影响事件"
-      ]
-    },
-    {
-      "id": "53efca87-9cfd-36bf-a78d-08e4eebc03dc",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07728175",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07728175",
-      "titleOriginal": "Effects of Sirolimus on Asymptomatic ApoE4 Carriers",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Genetic Predisposition to Disease",
-        "Healthy Volunteer",
-        "APOE-4 Positive"
-      ],
-      "publishedAt": "2026-07-27T00:00:00Z",
-      "collectedAt": "2026-10-05T21:29:02.605503780Z",
-      "contentHash": "28df416980145b0ef2483708953f85f49f31ad2acf046c1d32591e2609f00042",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07728175"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
       ]
     }
   ]
