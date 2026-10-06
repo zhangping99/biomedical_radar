@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-06T11:15:42.232944729Z",
+  "generatedAt": "2026-10-06T18:20:42.302592008Z",
   "articles": [
     {
       "id": "005d2459-4058-3379-8051-3419206fddc6",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-30T00:00:00Z",
-      "collectedAt": "2026-10-06T11:15:39.899509394Z",
+      "collectedAt": "2026-10-06T18:20:38.841431916Z",
       "contentHash": "b601fd5f870f5ec0413957cae4deff9752d4ef6716d7145d6578020a83878319",
       "generated": false,
       "generatorVersion": null,
@@ -77,7 +77,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-30T20:03:39Z",
-      "collectedAt": "2026-10-06T11:15:38.614415573Z",
+      "collectedAt": "2026-10-06T18:20:37.879952482Z",
       "contentHash": "70f67c549dece4e53eedafc914daa050a35dfdff7227cd2685704df7d321186f",
       "generated": false,
       "generatorVersion": null,
@@ -125,7 +125,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-30T19:51:27Z",
-      "collectedAt": "2026-10-06T11:15:38.614613868Z",
+      "collectedAt": "2026-10-06T18:20:37.880155143Z",
       "contentHash": "12950f535753755945d97f7cb6a20fbdfee8d42a939f0c01f69e0189b209b350",
       "generated": false,
       "generatorVersion": null,
@@ -173,7 +173,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-30T09:32:50Z",
-      "collectedAt": "2026-10-06T11:15:38.746492911Z",
+      "collectedAt": "2026-10-06T18:20:37.775559733Z",
       "contentHash": "7783f56599247109de6d908385d687c78a1c9ed879d7c603f68e0af589fd1dbe",
       "generated": false,
       "generatorVersion": null,
@@ -4424,55 +4424,6 @@
           "sourceName": "U.S. Food and Drug Administration - Drugs",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/drugs/biosimilars/biosimilars-action-plan"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "124d8f11-252d-38d4-8c05-dfbee7158db2",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/public-meeting-reauthorization-generic-drug-user-fee-amendments-gdufa-09172026",
-      "canonicalUrl": "https://www.fda.gov/drugs/news-events-human-drugs/public-meeting-reauthorization-generic-drug-user-fee-amendments-gdufa-09172026",
-      "titleOriginal": "Public Meeting on the Reauthorization of Generic Drug User Fee Amendments (GDUFA) - 09/17/2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-30T16:42:44Z",
-      "collectedAt": "2026-09-30T20:48:33.693238929Z",
-      "contentHash": "d8641b54b0566040f2cdbe0692d3b81097902b78380de67ebe32b96f4a0c96f6",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/public-meeting-reauthorization-generic-drug-user-fee-amendments-gdufa-09172026"
         }
       ],
       "importanceScore": 65,
