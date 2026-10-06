@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-06T08:57:10.922315091Z",
+  "generatedAt": "2026-10-06T10:44:24.882928621Z",
   "articles": [
+    {
+      "id": "d10e848f-5865-3324-8110-84e672a53c3c",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/01/why-halloween-is-a-holiday-favorite",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/01/why-halloween-is-a-holiday-favorite",
+      "titleOriginal": "Why Halloween is a Holiday Favorite",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-01T00:00:00Z",
+      "collectedAt": "2026-10-06T10:44:20.106757493Z",
+      "contentHash": "a9924d4197ed139c1922b5c927a5bc5969756ed031060af6f1c743b20d4daedc",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/01/why-halloween-is-a-holiday-favorite"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "f4f5beca-eb3d-3de1-9060-67a54417d68d",
       "sourceId": "pubmed-recent",
@@ -1040,51 +1085,6 @@
         "官方一手来源",
         "政策或安全相关"
       ]
-    },
-    {
-      "id": "d10e848f-5865-3324-8110-84e672a53c3c",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/01/why-halloween-is-a-holiday-favorite",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/01/why-halloween-is-a-holiday-favorite",
-      "titleOriginal": "Why Halloween is a Holiday Favorite",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-01T00:00:00Z",
-      "collectedAt": "2026-10-05T22:09:43.101882517Z",
-      "contentHash": "a9924d4197ed139c1922b5c927a5bc5969756ed031060af6f1c743b20d4daedc",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/01/why-halloween-is-a-holiday-favorite"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     },
     {
       "id": "c77045f7-f13f-34c2-abcf-091277f121d0",
