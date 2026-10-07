@@ -1,7 +1,54 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-07T05:57:02.052265742Z",
+  "generatedAt": "2026-10-07T06:29:49.621194051Z",
   "articles": [
+    {
+      "id": "824cd889-3d94-39f4-8e26-b6f3ed6de208",
+      "sourceId": "nhsa-healthcare-security-updates",
+      "sourceName": "National Healthcare Security Administration Policies",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.nhsa.gov.cn/art/2026/8/19/art_53_21828.html",
+      "canonicalUrl": "https://www.nhsa.gov.cn/art/2026/8/19/art_53_21828.html",
+      "titleOriginal": "国家医疗保障局关于印发《全民医疗保障“十五五”规划》的通知",
+      "titleZh": "国家医疗保障局关于印发《全民医疗保障“十五五”规划》的通知",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "reimbursement_access",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "国家医疗保障局"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-19T00:00:00Z",
+      "collectedAt": "2026-10-07T06:29:49.572921297Z",
+      "contentHash": "583317181aaa104a072f30d1657151216d5a2b2701a98e3e50646ba45bceb86d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "nhsa-healthcare-security-updates",
+          "sourceName": "National Healthcare Security Administration Policies",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nhsa.gov.cn/art/2026/8/19/art_53_21828.html"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "e88c2cd4-ab11-36e4-b9d3-43e3f092902b",
       "sourceId": "hansoh-news",
@@ -46,53 +93,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "824cd889-3d94-39f4-8e26-b6f3ed6de208",
-      "sourceId": "nhsa-healthcare-security-updates",
-      "sourceName": "National Healthcare Security Administration Policies",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.nhsa.gov.cn/art/2026/8/19/art_53_21828.html",
-      "canonicalUrl": "https://www.nhsa.gov.cn/art/2026/8/19/art_53_21828.html",
-      "titleOriginal": "国家医疗保障局关于印发《全民医疗保障“十五五”规划》的通知",
-      "titleZh": "国家医疗保障局关于印发《全民医疗保障“十五五”规划》的通知",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "reimbursement_access",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "国家医疗保障局"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-08-19T00:00:00Z",
-      "collectedAt": "2026-10-06T22:48:00.357870818Z",
-      "contentHash": "583317181aaa104a072f30d1657151216d5a2b2701a98e3e50646ba45bceb86d",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "nhsa-healthcare-security-updates",
-          "sourceName": "National Healthcare Security Administration Policies",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nhsa.gov.cn/art/2026/8/19/art_53_21828.html"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     },
     {
       "id": "98e3c31c-0e0b-3b51-b5ba-0594bfe1aa6b",
