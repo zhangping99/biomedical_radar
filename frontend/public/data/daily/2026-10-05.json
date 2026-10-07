@@ -1,7 +1,54 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-07T19:58:49.412109614Z",
+  "generatedAt": "2026-10-07T20:45:50.871161790Z",
   "articles": [
+    {
+      "id": "b6c12bcc-f455-34fe-9a1d-99ae87c5a622",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/05/why-flu-vaccine-is-beneficial-for-kids",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/05/why-flu-vaccine-is-beneficial-for-kids",
+      "titleOriginal": "Why Flu Vaccine is Beneficial for Kids",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-05T00:00:00Z",
+      "collectedAt": "2026-10-07T20:45:43.198017845Z",
+      "contentHash": "5da5a9ac09fd5621919a0bdd0cbbff57a340f11e72c6d710b63497cc9d4d64b5",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/05/why-flu-vaccine-is-beneficial-for-kids"
+        }
+      ],
+      "importanceScore": 28,
+      "importanceReasons": [
+        "近期更新"
+      ]
+    },
     {
       "id": "456cdaf0-ab96-38bf-8cf3-c0c5cfcb23a5",
       "sourceId": "nature-medicine",
@@ -975,53 +1022,6 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "b6c12bcc-f455-34fe-9a1d-99ae87c5a622",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/05/why-flu-vaccine-is-beneficial-for-kids",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/05/why-flu-vaccine-is-beneficial-for-kids",
-      "titleOriginal": "Why Flu Vaccine is Beneficial for Kids",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-05T00:00:00Z",
-      "collectedAt": "2026-10-07T10:32:38.664088054Z",
-      "contentHash": "5da5a9ac09fd5621919a0bdd0cbbff57a340f11e72c6d710b63497cc9d4d64b5",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/05/why-flu-vaccine-is-beneficial-for-kids"
-        }
-      ],
-      "importanceScore": 28,
-      "importanceReasons": [
         "近期更新"
       ]
     },
