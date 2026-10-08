@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-08T08:55:38.211943198Z",
+  "generatedAt": "2026-10-08T10:54:40.354609698Z",
   "articles": [
+    {
+      "id": "3e292dd9-5bbf-3ae4-b194-16c7bebc0336",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/02/is-it-fall-allergies-or-a-cold",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/02/is-it-fall-allergies-or-a-cold",
+      "titleOriginal": "Is it Fall Allergies or a Cold?",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-02T00:00:00Z",
+      "collectedAt": "2026-10-08T10:53:49.138918859Z",
+      "contentHash": "2c450730b9f106db27f55309bf63a406a59c4136336ffd845b3804d1d2af5466",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/02/is-it-fall-allergies-or-a-cold"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "d3f8c4d4-5840-34d1-bad0-9e54648eb5bf",
       "sourceId": "pubmed-recent",
@@ -904,51 +949,6 @@
         "官方一手来源",
         "政策或安全相关"
       ]
-    },
-    {
-      "id": "3e292dd9-5bbf-3ae4-b194-16c7bebc0336",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/02/is-it-fall-allergies-or-a-cold",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/02/is-it-fall-allergies-or-a-cold",
-      "titleOriginal": "Is it Fall Allergies or a Cold?",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-02T00:00:00Z",
-      "collectedAt": "2026-10-07T20:45:43.198304436Z",
-      "contentHash": "2c450730b9f106db27f55309bf63a406a59c4136336ffd845b3804d1d2af5466",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/02/is-it-fall-allergies-or-a-cold"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     },
     {
       "id": "8714df44-0541-3e82-9681-58ba1d6e3ff1",

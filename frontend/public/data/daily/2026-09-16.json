@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-08T08:55:38.211943198Z",
+  "generatedAt": "2026-10-08T10:54:40.354609698Z",
   "articles": [
+    {
+      "id": "7b4521c0-0dc7-38c6-8723-4b4cb1e5fafc",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/16/cleveland-clinics-world-class-care-now-available-to-more-bermuda-residents",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/16/cleveland-clinics-world-class-care-now-available-to-more-bermuda-residents",
+      "titleOriginal": "Cleveland Clinic’s World-Class Care Now Available to More Bermuda Residents",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-16T00:00:00Z",
+      "collectedAt": "2026-10-08T10:53:49.140206009Z",
+      "contentHash": "887c4c50563680d598a4543fd31f40662bf91a2e6bf862a986e0292400f592f1",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/16/cleveland-clinics-world-class-care-now-available-to-more-bermuda-residents"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "dbae90e9-92b0-3619-a10e-73881c421d59",
       "sourceId": "hengrui-focus-news",
@@ -42,51 +87,6 @@
           "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
           "sourceTier": "B",
           "originalUrl": "https://www.hengrui.com/media/detail-1038.html"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "7b4521c0-0dc7-38c6-8723-4b4cb1e5fafc",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/16/cleveland-clinics-world-class-care-now-available-to-more-bermuda-residents",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/16/cleveland-clinics-world-class-care-now-available-to-more-bermuda-residents",
-      "titleOriginal": "Cleveland Clinic’s World-Class Care Now Available to More Bermuda Residents",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-16T00:00:00Z",
-      "collectedAt": "2026-10-07T20:45:43.199691964Z",
-      "contentHash": "887c4c50563680d598a4543fd31f40662bf91a2e6bf862a986e0292400f592f1",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/16/cleveland-clinics-world-class-care-now-available-to-more-bermuda-residents"
         }
       ],
       "importanceScore": 20,
