@@ -1,7 +1,55 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-08T21:19:02.065840621Z",
+  "generatedAt": "2026-10-08T23:33:51.624670941Z",
   "articles": [
+    {
+      "id": "d75b83d8-9d00-3409-960f-b4891bcacbe2",
+      "sourceId": "beijing-health-policy",
+      "sourceName": "Beijing Municipal Health Commission",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202609/t20260929_4885389.html",
+      "canonicalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202609/t20260929_4885389.html",
+      "titleOriginal": "北京市卫生健康委员会关于同意民航总医院为冠心病介入诊疗技术培训基地的批复",
+      "titleZh": "北京市卫生健康委员会关于同意民航总医院为冠心病介入诊疗技术培训基地的批复",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "北京市卫生健康委员会"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-29T00:00:00Z",
+      "collectedAt": "2026-10-08T23:33:49.485934031Z",
+      "contentHash": "c97d7ef709bd530001461a5556fb030197ebecf607004a756545a9396714d57b",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "beijing-health-policy",
+          "sourceName": "Beijing Municipal Health Commission",
+          "sourceTier": "A",
+          "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202609/t20260929_4885389.html"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "07df0009-eed6-3032-8760-fb38b6b42b63",
       "sourceId": "pmda-safety-updates",
@@ -270,54 +318,6 @@
           "sourceName": "FDA Vaccines, Blood and Biologics",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/patients/fda-patient-listening-sessions/patient-listening-session-summaries"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "d75b83d8-9d00-3409-960f-b4891bcacbe2",
-      "sourceId": "beijing-health-policy",
-      "sourceName": "Beijing Municipal Health Commission",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202609/t20260929_4885389.html",
-      "canonicalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202609/t20260929_4885389.html",
-      "titleOriginal": "北京市卫生健康委员会关于同意民航总医院为冠心病介入诊疗技术培训基地的批复",
-      "titleZh": "北京市卫生健康委员会关于同意民航总医院为冠心病介入诊疗技术培训基地的批复",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "北京市卫生健康委员会"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-29T00:00:00Z",
-      "collectedAt": "2026-10-08T14:01:40.351648665Z",
-      "contentHash": "c97d7ef709bd530001461a5556fb030197ebecf607004a756545a9396714d57b",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "beijing-health-policy",
-          "sourceName": "Beijing Municipal Health Commission",
-          "sourceTier": "A",
-          "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202609/t20260929_4885389.html"
         }
       ],
       "importanceScore": 50,
