@@ -1,7 +1,55 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-08T14:01:42.301618460Z",
+  "generatedAt": "2026-10-08T15:35:22.890323619Z",
   "articles": [
+    {
+      "id": "34c9349b-d895-366b-8e0f-e92001b42003",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/vaccines/rotarix",
+      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/vaccines/rotarix",
+      "titleOriginal": "ROTARIX",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-28T21:20:26Z",
+      "collectedAt": "2026-10-08T15:35:20.551947529Z",
+      "contentHash": "7b8a340afcd977869912e7020038e8400f4b29e957f3af1c5d33a7acffcf3005",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/vaccines/rotarix"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "fb78bfb3-3c96-3dbe-a87a-cda67d974d5e",
       "sourceId": "abbvie-news",
@@ -138,54 +186,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "34c9349b-d895-366b-8e0f-e92001b42003",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/vaccines/rotarix",
-      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/vaccines/rotarix",
-      "titleOriginal": "ROTARIX",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-28T21:20:26Z",
-      "collectedAt": "2026-10-08T06:01:12.655630806Z",
-      "contentHash": "7b8a340afcd977869912e7020038e8400f4b29e957f3af1c5d33a7acffcf3005",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/vaccines/rotarix"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
     },
     {
       "id": "58185f64-b7a4-3d90-8df9-ac828ec0f151",
