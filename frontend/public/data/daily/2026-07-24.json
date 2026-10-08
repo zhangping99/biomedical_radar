@@ -1,7 +1,99 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-08T23:33:51.624670941Z",
+  "generatedAt": "2026-10-08T23:55:42.490232870Z",
   "articles": [
+    {
+      "id": "46a9e027-a8ed-3c71-b56f-54b6623a9bd2",
+      "sourceId": "hengrui-focus-news",
+      "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.hengrui.com/media/detail-995.html",
+      "canonicalUrl": "https://www.hengrui.com/media/detail-995.html",
+      "titleOriginal": "恒瑞创新药艾比特®联合艾瑞卡®获批用于复发或转移性宫颈癌一线治疗",
+      "titleZh": "恒瑞创新药艾比特®联合艾瑞卡®获批用于复发或转移性宫颈癌一线治疗",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "approval"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "恒瑞医药"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-07-24T00:00:00Z",
+      "collectedAt": "2026-10-08T23:55:39.370340561Z",
+      "contentHash": "d58d6740a2208809cc049966af6d8d842e17ea9faceff8f57fd719ae342a60e2",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "hengrui-focus-news",
+          "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
+          "sourceTier": "B",
+          "originalUrl": "https://www.hengrui.com/media/detail-995.html"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "高影响事件"
+      ]
+    },
+    {
+      "id": "590b9555-0cb5-389b-847c-db2fb27d25bf",
+      "sourceId": "sanofi-press-releases",
+      "sourceName": "Sanofi Press Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-07-24-05-30-00-3332696",
+      "canonicalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-07-24-05-30-00-3332696",
+      "titleOriginal": "Press Release: Sanofi announces decision not to submit amlitelimab in atopic dermatitis for global regulatory reviews",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "EU",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Sanofi"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-07-24T00:00:00Z",
+      "collectedAt": "2026-10-08T23:55:35.820290409Z",
+      "contentHash": "47b4e5a96a33f2c1bfedaeee188e8613bdd5803bc1d8431fff78c895d12f1fd7",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "sanofi-press-releases",
+          "sourceName": "Sanofi Press Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-07-24-05-30-00-3332696"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "e86b7b8f-a15d-3841-b64b-9f24709bc05a",
       "sourceId": "clinicaltrials-recent",
@@ -50,98 +142,6 @@
       "importanceReasons": [
         "官方一手来源"
       ]
-    },
-    {
-      "id": "46a9e027-a8ed-3c71-b56f-54b6623a9bd2",
-      "sourceId": "hengrui-focus-news",
-      "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.hengrui.com/media/detail-995.html",
-      "canonicalUrl": "https://www.hengrui.com/media/detail-995.html",
-      "titleOriginal": "恒瑞创新药艾比特®联合艾瑞卡®获批用于复发或转移性宫颈癌一线治疗",
-      "titleZh": "恒瑞创新药艾比特®联合艾瑞卡®获批用于复发或转移性宫颈癌一线治疗",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "approval"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "恒瑞医药"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-07-24T00:00:00Z",
-      "collectedAt": "2026-10-08T19:24:35.686063956Z",
-      "contentHash": "d58d6740a2208809cc049966af6d8d842e17ea9faceff8f57fd719ae342a60e2",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "hengrui-focus-news",
-          "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
-          "sourceTier": "B",
-          "originalUrl": "https://www.hengrui.com/media/detail-995.html"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "高影响事件"
-      ]
-    },
-    {
-      "id": "590b9555-0cb5-389b-847c-db2fb27d25bf",
-      "sourceId": "sanofi-press-releases",
-      "sourceName": "Sanofi Press Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-07-24-05-30-00-3332696",
-      "canonicalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-07-24-05-30-00-3332696",
-      "titleOriginal": "Press Release: Sanofi announces decision not to submit amlitelimab in atopic dermatitis for global regulatory reviews",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "EU",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "Sanofi"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-07-24T00:00:00Z",
-      "collectedAt": "2026-10-08T19:24:33.702245544Z",
-      "contentHash": "47b4e5a96a33f2c1bfedaeee188e8613bdd5803bc1d8431fff78c895d12f1fd7",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "sanofi-press-releases",
-          "sourceName": "Sanofi Press Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-07-24-05-30-00-3332696"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     },
     {
       "id": "827c8e38-d305-3834-b9f2-1df72e06360b",
