@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-08T07:57:39.983412608Z",
+  "generatedAt": "2026-10-08T08:55:38.211943198Z",
   "articles": [
+    {
+      "id": "4e184b2b-12ab-3728-9341-9e538deb46ac",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07712874",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07712874",
+      "titleOriginal": "Screening Protocol",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Pain"
+      ],
+      "publishedAt": "2026-07-20T00:00:00Z",
+      "collectedAt": "2026-10-08T08:55:36.746954432Z",
+      "contentHash": "7f3b9d5b757a6818cf183d2a61b72a7dbc713e6dc9f4da59f0211a2fc0d47a6d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07712874"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "e0a678c8-36c1-3628-9e0f-b41ea245fffa",
       "sourceId": "gsk-press-releases",
@@ -47,55 +96,6 @@
       "importanceScore": 35,
       "importanceReasons": [
         "高影响事件"
-      ]
-    },
-    {
-      "id": "4e184b2b-12ab-3728-9341-9e538deb46ac",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07712874",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07712874",
-      "titleOriginal": "Screening Protocol",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Pain"
-      ],
-      "publishedAt": "2026-07-20T00:00:00Z",
-      "collectedAt": "2026-10-07T19:58:48.574645508Z",
-      "contentHash": "7f3b9d5b757a6818cf183d2a61b72a7dbc713e6dc9f4da59f0211a2fc0d47a6d",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07712874"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
       ]
     },
     {

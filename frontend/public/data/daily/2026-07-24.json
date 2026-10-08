@@ -1,7 +1,57 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-08T07:57:39.983412608Z",
+  "generatedAt": "2026-10-08T08:55:38.211943198Z",
   "articles": [
+    {
+      "id": "827c8e38-d305-3834-b9f2-1df72e06360b",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07724483",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07724483",
+      "titleOriginal": "Ultrasonographic Evaluation and Pedobarographic Correlation of Lower Extremity Muscles in Lipedema Patients",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Lipedema",
+        "Obesity \u0026 Overweight"
+      ],
+      "publishedAt": "2026-07-24T00:00:00Z",
+      "collectedAt": "2026-10-08T08:55:36.739802037Z",
+      "contentHash": "32e0a009a27f6f48a7f69e45f98a331522b300ff3448c1acd31679267f7df11d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07724483"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "46a9e027-a8ed-3c71-b56f-54b6623a9bd2",
       "sourceId": "hengrui-focus-news",
@@ -93,56 +143,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "827c8e38-d305-3834-b9f2-1df72e06360b",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07724483",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07724483",
-      "titleOriginal": "Ultrasonographic Evaluation and Pedobarographic Correlation of Lower Extremity Muscles in Lipedema Patients",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Lipedema",
-        "Obesity \u0026 Overweight"
-      ],
-      "publishedAt": "2026-07-24T00:00:00Z",
-      "collectedAt": "2026-10-07T19:58:48.566272693Z",
-      "contentHash": "32e0a009a27f6f48a7f69e45f98a331522b300ff3448c1acd31679267f7df11d",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07724483"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     },
     {
       "id": "5948d2ce-d3a6-3c67-9961-3dd8b52dcfbe",
