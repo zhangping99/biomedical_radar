@@ -1,7 +1,344 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-08T23:55:42.490232870Z",
+  "generatedAt": "2026-10-09T06:06:32.146227331Z",
   "articles": [
+    {
+      "id": "7a0219d2-422f-3950-90b9-f95ed5c64fca",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/greenwich-rx-issues-voluntary-nationwide-recall-compounded-glutathione-due-elevated-endotoxin-levels",
+      "canonicalUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/greenwich-rx-issues-voluntary-nationwide-recall-compounded-glutathione-due-elevated-endotoxin-levels",
+      "titleOriginal": "Greenwich Rx Issues Voluntary Nationwide Recall of Compounded Glutathione Due to Elevated Endotoxin Levels",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-01T04:00:00Z",
+      "collectedAt": "2026-10-09T06:06:29.153450554Z",
+      "contentHash": "d58bc210072f4ee66eb747d58aa74c746140fe5f0030cfa4116d4802e0ac1478",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/greenwich-rx-issues-voluntary-nationwide-recall-compounded-glutathione-due-elevated-endotoxin-levels"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "75eecf93-47cd-3b07-813a-275525f54d29",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-1-2026-meeting-announcement",
+      "canonicalUrl": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-1-2026-meeting-announcement",
+      "titleOriginal": "Vaccines and Related Biological Products Advisory Committee October 1, 2026 Meeting Announcement - 10/01/2026",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-01T15:13:33Z",
+      "collectedAt": "2026-10-09T06:06:29.162278438Z",
+      "contentHash": "b6701e8e308c5d81adcdfb9a1e07b21e8600fa963438db27aadf3517743f7d17",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-1-2026-meeting-announcement"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "917e5044-2a3f-3416-870f-5d303a7cd2a0",
+      "sourceId": "ema-news",
+      "sourceName": "European Medicines Agency",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.ema.europa.eu/en/news/advice-end-year-submission-dates-type-i-variations-2026",
+      "canonicalUrl": "https://www.ema.europa.eu/en/news/advice-end-year-submission-dates-type-i-variations-2026",
+      "titleOriginal": "Advice on ‘end-of-year’ submission dates for type I variations in 2026",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "EU",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "European Medicines Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-01T14:00:00Z",
+      "collectedAt": "2026-10-09T06:06:29.113757795Z",
+      "contentHash": "4da8a8817bbc138c71266b22e9c88fb07510abf705e90c01d9a64c78838447cd",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "ema-news",
+          "sourceName": "European Medicines Agency",
+          "sourceTier": "A",
+          "originalUrl": "https://www.ema.europa.eu/en/news/advice-end-year-submission-dates-type-i-variations-2026"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "23795ab3-ee9a-3d0e-8f60-7f089df70850",
+      "sourceId": "ema-news",
+      "sourceName": "European Medicines Agency",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.ema.europa.eu/en/news/ema-management-board-highlights-september-2026-meeting",
+      "canonicalUrl": "https://www.ema.europa.eu/en/news/ema-management-board-highlights-september-2026-meeting",
+      "titleOriginal": "EMA Management Board: highlights of September 2026 meeting",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "EU",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "European Medicines Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-01T13:49:00Z",
+      "collectedAt": "2026-10-09T06:06:29.118974770Z",
+      "contentHash": "df48879d15d7beefaf4454388306bbd2bbe0d7059fab6e54dd18351e910d71cf",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "ema-news",
+          "sourceName": "European Medicines Agency",
+          "sourceTier": "A",
+          "originalUrl": "https://www.ema.europa.eu/en/news/ema-management-board-highlights-september-2026-meeting"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "aeda58d9-29d8-3ae8-9411-9650071396c0",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/safety/medwatch-forms-fda-safety-reporting/instructions-completing-form-fda-3500",
+      "canonicalUrl": "https://www.fda.gov/safety/medwatch-forms-fda-safety-reporting/instructions-completing-form-fda-3500",
+      "titleOriginal": "Instructions for Completing Form FDA 3500",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-01T13:02:17Z",
+      "collectedAt": "2026-10-09T06:06:29.162571714Z",
+      "contentHash": "4dfaea1c59139816b1b121bf140943d7e761f1f8d52f5951374f325796c4f744",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/safety/medwatch-forms-fda-safety-reporting/instructions-completing-form-fda-3500"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "84b35d7a-f4a6-315b-a66e-40facf70dac2",
+      "sourceId": "ema-news",
+      "sourceName": "European Medicines Agency",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.ema.europa.eu/en/news/global-regulators-call-advancing-alternatives-animal-testing-across-medicine-lifecycle",
+      "canonicalUrl": "https://www.ema.europa.eu/en/news/global-regulators-call-advancing-alternatives-animal-testing-across-medicine-lifecycle",
+      "titleOriginal": "Global regulators call for advancing alternatives to animal testing across the medicine lifecycle",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "EU",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "European Medicines Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-01T11:00:00Z",
+      "collectedAt": "2026-10-09T06:06:29.120604125Z",
+      "contentHash": "419ef379a4b95fd3e54d964b7b00d7675f6cd32d4807545164f8cb5ea7501f2e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "ema-news",
+          "sourceName": "European Medicines Agency",
+          "sourceTier": "A",
+          "originalUrl": "https://www.ema.europa.eu/en/news/global-regulators-call-advancing-alternatives-animal-testing-across-medicine-lifecycle"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "71a46cee-d061-3c14-954f-8731459dc0b4",
+      "sourceId": "ema-news",
+      "sourceName": "European Medicines Agency",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.ema.europa.eu/en/news/executive-director-speech-ema-womens-health-multi-stakeholder-workshop",
+      "canonicalUrl": "https://www.ema.europa.eu/en/news/executive-director-speech-ema-womens-health-multi-stakeholder-workshop",
+      "titleOriginal": "Executive Director speech at EMA women’s health multi-stakeholder workshop",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "EU",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "European Medicines Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-01T08:37:00Z",
+      "collectedAt": "2026-10-09T06:06:29.126256818Z",
+      "contentHash": "38913da1cf7ad5bca518f9bcf70b9fb38bbe18e1c1a3b0c2d7e2fd8ab1f21cfe",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "ema-news",
+          "sourceName": "European Medicines Agency",
+          "sourceTier": "A",
+          "originalUrl": "https://www.ema.europa.eu/en/news/executive-director-speech-ema-womens-health-multi-stakeholder-workshop"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "52d2193f-d48d-3fff-8a31-f49272ac5def",
       "sourceId": "abbvie-news",
@@ -228,343 +565,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "7a0219d2-422f-3950-90b9-f95ed5c64fca",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/greenwich-rx-issues-voluntary-nationwide-recall-compounded-glutathione-due-elevated-endotoxin-levels",
-      "canonicalUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/greenwich-rx-issues-voluntary-nationwide-recall-compounded-glutathione-due-elevated-endotoxin-levels",
-      "titleOriginal": "Greenwich Rx Issues Voluntary Nationwide Recall of Compounded Glutathione Due to Elevated Endotoxin Levels",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-01T04:00:00Z",
-      "collectedAt": "2026-10-08T21:18:58.371552242Z",
-      "contentHash": "d58bc210072f4ee66eb747d58aa74c746140fe5f0030cfa4116d4802e0ac1478",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/greenwich-rx-issues-voluntary-nationwide-recall-compounded-glutathione-due-elevated-endotoxin-levels"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "75eecf93-47cd-3b07-813a-275525f54d29",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-1-2026-meeting-announcement",
-      "canonicalUrl": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-1-2026-meeting-announcement",
-      "titleOriginal": "Vaccines and Related Biological Products Advisory Committee October 1, 2026 Meeting Announcement - 10/01/2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-01T15:13:33Z",
-      "collectedAt": "2026-10-08T21:18:58.398088526Z",
-      "contentHash": "b6701e8e308c5d81adcdfb9a1e07b21e8600fa963438db27aadf3517743f7d17",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-1-2026-meeting-announcement"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "917e5044-2a3f-3416-870f-5d303a7cd2a0",
-      "sourceId": "ema-news",
-      "sourceName": "European Medicines Agency",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.ema.europa.eu/en/news/advice-end-year-submission-dates-type-i-variations-2026",
-      "canonicalUrl": "https://www.ema.europa.eu/en/news/advice-end-year-submission-dates-type-i-variations-2026",
-      "titleOriginal": "Advice on ‘end-of-year’ submission dates for type I variations in 2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "EU",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "European Medicines Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-01T14:00:00Z",
-      "collectedAt": "2026-10-08T21:18:58.341713352Z",
-      "contentHash": "4da8a8817bbc138c71266b22e9c88fb07510abf705e90c01d9a64c78838447cd",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "ema-news",
-          "sourceName": "European Medicines Agency",
-          "sourceTier": "A",
-          "originalUrl": "https://www.ema.europa.eu/en/news/advice-end-year-submission-dates-type-i-variations-2026"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "23795ab3-ee9a-3d0e-8f60-7f089df70850",
-      "sourceId": "ema-news",
-      "sourceName": "European Medicines Agency",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.ema.europa.eu/en/news/ema-management-board-highlights-september-2026-meeting",
-      "canonicalUrl": "https://www.ema.europa.eu/en/news/ema-management-board-highlights-september-2026-meeting",
-      "titleOriginal": "EMA Management Board: highlights of September 2026 meeting",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "EU",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "European Medicines Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-01T13:49:00Z",
-      "collectedAt": "2026-10-08T21:18:58.343218043Z",
-      "contentHash": "df48879d15d7beefaf4454388306bbd2bbe0d7059fab6e54dd18351e910d71cf",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "ema-news",
-          "sourceName": "European Medicines Agency",
-          "sourceTier": "A",
-          "originalUrl": "https://www.ema.europa.eu/en/news/ema-management-board-highlights-september-2026-meeting"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "aeda58d9-29d8-3ae8-9411-9650071396c0",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/safety/medwatch-forms-fda-safety-reporting/instructions-completing-form-fda-3500",
-      "canonicalUrl": "https://www.fda.gov/safety/medwatch-forms-fda-safety-reporting/instructions-completing-form-fda-3500",
-      "titleOriginal": "Instructions for Completing Form FDA 3500",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-01T13:02:17Z",
-      "collectedAt": "2026-10-08T21:18:58.398324045Z",
-      "contentHash": "4dfaea1c59139816b1b121bf140943d7e761f1f8d52f5951374f325796c4f744",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/safety/medwatch-forms-fda-safety-reporting/instructions-completing-form-fda-3500"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "84b35d7a-f4a6-315b-a66e-40facf70dac2",
-      "sourceId": "ema-news",
-      "sourceName": "European Medicines Agency",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.ema.europa.eu/en/news/global-regulators-call-advancing-alternatives-animal-testing-across-medicine-lifecycle",
-      "canonicalUrl": "https://www.ema.europa.eu/en/news/global-regulators-call-advancing-alternatives-animal-testing-across-medicine-lifecycle",
-      "titleOriginal": "Global regulators call for advancing alternatives to animal testing across the medicine lifecycle",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "EU",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "European Medicines Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-01T11:00:00Z",
-      "collectedAt": "2026-10-08T21:18:58.347357048Z",
-      "contentHash": "419ef379a4b95fd3e54d964b7b00d7675f6cd32d4807545164f8cb5ea7501f2e",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "ema-news",
-          "sourceName": "European Medicines Agency",
-          "sourceTier": "A",
-          "originalUrl": "https://www.ema.europa.eu/en/news/global-regulators-call-advancing-alternatives-animal-testing-across-medicine-lifecycle"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "71a46cee-d061-3c14-954f-8731459dc0b4",
-      "sourceId": "ema-news",
-      "sourceName": "European Medicines Agency",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.ema.europa.eu/en/news/executive-director-speech-ema-womens-health-multi-stakeholder-workshop",
-      "canonicalUrl": "https://www.ema.europa.eu/en/news/executive-director-speech-ema-womens-health-multi-stakeholder-workshop",
-      "titleOriginal": "Executive Director speech at EMA women’s health multi-stakeholder workshop",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "EU",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "European Medicines Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-01T08:37:00Z",
-      "collectedAt": "2026-10-08T21:18:58.348720809Z",
-      "contentHash": "38913da1cf7ad5bca518f9bcf70b9fb38bbe18e1c1a3b0c2d7e2fd8ab1f21cfe",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "ema-news",
-          "sourceName": "European Medicines Agency",
-          "sourceTier": "A",
-          "originalUrl": "https://www.ema.europa.eu/en/news/executive-director-speech-ema-womens-health-multi-stakeholder-workshop"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
     },
     {
       "id": "ebf1562a-474e-38c2-8a3a-b6b073341d9c",
