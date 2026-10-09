@@ -1,7 +1,57 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-09T07:58:32.983863920Z",
+  "generatedAt": "2026-10-09T08:59:49.428759974Z",
   "articles": [
+    {
+      "id": "fabacda1-5c00-3fbc-b7eb-0d7094ea2704",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07779642",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07779642",
+      "titleOriginal": "Precision Medicine Adaptive Network Platform Trial in Hypoxemic Acute Respiratory Failure",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "ARDS (Acute Respiratory Distress Syndrome)",
+        "Acute Hypoxic Respiratory Failure"
+      ],
+      "publishedAt": "2026-08-21T00:00:00Z",
+      "collectedAt": "2026-10-09T08:59:48.428466908Z",
+      "contentHash": "c8efe7284f0974c4008fb5f1dba067c8a7f07e37bdee24379aedf0695e50ba7d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07779642"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "3dee33d9-f1a2-399e-be6d-3a4d165254c2",
       "sourceId": "hengrui-focus-news",
@@ -47,56 +97,6 @@
       "importanceScore": 35,
       "importanceReasons": [
         "高影响事件"
-      ]
-    },
-    {
-      "id": "fabacda1-5c00-3fbc-b7eb-0d7094ea2704",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07779642",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07779642",
-      "titleOriginal": "Precision Medicine Adaptive Network Platform Trial in Hypoxemic Acute Respiratory Failure",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "ARDS (Acute Respiratory Distress Syndrome)",
-        "Acute Hypoxic Respiratory Failure"
-      ],
-      "publishedAt": "2026-08-21T00:00:00Z",
-      "collectedAt": "2026-10-08T19:56:08.311704215Z",
-      "contentHash": "c8efe7284f0974c4008fb5f1dba067c8a7f07e37bdee24379aedf0695e50ba7d",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07779642"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
       ]
     },
     {

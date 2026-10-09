@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-09T07:58:32.983863920Z",
+  "generatedAt": "2026-10-09T08:59:49.428759974Z",
   "articles": [
+    {
+      "id": "e86b7b8f-a15d-3841-b64b-9f24709bc05a",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07726628",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07726628",
+      "titleOriginal": "The Impact of Telemedicine, Using the Caller\u0027s Mobile Phone Camera, on the Quality of Care Provided to Adult Patients Contacting the 15 Centre for Acute Dyspnea",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Dyspnea"
+      ],
+      "publishedAt": "2026-07-24T00:00:00Z",
+      "collectedAt": "2026-10-09T08:59:48.426398283Z",
+      "contentHash": "6cb267f4cbf35486b7046aabae0ee876464e518965b6c4ef8eace27a5beddf5a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07726628"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "46a9e027-a8ed-3c71-b56f-54b6623a9bd2",
       "sourceId": "hengrui-focus-news",
@@ -93,55 +142,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "e86b7b8f-a15d-3841-b64b-9f24709bc05a",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07726628",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07726628",
-      "titleOriginal": "The Impact of Telemedicine, Using the Caller\u0027s Mobile Phone Camera, on the Quality of Care Provided to Adult Patients Contacting the 15 Centre for Acute Dyspnea",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Dyspnea"
-      ],
-      "publishedAt": "2026-07-24T00:00:00Z",
-      "collectedAt": "2026-10-08T19:56:08.309619337Z",
-      "contentHash": "6cb267f4cbf35486b7046aabae0ee876464e518965b6c4ef8eace27a5beddf5a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07726628"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     },
     {
       "id": "827c8e38-d305-3834-b9f2-1df72e06360b",
