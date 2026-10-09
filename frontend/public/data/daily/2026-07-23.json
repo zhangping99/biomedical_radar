@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-09T18:58:09.346699197Z",
+  "generatedAt": "2026-10-09T19:32:16.858531604Z",
   "articles": [
+    {
+      "id": "96091ed1-d77b-3da8-a8e4-df93bace6a26",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07721467",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07721467",
+      "titleOriginal": "Neuroplasticity Enhancement From Cognitive Training Reinforced by Psilocybin",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Alzheimer\u0027s Disease"
+      ],
+      "publishedAt": "2026-07-23T00:00:00Z",
+      "collectedAt": "2026-10-09T19:32:14.700621108Z",
+      "contentHash": "b364a786f9e4ba817faa17a6d4beaacb74153e35f220be1ef3108ed8204865e8",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07721467"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "a2f012fd-e5d0-3597-8401-939472a77ffb",
       "sourceId": "lilly-news-releases",
