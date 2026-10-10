@@ -1,7 +1,55 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-10T19:29:31.773438368Z",
+  "generatedAt": "2026-10-10T20:03:44.468820753Z",
   "articles": [
+    {
+      "id": "07df0009-eed6-3032-8760-fb38b6b42b63",
+      "sourceId": "pmda-safety-updates",
+      "sourceName": "Japan PMDA Safety Updates",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/risk-communications/0001.html",
+      "canonicalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/risk-communications/0001.html",
+      "titleOriginal": "PMDA Risk Communications: Ibuprofen L-Lysine,etc. posted",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "JP",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Pharmaceuticals and Medical Devices Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-29T00:00:00Z",
+      "collectedAt": "2026-10-10T20:03:41.991538407Z",
+      "contentHash": "700b8577d38a36c1c5c822a88ec77b20dda6fdd5d1335e6c87336c33425642e4",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "pmda-safety-updates",
+          "sourceName": "Japan PMDA Safety Updates",
+          "sourceTier": "A",
+          "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/risk-communications/0001.html"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "4afcd22a-2cf7-3471-9b40-33b918a7799e",
       "sourceId": "pumch-research",
@@ -181,54 +229,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "07df0009-eed6-3032-8760-fb38b6b42b63",
-      "sourceId": "pmda-safety-updates",
-      "sourceName": "Japan PMDA Safety Updates",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/risk-communications/0001.html",
-      "canonicalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/risk-communications/0001.html",
-      "titleOriginal": "PMDA Risk Communications: Ibuprofen L-Lysine,etc. posted",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "JP",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Pharmaceuticals and Medical Devices Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-29T00:00:00Z",
-      "collectedAt": "2026-10-10T14:27:53.109735950Z",
-      "contentHash": "700b8577d38a36c1c5c822a88ec77b20dda6fdd5d1335e6c87336c33425642e4",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "pmda-safety-updates",
-          "sourceName": "Japan PMDA Safety Updates",
-          "sourceTier": "A",
-          "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/risk-communications/0001.html"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
     },
     {
       "id": "d75b83d8-9d00-3409-960f-b4891bcacbe2",
