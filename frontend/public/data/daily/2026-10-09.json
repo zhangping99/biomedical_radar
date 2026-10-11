@@ -1,7 +1,977 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-11T18:25:41.834265309Z",
+  "generatedAt": "2026-10-11T18:52:59.245876254Z",
   "articles": [
+    {
+      "id": "8061bffa-90e5-3a73-ba20-be384afc5252",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42858054/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42858054",
+      "titleOriginal": "Efficacy and Safety of Saffron and Ashwagandha for Stress-Related Mental Health Outcomes: A Systematic Review of Randomized Controlled Trials.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "safety_alert",
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "collectedAt": "2026-10-11T18:52:57.958615274Z",
+      "contentHash": "f356eacadae1fa458d9e8a61d1acae03541070316f68e46ac66227d6abb57a3f",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42858054/"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "691bd99f-c029-3dd6-8289-03d8af6417eb",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07867197",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07867197",
+      "titleOriginal": "Effectiveness of Digital Cardiac Rehabilitation on Functional Capacity in Patients With Myocardial Infarction",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Myocardial Infarction",
+        "Tele-rehabilitation",
+        "FUCTIONAL MOBILITY"
+      ],
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "collectedAt": "2026-10-11T18:52:57.433119077Z",
+      "contentHash": "9de415543b27ab52516edeaf36ead9d7b41c8d660bf9f59dd22df21fbbb467df",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07867197"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "804d70c5-da3e-3996-849b-6352b421041a",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07868224",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07868224",
+      "titleOriginal": "Validating Blinding Maintenance of a Sham-Sensitization Control Design for Sensitization Acupuncture Trials",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Knee Osteoarthritis; Insomnia; Cervical Spondylosis; Chronic Low Back Pain; Allergic Rhinitis"
+      ],
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "collectedAt": "2026-10-11T18:52:57.433450257Z",
+      "contentHash": "010c85c8c52ee30d3e53d513f11c32ed5954708aa85913aec3fae37455858642",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07868224"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "e624d98b-df3f-30bb-b01a-6ff9f5702036",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07867431",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07867431",
+      "titleOriginal": "Effects of Incentive Spirometry Versus Diaphragmatic Breathing on Oxygen Saturation and Heart-rate Variability in Post Percutaneous Coronary Intervention Patients",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Percutaneous Coronary Intervention Patients"
+      ],
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "collectedAt": "2026-10-11T18:52:57.444901290Z",
+      "contentHash": "dce5f222ee8c761d173128dd33077edd626a3f333fd5cf42024606b7798c8cc1",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07867431"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "2d904d16-8262-33d7-99bc-06d084f3ab53",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42859172/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42859172",
+      "titleOriginal": "Morpho-molecular assessment of nanomaterials in teleost fish wound healing: a systematic review.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "collectedAt": "2026-10-11T18:52:57.954462898Z",
+      "contentHash": "18cf79bf9e8f8f0fb92ba5af104e77ec7fe49f6b0b7be5fd667179b41dfa3e2d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42859172/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "d4c121b5-5364-3832-a2c8-39fc5be41ddd",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42858090/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42858090",
+      "titleOriginal": "Gua Sha (Scraping Therapy) for Spasticity After Stroke: Systematic Review and Meta-Analysis of RCTs with Integrated Preclinical Mechanistic Synthesis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "collectedAt": "2026-10-11T18:52:57.958433283Z",
+      "contentHash": "3ddf1d43bc6d70cd0ca948e70004c710eb23778083c97f2564f5386456ca0049",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42858090/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "374fdbe3-2ae9-326f-ada5-48bf055e5718",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42858022/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42858022",
+      "titleOriginal": "Low-Frequency Repetitive Transcranial Magnetic Stimulation with Sensory Arousal Nursing for Post-Stroke Dysphagia.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "collectedAt": "2026-10-11T18:52:57.958809127Z",
+      "contentHash": "a4f7ecd53d6a066587a317061c5bbada6c3910b5a4c0184a47cbe53f65c251ea",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42858022/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "fcfe3a9b-e3d9-330d-8527-0b4855eb9f8e",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855707/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855707",
+      "titleOriginal": "Over-dispersion in malaria-schistosoma co-infection: insights from a meta-analytical approach and systematic review.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "collectedAt": "2026-10-11T18:52:57.963861378Z",
+      "contentHash": "10ce5cdcd193dfcdae8206d7523273eb361ea66cbfa782af66170546a54e63cc",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855707/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "54c1e69d-ead7-3e84-ba3b-4582130cf9a7",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855686/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855686",
+      "titleOriginal": "Women\u0027s experiences of a medically supervised fasting intervention for infertility: a qualitative study.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "collectedAt": "2026-10-11T18:52:57.964101487Z",
+      "contentHash": "b0f91827210ba7860ea823a834db422dd5523d1040136be00515ff38a766c07c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855686/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "52eacd09-e559-3588-9dd3-6cd43cb8a5fb",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855460/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855460",
+      "titleOriginal": "The conformation-selective PI3Kδ inhibitor roginolisib in patients with advanced or metastatic cancer, including metastatic uveal melanoma: first-in-human clinical trial.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "collectedAt": "2026-10-11T18:52:57.964268681Z",
+      "contentHash": "566111d843bbf8541622d5e49f276057ad84ed47ce0752dc30af791784bee34c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855460/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "38183b9c-3fbc-35e2-ae5b-058a679a0b97",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855153/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855153",
+      "titleOriginal": "Magnitude and Moderators of Depressive Symptom Improvement in Digital Placebo Arms: Systematic Review and Meta-Analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "collectedAt": "2026-10-11T18:52:57.964842846Z",
+      "contentHash": "61462090e9eeed3a0caf4d2cf8c64814b698927c18d4b25f8df4ef1c380b6c25",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855153/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "5ec3d495-2ba2-33f8-b7a9-b199ffdef54c",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855145/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855145",
+      "titleOriginal": "Feasibility, Acceptability, and Appropriateness of an 8-Week Supervised Aerobic Exercise Intervention for Adults With Epilepsy: Pilot Randomized Controlled Trial.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "collectedAt": "2026-10-11T18:52:57.965016411Z",
+      "contentHash": "9a3ea337131372df621d0ca5c6be8bb47a64efee8683289119be52abcb0a2b20",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855145/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "94d0be9d-406c-35c6-92bf-927aa201e0b9",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854193/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854193",
+      "titleOriginal": "Effect of Digital Technology-Based Interventions on Core Symptoms and Cognitive Function in Children With Attention-Deficit/Hyperactivity Disorder: Systematic Review and Meta-Analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "collectedAt": "2026-10-11T18:52:57.965193963Z",
+      "contentHash": "6028fe35b82386066328fb61233a090a54777763f803aa5e46de1a9711b9e9a0",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854193/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "7f1a2581-7bbd-3ecd-aaf2-fd676578bab3",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854071/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854071",
+      "titleOriginal": "Rehabilitative efficacy of cognitive behavioral therapy-based intervention for chronic fatigue syndrome: A systematic review and meta-analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "collectedAt": "2026-10-11T18:52:57.965411701Z",
+      "contentHash": "48e068234004f2b046a865016e32c82cef13599f4a868fa4765b98d12f11f433",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854071/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "00867ed4-73dd-37b0-ae89-309b67ba987c",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854063/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854063",
+      "titleOriginal": "Chronic postsurgical pain following thyroidectomy: A systematic review and meta-analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "collectedAt": "2026-10-11T18:52:57.965580497Z",
+      "contentHash": "f1b223c6c3aba8670f8810aaee38282ba8305074589b9fbfd66cc2eaa22ebac7",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854063/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "e897a6d4-006b-3a67-a640-26723370df2c",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854047/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854047",
+      "titleOriginal": "Dexamethasone versus triamcinolone acetonide for the management of postoperative inflammation following cataract surgery: A systematic review and meta-analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "collectedAt": "2026-10-11T18:52:57.965772386Z",
+      "contentHash": "2b2321e2c66c8cb0e47a9951a65f92ba070775573cad0ea92183e397ba490212",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854047/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "daa36285-d77e-3f81-ae40-68865a834b3a",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854018/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854018",
+      "titleOriginal": "The effect of cognitive behavioral therapy for sleep and glycemic outcomes in people with diabetes: A systematic review and meta-analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "collectedAt": "2026-10-11T18:52:57.965951882Z",
+      "contentHash": "fbdca8a452668b7b071503f1340c698ebac18f21aef71dcddd7bb0349a973704",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854018/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "ba5a96da-e480-3990-8749-5fd19615d360",
+      "sourceId": "nature-medicine",
+      "sourceName": "Nature Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41591-026-04736-5",
+      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04736-5",
+      "titleOriginal": "Addendum: Aberrant epithelial \u003ci\u003eGREM1\u003c/i\u003e expression initiates colonic tumorigenesis from cells outside the stem cell niche",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "collectedAt": "2026-10-11T18:52:57.484903Z",
+      "contentHash": "ca3cef6362b2342aaa623ad9eebe2b9f3a9f6ec8c031a84f3e10b7a8ee9fa1bf",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-medicine",
+          "sourceName": "Nature Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41591-026-04736-5"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "dd0d4e3c-2c59-348d-b509-7e8ab5e4ca9d",
+      "sourceId": "nature-medicine",
+      "sourceName": "Nature Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41591-026-04691-1",
+      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04691-1",
+      "titleOriginal": "AI-assisted scoping review of code sharing in clinical prediction model research",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "collectedAt": "2026-10-11T18:52:57.485334849Z",
+      "contentHash": "8e6502fadeec80a8a12e3c666491e6b0069b50eeb2cc0e8ab22eec3fc7ab8228",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-medicine",
+          "sourceName": "Nature Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41591-026-04691-1"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "e8930af2-1f20-3796-a3b5-23eeffd8234a",
+      "sourceId": "nature-reviews-cancer",
+      "sourceName": "Nature Reviews Cancer",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41568-026-00990-4",
+      "canonicalUrl": "https://www.nature.com/articles/s41568-026-00990-4",
+      "titleOriginal": "The urgent challenge of gastroesophageal cancer",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Reviews Cancer"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "collectedAt": "2026-10-11T18:52:59.042697375Z",
+      "contentHash": "71d1fea6f0c0a94cf134e4c80d5b084c4ff06cb8113cdfe370c6111e3e63a2fa",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-reviews-cancer",
+          "sourceName": "Nature Reviews Cancer",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41568-026-00990-4"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
     {
       "id": "011d075d-da9d-365a-b5fb-9d63bcdd861f",
       "sourceId": "hengrui-focus-news",
@@ -930,638 +1900,6 @@
       ],
       "importanceScore": 28,
       "importanceReasons": [
-        "近期更新"
-      ]
-    },
-    {
-      "id": "691bd99f-c029-3dd6-8289-03d8af6417eb",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07867197",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07867197",
-      "titleOriginal": "Effectiveness of Digital Cardiac Rehabilitation on Functional Capacity in Patients With Myocardial Infarction",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Myocardial Infarction",
-        "Tele-rehabilitation",
-        "FUCTIONAL MOBILITY"
-      ],
-      "publishedAt": "2026-10-09T00:00:00Z",
-      "collectedAt": "2026-10-11T08:46:30.060168950Z",
-      "contentHash": "9de415543b27ab52516edeaf36ead9d7b41c8d660bf9f59dd22df21fbbb467df",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07867197"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "804d70c5-da3e-3996-849b-6352b421041a",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07868224",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07868224",
-      "titleOriginal": "Validating Blinding Maintenance of a Sham-Sensitization Control Design for Sensitization Acupuncture Trials",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Knee Osteoarthritis; Insomnia; Cervical Spondylosis; Chronic Low Back Pain; Allergic Rhinitis"
-      ],
-      "publishedAt": "2026-10-09T00:00:00Z",
-      "collectedAt": "2026-10-11T08:46:30.060375731Z",
-      "contentHash": "010c85c8c52ee30d3e53d513f11c32ed5954708aa85913aec3fae37455858642",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07868224"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "e624d98b-df3f-30bb-b01a-6ff9f5702036",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07867431",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07867431",
-      "titleOriginal": "Effects of Incentive Spirometry Versus Diaphragmatic Breathing on Oxygen Saturation and Heart-rate Variability in Post Percutaneous Coronary Intervention Patients",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Percutaneous Coronary Intervention Patients"
-      ],
-      "publishedAt": "2026-10-09T00:00:00Z",
-      "collectedAt": "2026-10-11T08:46:30.062506530Z",
-      "contentHash": "dce5f222ee8c761d173128dd33077edd626a3f333fd5cf42024606b7798c8cc1",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07867431"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "fcfe3a9b-e3d9-330d-8527-0b4855eb9f8e",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855707/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855707",
-      "titleOriginal": "Over-dispersion in malaria-schistosoma co-infection: insights from a meta-analytical approach and systematic review.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-09T00:00:00Z",
-      "collectedAt": "2026-10-11T08:46:30.991319152Z",
-      "contentHash": "10ce5cdcd193dfcdae8206d7523273eb361ea66cbfa782af66170546a54e63cc",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855707/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "54c1e69d-ead7-3e84-ba3b-4582130cf9a7",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855686/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855686",
-      "titleOriginal": "Women\u0027s experiences of a medically supervised fasting intervention for infertility: a qualitative study.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-09T00:00:00Z",
-      "collectedAt": "2026-10-11T08:46:30.991425643Z",
-      "contentHash": "b0f91827210ba7860ea823a834db422dd5523d1040136be00515ff38a766c07c",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855686/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "52eacd09-e559-3588-9dd3-6cd43cb8a5fb",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855460/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855460",
-      "titleOriginal": "The conformation-selective PI3Kδ inhibitor roginolisib in patients with advanced or metastatic cancer, including metastatic uveal melanoma: first-in-human clinical trial.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-09T00:00:00Z",
-      "collectedAt": "2026-10-11T08:46:30.991658811Z",
-      "contentHash": "566111d843bbf8541622d5e49f276057ad84ed47ce0752dc30af791784bee34c",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855460/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "38183b9c-3fbc-35e2-ae5b-058a679a0b97",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855153/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855153",
-      "titleOriginal": "Magnitude and Moderators of Depressive Symptom Improvement in Digital Placebo Arms: Systematic Review and Meta-Analysis.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-09T00:00:00Z",
-      "collectedAt": "2026-10-11T08:46:30.992009080Z",
-      "contentHash": "61462090e9eeed3a0caf4d2cf8c64814b698927c18d4b25f8df4ef1c380b6c25",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855153/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "5ec3d495-2ba2-33f8-b7a9-b199ffdef54c",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855145/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855145",
-      "titleOriginal": "Feasibility, Acceptability, and Appropriateness of an 8-Week Supervised Aerobic Exercise Intervention for Adults With Epilepsy: Pilot Randomized Controlled Trial.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-09T00:00:00Z",
-      "collectedAt": "2026-10-11T08:46:30.992128358Z",
-      "contentHash": "9a3ea337131372df621d0ca5c6be8bb47a64efee8683289119be52abcb0a2b20",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42855145/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "94d0be9d-406c-35c6-92bf-927aa201e0b9",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854193/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854193",
-      "titleOriginal": "Effect of Digital Technology-Based Interventions on Core Symptoms and Cognitive Function in Children With Attention-Deficit/Hyperactivity Disorder: Systematic Review and Meta-Analysis.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-09T00:00:00Z",
-      "collectedAt": "2026-10-11T08:46:30.992239761Z",
-      "contentHash": "6028fe35b82386066328fb61233a090a54777763f803aa5e46de1a9711b9e9a0",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854193/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "7f1a2581-7bbd-3ecd-aaf2-fd676578bab3",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854071/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854071",
-      "titleOriginal": "Rehabilitative efficacy of cognitive behavioral therapy-based intervention for chronic fatigue syndrome: A systematic review and meta-analysis.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-09T00:00:00Z",
-      "collectedAt": "2026-10-11T08:46:30.992348681Z",
-      "contentHash": "48e068234004f2b046a865016e32c82cef13599f4a868fa4765b98d12f11f433",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854071/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "00867ed4-73dd-37b0-ae89-309b67ba987c",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854063/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854063",
-      "titleOriginal": "Chronic postsurgical pain following thyroidectomy: A systematic review and meta-analysis.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-09T00:00:00Z",
-      "collectedAt": "2026-10-11T08:46:30.992451442Z",
-      "contentHash": "f1b223c6c3aba8670f8810aaee38282ba8305074589b9fbfd66cc2eaa22ebac7",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854063/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "e897a6d4-006b-3a67-a640-26723370df2c",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854047/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854047",
-      "titleOriginal": "Dexamethasone versus triamcinolone acetonide for the management of postoperative inflammation following cataract surgery: A systematic review and meta-analysis.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-09T00:00:00Z",
-      "collectedAt": "2026-10-11T08:46:30.992552631Z",
-      "contentHash": "2b2321e2c66c8cb0e47a9951a65f92ba070775573cad0ea92183e397ba490212",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854047/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "daa36285-d77e-3f81-ae40-68865a834b3a",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854018/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854018",
-      "titleOriginal": "The effect of cognitive behavioral therapy for sleep and glycemic outcomes in people with diabetes: A systematic review and meta-analysis.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-09T00:00:00Z",
-      "collectedAt": "2026-10-11T08:46:30.992655195Z",
-      "contentHash": "fbdca8a452668b7b071503f1340c698ebac18f21aef71dcddd7bb0349a973704",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42854018/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
         "近期更新"
       ]
     },
@@ -2527,102 +2865,6 @@
       ]
     },
     {
-      "id": "ba5a96da-e480-3990-8749-5fd19615d360",
-      "sourceId": "nature-medicine",
-      "sourceName": "Nature Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41591-026-04736-5",
-      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04736-5",
-      "titleOriginal": "Addendum: Aberrant epithelial \u003ci\u003eGREM1\u003c/i\u003e expression initiates colonic tumorigenesis from cells outside the stem cell niche",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-09T00:00:00Z",
-      "collectedAt": "2026-10-11T08:46:30.906027043Z",
-      "contentHash": "ca3cef6362b2342aaa623ad9eebe2b9f3a9f6ec8c031a84f3e10b7a8ee9fa1bf",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-medicine",
-          "sourceName": "Nature Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41591-026-04736-5"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "dd0d4e3c-2c59-348d-b509-7e8ab5e4ca9d",
-      "sourceId": "nature-medicine",
-      "sourceName": "Nature Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41591-026-04691-1",
-      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04691-1",
-      "titleOriginal": "AI-assisted scoping review of code sharing in clinical prediction model research",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-09T00:00:00Z",
-      "collectedAt": "2026-10-11T08:46:30.906285230Z",
-      "contentHash": "8e6502fadeec80a8a12e3c666491e6b0069b50eeb2cc0e8ab22eec3fc7ab8228",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-medicine",
-          "sourceName": "Nature Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41591-026-04691-1"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
       "id": "663d9835-52c7-3be6-9ebe-b261c8be9f34",
       "sourceId": "medrxiv-recent",
       "sourceName": "medRxiv",
@@ -2667,54 +2909,6 @@
       "importanceScore": 43,
       "importanceReasons": [
         "高影响事件",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "e8930af2-1f20-3796-a3b5-23eeffd8234a",
-      "sourceId": "nature-reviews-cancer",
-      "sourceName": "Nature Reviews Cancer",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41568-026-00990-4",
-      "canonicalUrl": "https://www.nature.com/articles/s41568-026-00990-4",
-      "titleOriginal": "The urgent challenge of gastroesophageal cancer",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Reviews Cancer"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-09T00:00:00Z",
-      "collectedAt": "2026-10-11T08:46:31.790098337Z",
-      "contentHash": "71d1fea6f0c0a94cf134e4c80d5b084c4ff06cb8113cdfe370c6111e3e63a2fa",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-reviews-cancer",
-          "sourceName": "Nature Reviews Cancer",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41568-026-00990-4"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
         "近期更新"
       ]
     },
