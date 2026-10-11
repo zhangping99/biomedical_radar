@@ -1,7 +1,54 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-11T18:52:59.245876254Z",
+  "generatedAt": "2026-10-11T19:41:11.275082235Z",
   "articles": [
+    {
+      "id": "3394486d-7f97-3d65-a0d5-5a3f2f9ba290",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/09/tips-for-easing-arthritis-pain",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/09/tips-for-easing-arthritis-pain",
+      "titleOriginal": "Tips for Easing Arthritis Pain",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "collectedAt": "2026-10-11T19:41:06.166110162Z",
+      "contentHash": "1090d2feb83c8e6408c7d9ae13badfa52b445df211993c9493197988604eb630",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/09/tips-for-easing-arthritis-pain"
+        }
+      ],
+      "importanceScore": 28,
+      "importanceReasons": [
+        "近期更新"
+      ]
+    },
     {
       "id": "8061bffa-90e5-3a73-ba20-be384afc5252",
       "sourceId": "pubmed-recent",
@@ -1853,53 +1900,6 @@
       "importanceScore": 43,
       "importanceReasons": [
         "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "3394486d-7f97-3d65-a0d5-5a3f2f9ba290",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/09/tips-for-easing-arthritis-pain",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/09/tips-for-easing-arthritis-pain",
-      "titleOriginal": "Tips for Easing Arthritis Pain",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-09T00:00:00Z",
-      "collectedAt": "2026-10-11T10:17:24.996729659Z",
-      "contentHash": "1090d2feb83c8e6408c7d9ae13badfa52b445df211993c9493197988604eb630",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/09/tips-for-easing-arthritis-pain"
-        }
-      ],
-      "importanceScore": 28,
-      "importanceReasons": [
         "近期更新"
       ]
     },
