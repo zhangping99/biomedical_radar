@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-12T09:08:50.299329416Z",
+  "generatedAt": "2026-10-12T11:17:26.590674950Z",
   "articles": [
+    {
+      "id": "df531280-6a57-3424-a377-a4a55aece08e",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/06/keeping-your-child-safe-from-rsv",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/06/keeping-your-child-safe-from-rsv",
+      "titleOriginal": "Keeping Your Child Safe From RSV",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-06T00:00:00Z",
+      "collectedAt": "2026-10-12T11:17:21.671493897Z",
+      "contentHash": "b231c781552030de4b0b129268433cec0be6d16610c175459919c938291ac6b3",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/06/keeping-your-child-safe-from-rsv"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "2183d051-ffa5-36e9-a3f7-c419baffb192",
       "sourceId": "pubmed-recent",
@@ -954,51 +999,6 @@
         "官方一手来源",
         "政策或安全相关"
       ]
-    },
-    {
-      "id": "df531280-6a57-3424-a377-a4a55aece08e",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/06/keeping-your-child-safe-from-rsv",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/06/keeping-your-child-safe-from-rsv",
-      "titleOriginal": "Keeping Your Child Safe From RSV",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-06T00:00:00Z",
-      "collectedAt": "2026-10-11T19:41:06.166841404Z",
-      "contentHash": "b231c781552030de4b0b129268433cec0be6d16610c175459919c938291ac6b3",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/06/keeping-your-child-safe-from-rsv"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     },
     {
       "id": "5b7c4151-2a14-3f58-b7d4-075850edf045",
