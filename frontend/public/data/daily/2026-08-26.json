@@ -1,54 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-12T11:17:26.590674950Z",
+  "generatedAt": "2026-10-12T16:06:44.146108357Z",
   "articles": [
-    {
-      "id": "a908f257-3c0c-313d-bd0a-34e06e8b799a",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42856939/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42856939",
-      "titleOriginal": "Clinical Impact of Interlesion Distance on Acute Pulmonary Vein Isolation Success in Patients With Paroxysmal Atrial Fibrillation.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-08-26T00:00:00Z",
-      "collectedAt": "2026-10-12T09:08:48.251769995Z",
-      "contentHash": "3ba0d674f8ac00485d7278a1ef96228095c8d81950f8ba39133bf0022d9166fb",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42856939/"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
     {
       "id": "47359dd0-24da-3436-b7b5-41fefb548ccc",
       "sourceId": "nhsa-policy-explain",
@@ -75,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-08-26T00:00:00Z",
-      "collectedAt": "2026-10-12T06:31:52.092777650Z",
+      "collectedAt": "2026-10-12T16:06:41.542936666Z",
       "contentHash": "dc78189c2e21af72821e1d6c6b59228e21ab3cbac5b5b1c0f1eafc04a0e3f2e7",
       "generated": false,
       "generatorVersion": null,
@@ -123,7 +76,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-08-26T00:00:00Z",
-      "collectedAt": "2026-10-12T06:31:50.947310820Z",
+      "collectedAt": "2026-10-12T16:06:40.978538064Z",
       "contentHash": "6a10be4d570f98442b38d6908247f422b2bde9136d5166fdabebd509e10b4fac",
       "generated": false,
       "generatorVersion": null,
@@ -137,6 +90,53 @@
           "sourceName": "National Healthcare Security Administration Policies",
           "sourceTier": "A",
           "originalUrl": "https://www.nhsa.gov.cn/art/2026/8/26/art_53_21908.html"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "a908f257-3c0c-313d-bd0a-34e06e8b799a",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42856939/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42856939",
+      "titleOriginal": "Clinical Impact of Interlesion Distance on Acute Pulmonary Vein Isolation Success in Patients With Paroxysmal Atrial Fibrillation.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-26T00:00:00Z",
+      "collectedAt": "2026-10-12T09:08:48.251769995Z",
+      "contentHash": "3ba0d674f8ac00485d7278a1ef96228095c8d81950f8ba39133bf0022d9166fb",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42856939/"
         }
       ],
       "importanceScore": 35,
