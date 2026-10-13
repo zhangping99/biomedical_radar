@@ -1,7 +1,55 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-13T11:01:50.975284051Z",
+  "generatedAt": "2026-10-13T11:45:51.273307994Z",
   "articles": [
+    {
+      "id": "091f6c8c-ecdd-366f-bb54-9e2b80ad26bf",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/news-events/public-health-focus/hiding-plain-sight-7-oh-products",
+      "canonicalUrl": "https://www.fda.gov/news-events/public-health-focus/hiding-plain-sight-7-oh-products",
+      "titleOriginal": "Hiding in Plain Sight: 7-OH Products",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "public_health",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-12T13:49:57Z",
+      "collectedAt": "2026-10-13T11:45:46.696956206Z",
+      "contentHash": "4e22f6272e179f3c79e882e36144d9d9632dbaa4ccee4c698e7313184fd11ce4",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/news-events/public-health-focus/hiding-plain-sight-7-oh-products"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
     {
       "id": "364b3094-f5ac-3f4c-a899-b474151c0bd1",
       "sourceId": "btch-research",
@@ -2724,54 +2772,6 @@
       "importanceScore": 28,
       "importanceReasons": [
         "近期更新"
-      ]
-    },
-    {
-      "id": "091f6c8c-ecdd-366f-bb54-9e2b80ad26bf",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/news-events/public-health-focus/hiding-plain-sight-7-oh-products",
-      "canonicalUrl": "https://www.fda.gov/news-events/public-health-focus/hiding-plain-sight-7-oh-products",
-      "titleOriginal": "Hiding in Plain Sight: 7-OH Products",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "public_health",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-12T13:49:57Z",
-      "collectedAt": "2026-10-13T02:00:30.976260921Z",
-      "contentHash": "4e22f6272e179f3c79e882e36144d9d9632dbaa4ccee4c698e7313184fd11ce4",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/news-events/public-health-focus/hiding-plain-sight-7-oh-products"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
       ]
     },
     {
