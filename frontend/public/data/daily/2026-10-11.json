@@ -1,7 +1,55 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-13T19:16:01.172431551Z",
+  "generatedAt": "2026-10-13T19:57:08.151964326Z",
   "articles": [
+    {
+      "id": "45ed9ee3-a9ff-39e2-b212-58f1a0f31f2f",
+      "sourceId": "abbvie-news",
+      "sourceName": "AbbVie News",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://news.abbvie.com/2026-10-11-New-SKYRIZI-R-risankizumab-rzaa-and-RINVOQ-R-upadacitinib-Data-Demonstrate-Disease-Control-for-Patients-Living-With-Inflammatory-Bowel-Disease",
+      "canonicalUrl": "https://news.abbvie.com/2026-10-11-New-SKYRIZI-R-risankizumab-rzaa-and-RINVOQ-R-upadacitinib-Data-Demonstrate-Disease-Control-for-Patients-Living-With-Inflammatory-Bowel-Disease",
+      "titleOriginal": "New SKYRIZI® (risankizumab-rzaa) and RINVOQ® (upadacitinib) Data Demonstrate Disease Control for Patients Living With Inflammatory Bowel Disease",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "drug_rd",
+      "eventTypes": [
+        "phase_3_result"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "AbbVie"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-11T17:00:00Z",
+      "collectedAt": "2026-10-13T19:57:06.688768912Z",
+      "contentHash": "1480dbaed1a916dba9091926406c0b76f2450036815c9f40f9d8792184141864",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "abbvie-news",
+          "sourceName": "AbbVie News",
+          "sourceTier": "B",
+          "originalUrl": "https://news.abbvie.com/2026-10-11-New-SKYRIZI-R-risankizumab-rzaa-and-RINVOQ-R-upadacitinib-Data-Demonstrate-Disease-Control-for-Patients-Living-With-Inflammatory-Bowel-Disease"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "高影响事件",
+        "近期更新"
+      ]
+    },
     {
       "id": "f4206a73-9d03-3817-8b41-0f9acafd1d9c",
       "sourceId": "pubmed-recent",
@@ -143,54 +191,6 @@
       "importanceScore": 43,
       "importanceReasons": [
         "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "45ed9ee3-a9ff-39e2-b212-58f1a0f31f2f",
-      "sourceId": "abbvie-news",
-      "sourceName": "AbbVie News",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://news.abbvie.com/2026-10-11-New-SKYRIZI-R-risankizumab-rzaa-and-RINVOQ-R-upadacitinib-Data-Demonstrate-Disease-Control-for-Patients-Living-With-Inflammatory-Bowel-Disease",
-      "canonicalUrl": "https://news.abbvie.com/2026-10-11-New-SKYRIZI-R-risankizumab-rzaa-and-RINVOQ-R-upadacitinib-Data-Demonstrate-Disease-Control-for-Patients-Living-With-Inflammatory-Bowel-Disease",
-      "titleOriginal": "New SKYRIZI® (risankizumab-rzaa) and RINVOQ® (upadacitinib) Data Demonstrate Disease Control for Patients Living With Inflammatory Bowel Disease",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "drug_rd",
-      "eventTypes": [
-        "phase_3_result"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "AbbVie"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-11T17:00:00Z",
-      "collectedAt": "2026-10-13T08:23:28.002950744Z",
-      "contentHash": "1480dbaed1a916dba9091926406c0b76f2450036815c9f40f9d8792184141864",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "abbvie-news",
-          "sourceName": "AbbVie News",
-          "sourceTier": "B",
-          "originalUrl": "https://news.abbvie.com/2026-10-11-New-SKYRIZI-R-risankizumab-rzaa-and-RINVOQ-R-upadacitinib-Data-Demonstrate-Disease-Control-for-Patients-Living-With-Inflammatory-Bowel-Disease"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "高影响事件",
         "近期更新"
       ]
     },
