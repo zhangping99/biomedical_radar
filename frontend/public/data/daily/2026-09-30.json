@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-13T14:36:02.897914594Z",
+  "generatedAt": "2026-10-13T19:16:01.172431551Z",
   "articles": [
     {
       "id": "005d2459-4058-3379-8051-3419206fddc6",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-30T00:00:00Z",
-      "collectedAt": "2026-10-13T11:45:47.928571255Z",
+      "collectedAt": "2026-10-13T19:15:59.674184353Z",
       "contentHash": "b601fd5f870f5ec0413957cae4deff9752d4ef6716d7145d6578020a83878319",
       "generated": false,
       "generatorVersion": null,
@@ -77,7 +77,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-30T09:32:50Z",
-      "collectedAt": "2026-10-13T11:45:46.695889019Z",
+      "collectedAt": "2026-10-13T19:15:58.201990158Z",
       "contentHash": "7783f56599247109de6d908385d687c78a1c9ed879d7c603f68e0af589fd1dbe",
       "generated": false,
       "generatorVersion": null,
@@ -4328,55 +4328,6 @@
           "sourceName": "U.S. Food and Drug Administration - Drugs",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/drugs/development-approval-process-drugs/cder-small-business-industry-assistance-sbia"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "f4b91444-d6e2-3eb5-8678-d9feac470587",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/drugs/human-drug-compounding/registered-outsourcing-facilities",
-      "canonicalUrl": "https://www.fda.gov/drugs/human-drug-compounding/registered-outsourcing-facilities",
-      "titleOriginal": "Registered Outsourcing Facilities",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-30T17:26:43Z",
-      "collectedAt": "2026-09-30T20:48:33.693017434Z",
-      "contentHash": "5bc7d2667168854acd74397d12d746d1d35e85f5ba6e2792de8c3d8e04bcb7ba",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/drugs/human-drug-compounding/registered-outsourcing-facilities"
         }
       ],
       "importanceScore": 65,
