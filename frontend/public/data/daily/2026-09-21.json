@@ -1,52 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-14T12:22:47.096601411Z",
+  "generatedAt": "2026-10-14T13:03:53.183770376Z",
   "articles": [
-    {
-      "id": "0dc7c4d5-95dc-378a-bfc2-1518a5384f7a",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/21/cleveland-clinic-childrens-expands-newborn-screening-to-identify-virus-that-can-lead-to-hearing-loss-and-developmental-delays",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/21/cleveland-clinic-childrens-expands-newborn-screening-to-identify-virus-that-can-lead-to-hearing-loss-and-developmental-delays",
-      "titleOriginal": "Cleveland Clinic Children’s Expands Newborn Screening to Identify Virus that Can Lead to Hearing Loss and Developmental Delays",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-21T00:00:00Z",
-      "collectedAt": "2026-10-14T08:59:59.287317432Z",
-      "contentHash": "688656f21100df94cdb0f3c9624ef2cd3031ecbe788cbdd422a262ba2bf4ef76",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/21/cleveland-clinic-childrens-expands-newborn-screening-to-identify-virus-that-can-lead-to-hearing-loss-and-developmental-delays"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
     {
       "id": "7f1fbef4-fe2a-3d18-99cd-61f8dd500a70",
       "sourceId": "hansoh-news",
@@ -73,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-21T00:00:00Z",
-      "collectedAt": "2026-10-14T06:39:53.368636187Z",
+      "collectedAt": "2026-10-14T13:03:47.715457115Z",
       "contentHash": "af5b3664c74da014d9ef5ce92003c6621fbeb7bb15c564aa43904b4618cee034",
       "generated": false,
       "generatorVersion": null,
@@ -118,7 +73,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-21T00:00:00Z",
-      "collectedAt": "2026-10-14T06:39:53.368840422Z",
+      "collectedAt": "2026-10-14T13:03:47.715609024Z",
       "contentHash": "a7f076bed095512255080dceacab5346fb0a2c32eb545d2363f92f9db18f6586",
       "generated": false,
       "generatorVersion": null,
@@ -132,6 +87,51 @@
           "sourceName": "翰森制药新闻发布",
           "sourceTier": "B",
           "originalUrl": "https://www.hansoh.cn/news/news-detail-514080.htm"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "0dc7c4d5-95dc-378a-bfc2-1518a5384f7a",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/21/cleveland-clinic-childrens-expands-newborn-screening-to-identify-virus-that-can-lead-to-hearing-loss-and-developmental-delays",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/21/cleveland-clinic-childrens-expands-newborn-screening-to-identify-virus-that-can-lead-to-hearing-loss-and-developmental-delays",
+      "titleOriginal": "Cleveland Clinic Children’s Expands Newborn Screening to Identify Virus that Can Lead to Hearing Loss and Developmental Delays",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-21T00:00:00Z",
+      "collectedAt": "2026-10-14T08:59:59.287317432Z",
+      "contentHash": "688656f21100df94cdb0f3c9624ef2cd3031ecbe788cbdd422a262ba2bf4ef76",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/21/cleveland-clinic-childrens-expands-newborn-screening-to-identify-virus-that-can-lead-to-hearing-loss-and-developmental-delays"
         }
       ],
       "importanceScore": 20,
