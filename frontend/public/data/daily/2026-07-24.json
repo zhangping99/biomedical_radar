@@ -1,7 +1,57 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-14T06:39:55.729568118Z",
+  "generatedAt": "2026-10-14T07:34:58.279840004Z",
   "articles": [
+    {
+      "id": "72a6b687-f9c5-3486-8466-8de9571ef358",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07725497",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07725497",
+      "titleOriginal": "A Study of Luspatercept in People With Anemia",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Anemia",
+        "Chronic Kidney Disease"
+      ],
+      "publishedAt": "2026-07-24T00:00:00Z",
+      "collectedAt": "2026-10-14T07:34:55.809428194Z",
+      "contentHash": "abd45247bc67d02fe22c30ac576d41a3293255caf0ffe7027e9ee4a6eac03db7",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07725497"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "46a9e027-a8ed-3c71-b56f-54b6623a9bd2",
       "sourceId": "hengrui-focus-news",
@@ -93,56 +143,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "72a6b687-f9c5-3486-8466-8de9571ef358",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07725497",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07725497",
-      "titleOriginal": "A Study of Luspatercept in People With Anemia",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Anemia",
-        "Chronic Kidney Disease"
-      ],
-      "publishedAt": "2026-07-24T00:00:00Z",
-      "collectedAt": "2026-10-13T20:14:46.953897932Z",
-      "contentHash": "abd45247bc67d02fe22c30ac576d41a3293255caf0ffe7027e9ee4a6eac03db7",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07725497"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     },
     {
       "id": "e86b7b8f-a15d-3841-b64b-9f24709bc05a",

@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-14T06:39:55.729568118Z",
+  "generatedAt": "2026-10-14T07:34:58.279840004Z",
   "articles": [
+    {
+      "id": "7926e613-f737-359e-b2c5-fc80273ae9d4",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07716540",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07716540",
+      "titleOriginal": "Analgesic Efficacy of Ultrasound-Guided Deep Iliacus Plane Block in Patients Undergoing Hip Fracture Surgery",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Pain Management"
+      ],
+      "publishedAt": "2026-07-21T00:00:00Z",
+      "collectedAt": "2026-10-14T07:34:55.809797826Z",
+      "contentHash": "663e153c4b568e3197d418682d07ec59bcaa19e1f29c876c1fd97fcb02ef0050",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07716540"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "3bd853bf-fbbb-365c-87b1-d474d354c068",
       "sourceId": "gsk-press-releases",
@@ -93,55 +142,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "7926e613-f737-359e-b2c5-fc80273ae9d4",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07716540",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07716540",
-      "titleOriginal": "Analgesic Efficacy of Ultrasound-Guided Deep Iliacus Plane Block in Patients Undergoing Hip Fracture Surgery",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Pain Management"
-      ],
-      "publishedAt": "2026-07-21T00:00:00Z",
-      "collectedAt": "2026-10-13T20:14:46.955684353Z",
-      "contentHash": "663e153c4b568e3197d418682d07ec59bcaa19e1f29c876c1fd97fcb02ef0050",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07716540"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     },
     {
       "id": "198fde86-85df-39b4-80cf-7f62962a5e5d",
