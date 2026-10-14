@@ -1,56 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-14T04:50:51.386264411Z",
+  "generatedAt": "2026-10-14T05:23:49.387999673Z",
   "articles": [
-    {
-      "id": "e22f2412-37d3-3afa-b196-8a0d16e5b86c",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring",
-      "titleOriginal": "Esophageal pH Monitoring Capsule Recall: Medtronic and Given Imaging Remove Esophageal pH Monitoring Capsule Delivery Device",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-15T04:00:00Z",
-      "collectedAt": "2026-10-14T04:50:49.005666501Z",
-      "contentHash": "1bffc0c566b67d046505ecdaf885c8705e1a47453878512484bcc1300fff2ea4",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
-    },
     {
       "id": "fdeb2506-043b-30e6-8e69-caaf410c4c3a",
       "sourceId": "nhsa-policy-explain",
@@ -77,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-15T00:00:00Z",
-      "collectedAt": "2026-10-13T23:07:35.899215625Z",
+      "collectedAt": "2026-10-14T05:23:47.598461458Z",
       "contentHash": "1590932e9cf2be64183df48c83fb667e5614925974dba5c06dfcc316bc1812a9",
       "generated": false,
       "generatorVersion": null,
@@ -125,7 +76,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-15T00:00:00Z",
-      "collectedAt": "2026-10-13T23:07:32.402934397Z",
+      "collectedAt": "2026-10-14T05:23:47.200115845Z",
       "contentHash": "62fc59ac28afd89667c2c0808ad12b0ddca823eb0e4b89807bb9e752dc4e552c",
       "generated": false,
       "generatorVersion": null,
@@ -144,6 +95,55 @@
       "importanceScore": 35,
       "importanceReasons": [
         "官方一手来源"
+      ]
+    },
+    {
+      "id": "e22f2412-37d3-3afa-b196-8a0d16e5b86c",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring",
+      "titleOriginal": "Esophageal pH Monitoring Capsule Recall: Medtronic and Given Imaging Remove Esophageal pH Monitoring Capsule Delivery Device",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-15T04:00:00Z",
+      "collectedAt": "2026-10-14T04:50:49.005666501Z",
+      "contentHash": "1bffc0c566b67d046505ecdaf885c8705e1a47453878512484bcc1300fff2ea4",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
       ]
     },
     {
