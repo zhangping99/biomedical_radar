@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-14T23:12:51.437734505Z",
+  "generatedAt": "2026-10-15T04:36:03.869012268Z",
   "articles": [
     {
       "id": "f45b885a-2e91-371c-bd1b-6fd0ba8687bf",
@@ -48,102 +48,6 @@
       "importanceScore": 35,
       "importanceReasons": [
         "高影响事件"
-      ]
-    },
-    {
-      "id": "7ccfc15e-1a7a-36e8-ac14-bc1ef0a796e9",
-      "sourceId": "nhsa-healthcare-security-updates",
-      "sourceName": "National Healthcare Security Administration Policies",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.nhsa.gov.cn/art/2026/7/17/art_53_21473.html",
-      "canonicalUrl": "https://www.nhsa.gov.cn/art/2026/7/17/art_53_21473.html",
-      "titleOriginal": "国家医保局办公室 国家卫生健康委办公厅关于确定医保支持基层医疗卫生服务发展重点联系点的通知",
-      "titleZh": "国家医保局办公室 国家卫生健康委办公厅关于确定医保支持基层医疗卫生服务发展重点联系点的通知",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "reimbursement_access",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "国家医疗保障局"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-07-17T00:00:00Z",
-      "collectedAt": "2026-10-14T21:57:04.176495031Z",
-      "contentHash": "05aec198650b8746591c789459632dd8759ee2c0850f71a613f56ae94c2ee13f",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "nhsa-healthcare-security-updates",
-          "sourceName": "National Healthcare Security Administration Policies",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nhsa.gov.cn/art/2026/7/17/art_53_21473.html"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "50b78b11-da69-3ae2-94d0-cbb570f7600f",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07712159",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07712159",
-      "titleOriginal": "Temporal Interference Transcranial Alternating Current Stimulation for Major Depressive Disorder",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Major Depressive Disorder (MDD)"
-      ],
-      "publishedAt": "2026-07-17T00:00:00Z",
-      "collectedAt": "2026-09-11T07:16:40.674253782Z",
-      "contentHash": "96eae131ebbe5d31c448c7a8ecf6c294132aa62a536e93b66237d47be8ce6e79",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07712159"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
       ]
     }
   ]
