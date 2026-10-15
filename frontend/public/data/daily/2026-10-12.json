@@ -1,7 +1,100 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-15T18:16:15.434663914Z",
+  "generatedAt": "2026-10-15T19:21:36.108053481Z",
   "articles": [
+    {
+      "id": "364b3094-f5ac-3f4c-a899-b474151c0bd1",
+      "sourceId": "btch-research",
+      "sourceName": "Beijing Tsinghua Changgung Hospital Research",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://www.btch.edu.cn/jxky/kjdt/d18365af59b84cd795330509838c6a67.htm",
+      "canonicalUrl": "https://www.btch.edu.cn/jxky/kjdt/d18365af59b84cd795330509838c6a67.htm",
+      "titleOriginal": "北京清华长庚医院卢倩团队异种器官移植前瞻性研究获批北京市科技...",
+      "titleZh": "北京清华长庚医院卢倩团队异种器官移植前瞻性研究获批北京市科技...",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "hospital_service",
+      "eventTypes": [
+        "approval",
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "北京清华长庚医院"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-12T00:00:00Z",
+      "collectedAt": "2026-10-15T19:21:34.784624929Z",
+      "contentHash": "622d006ac761fcca9fdedd10401cd32869cd7efc27da0c654337e03f10320184",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "btch-research",
+          "sourceName": "Beijing Tsinghua Changgung Hospital Research",
+          "sourceTier": "B",
+          "originalUrl": "https://www.btch.edu.cn/jxky/kjdt/d18365af59b84cd795330509838c6a67.htm"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "高影响事件"
+      ]
+    },
+    {
+      "id": "40b34c5e-a2bb-37e1-a8ed-4f83c132b88f",
+      "sourceId": "pumch-research",
+      "sourceName": "Peking Union Medical College Hospital Research",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://www.pumch.cn/detail/46917.html",
+      "canonicalUrl": "https://www.pumch.cn/detail/46917.html",
+      "titleOriginal": "临床研究成果 | 复发/难治性自身免疫性溶血性贫血治疗迎来“老药新用”新证据",
+      "titleZh": "临床研究成果 | 复发/难治性自身免疫性溶血性贫血治疗迎来“老药新用”新证据",
+      "summaryZh": "近日，北京协和医院血液内科陈苗主任医师、韩冰主任医师团队在Blood Advances（IF\u003d7.7）发表一项前瞻性临床研究成果。...",
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "hospital_service",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "北京协和医院"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-12T00:00:00Z",
+      "collectedAt": "2026-10-15T19:21:36.079807239Z",
+      "contentHash": "c07823432918f59d8173b62942333a5f9432385f005bb8b3322769eee8041fa4",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "pumch-research",
+          "sourceName": "Peking Union Medical College Hospital Research",
+          "sourceTier": "B",
+          "originalUrl": "https://www.pumch.cn/detail/46917.html"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "adaeb982-cf8d-3536-812c-abfcbe28ad9c",
       "sourceId": "pubmed-recent",
@@ -324,99 +417,6 @@
           "sourceName": "翰森制药新闻发布",
           "sourceTier": "B",
           "originalUrl": "https://www.hansoh.cn/news/news-detail-514086.htm"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "364b3094-f5ac-3f4c-a899-b474151c0bd1",
-      "sourceId": "btch-research",
-      "sourceName": "Beijing Tsinghua Changgung Hospital Research",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://www.btch.edu.cn/jxky/kjdt/d18365af59b84cd795330509838c6a67.htm",
-      "canonicalUrl": "https://www.btch.edu.cn/jxky/kjdt/d18365af59b84cd795330509838c6a67.htm",
-      "titleOriginal": "北京清华长庚医院卢倩团队异种器官移植前瞻性研究获批北京市科技...",
-      "titleZh": "北京清华长庚医院卢倩团队异种器官移植前瞻性研究获批北京市科技...",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "hospital_service",
-      "eventTypes": [
-        "approval",
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "北京清华长庚医院"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-12T00:00:00Z",
-      "collectedAt": "2026-10-15T08:34:28.299990092Z",
-      "contentHash": "622d006ac761fcca9fdedd10401cd32869cd7efc27da0c654337e03f10320184",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "btch-research",
-          "sourceName": "Beijing Tsinghua Changgung Hospital Research",
-          "sourceTier": "B",
-          "originalUrl": "https://www.btch.edu.cn/jxky/kjdt/d18365af59b84cd795330509838c6a67.htm"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "高影响事件"
-      ]
-    },
-    {
-      "id": "40b34c5e-a2bb-37e1-a8ed-4f83c132b88f",
-      "sourceId": "pumch-research",
-      "sourceName": "Peking Union Medical College Hospital Research",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://www.pumch.cn/detail/46917.html",
-      "canonicalUrl": "https://www.pumch.cn/detail/46917.html",
-      "titleOriginal": "临床研究成果 | 复发/难治性自身免疫性溶血性贫血治疗迎来“老药新用”新证据",
-      "titleZh": "临床研究成果 | 复发/难治性自身免疫性溶血性贫血治疗迎来“老药新用”新证据",
-      "summaryZh": "近日，北京协和医院血液内科陈苗主任医师、韩冰主任医师团队在Blood Advances（IF\u003d7.7）发表一项前瞻性临床研究成果。...",
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "hospital_service",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "北京协和医院"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-12T00:00:00Z",
-      "collectedAt": "2026-10-15T08:34:24.430822830Z",
-      "contentHash": "c07823432918f59d8173b62942333a5f9432385f005bb8b3322769eee8041fa4",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "pumch-research",
-          "sourceName": "Peking Union Medical College Hospital Research",
-          "sourceTier": "B",
-          "originalUrl": "https://www.pumch.cn/detail/46917.html"
         }
       ],
       "importanceScore": 20,
