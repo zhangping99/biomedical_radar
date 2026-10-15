@@ -1,7 +1,54 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-15T07:23:54.070637248Z",
+  "generatedAt": "2026-10-15T08:34:28.344028553Z",
   "articles": [
+    {
+      "id": "f274fa1d-fed1-36bd-9c03-f11b762054e7",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/13/are-protein-bars-good-for-you",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/13/are-protein-bars-good-for-you",
+      "titleOriginal": "Are Protein Bars Good for You?",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-13T00:00:00Z",
+      "collectedAt": "2026-10-15T08:34:19.465512031Z",
+      "contentHash": "390a1c90f2c75cb546353d3fa0f50660b3dd9284a32573d572cbe190b9019020",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/13/are-protein-bars-good-for-you"
+        }
+      ],
+      "importanceScore": 28,
+      "importanceReasons": [
+        "近期更新"
+      ]
+    },
     {
       "id": "7ab20354-418f-340c-97d6-34d306ebdde4",
       "sourceId": "pubmed-recent",
@@ -1109,53 +1156,6 @@
       "importanceScore": 43,
       "importanceReasons": [
         "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "f274fa1d-fed1-36bd-9c03-f11b762054e7",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/13/are-protein-bars-good-for-you",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/13/are-protein-bars-good-for-you",
-      "titleOriginal": "Are Protein Bars Good for You?",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-13T00:00:00Z",
-      "collectedAt": "2026-10-14T19:39:24.352929771Z",
-      "contentHash": "390a1c90f2c75cb546353d3fa0f50660b3dd9284a32573d572cbe190b9019020",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/13/are-protein-bars-good-for-you"
-        }
-      ],
-      "importanceScore": 28,
-      "importanceReasons": [
         "近期更新"
       ]
     },
