@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-15T06:23:07.439696417Z",
+  "generatedAt": "2026-10-15T07:23:54.070637248Z",
   "articles": [
+    {
+      "id": "b632b10d-fcad-346a-a104-ab97bb6c4b85",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07763093",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07763093",
+      "titleOriginal": "Vertically Coronally Advanced Flap Versus Coronally Advanced Flap for Miller Class I Gingival Recession",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Gingival Recession"
+      ],
+      "publishedAt": "2026-08-13T00:00:00Z",
+      "collectedAt": "2026-10-15T07:23:52.165628522Z",
+      "contentHash": "b030d03cb4a08a3aaba5efe3d614eda336a53034f6362023adeaf90e11b0cab7",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07763093"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "16d8c975-4168-31ea-ac98-9e2fde62199d",
       "sourceId": "hansoh-news",
@@ -46,55 +95,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "b632b10d-fcad-346a-a104-ab97bb6c4b85",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07763093",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07763093",
-      "titleOriginal": "Vertically Coronally Advanced Flap Versus Coronally Advanced Flap for Miller Class I Gingival Recession",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Gingival Recession"
-      ],
-      "publishedAt": "2026-08-13T00:00:00Z",
-      "collectedAt": "2026-10-14T18:35:57.371230524Z",
-      "contentHash": "b030d03cb4a08a3aaba5efe3d614eda336a53034f6362023adeaf90e11b0cab7",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07763093"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     }
   ]
 }

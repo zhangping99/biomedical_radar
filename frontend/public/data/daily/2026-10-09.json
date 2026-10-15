@@ -1,7 +1,101 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-15T06:23:07.439696417Z",
+  "generatedAt": "2026-10-15T07:23:54.070637248Z",
   "articles": [
+    {
+      "id": "0ac89b5a-3093-3d33-a577-524132002fea",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42872260/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42872260",
+      "titleOriginal": "Effects of Sodium Bicarbonate Ringer\u0027s Solution versus Lactate Ringer\u0027s Solution on Emergence Time in Patients Undergoing Supratentorial Tumor Resection: A Randomized Controlled Trial.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "collectedAt": "2026-10-15T07:23:52.503645321Z",
+      "contentHash": "61639c4fa76437841d69a3b10225314e2acda72287e1fa4699fcac2f2b1699b3",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42872260/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "e8930af2-1f20-3796-a3b5-23eeffd8234a",
+      "sourceId": "nature-reviews-cancer",
+      "sourceName": "Nature Reviews Cancer",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41568-026-00990-4",
+      "canonicalUrl": "https://www.nature.com/articles/s41568-026-00990-4",
+      "titleOriginal": "The urgent challenge of gastroesophageal cancer",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Reviews Cancer"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "collectedAt": "2026-10-15T07:23:53.304569895Z",
+      "contentHash": "71d1fea6f0c0a94cf134e4c80d5b084c4ff06cb8113cdfe370c6111e3e63a2fa",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-reviews-cancer",
+          "sourceName": "Nature Reviews Cancer",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41568-026-00990-4"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "011d075d-da9d-365a-b5fb-9d63bcdd861f",
       "sourceId": "hengrui-focus-news",
@@ -277,53 +371,6 @@
           "sourceName": "PubMed",
           "sourceTier": "A",
           "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42867354/"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "e8930af2-1f20-3796-a3b5-23eeffd8234a",
-      "sourceId": "nature-reviews-cancer",
-      "sourceName": "Nature Reviews Cancer",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41568-026-00990-4",
-      "canonicalUrl": "https://www.nature.com/articles/s41568-026-00990-4",
-      "titleOriginal": "The urgent challenge of gastroesophageal cancer",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Reviews Cancer"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-09T00:00:00Z",
-      "collectedAt": "2026-10-14T18:35:57.886890848Z",
-      "contentHash": "71d1fea6f0c0a94cf134e4c80d5b084c4ff06cb8113cdfe370c6111e3e63a2fa",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-reviews-cancer",
-          "sourceName": "Nature Reviews Cancer",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41568-026-00990-4"
         }
       ],
       "importanceScore": 35,
