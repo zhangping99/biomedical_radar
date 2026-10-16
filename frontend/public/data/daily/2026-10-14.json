@@ -1,7 +1,54 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-16T07:07:23.824371951Z",
+  "generatedAt": "2026-10-16T08:28:27.522411480Z",
   "articles": [
+    {
+      "id": "c95092c0-1b0c-3c3d-bbaa-c8f0c4e144c9",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/14/washing-hands-best-defense-against-germs",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/14/washing-hands-best-defense-against-germs",
+      "titleOriginal": "Washing Hands: Best Defense Against Germs",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-14T00:00:00Z",
+      "collectedAt": "2026-10-16T08:28:25.122413816Z",
+      "contentHash": "2bfb8c3421e04f97a402ae1851956d22192922b870989830a5ed1255742a31ca",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/14/washing-hands-best-defense-against-germs"
+        }
+      ],
+      "importanceScore": 28,
+      "importanceReasons": [
+        "近期更新"
+      ]
+    },
     {
       "id": "240969da-5dde-32e3-889b-739dc265f865",
       "sourceId": "nejm-current-issue",
@@ -4158,53 +4205,6 @@
           "sourceName": "medRxiv",
           "sourceTier": "B",
           "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.10.13.26365386v1?rss\u003d1"
-        }
-      ],
-      "importanceScore": 28,
-      "importanceReasons": [
-        "近期更新"
-      ]
-    },
-    {
-      "id": "c95092c0-1b0c-3c3d-bbaa-c8f0c4e144c9",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/14/washing-hands-best-defense-against-germs",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/14/washing-hands-best-defense-against-germs",
-      "titleOriginal": "Washing Hands: Best Defense Against Germs",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-14T00:00:00Z",
-      "collectedAt": "2026-10-15T08:34:19.465050735Z",
-      "contentHash": "2bfb8c3421e04f97a402ae1851956d22192922b870989830a5ed1255742a31ca",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/14/washing-hands-best-defense-against-germs"
         }
       ],
       "importanceScore": 28,
