@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-16T12:42:20.998591277Z",
+  "generatedAt": "2026-10-16T13:14:25.495014317Z",
   "articles": [
+    {
+      "id": "cf78b158-8b9e-3b63-979d-c84d438f3ecf",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/perma-sharp-sutures",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/perma-sharp-sutures",
+      "titleOriginal": "Perma-Sharp Sutures",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-07T00:00:00Z",
+      "collectedAt": "2026-10-16T13:14:23.098877595Z",
+      "contentHash": "45fde7c4ed23a60fb834f66cbba16d00dcf5ccd8cfc14034121ac3b159a09b78",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/perma-sharp-sutures"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "b8a8fb58-1418-3b58-949e-197e9a039b23",
       "sourceId": "abbvie-news",
@@ -182,55 +231,6 @@
       "importanceScore": 35,
       "importanceReasons": [
         "官方一手来源"
-      ]
-    },
-    {
-      "id": "cf78b158-8b9e-3b63-979d-c84d438f3ecf",
-      "sourceId": "health-canada-health-products",
-      "sourceName": "Health Canada Health Product Recalls",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/perma-sharp-sutures",
-      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/perma-sharp-sutures",
-      "titleOriginal": "Perma-Sharp Sutures",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Health Canada"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-07T00:00:00Z",
-      "collectedAt": "2026-10-16T04:29:40.558167124Z",
-      "contentHash": "45fde7c4ed23a60fb834f66cbba16d00dcf5ccd8cfc14034121ac3b159a09b78",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "health-canada-health-products",
-          "sourceName": "Health Canada Health Product Recalls",
-          "sourceTier": "A",
-          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/perma-sharp-sutures"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
       ]
     },
     {
