@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-18T12:10:42.994634448Z",
+  "generatedAt": "2026-10-18T12:36:22.238689393Z",
   "articles": [
+    {
+      "id": "97a91cb6-9a6e-3cb6-a05d-a800352be720",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/iv-tubing-set-correction-icu-medical-updates-use-instructions-iv-tubing-sets",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/iv-tubing-set-correction-icu-medical-updates-use-instructions-iv-tubing-sets",
+      "titleOriginal": "IV Tubing Set Correction: ICU Medical Updates Use Instructions for IV Tubing Sets",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-05T04:00:00Z",
+      "collectedAt": "2026-10-18T12:36:19.513888598Z",
+      "contentHash": "343baf355f7cf86f48c21ffaf859120c1d542e5af5945f8a11173c547061a986",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/iv-tubing-set-correction-icu-medical-updates-use-instructions-iv-tubing-sets"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "bf02ff72-122c-3c8f-a517-879835408b74",
       "sourceId": "abbvie-news",
@@ -47,55 +96,6 @@
       "importanceScore": 35,
       "importanceReasons": [
         "高影响事件"
-      ]
-    },
-    {
-      "id": "97a91cb6-9a6e-3cb6-a05d-a800352be720",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/iv-tubing-set-correction-icu-medical-updates-use-instructions-iv-tubing-sets",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/iv-tubing-set-correction-icu-medical-updates-use-instructions-iv-tubing-sets",
-      "titleOriginal": "IV Tubing Set Correction: ICU Medical Updates Use Instructions for IV Tubing Sets",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-05T04:00:00Z",
-      "collectedAt": "2026-10-18T04:30:12.658099090Z",
-      "contentHash": "343baf355f7cf86f48c21ffaf859120c1d542e5af5945f8a11173c547061a986",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/iv-tubing-set-correction-icu-medical-updates-use-instructions-iv-tubing-sets"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
       ]
     },
     {
