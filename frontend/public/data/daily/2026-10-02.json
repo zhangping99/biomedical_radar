@@ -1,7 +1,105 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-18T18:15:50.851266416Z",
+  "generatedAt": "2026-10-18T18:38:03.565110650Z",
   "articles": [
+    {
+      "id": "6d54aca2-e1d6-3a9f-a89d-c3d6b30df04e",
+      "sourceId": "ema-news",
+      "sourceName": "European Medicines Agency",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-28-september-1-october",
+      "canonicalUrl": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-28-september-1-october",
+      "titleOriginal": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 28 September - 1 October",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "EU",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "European Medicines Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-02T11:00:00Z",
+      "collectedAt": "2026-10-18T18:38:01.203975311Z",
+      "contentHash": "42879c9ba332cd7508c368929593497f0225d4fb092f822a4c981479d6616543",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "ema-news",
+          "sourceName": "European Medicines Agency",
+          "sourceTier": "A",
+          "originalUrl": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-28-september-1-october"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "eea1e0e5-e906-31df-9111-7f9d987d178b",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-recall-draeger-removes-ventstar-resus-neo-hoses",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-recall-draeger-removes-ventstar-resus-neo-hoses",
+      "titleOriginal": "Breathing Circuit Recall: Draeger Removes VentStar Resus Neo Hoses",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-02T04:00:00Z",
+      "collectedAt": "2026-10-18T18:38:00.767882151Z",
+      "contentHash": "deb8819b3eb4171523b7cb6d0be700368a78ba06817fdda4f9fda63997702a9e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-recall-draeger-removes-ventstar-resus-neo-hoses"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "99c547bb-bf6c-362e-8dfb-90e4c6aff2d3",
       "sourceId": "nature-reviews-cancer",
@@ -187,104 +285,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "6d54aca2-e1d6-3a9f-a89d-c3d6b30df04e",
-      "sourceId": "ema-news",
-      "sourceName": "European Medicines Agency",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-28-september-1-october",
-      "canonicalUrl": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-28-september-1-october",
-      "titleOriginal": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 28 September - 1 October",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "EU",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "European Medicines Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-02T11:00:00Z",
-      "collectedAt": "2026-10-18T12:36:19.677626577Z",
-      "contentHash": "42879c9ba332cd7508c368929593497f0225d4fb092f822a4c981479d6616543",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "ema-news",
-          "sourceName": "European Medicines Agency",
-          "sourceTier": "A",
-          "originalUrl": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-28-september-1-october"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "eea1e0e5-e906-31df-9111-7f9d987d178b",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-recall-draeger-removes-ventstar-resus-neo-hoses",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-recall-draeger-removes-ventstar-resus-neo-hoses",
-      "titleOriginal": "Breathing Circuit Recall: Draeger Removes VentStar Resus Neo Hoses",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-02T04:00:00Z",
-      "collectedAt": "2026-10-18T12:36:19.514023761Z",
-      "contentHash": "deb8819b3eb4171523b7cb6d0be700368a78ba06817fdda4f9fda63997702a9e",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-recall-draeger-removes-ventstar-resus-neo-hoses"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
     },
     {
       "id": "b537cb98-65b2-33ac-8202-654191b1941f",

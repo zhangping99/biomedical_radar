@@ -1,7 +1,200 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-18T18:15:50.851266416Z",
+  "generatedAt": "2026-10-18T18:38:03.565110650Z",
   "articles": [
+    {
+      "id": "8717b304-fa99-3045-a400-4f790e1b1e35",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/cardinal-health-presource-kits-0",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/cardinal-health-presource-kits-0",
+      "titleOriginal": "Cardinal Health Presource Kits",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-08T00:00:00Z",
+      "collectedAt": "2026-10-18T18:38:01.376028713Z",
+      "contentHash": "b21277610b10264b2f17c7e79d2a96af8b2e71d993334c47d25afe09dccfcba2",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/cardinal-health-presource-kits-0"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "6104a54f-7841-38c1-9939-d4083f3aced4",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/freeo2-automated-oxygen-therapy-device-adult-pediatric-version-hw-23",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/freeo2-automated-oxygen-therapy-device-adult-pediatric-version-hw-23",
+      "titleOriginal": "FreeO2 Automated Oxygen Therapy Device Adult \u0026 Pediatric - Version HW 2.3",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-08T00:00:00Z",
+      "collectedAt": "2026-10-18T18:38:01.376104477Z",
+      "contentHash": "9b392e43b480ce87f26a58ac9e2c95ba68b5beb20fa2b96611903b5c4c8a88af",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/freeo2-automated-oxygen-therapy-device-adult-pediatric-version-hw-23"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "5e86ec4e-8f8c-32f9-af0d-f81ebdeaba6f",
+      "sourceId": "pmda-safety-updates",
+      "sourceName": "Japan PMDA Safety Updates",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/revision-of-precautions/0014.html",
+      "canonicalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/revision-of-precautions/0014.html",
+      "titleOriginal": "Revisions of PRECAUTIONS: Anamorelin hydrochloride,etc.posted",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "JP",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Pharmaceuticals and Medical Devices Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-08T00:00:00Z",
+      "collectedAt": "2026-10-18T18:38:01.840133203Z",
+      "contentHash": "d77fceb6edf197ac057e19b1de9c66a4d384aaf4eea258f00f79caae731f6b51",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "pmda-safety-updates",
+          "sourceName": "Japan PMDA Safety Updates",
+          "sourceTier": "A",
+          "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/revision-of-precautions/0014.html"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "f42d54eb-252e-3030-96a9-561ae39bcadf",
+      "sourceId": "ema-news",
+      "sourceName": "European Medicines Agency",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.ema.europa.eu/en/news/clinical-trial-applications-advice-pilot-becomes-permanent",
+      "canonicalUrl": "https://www.ema.europa.eu/en/news/clinical-trial-applications-advice-pilot-becomes-permanent",
+      "titleOriginal": "Clinical trial applications advice pilot becomes permanent",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "EU",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "European Medicines Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-08T15:09:00Z",
+      "collectedAt": "2026-10-18T18:38:01.203742552Z",
+      "contentHash": "1e8b362a950eefd79a829b8ecad0a0984add4217b04d2c55868131abd26a6591",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "ema-news",
+          "sourceName": "European Medicines Agency",
+          "sourceTier": "A",
+          "originalUrl": "https://www.ema.europa.eu/en/news/clinical-trial-applications-advice-pilot-becomes-permanent"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "7be68812-d622-3fa0-9ae6-7e52ec30f39a",
       "sourceId": "cleveland-clinic-news",
@@ -185,199 +378,6 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关"
-      ]
-    },
-    {
-      "id": "8717b304-fa99-3045-a400-4f790e1b1e35",
-      "sourceId": "health-canada-health-products",
-      "sourceName": "Health Canada Health Product Recalls",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/cardinal-health-presource-kits-0",
-      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/cardinal-health-presource-kits-0",
-      "titleOriginal": "Cardinal Health Presource Kits",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Health Canada"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-08T00:00:00Z",
-      "collectedAt": "2026-10-18T12:36:20.067995263Z",
-      "contentHash": "b21277610b10264b2f17c7e79d2a96af8b2e71d993334c47d25afe09dccfcba2",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "health-canada-health-products",
-          "sourceName": "Health Canada Health Product Recalls",
-          "sourceTier": "A",
-          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/cardinal-health-presource-kits-0"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "6104a54f-7841-38c1-9939-d4083f3aced4",
-      "sourceId": "health-canada-health-products",
-      "sourceName": "Health Canada Health Product Recalls",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/freeo2-automated-oxygen-therapy-device-adult-pediatric-version-hw-23",
-      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/freeo2-automated-oxygen-therapy-device-adult-pediatric-version-hw-23",
-      "titleOriginal": "FreeO2 Automated Oxygen Therapy Device Adult \u0026 Pediatric - Version HW 2.3",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Health Canada"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-08T00:00:00Z",
-      "collectedAt": "2026-10-18T12:36:20.068075443Z",
-      "contentHash": "9b392e43b480ce87f26a58ac9e2c95ba68b5beb20fa2b96611903b5c4c8a88af",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "health-canada-health-products",
-          "sourceName": "Health Canada Health Product Recalls",
-          "sourceTier": "A",
-          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/freeo2-automated-oxygen-therapy-device-adult-pediatric-version-hw-23"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "5e86ec4e-8f8c-32f9-af0d-f81ebdeaba6f",
-      "sourceId": "pmda-safety-updates",
-      "sourceName": "Japan PMDA Safety Updates",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/revision-of-precautions/0014.html",
-      "canonicalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/revision-of-precautions/0014.html",
-      "titleOriginal": "Revisions of PRECAUTIONS: Anamorelin hydrochloride,etc.posted",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "JP",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Pharmaceuticals and Medical Devices Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-08T00:00:00Z",
-      "collectedAt": "2026-10-18T12:36:20.616070947Z",
-      "contentHash": "d77fceb6edf197ac057e19b1de9c66a4d384aaf4eea258f00f79caae731f6b51",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "pmda-safety-updates",
-          "sourceName": "Japan PMDA Safety Updates",
-          "sourceTier": "A",
-          "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/revision-of-precautions/0014.html"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "f42d54eb-252e-3030-96a9-561ae39bcadf",
-      "sourceId": "ema-news",
-      "sourceName": "European Medicines Agency",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.ema.europa.eu/en/news/clinical-trial-applications-advice-pilot-becomes-permanent",
-      "canonicalUrl": "https://www.ema.europa.eu/en/news/clinical-trial-applications-advice-pilot-becomes-permanent",
-      "titleOriginal": "Clinical trial applications advice pilot becomes permanent",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "EU",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "European Medicines Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-08T15:09:00Z",
-      "collectedAt": "2026-10-18T12:36:19.677186908Z",
-      "contentHash": "1e8b362a950eefd79a829b8ecad0a0984add4217b04d2c55868131abd26a6591",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "ema-news",
-          "sourceName": "European Medicines Agency",
-          "sourceTier": "A",
-          "originalUrl": "https://www.ema.europa.eu/en/news/clinical-trial-applications-advice-pilot-becomes-permanent"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
       ]
     },
     {
