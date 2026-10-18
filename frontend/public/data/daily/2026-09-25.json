@@ -1,52 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-18T11:42:55.601778369Z",
+  "generatedAt": "2026-10-18T12:10:42.994634448Z",
   "articles": [
-    {
-      "id": "5cf24092-facd-37d8-847d-06c0cbcebf13",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/25/six-cleveland-clinic-hospitals-recognized-as-top-performers-by-vizient",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/25/six-cleveland-clinic-hospitals-recognized-as-top-performers-by-vizient",
-      "titleOriginal": "Six Cleveland Clinic Hospitals Recognized as Top Performers by Vizient",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-25T00:00:00Z",
-      "collectedAt": "2026-10-18T08:18:47.426523188Z",
-      "contentHash": "247fdb22e3485e29b88972a0b59bbd4167e777ca0957fa81f5c33bf5b7ff603e",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/25/six-cleveland-clinic-hospitals-recognized-as-top-performers-by-vizient"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
     {
       "id": "28076db5-9e45-30a7-bbe3-dca1195a9606",
       "sourceId": "merck-news-releases",
@@ -73,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-25T00:00:00Z",
-      "collectedAt": "2026-10-18T06:33:16.746985118Z",
+      "collectedAt": "2026-10-18T12:10:38.431789950Z",
       "contentHash": "088b55d1cd608adf781d7af20d1dc9c594b7c80accca6aae28f39112859c2276",
       "generated": false,
       "generatorVersion": null,
@@ -118,7 +73,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-25T00:00:00Z",
-      "collectedAt": "2026-10-18T06:33:16.748216181Z",
+      "collectedAt": "2026-10-18T12:10:38.432045753Z",
       "contentHash": "47d752ffa596fa8b6ea587f2904218fd4faacc40dc3136ef61cef53f99267fc7",
       "generated": false,
       "generatorVersion": null,
@@ -132,6 +87,51 @@
           "sourceName": "Merck News Releases",
           "sourceTier": "B",
           "originalUrl": "https://www.merck.com/news/u-s-fda-approves-welireg-belzutifan-plus-lenvima-lenvatinib-for-certain-previously-treated-adult-patients-with-advanced-renal-cell-carcinoma-with-a-clear-cell-component-ccrcc/"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "5cf24092-facd-37d8-847d-06c0cbcebf13",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/25/six-cleveland-clinic-hospitals-recognized-as-top-performers-by-vizient",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/25/six-cleveland-clinic-hospitals-recognized-as-top-performers-by-vizient",
+      "titleOriginal": "Six Cleveland Clinic Hospitals Recognized as Top Performers by Vizient",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-25T00:00:00Z",
+      "collectedAt": "2026-10-18T08:18:47.426523188Z",
+      "contentHash": "247fdb22e3485e29b88972a0b59bbd4167e777ca0957fa81f5c33bf5b7ff603e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/25/six-cleveland-clinic-hospitals-recognized-as-top-performers-by-vizient"
         }
       ],
       "importanceScore": 20,
