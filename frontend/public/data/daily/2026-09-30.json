@@ -1,7 +1,59 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-19T16:02:39.035011361Z",
+  "generatedAt": "2026-10-19T19:54:04.068476919Z",
   "articles": [
+    {
+      "id": "515c680b-9749-38c6-8174-0924761ef428",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07848334",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07848334",
+      "titleOriginal": "First-in-Human Safety and Tolerability Study of OPF-110 in Healthy Adults",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert",
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Healthy Volunteers"
+      ],
+      "publishedAt": "2026-09-30T00:00:00Z",
+      "collectedAt": "2026-10-19T19:53:59.080351909Z",
+      "contentHash": "af5246f2a6723f2c4d90f2d39c807542277ac18ba476eab992c57a4ab912e257",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07848334"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "005d2459-4058-3379-8051-3419206fddc6",
       "sourceId": "pmda-safety-updates",

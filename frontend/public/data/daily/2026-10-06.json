@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-19T16:02:39.035011361Z",
+  "generatedAt": "2026-10-19T19:54:04.068476919Z",
   "articles": [
+    {
+      "id": "1ac60908-c6ce-39aa-9f51-a8381e9cb040",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07859683",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07859683",
+      "titleOriginal": "TMS + Exposure Therapy for Pediatric OCD: Second Phase",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Obsessive Compulsive Behavior"
+      ],
+      "publishedAt": "2026-10-06T00:00:00Z",
+      "collectedAt": "2026-10-19T19:53:59.081048623Z",
+      "contentHash": "35502dd9ee3d663a4acd1b839b69d36dab807281d9c30db6619f6f227747c4d3",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07859683"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "79b7d6d2-3885-3848-ada0-e99c72b8ff58",
       "sourceId": "fda-medwatch-alerts",
