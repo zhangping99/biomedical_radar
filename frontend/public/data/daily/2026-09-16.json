@@ -1,7 +1,57 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-19T06:45:18.161104062Z",
+  "generatedAt": "2026-10-19T07:44:04.456897908Z",
   "articles": [
+    {
+      "id": "da33d124-22c9-3b05-a360-9f87e0ede5ba",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07823400",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07823400",
+      "titleOriginal": "MIECC vs Conventional Cardiopulmonary Bypass and Systemic Inflammation in CABG",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Coronary Artery Disease",
+        "Systemic Inflammation"
+      ],
+      "publishedAt": "2026-09-16T00:00:00Z",
+      "collectedAt": "2026-10-19T07:44:02.717658553Z",
+      "contentHash": "2b400c4632027da49c6fc319c6f829738aecac46acf1320fdba5bb238f00a197",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07823400"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "dbae90e9-92b0-3619-a10e-73881c421d59",
       "sourceId": "hengrui-focus-news",
@@ -46,56 +96,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "da33d124-22c9-3b05-a360-9f87e0ede5ba",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07823400",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07823400",
-      "titleOriginal": "MIECC vs Conventional Cardiopulmonary Bypass and Systemic Inflammation in CABG",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Coronary Artery Disease",
-        "Systemic Inflammation"
-      ],
-      "publishedAt": "2026-09-16T00:00:00Z",
-      "collectedAt": "2026-10-18T17:20:53.051398706Z",
-      "contentHash": "2b400c4632027da49c6fc319c6f829738aecac46acf1320fdba5bb238f00a197",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07823400"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     },
     {
       "id": "7b4521c0-0dc7-38c6-8723-4b4cb1e5fafc",
