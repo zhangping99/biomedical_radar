@@ -1,7 +1,58 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-20T18:06:08.925003819Z",
+  "generatedAt": "2026-10-20T18:27:41.213680988Z",
   "articles": [
+    {
+      "id": "9b5ca397-8ac7-3149-b408-e0a049fc2eb0",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07844681",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07844681",
+      "titleOriginal": "Cyanoacrylate Skin Adhesive After Mohs Surgery or Wide Local Excision",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Surgical Site Infection",
+        "Skin Cancer",
+        "Wound Healing"
+      ],
+      "publishedAt": "2026-09-28T00:00:00Z",
+      "collectedAt": "2026-10-20T18:27:39.167812357Z",
+      "contentHash": "249a6414d7986a314d582971cfff8213f25ce632cbe0fdad7fc2e163c2e20ea0",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07844681"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "c6acfd4a-0193-3012-9bea-b4a9c32508a4",
       "sourceId": "merck-news-releases",
