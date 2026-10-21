@@ -1,7 +1,101 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-21T06:31:05.852524254Z",
+  "generatedAt": "2026-10-21T07:35:12.210614099Z",
   "articles": [
+    {
+      "id": "24ab5ca5-fd30-313f-b4f8-f3b2d0801372",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42899169/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42899169",
+      "titleOriginal": "Optimization of Anticoagulation Strategy During Cardiopulmonary Bypass in Neonates with Congenital Heart Disease: A Randomized Controlled Trial.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-15T00:00:00Z",
+      "collectedAt": "2026-10-21T07:35:09.903290502Z",
+      "contentHash": "e3554b253890f97578b884c08f34366e82725deac4de17441fc476fdfae72c1d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42899169/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "6e71fb6e-0b2a-3e40-b9ea-4983f2f8dc66",
+      "sourceId": "nature-biotechnology",
+      "sourceName": "Nature Biotechnology",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41587-026-03332-9",
+      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03332-9",
+      "titleOriginal": "Structural variant detection across sequencing technologies",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Biotechnology"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-15T00:00:00Z",
+      "collectedAt": "2026-10-21T07:35:09.860473452Z",
+      "contentHash": "028f7b214d0d400c28bf4256cbe08e369e703005f28c51a1ad4de58407b03d59",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-biotechnology",
+          "sourceName": "Nature Biotechnology",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41587-026-03332-9"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "60bbf82e-6875-324a-a754-1bae28835a8f",
       "sourceId": "health-canada-health-products",
@@ -619,53 +713,6 @@
           "sourceName": "PubMed",
           "sourceTier": "A",
           "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42893284/"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "6e71fb6e-0b2a-3e40-b9ea-4983f2f8dc66",
-      "sourceId": "nature-biotechnology",
-      "sourceName": "Nature Biotechnology",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41587-026-03332-9",
-      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03332-9",
-      "titleOriginal": "Structural variant detection across sequencing technologies",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Biotechnology"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-15T00:00:00Z",
-      "collectedAt": "2026-10-20T18:27:40.227197315Z",
-      "contentHash": "028f7b214d0d400c28bf4256cbe08e369e703005f28c51a1ad4de58407b03d59",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-biotechnology",
-          "sourceName": "Nature Biotechnology",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41587-026-03332-9"
         }
       ],
       "importanceScore": 35,

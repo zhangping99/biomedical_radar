@@ -1,7 +1,103 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-21T06:31:05.852524254Z",
+  "generatedAt": "2026-10-21T07:35:12.210614099Z",
   "articles": [
+    {
+      "id": "b19060da-027b-37ba-8a76-496a5ca0017c",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07832565",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07832565",
+      "titleOriginal": "Sandwich vs. Mixed Bone Augmentation for Implant Placement",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Peri-implant Bone and Soft Tissues"
+      ],
+      "publishedAt": "2026-09-22T00:00:00Z",
+      "collectedAt": "2026-10-21T07:35:09.413226228Z",
+      "contentHash": "b1b510a07acf37cfce69939e93564221dac20471a0452cb2a25b3822a558a4bc",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07832565"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "32cd64d1-8f1e-3f09-86b8-a4e0be6db1d0",
+      "sourceId": "nature-reviews-cancer",
+      "sourceName": "Nature Reviews Cancer",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41568-026-00980-6",
+      "canonicalUrl": "https://www.nature.com/articles/s41568-026-00980-6",
+      "titleOriginal": "From blunt-force treatment to precision: 25 years of transformation in cancer research",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Reviews Cancer"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-22T00:00:00Z",
+      "collectedAt": "2026-10-21T07:35:09.878386596Z",
+      "contentHash": "6119287ef7e2cdc4e3c8fea326a7b02a367b46167794b39644f4325ae74f8e82",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-reviews-cancer",
+          "sourceName": "Nature Reviews Cancer",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41568-026-00980-6"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "5c3a8717-8331-3fdd-84b8-ab9c849ba59e",
       "sourceId": "amgen-news-releases",
@@ -93,102 +189,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "b19060da-027b-37ba-8a76-496a5ca0017c",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07832565",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07832565",
-      "titleOriginal": "Sandwich vs. Mixed Bone Augmentation for Implant Placement",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Peri-implant Bone and Soft Tissues"
-      ],
-      "publishedAt": "2026-09-22T00:00:00Z",
-      "collectedAt": "2026-10-20T18:27:39.168439474Z",
-      "contentHash": "b1b510a07acf37cfce69939e93564221dac20471a0452cb2a25b3822a558a4bc",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07832565"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "32cd64d1-8f1e-3f09-86b8-a4e0be6db1d0",
-      "sourceId": "nature-reviews-cancer",
-      "sourceName": "Nature Reviews Cancer",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41568-026-00980-6",
-      "canonicalUrl": "https://www.nature.com/articles/s41568-026-00980-6",
-      "titleOriginal": "From blunt-force treatment to precision: 25 years of transformation in cancer research",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Reviews Cancer"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-22T00:00:00Z",
-      "collectedAt": "2026-10-20T18:27:40.995320831Z",
-      "contentHash": "6119287ef7e2cdc4e3c8fea326a7b02a367b46167794b39644f4325ae74f8e82",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-reviews-cancer",
-          "sourceName": "Nature Reviews Cancer",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41568-026-00980-6"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     },
     {
       "id": "c71d4332-4b13-3f78-9a18-fc2051d1de57",
