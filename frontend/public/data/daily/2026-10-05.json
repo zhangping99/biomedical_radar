@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-21T13:11:24.034023409Z",
+  "generatedAt": "2026-10-21T13:46:27.932783025Z",
   "articles": [
+    {
+      "id": "97a91cb6-9a6e-3cb6-a05d-a800352be720",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/iv-tubing-set-correction-icu-medical-updates-use-instructions-iv-tubing-sets",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/iv-tubing-set-correction-icu-medical-updates-use-instructions-iv-tubing-sets",
+      "titleOriginal": "IV Tubing Set Correction: ICU Medical Updates Use Instructions for IV Tubing Sets",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-05T04:00:00Z",
+      "collectedAt": "2026-10-21T13:46:23.431487621Z",
+      "contentHash": "343baf355f7cf86f48c21ffaf859120c1d542e5af5945f8a11173c547061a986",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/iv-tubing-set-correction-icu-medical-updates-use-instructions-iv-tubing-sets"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "bf02ff72-122c-3c8f-a517-879835408b74",
       "sourceId": "abbvie-news",
@@ -47,55 +96,6 @@
       "importanceScore": 35,
       "importanceReasons": [
         "高影响事件"
-      ]
-    },
-    {
-      "id": "97a91cb6-9a6e-3cb6-a05d-a800352be720",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/iv-tubing-set-correction-icu-medical-updates-use-instructions-iv-tubing-sets",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/iv-tubing-set-correction-icu-medical-updates-use-instructions-iv-tubing-sets",
-      "titleOriginal": "IV Tubing Set Correction: ICU Medical Updates Use Instructions for IV Tubing Sets",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-05T04:00:00Z",
-      "collectedAt": "2026-10-21T04:43:31.366946559Z",
-      "contentHash": "343baf355f7cf86f48c21ffaf859120c1d542e5af5945f8a11173c547061a986",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/iv-tubing-set-correction-icu-medical-updates-use-instructions-iv-tubing-sets"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
       ]
     },
     {
@@ -2293,55 +2293,6 @@
           "sourceName": "U.S. Food and Drug Administration - Drugs",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/glenmark-pharmaceuticals-limited-637314-11222022"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "8c60e801-47df-3d7a-9549-064581f04e0a",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/industry/fda-user-fee-programs/gdufa-type-ii-api-dmf-payment-receipts-report",
-      "canonicalUrl": "https://www.fda.gov/industry/fda-user-fee-programs/gdufa-type-ii-api-dmf-payment-receipts-report",
-      "titleOriginal": "GDUFA Type II API DMF Payment Receipts Report",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-05T15:50:57Z",
-      "collectedAt": "2026-10-06T11:15:38.602770331Z",
-      "contentHash": "08dfb045df93e2430326f08986af2fc43247aefde187609f9c85a451f268d0de",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/industry/fda-user-fee-programs/gdufa-type-ii-api-dmf-payment-receipts-report"
         }
       ],
       "importanceScore": 65,
