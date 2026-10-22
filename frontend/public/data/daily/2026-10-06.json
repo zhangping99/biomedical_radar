@@ -1,7 +1,55 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-22T19:26:17.584583338Z",
+  "generatedAt": "2026-10-22T20:06:19.724782714Z",
   "articles": [
+    {
+      "id": "79b7d6d2-3885-3848-ada0-e99c72b8ff58",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nova-biomedicalr-announces-global-medical-device-correction-statstripr-glucose-hospital-meter",
+      "canonicalUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nova-biomedicalr-announces-global-medical-device-correction-statstripr-glucose-hospital-meter",
+      "titleOriginal": "Nova Biomedical® Announces Global Medical Device Correction for StatStrip® Glucose Hospital Meter",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-06T04:00:00Z",
+      "collectedAt": "2026-10-22T20:06:16.998337371Z",
+      "contentHash": "4c94574c39603ea54b712476149ecf785c2685470db72c10b17404e4b59d1034",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nova-biomedicalr-announces-global-medical-device-correction-statstripr-glucose-hospital-meter"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "2c2dbb67-80aa-3dcd-88ab-b75d68b9150d",
       "sourceId": "gsk-press-releases",
@@ -91,54 +139,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "79b7d6d2-3885-3848-ada0-e99c72b8ff58",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nova-biomedicalr-announces-global-medical-device-correction-statstripr-glucose-hospital-meter",
-      "canonicalUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nova-biomedicalr-announces-global-medical-device-correction-statstripr-glucose-hospital-meter",
-      "titleOriginal": "Nova Biomedical® Announces Global Medical Device Correction for StatStrip® Glucose Hospital Meter",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-06T04:00:00Z",
-      "collectedAt": "2026-10-22T13:46:44.431778479Z",
-      "contentHash": "4c94574c39603ea54b712476149ecf785c2685470db72c10b17404e4b59d1034",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nova-biomedicalr-announces-global-medical-device-correction-statstripr-glucose-hospital-meter"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
     },
     {
       "id": "1ac60908-c6ce-39aa-9f51-a8381e9cb040",
@@ -1147,56 +1147,6 @@
       ]
     },
     {
-      "id": "34fc1321-f2a3-3792-8f45-a895120f58df",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/drugs/generic-drugs/competitive-generic-therapy-approvals",
-      "canonicalUrl": "https://www.fda.gov/drugs/generic-drugs/competitive-generic-therapy-approvals",
-      "titleOriginal": "Competitive Generic Therapy Approvals",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "approval"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-06T19:03:43Z",
-      "collectedAt": "2026-10-09T06:06:29.161472057Z",
-      "contentHash": "256cfac470f53f79f6bdd65ce6c19fc8f0a39eeb2ac1f24468a46937e8b8e750",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/drugs/generic-drugs/competitive-generic-therapy-approvals"
-        }
-      ],
-      "importanceScore": 73,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
       "id": "124d8f11-252d-38d4-8c05-dfbee7158db2",
       "sourceId": "fda-drug-news",
       "sourceName": "U.S. Food and Drug Administration - Drugs",
@@ -1291,55 +1241,6 @@
       "importanceReasons": [
         "官方一手来源",
         "高影响事件",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "f6046582-c7be-3c38-a934-17afca6b802e",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/drugs/guidance-compliance-regulatory-information/non-compliance-letters-under-505bd1-federal-food-drug-and-cosmetic-act",
-      "canonicalUrl": "https://www.fda.gov/drugs/guidance-compliance-regulatory-information/non-compliance-letters-under-505bd1-federal-food-drug-and-cosmetic-act",
-      "titleOriginal": "Non-Compliance Letters under 505B(d)(1) of the Federal Food, Drug, and Cosmetic Act",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-06T15:05:26Z",
-      "collectedAt": "2026-10-08T15:35:20.550662848Z",
-      "contentHash": "225b111ce48bb5e7cdddb839434760e9ad71a54f2653ec2bbfbfdb121bc268b8",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/drugs/guidance-compliance-regulatory-information/non-compliance-letters-under-505bd1-federal-food-drug-and-cosmetic-act"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
         "政策或安全相关",
         "近期更新"
       ]
