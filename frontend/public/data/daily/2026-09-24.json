@@ -1,52 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-22T22:43:10.633873689Z",
+  "generatedAt": "2026-10-22T23:22:25.502085824Z",
   "articles": [
-    {
-      "id": "a6227df0-2398-3b29-8620-147a2058e1c5",
-      "sourceId": "hansoh-news",
-      "sourceName": "翰森制药新闻发布",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.hansoh.cn/news/news-detail-514083.htm",
-      "canonicalUrl": "https://www.hansoh.cn/news/news-detail-514083.htm",
-      "titleOriginal": "翰森制药 | 瑞康立伏妥塔单抗治疗骨肉瘤上市许可申请获国家药品监督管理局受理",
-      "titleZh": "翰森制药 | 瑞康立伏妥塔单抗治疗骨肉瘤上市许可申请获国家药品监督管理局受理",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "翰森制药"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-24T00:00:00Z",
-      "collectedAt": "2026-10-22T22:43:10.512122011Z",
-      "contentHash": "78f0a0580d5e738cec57fcf322bfa9668fbc116b7554a98cd21e123df84bf9fb",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "hansoh-news",
-          "sourceName": "翰森制药新闻发布",
-          "sourceTier": "B",
-          "originalUrl": "https://www.hansoh.cn/news/news-detail-514083.htm"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
     {
       "id": "87081c92-cc7a-33ba-b826-3585609d9ed9",
       "sourceId": "fda-medwatch-alerts",
@@ -73,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-24T04:00:00Z",
-      "collectedAt": "2026-10-22T20:06:17.004291888Z",
+      "collectedAt": "2026-10-22T23:22:22.445959024Z",
       "contentHash": "daed6cfe0a64773922591328aa5114e15db48df3a89b755a82b8b3cc60b6e3ce",
       "generated": false,
       "generatorVersion": null,
@@ -122,7 +77,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-09-24T04:00:00Z",
-      "collectedAt": "2026-10-22T20:06:17.004593783Z",
+      "collectedAt": "2026-10-22T23:22:22.446153602Z",
       "contentHash": "422ca48fed6c07533e6f497b489e8e9b357dea68d432dbcb9b568885de9f79b8",
       "generated": false,
       "generatorVersion": null,
@@ -144,6 +99,51 @@
         "高影响事件",
         "政策或安全相关"
       ]
+    },
+    {
+      "id": "a6227df0-2398-3b29-8620-147a2058e1c5",
+      "sourceId": "hansoh-news",
+      "sourceName": "翰森制药新闻发布",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.hansoh.cn/news/news-detail-514083.htm",
+      "canonicalUrl": "https://www.hansoh.cn/news/news-detail-514083.htm",
+      "titleOriginal": "翰森制药 | 瑞康立伏妥塔单抗治疗骨肉瘤上市许可申请获国家药品监督管理局受理",
+      "titleZh": "翰森制药 | 瑞康立伏妥塔单抗治疗骨肉瘤上市许可申请获国家药品监督管理局受理",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "翰森制药"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-24T00:00:00Z",
+      "collectedAt": "2026-10-22T22:43:10.512122011Z",
+      "contentHash": "78f0a0580d5e738cec57fcf322bfa9668fbc116b7554a98cd21e123df84bf9fb",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "hansoh-news",
+          "sourceName": "翰森制药新闻发布",
+          "sourceTier": "B",
+          "originalUrl": "https://www.hansoh.cn/news/news-detail-514083.htm"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
     },
     {
       "id": "7edeb997-e46a-3d98-a72b-c91e13b4fc80",
