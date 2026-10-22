@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-21T23:17:37.872388574Z",
+  "generatedAt": "2026-10-22T04:41:28.072610964Z",
   "articles": [
     {
       "id": "f8135aa3-5764-393b-ac27-5cd77f38de97",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-14T04:00:00Z",
-      "collectedAt": "2026-10-21T23:17:35.486667119Z",
+      "collectedAt": "2026-10-22T04:41:25.224210781Z",
       "contentHash": "eb788b2611b4d4a3902fc4e190b66144458e8e612ef470b35dd8125b3f41a107",
       "generated": false,
       "generatorVersion": null,
@@ -42,55 +42,6 @@
           "sourceName": "FDA MedWatch Safety Alerts",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-set-recall-bd-and-carefusion-303-inc-remove-bd-alaris-pump-infusion-sets"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "a6aa3a0d-bd16-360c-a0f7-2a386dc93fdb",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/par-health-issues-voluntary-nationwide-recall-argatroban-injection-due-presence-particulate-matter",
-      "canonicalUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/par-health-issues-voluntary-nationwide-recall-argatroban-injection-due-presence-particulate-matter",
-      "titleOriginal": "Par Health Issues Voluntary Nationwide Recall of Argatroban Injection Due to the Presence of Particulate Matter",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-14T04:00:00Z",
-      "collectedAt": "2026-10-21T23:17:35.486920410Z",
-      "contentHash": "8e5150f109ae9deee4fc0c37d9fbab1d8d0059d7edd1f6943874d2552af8e0be",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/par-health-issues-voluntary-nationwide-recall-argatroban-injection-due-presence-particulate-matter"
         }
       ],
       "importanceScore": 65,
@@ -126,7 +77,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-14T04:00:00Z",
-      "collectedAt": "2026-10-21T23:17:35.489981066Z",
+      "collectedAt": "2026-10-22T04:41:25.224609609Z",
       "contentHash": "fddcf64a37487447dafc4e34850a03b5407f45bd3da984b290e11a2237f58296",
       "generated": false,
       "generatorVersion": null,
@@ -140,6 +91,55 @@
           "sourceName": "FDA MedWatch Safety Alerts",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-avid-medical-removes-convenience-kits-affected-bd-chloraprep-applicator-0"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "a6aa3a0d-bd16-360c-a0f7-2a386dc93fdb",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/par-health-issues-voluntary-nationwide-recall-argatroban-injection-due-presence-particulate-matter",
+      "canonicalUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/par-health-issues-voluntary-nationwide-recall-argatroban-injection-due-presence-particulate-matter",
+      "titleOriginal": "Par Health Issues Voluntary Nationwide Recall of Argatroban Injection Due to the Presence of Particulate Matter",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-14T04:00:00Z",
+      "collectedAt": "2026-10-22T04:41:25.225058499Z",
+      "contentHash": "8e5150f109ae9deee4fc0c37d9fbab1d8d0059d7edd1f6943874d2552af8e0be",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/par-health-issues-voluntary-nationwide-recall-argatroban-injection-due-presence-particulate-matter"
         }
       ],
       "importanceScore": 65,
@@ -175,7 +175,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-14T18:55:57Z",
-      "collectedAt": "2026-10-21T23:17:35.498818954Z",
+      "collectedAt": "2026-10-22T04:41:25.230486217Z",
       "contentHash": "b5ec46eb04df18171c725d38a8079173d8ed97add9c40714472d1d0fbba0f209",
       "generated": false,
       "generatorVersion": null,
