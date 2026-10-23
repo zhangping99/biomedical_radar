@@ -1,7 +1,55 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-23T22:36:02.444747767Z",
+  "generatedAt": "2026-10-23T23:08:06.894154006Z",
   "articles": [
+    {
+      "id": "29fb4631-c426-3567-b676-a93fd941a833",
+      "sourceId": "who-news",
+      "sourceName": "World Health Organization News",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.who.int/news/item/27-08-2020-new-who-technical-package-health-data-for-covid-19-response",
+      "canonicalUrl": "https://www.who.int/news/item/27-08-2020-new-who-technical-package-health-data-for-covid-19-response",
+      "titleOriginal": "New WHO technical package to help countries improve health data for COVID-19 response and beyond",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "public_health",
+      "eventTypes": [
+        "policy_release"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "World Health Organization"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-10T07:49:45Z",
+      "collectedAt": "2026-10-23T23:08:05.031067300Z",
+      "contentHash": "1defba59f0933a0519163f9b46e5c37e92bbff375bde468da1a5be550a8487d6",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "who-news",
+          "sourceName": "World Health Organization News",
+          "sourceTier": "A",
+          "originalUrl": "https://www.who.int/news/item/27-08-2020-new-who-technical-package-health-data-for-covid-19-response"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件"
+      ]
+    },
     {
       "id": "0ef7c651-0387-3f07-9e02-104877188d31",
       "sourceId": "merck-news-releases",
@@ -46,54 +94,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "29fb4631-c426-3567-b676-a93fd941a833",
-      "sourceId": "who-news",
-      "sourceName": "World Health Organization News",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.who.int/news/item/27-08-2020-new-who-technical-package-health-data-for-covid-19-response",
-      "canonicalUrl": "https://www.who.int/news/item/27-08-2020-new-who-technical-package-health-data-for-covid-19-response",
-      "titleOriginal": "New WHO technical package to help countries improve health data for COVID-19 response and beyond",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "public_health",
-      "eventTypes": [
-        "policy_release"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "World Health Organization"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-10T07:49:45Z",
-      "collectedAt": "2026-10-23T19:57:14.032534906Z",
-      "contentHash": "1defba59f0933a0519163f9b46e5c37e92bbff375bde468da1a5be550a8487d6",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "who-news",
-          "sourceName": "World Health Organization News",
-          "sourceTier": "A",
-          "originalUrl": "https://www.who.int/news/item/27-08-2020-new-who-technical-package-health-data-for-covid-19-response"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件"
-      ]
     },
     {
       "id": "b5c7afe7-7239-3422-90e4-52fd3efa42db",
