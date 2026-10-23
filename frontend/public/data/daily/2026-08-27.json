@@ -1,7 +1,60 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-23T06:27:15.700108465Z",
+  "generatedAt": "2026-10-23T07:28:07.772804665Z",
   "articles": [
+    {
+      "id": "94df8119-1c5d-3357-a218-c4296f224720",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07789951",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07789951",
+      "titleOriginal": "Lyophilized Platelet-Rich Plasma Lysate vs Dextrose Prolotherapy for Partial Rotator Cuff Tears",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Rotator Cuff Tear",
+        "Rotator Cuff Syndrome",
+        "Rotator Cuff Arthropathy of Right Shoulder",
+        "Rotator Cuff Arthropathy of Left Shoulder",
+        "Rotator Cuff Arthropathy of Bilateral Shoulders"
+      ],
+      "publishedAt": "2026-08-27T00:00:00Z",
+      "collectedAt": "2026-10-23T07:28:04.903038078Z",
+      "contentHash": "5231bd29fb2ecb81e4f16ee1cec747982c425cd7ba17d7f4211baa814f8ef08e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07789951"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "db5d3ae5-b63e-3cf5-b4cc-58015f69e922",
       "sourceId": "hengrui-focus-news",
@@ -46,59 +99,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "94df8119-1c5d-3357-a218-c4296f224720",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07789951",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07789951",
-      "titleOriginal": "Lyophilized Platelet-Rich Plasma Lysate vs Dextrose Prolotherapy for Partial Rotator Cuff Tears",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Rotator Cuff Tear",
-        "Rotator Cuff Syndrome",
-        "Rotator Cuff Arthropathy of Right Shoulder",
-        "Rotator Cuff Arthropathy of Left Shoulder",
-        "Rotator Cuff Arthropathy of Bilateral Shoulders"
-      ],
-      "publishedAt": "2026-08-27T00:00:00Z",
-      "collectedAt": "2026-10-22T18:30:47.081984636Z",
-      "contentHash": "5231bd29fb2ecb81e4f16ee1cec747982c425cd7ba17d7f4211baa814f8ef08e",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07789951"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     },
     {
       "id": "273ce16d-2a1e-3db2-b769-e410f3ffc1cd",
