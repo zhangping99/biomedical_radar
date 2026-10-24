@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-23T23:08:06.894154006Z",
+  "generatedAt": "2026-10-24T04:34:11.687608623Z",
   "articles": [
     {
       "id": "488db080-b243-3948-a2b7-291684941150",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-20T19:40:38Z",
-      "collectedAt": "2026-10-23T23:08:04.257774063Z",
+      "collectedAt": "2026-10-24T04:34:08.077021118Z",
       "contentHash": "310dcab60f6224353221a421ff3a68da3d0b64eba806d270224e59aa33ca11a7",
       "generated": false,
       "generatorVersion": null,
@@ -77,7 +77,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-20T12:59:25Z",
-      "collectedAt": "2026-10-23T23:08:04.258266755Z",
+      "collectedAt": "2026-10-24T04:34:08.077987783Z",
       "contentHash": "0d6b31f3406bb8ed3a401ae4b4f5753985e8692492e1808467cb75596f798860",
       "generated": false,
       "generatorVersion": null,
@@ -126,7 +126,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-20T04:00:00Z",
-      "collectedAt": "2026-10-23T23:08:04.245732860Z",
+      "collectedAt": "2026-10-24T04:34:08.049925021Z",
       "contentHash": "489bdfae61ec07fa3dfe6d0bc64931d7c9b414c3bc3754a403f1263b92ae7f31",
       "generated": false,
       "generatorVersion": null,
@@ -175,7 +175,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-20T13:18:54Z",
-      "collectedAt": "2026-10-23T23:08:04.258114669Z",
+      "collectedAt": "2026-10-24T04:34:08.077705667Z",
       "contentHash": "b0fc3f286b7cad14e5c115998455d0e9230dde747dd056f48e04b0c1be6f1c54",
       "generated": false,
       "generatorVersion": null,
@@ -223,7 +223,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-20T11:58:00Z",
-      "collectedAt": "2026-10-23T23:08:04.258429477Z",
+      "collectedAt": "2026-10-24T04:34:08.078246156Z",
       "contentHash": "9e56249569c2a662ddb848d904e841be33363175f643d54128ac636c2dd434b4",
       "generated": false,
       "generatorVersion": null,
@@ -243,54 +243,6 @@
       "importanceReasons": [
         "官方一手来源",
         "高影响事件"
-      ]
-    },
-    {
-      "id": "a541d342-a6ee-34ff-9aaf-6cdb23710f2e",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-updates-use-instructions-presource-packs-containing-bd-alaris-pump",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-updates-use-instructions-presource-packs-containing-bd-alaris-pump",
-      "titleOriginal": "Early Alert: Cardinal Health Updates Use Instructions for Presource Packs Containing BD Alaris Pump Infusion Sets",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-20T04:00:00Z",
-      "collectedAt": "2026-10-23T23:08:04.244904428Z",
-      "contentHash": "a06b1e01eafcadad54bc0820edd0a946add773813ebf7a5a6caa9a5dc4465a69",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-updates-use-instructions-presource-packs-containing-bd-alaris-pump"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
       ]
     },
     {
@@ -319,7 +271,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-20T04:00:00Z",
-      "collectedAt": "2026-10-23T23:08:04.245195341Z",
+      "collectedAt": "2026-10-24T04:34:08.048790532Z",
       "contentHash": "063ee74eceee1de3c7c9a6bedc8be17d1d05be18abba1d40e5f4fcfb6e3ac220",
       "generated": false,
       "generatorVersion": null,
@@ -333,6 +285,54 @@
           "sourceName": "FDA MedWatch Safety Alerts",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/medical-devices/letters-health-care-providers/update-import-alert-certain-olympus-medical-devices-manufactured-japan-letter-health-care-providers"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "a541d342-a6ee-34ff-9aaf-6cdb23710f2e",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-updates-use-instructions-presource-packs-containing-bd-alaris-pump",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-updates-use-instructions-presource-packs-containing-bd-alaris-pump",
+      "titleOriginal": "Early Alert: Cardinal Health Updates Use Instructions for Presource Packs Containing BD Alaris Pump Infusion Sets",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-20T04:00:00Z",
+      "collectedAt": "2026-10-24T04:34:08.049189146Z",
+      "contentHash": "a06b1e01eafcadad54bc0820edd0a946add773813ebf7a5a6caa9a5dc4465a69",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-updates-use-instructions-presource-packs-containing-bd-alaris-pump"
         }
       ],
       "importanceScore": 50,
@@ -367,7 +367,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-20T04:00:00Z",
-      "collectedAt": "2026-10-23T23:08:04.245472323Z",
+      "collectedAt": "2026-10-24T04:34:08.049560941Z",
       "contentHash": "063635f377a5fad9e260d7ba24e42156e94e02810985f35951f84ca608f6a65c",
       "generated": false,
       "generatorVersion": null,
@@ -415,7 +415,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-20T13:20:07Z",
-      "collectedAt": "2026-10-23T23:08:04.257950996Z",
+      "collectedAt": "2026-10-24T04:34:08.077322260Z",
       "contentHash": "d39de6b1eb063f05a7cfbbc70adf8f895304ea7975b8f28f3e1c4c198451ae59",
       "generated": false,
       "generatorVersion": null,
