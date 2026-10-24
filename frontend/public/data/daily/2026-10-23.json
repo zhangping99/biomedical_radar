@@ -1,7 +1,149 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-24T16:14:55.055722295Z",
+  "generatedAt": "2026-10-24T16:55:17.869874904Z",
   "articles": [
+    {
+      "id": "4a6919f3-ef29-3662-815c-b5ec15bb7d0c",
+      "sourceId": "hansoh-news",
+      "sourceName": "翰森制药新闻发布",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.hansoh.cn/news/news-detail-514094.htm",
+      "canonicalUrl": "https://www.hansoh.cn/news/news-detail-514094.htm",
+      "titleOriginal": "ASN 2026 | 翰森制药公布盐酸谷司卡肽治疗慢性肾脏病血液透析的成人患者继发性甲状旁腺功能亢进症的有效性、安全性及长期临床研究数据",
+      "titleZh": "ASN 2026 | 翰森制药公布盐酸谷司卡肽治疗慢性肾脏病血液透析的成人患者继发性甲状旁腺功能亢进症的有效性、安全性及长期临床研究数据",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "quality_safety",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "翰森制药"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "collectedAt": "2026-10-24T16:55:16.376318622Z",
+      "contentHash": "6336ee5ad0dc53b27732fbddf55f42b8f2bb40edc63f0054538672e1ebc4ea0c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "hansoh-news",
+          "sourceName": "翰森制药新闻发布",
+          "sourceTier": "B",
+          "originalUrl": "https://www.hansoh.cn/news/news-detail-514094.htm"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "dc5fdc9d-7b78-3afd-97b1-a33ab2e81ce9",
+      "sourceId": "gsk-press-releases",
+      "sourceName": "GSK Press Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.gsk.com/en-gb/media/press-releases/gsk-presents-positive-data-for-mo-rez-in-platinum-resistant-ovarian-cancer/",
+      "canonicalUrl": "https://www.gsk.com/en-gb/media/press-releases/gsk-presents-positive-data-for-mo-rez-in-platinum-resistant-ovarian-cancer",
+      "titleOriginal": "GSK presents positive data for Mo-Rez in platinum-resistant ovarian cancer",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "drug_rd",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "GSK"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-23T23:00:31Z",
+      "collectedAt": "2026-10-24T16:55:10.965674696Z",
+      "contentHash": "cd1a8cd0d04e82d0f70b41d91d5f25f9c9dae397a55815df0b82421739b60240",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "gsk-press-releases",
+          "sourceName": "GSK Press Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://www.gsk.com/en-gb/media/press-releases/gsk-presents-positive-data-for-mo-rez-in-platinum-resistant-ovarian-cancer/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "b488dcaa-3f5f-3ab4-87a0-72355e300477",
+      "sourceId": "abbvie-news",
+      "sourceName": "AbbVie News",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://news.abbvie.com/2026-10-23-U-S-FDA-Approves-Subcutaneous-Induction-Regimen-for-AbbVies-SKYRIZI-R-risankizumab-rzaa-for-Adults-With-Moderately-to-Severely-Active-Crohns-Disease",
+      "canonicalUrl": "https://news.abbvie.com/2026-10-23-U-S-FDA-Approves-Subcutaneous-Induction-Regimen-for-AbbVies-SKYRIZI-R-risankizumab-rzaa-for-Adults-With-Moderately-to-Severely-Active-Crohns-Disease",
+      "titleOriginal": "U.S. FDA Approves Subcutaneous Induction Regimen for AbbVie\u0027s SKYRIZI® (risankizumab-rzaa) for Adults With Moderately to Severely Active Crohn\u0027s Disease",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "device_diagnostics",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "AbbVie"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-23T19:33:00Z",
+      "collectedAt": "2026-10-24T16:55:13.945398873Z",
+      "contentHash": "3381b010a2a430c3331ff68d2dcddb71a97910dbd008d3715ce5d31894311ebd",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "abbvie-news",
+          "sourceName": "AbbVie News",
+          "sourceTier": "B",
+          "originalUrl": "https://news.abbvie.com/2026-10-23-U-S-FDA-Approves-Subcutaneous-Induction-Regimen-for-AbbVies-SKYRIZI-R-risankizumab-rzaa-for-Adults-With-Moderately-to-Severely-Active-Crohns-Disease"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "24小时内更新"
+      ]
+    },
     {
       "id": "d2b60cee-1610-3555-9257-2ed8d2aff5ed",
       "sourceId": "fda-drug-news",
@@ -789,148 +931,6 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "4a6919f3-ef29-3662-815c-b5ec15bb7d0c",
-      "sourceId": "hansoh-news",
-      "sourceName": "翰森制药新闻发布",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.hansoh.cn/news/news-detail-514094.htm",
-      "canonicalUrl": "https://www.hansoh.cn/news/news-detail-514094.htm",
-      "titleOriginal": "ASN 2026 | 翰森制药公布盐酸谷司卡肽治疗慢性肾脏病血液透析的成人患者继发性甲状旁腺功能亢进症的有效性、安全性及长期临床研究数据",
-      "titleZh": "ASN 2026 | 翰森制药公布盐酸谷司卡肽治疗慢性肾脏病血液透析的成人患者继发性甲状旁腺功能亢进症的有效性、安全性及长期临床研究数据",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "quality_safety",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "翰森制药"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-23T00:00:00Z",
-      "collectedAt": "2026-10-24T12:12:38.920661934Z",
-      "contentHash": "6336ee5ad0dc53b27732fbddf55f42b8f2bb40edc63f0054538672e1ebc4ea0c",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "hansoh-news",
-          "sourceName": "翰森制药新闻发布",
-          "sourceTier": "B",
-          "originalUrl": "https://www.hansoh.cn/news/news-detail-514094.htm"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "dc5fdc9d-7b78-3afd-97b1-a33ab2e81ce9",
-      "sourceId": "gsk-press-releases",
-      "sourceName": "GSK Press Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.gsk.com/en-gb/media/press-releases/gsk-presents-positive-data-for-mo-rez-in-platinum-resistant-ovarian-cancer/",
-      "canonicalUrl": "https://www.gsk.com/en-gb/media/press-releases/gsk-presents-positive-data-for-mo-rez-in-platinum-resistant-ovarian-cancer",
-      "titleOriginal": "GSK presents positive data for Mo-Rez in platinum-resistant ovarian cancer",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "drug_rd",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "GSK"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-23T23:00:31Z",
-      "collectedAt": "2026-10-24T12:12:37.779344147Z",
-      "contentHash": "cd1a8cd0d04e82d0f70b41d91d5f25f9c9dae397a55815df0b82421739b60240",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "gsk-press-releases",
-          "sourceName": "GSK Press Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://www.gsk.com/en-gb/media/press-releases/gsk-presents-positive-data-for-mo-rez-in-platinum-resistant-ovarian-cancer/"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "b488dcaa-3f5f-3ab4-87a0-72355e300477",
-      "sourceId": "abbvie-news",
-      "sourceName": "AbbVie News",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://news.abbvie.com/2026-10-23-U-S-FDA-Approves-Subcutaneous-Induction-Regimen-for-AbbVies-SKYRIZI-R-risankizumab-rzaa-for-Adults-With-Moderately-to-Severely-Active-Crohns-Disease",
-      "canonicalUrl": "https://news.abbvie.com/2026-10-23-U-S-FDA-Approves-Subcutaneous-Induction-Regimen-for-AbbVies-SKYRIZI-R-risankizumab-rzaa-for-Adults-With-Moderately-to-Severely-Active-Crohns-Disease",
-      "titleOriginal": "U.S. FDA Approves Subcutaneous Induction Regimen for AbbVie\u0027s SKYRIZI® (risankizumab-rzaa) for Adults With Moderately to Severely Active Crohn\u0027s Disease",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "device_diagnostics",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "AbbVie"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-23T19:33:00Z",
-      "collectedAt": "2026-10-24T12:12:39.037484224Z",
-      "contentHash": "3381b010a2a430c3331ff68d2dcddb71a97910dbd008d3715ce5d31894311ebd",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "abbvie-news",
-          "sourceName": "AbbVie News",
-          "sourceTier": "B",
-          "originalUrl": "https://news.abbvie.com/2026-10-23-U-S-FDA-Approves-Subcutaneous-Induction-Regimen-for-AbbVies-SKYRIZI-R-risankizumab-rzaa-for-Adults-With-Moderately-to-Severely-Active-Crohns-Disease"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
         "24小时内更新"
       ]
     },
