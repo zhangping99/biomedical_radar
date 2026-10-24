@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-24T21:50:48.439240631Z",
+  "generatedAt": "2026-10-24T22:28:23.295885688Z",
   "articles": [
+    {
+      "id": "d5d8ffe1-4608-3334-b00e-b2eb81fbbbcc",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-medline-removes-convenience-kits-affected-bd-chloraprep-applicator-recall",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-medline-removes-convenience-kits-affected-bd-chloraprep-applicator-recall",
+      "titleOriginal": "Convenience Kit Recall: Medline Removes Convenience Kits Affected by BD ChloraPrep Applicator Recall",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-13T04:00:00Z",
+      "collectedAt": "2026-10-24T22:28:20.751694850Z",
+      "contentHash": "47bf2b0b616f49ad21ad569800de68a2d891b54c1cf018c61a69a2cfc8a3c837",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-medline-removes-convenience-kits-affected-bd-chloraprep-applicator-recall"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "4780ce8b-1687-3fbf-8341-a9f7d9010e38",
       "sourceId": "abbvie-news",
@@ -140,55 +189,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "d5d8ffe1-4608-3334-b00e-b2eb81fbbbcc",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-medline-removes-convenience-kits-affected-bd-chloraprep-applicator-recall",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-medline-removes-convenience-kits-affected-bd-chloraprep-applicator-recall",
-      "titleOriginal": "Convenience Kit Recall: Medline Removes Convenience Kits Affected by BD ChloraPrep Applicator Recall",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-13T04:00:00Z",
-      "collectedAt": "2026-10-24T18:46:59.253836241Z",
-      "contentHash": "47bf2b0b616f49ad21ad569800de68a2d891b54c1cf018c61a69a2cfc8a3c837",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-medline-removes-convenience-kits-affected-bd-chloraprep-applicator-recall"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
     },
     {
       "id": "ac355daf-4d42-36be-aaa8-1fc6a062e407",
