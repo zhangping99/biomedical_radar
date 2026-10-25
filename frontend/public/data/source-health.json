@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-25T17:38:37.682666497Z",
-  "batchStartedAt": "2026-10-25T17:38:35.957827305Z",
-  "batchCompletedAt": "2026-10-25T17:38:37.682666497Z",
+  "generatedAt": "2026-10-25T18:32:30.255096272Z",
+  "batchStartedAt": "2026-10-25T18:32:15.200386175Z",
+  "batchCompletedAt": "2026-10-25T18:32:30.255096272Z",
   "sources": [
     {
       "sourceId": "3sbio-news",
@@ -72,8 +72,8 @@
       "sourceId": "bjcancer-research",
       "sourceName": "北京大学肿瘤医院科研成果",
       "status": "ok",
-      "startedAt": "2026-10-25T08:41:51.292528978Z",
-      "completedAt": "2026-10-25T08:41:52.500081445Z",
+      "startedAt": "2026-10-25T18:32:16.867953862Z",
+      "completedAt": "2026-10-25T18:32:18.226307898Z",
       "fetchedCount": 13,
       "newCount": 13,
       "duplicateCount": 0,
@@ -88,8 +88,8 @@
       "sourceId": "btch-research",
       "sourceName": "Beijing Tsinghua Changgung Hospital Research",
       "status": "ok",
-      "startedAt": "2026-10-25T08:41:50.565226655Z",
-      "completedAt": "2026-10-25T08:41:52.771896059Z",
+      "startedAt": "2026-10-25T18:32:15.201937906Z",
+      "completedAt": "2026-10-25T18:32:16.867863196Z",
       "fetchedCount": 4,
       "newCount": 4,
       "duplicateCount": 0,
@@ -135,18 +135,18 @@
     {
       "sourceId": "cleveland-clinic-news",
       "sourceName": "Cleveland Clinic Newsroom",
-      "status": "ok",
-      "startedAt": "2026-10-25T08:41:50.566105898Z",
-      "completedAt": "2026-10-25T08:41:51.292432538Z",
-      "fetchedCount": 15,
-      "newCount": 15,
+      "status": "failed",
+      "startedAt": "2026-10-25T18:32:15.203657389Z",
+      "completedAt": "2026-10-25T18:32:30.239486646Z",
+      "fetchedCount": 0,
+      "newCount": 0,
       "duplicateCount": 0,
-      "failedCount": 0,
+      "failedCount": 1,
       "httpStatusClasses": {
-        "2xx": 1
+        "5xx": 1
       },
-      "errorCode": null,
-      "nextRetryAt": null
+      "errorCode": "HTTP_500",
+      "nextRetryAt": "2026-10-26T06:32:30.239652482Z"
     },
     {
       "sourceId": "clinicaltrials-recent",
@@ -536,8 +536,8 @@
       "sourceId": "pkuh6-research",
       "sourceName": "北京大学第六医院科研新闻",
       "status": "ok",
-      "startedAt": "2026-10-25T08:41:50.566372744Z",
-      "completedAt": "2026-10-25T08:41:52.103290640Z",
+      "startedAt": "2026-10-25T18:32:15.202826812Z",
+      "completedAt": "2026-10-25T18:32:16.999633901Z",
       "fetchedCount": 20,
       "newCount": 20,
       "duplicateCount": 0,
@@ -584,8 +584,8 @@
       "sourceId": "pumch-research",
       "sourceName": "Peking Union Medical College Hospital Research",
       "status": "ok",
-      "startedAt": "2026-10-25T08:41:50.565045256Z",
-      "completedAt": "2026-10-25T08:41:53.644557567Z",
+      "startedAt": "2026-10-25T18:32:15.202084071Z",
+      "completedAt": "2026-10-25T18:32:18.848271066Z",
       "fetchedCount": 3,
       "newCount": 3,
       "duplicateCount": 0,
