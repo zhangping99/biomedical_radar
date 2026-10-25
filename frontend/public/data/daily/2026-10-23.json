@@ -1,7 +1,955 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-25T17:12:34.265645675Z",
+  "generatedAt": "2026-10-25T17:38:37.682666497Z",
   "articles": [
+    {
+      "id": "7e8e22e0-34c2-3c73-9391-eae379ecb176",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42925042/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42925042",
+      "titleOriginal": "Climate Change and Workers\u0027 Health and Safety: An Umbrella Review.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "collectedAt": "2026-10-25T17:38:37.011871740Z",
+      "contentHash": "56ff1cf17f2496d575cf16696daf985137e14ca5f12faa299af09baff8f55443",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42925042/"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "109a0131-919e-3dfd-8a5f-35230f937e9a",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07893184",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07893184",
+      "titleOriginal": "Feasibility of Physical Prehabilitation for High-Risk Patients Undergoing Cardiac Surgery Via Sternotomy",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Prehabilitation",
+        "Cardiac Surgery",
+        "Risk Assesment",
+        "Aortic Valve",
+        "Coronary Artery Bypass Graft",
+        "Training"
+      ],
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "collectedAt": "2026-10-25T17:38:36.589207593Z",
+      "contentHash": "e99f0e37ff3dd25692ab7dc4c2be5ca311588bb16750cd26dba2847886543693",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07893184"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "78e399b4-214a-36ba-ba1f-7641fa2126bc",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07893158",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07893158",
+      "titleOriginal": "A Study of Nicotine Orodispersible Tablet on Craving Relief of Male and Female Smoker Volunteers",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Smoking Cessation",
+        "Nicotine Replacements Therapy"
+      ],
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "collectedAt": "2026-10-25T17:38:36.589847207Z",
+      "contentHash": "3868e2354e32b3dec669c3b19ddaa781938b8c2cb4f7b94f4bf74a86a4054a85",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07893158"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "7649068b-46c3-3e98-8352-6258e9a91fdc",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07891260",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07891260",
+      "titleOriginal": "Relationship of Forward Head Posture With Burnout and Quality of Life",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Forward Head Posture"
+      ],
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "collectedAt": "2026-10-25T17:38:36.590143160Z",
+      "contentHash": "df78223f52ad7bf6b6929b2c0afae7c1ff0424a661521a86f5eb00c9232b5d16",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07891260"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "fcc98b7f-32ae-30a9-9b29-d1b355ea7b8d",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07893210",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07893210",
+      "titleOriginal": "Fathers and Babies (FAB) Research Study",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration",
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Perinatal Mental Health",
+        "Fathers",
+        "Stress Management"
+      ],
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "collectedAt": "2026-10-25T17:38:36.590429395Z",
+      "contentHash": "6fd8455714b08f5bc80d6ced1b9c25535057ac78a185c55e23d4b4432e0a9d53",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07893210"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "124d6046-1b2f-3cf6-bf83-0333806e3f14",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07892313",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07892313",
+      "titleOriginal": "Inflammatory Biomarkers, Microbial Findings, and Clinical Characteristics Before and After Treatment of Peri-Implant Mucositis Around One-Piece and Two-Piece Dental Implants",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "One-Piece Dental Implant",
+        "Bone-Level Implant",
+        "Two-Piece Dental Implant",
+        "Nonsurgical Mechanical Debridement",
+        "Chlorhexidine Gel",
+        "Soft Tissue Phenotype",
+        "Peri-Implant Conditions",
+        "Peri-Implant Mucositis",
+        "Microbiology"
+      ],
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "collectedAt": "2026-10-25T17:38:36.590645108Z",
+      "contentHash": "64b0e678653b1cc21aa1442637a7f2b705adc535ba8376f64734690c26d1dcd2",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07892313"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "1fffaa5d-3fbd-3733-ad9d-9c1c941717a2",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07891897",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07891897",
+      "titleOriginal": "Evaluation of the Agreement Between Automated Program-Operated Phoropter Subjective Refraction and Optometrist-Performed Subjective Refraction",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Refractive Errors"
+      ],
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "collectedAt": "2026-10-25T17:38:36.591017904Z",
+      "contentHash": "4133aaa1f244f234ed1602b0bae16ed1753403af78804eab046f3ad834b3b43f",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07891897"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "16982307-1068-37b5-a65a-de2379a205d7",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07891273",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07891273",
+      "titleOriginal": "Beyond Voluntary Effort: Reliability and Validity of Magnetic Femoral Nerve Stimulation for Assessing Quadriceps Strength in Critically Ill Patient",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Critical Illness",
+        "ICU-acquired Weakness"
+      ],
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "collectedAt": "2026-10-25T17:38:36.594854952Z",
+      "contentHash": "7f6f477f628a8bed5e7d3c04c8cbf0f8b5094bb4fcac50246fb8246aa7c7b4f0",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07891273"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "0e86adca-a213-3690-a2ac-e222bff15465",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07893353",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07893353",
+      "titleOriginal": "Mechanisms and Intervention Strategies of Perioperative Glycemic Variability on Postoperative Delirium",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Cardiac Surgery With Cardiopulmonary Bypass",
+        "Postoperative Delirium"
+      ],
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "collectedAt": "2026-10-25T17:38:36.595475812Z",
+      "contentHash": "57e8d444f9fa2d7f2339ad5e57a5f85f6fd7eb8705472b869f97c90f06fe6af9",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07893353"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "151adedc-436c-3e55-b378-1da6933101b1",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42925114/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42925114",
+      "titleOriginal": "Adjunctive Atypical Antipsychotics in Major Depressive Disorder: A Network Meta-Analysis Perspective and Consensus Panel Discussion.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "collectedAt": "2026-10-25T17:38:37.011516136Z",
+      "contentHash": "3d88281241cbb5f7169964242179f1bad6b958225f50a4cc3c4ef1a89f5bf285",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42925114/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "ab960d17-e640-3aef-815e-881e4b43406b",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42921806/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42921806",
+      "titleOriginal": "Determination of Alcohol in Blood by Headspace Gas Chromatography (HS-GC): A Systematic Review and Meta-Analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "collectedAt": "2026-10-25T17:38:37.016298840Z",
+      "contentHash": "18d1d2422e6dcce4dd4be697b681bfa93e61cde51487a9b47966e534e5c70e29",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42921806/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "658fb1be-8f0c-3fa8-acd9-dd39243d862e",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42921790/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42921790",
+      "titleOriginal": "A Methodological Framework for a Large Language Model Virtual Companion for Older Adults at Risk of Social Isolation.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "collectedAt": "2026-10-25T17:38:37.016599552Z",
+      "contentHash": "10127faf5b0a59fea27153179efdd58d5ffd0f359fd16c78161a358f2badcf4a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42921790/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "362b90ee-f5b4-37bf-a2ac-434dc828428f",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42921788/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42921788",
+      "titleOriginal": "Jidesheng Snake Pills as Adjunctive Therapy for Snakebite: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "collectedAt": "2026-10-25T17:38:37.016769259Z",
+      "contentHash": "4ea2b71b86abe5b5134ecb00a9c4ff2904d18a2096dcb7945e532a5719b95757",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42921788/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "f7991e4f-1df0-3092-b5c9-5c8ac8000698",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42921780/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42921780",
+      "titleOriginal": "Effects of E-Coach-Based Chronic Disease Management on Self-Management, Quality of Life, and Mental Health in Maintenance Hemodialysis Patients.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "collectedAt": "2026-10-25T17:38:37.016940268Z",
+      "contentHash": "e5a6a8b95be4f07d9452bf99d22f9804d549ee53923a665e0e2e2da78973202b",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42921780/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "c48e062f-c0a2-3f6c-b049-eefcdec57828",
+      "sourceId": "nature-medicine",
+      "sourceName": "Nature Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/d41591-026-00054-y",
+      "canonicalUrl": "https://www.nature.com/articles/d41591-026-00054-y",
+      "titleOriginal": "\u003cb\u003ePutting conversational AI to the test in primary care\u003c/b\u003e",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "collectedAt": "2026-10-25T17:38:36.591928786Z",
+      "contentHash": "6e56a3311e007775d5db85f2f406d3b286e3308883638074cb841e25803995cf",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-medicine",
+          "sourceName": "Nature Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/d41591-026-00054-y"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "3f36d8e7-9b70-3288-b490-552de0967f39",
+      "sourceId": "nature-medicine",
+      "sourceName": "Nature Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41591-026-04730-x",
+      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04730-x",
+      "titleOriginal": "The human microbiome and chronic disease: ten strategic priorities for research and public health",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "collectedAt": "2026-10-25T17:38:36.592184874Z",
+      "contentHash": "95f12444d2d20ef3430e45f5e40384075f2d26696618769ea38fcfdf1ae7211c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-medicine",
+          "sourceName": "Nature Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41591-026-04730-x"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "f0972869-8d5b-3994-a246-e604c895e2ce",
+      "sourceId": "nature-medicine",
+      "sourceName": "Nature Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41591-026-04734-7",
+      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04734-7",
+      "titleOriginal": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "collectedAt": "2026-10-25T17:38:36.592512797Z",
+      "contentHash": "a17060b213f0606348e00dfe448eae4e46fdb46a211bd7ca9d5de388d6fad3cd",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-medicine",
+          "sourceName": "Nature Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41591-026-04734-7"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "c30a6d76-529b-365f-b9e3-3e077b44b6d1",
+      "sourceId": "nature-medicine",
+      "sourceName": "Nature Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41591-026-04711-0",
+      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04711-0",
+      "titleOriginal": "Bispecific dual T cell agonist invikafusp alfa in solid tumors: the phase 1/2 START-001 trial",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "collectedAt": "2026-10-25T17:38:36.592824639Z",
+      "contentHash": "ef280d3701e660093be9ac264b12f1433e23a4cb8a7afd57746f613becc38608",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-medicine",
+          "sourceName": "Nature Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41591-026-04711-0"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "36d3be47-dd28-308f-b751-f1c875b2cc02",
+      "sourceId": "nature-medicine",
+      "sourceName": "Nature Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41591-026-04707-w",
+      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04707-w",
+      "titleOriginal": "Determinants of response to CAR T cell therapy in a multicenter, multi-trial cohort analysis of patients with lymphoma",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "collectedAt": "2026-10-25T17:38:36.593106626Z",
+      "contentHash": "7fd629f16f0b4c0f0efbea898118f03aa4dc4cef5d72f80a1eae9c65a1563f48",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-medicine",
+          "sourceName": "Nature Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41591-026-04707-w"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
     {
       "id": "4a6919f3-ef29-3662-815c-b5ec15bb7d0c",
       "sourceId": "hansoh-news",
@@ -982,425 +1930,6 @@
       ]
     },
     {
-      "id": "109a0131-919e-3dfd-8a5f-35230f937e9a",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07893184",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07893184",
-      "titleOriginal": "Feasibility of Physical Prehabilitation for High-Risk Patients Undergoing Cardiac Surgery Via Sternotomy",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Prehabilitation",
-        "Cardiac Surgery",
-        "Risk Assesment",
-        "Aortic Valve",
-        "Coronary Artery Bypass Graft",
-        "Training"
-      ],
-      "publishedAt": "2026-10-23T00:00:00Z",
-      "collectedAt": "2026-10-25T07:33:48.662477582Z",
-      "contentHash": "e99f0e37ff3dd25692ab7dc4c2be5ca311588bb16750cd26dba2847886543693",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07893184"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "78e399b4-214a-36ba-ba1f-7641fa2126bc",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07893158",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07893158",
-      "titleOriginal": "A Study of Nicotine Orodispersible Tablet on Craving Relief of Male and Female Smoker Volunteers",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Smoking Cessation",
-        "Nicotine Replacements Therapy"
-      ],
-      "publishedAt": "2026-10-23T00:00:00Z",
-      "collectedAt": "2026-10-25T07:33:48.662938932Z",
-      "contentHash": "3868e2354e32b3dec669c3b19ddaa781938b8c2cb4f7b94f4bf74a86a4054a85",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07893158"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "7649068b-46c3-3e98-8352-6258e9a91fdc",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07891260",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07891260",
-      "titleOriginal": "Relationship of Forward Head Posture With Burnout and Quality of Life",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Forward Head Posture"
-      ],
-      "publishedAt": "2026-10-23T00:00:00Z",
-      "collectedAt": "2026-10-25T07:33:48.663163295Z",
-      "contentHash": "df78223f52ad7bf6b6929b2c0afae7c1ff0424a661521a86f5eb00c9232b5d16",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07891260"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "fcc98b7f-32ae-30a9-9b29-d1b355ea7b8d",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07893210",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07893210",
-      "titleOriginal": "Fathers and Babies (FAB) Research Study",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration",
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Perinatal Mental Health",
-        "Fathers",
-        "Stress Management"
-      ],
-      "publishedAt": "2026-10-23T00:00:00Z",
-      "collectedAt": "2026-10-25T07:33:48.663400172Z",
-      "contentHash": "6fd8455714b08f5bc80d6ced1b9c25535057ac78a185c55e23d4b4432e0a9d53",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07893210"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "124d6046-1b2f-3cf6-bf83-0333806e3f14",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07892313",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07892313",
-      "titleOriginal": "Inflammatory Biomarkers, Microbial Findings, and Clinical Characteristics Before and After Treatment of Peri-Implant Mucositis Around One-Piece and Two-Piece Dental Implants",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "One-Piece Dental Implant",
-        "Bone-Level Implant",
-        "Two-Piece Dental Implant",
-        "Nonsurgical Mechanical Debridement",
-        "Chlorhexidine Gel",
-        "Soft Tissue Phenotype",
-        "Peri-Implant Conditions",
-        "Peri-Implant Mucositis",
-        "Microbiology"
-      ],
-      "publishedAt": "2026-10-23T00:00:00Z",
-      "collectedAt": "2026-10-25T07:33:48.663591643Z",
-      "contentHash": "64b0e678653b1cc21aa1442637a7f2b705adc535ba8376f64734690c26d1dcd2",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07892313"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "1fffaa5d-3fbd-3733-ad9d-9c1c941717a2",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07891897",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07891897",
-      "titleOriginal": "Evaluation of the Agreement Between Automated Program-Operated Phoropter Subjective Refraction and Optometrist-Performed Subjective Refraction",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Refractive Errors"
-      ],
-      "publishedAt": "2026-10-23T00:00:00Z",
-      "collectedAt": "2026-10-25T07:33:48.663857063Z",
-      "contentHash": "4133aaa1f244f234ed1602b0bae16ed1753403af78804eab046f3ad834b3b43f",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07891897"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "16982307-1068-37b5-a65a-de2379a205d7",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07891273",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07891273",
-      "titleOriginal": "Beyond Voluntary Effort: Reliability and Validity of Magnetic Femoral Nerve Stimulation for Assessing Quadriceps Strength in Critically Ill Patient",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Critical Illness",
-        "ICU-acquired Weakness"
-      ],
-      "publishedAt": "2026-10-23T00:00:00Z",
-      "collectedAt": "2026-10-25T07:33:48.664342208Z",
-      "contentHash": "7f6f477f628a8bed5e7d3c04c8cbf0f8b5094bb4fcac50246fb8246aa7c7b4f0",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07891273"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "0e86adca-a213-3690-a2ac-e222bff15465",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07893353",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07893353",
-      "titleOriginal": "Mechanisms and Intervention Strategies of Perioperative Glycemic Variability on Postoperative Delirium",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Cardiac Surgery With Cardiopulmonary Bypass",
-        "Postoperative Delirium"
-      ],
-      "publishedAt": "2026-10-23T00:00:00Z",
-      "collectedAt": "2026-10-25T07:33:48.664934404Z",
-      "contentHash": "57e8d444f9fa2d7f2339ad5e57a5f85f6fd7eb8705472b869f97c90f06fe6af9",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07893353"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
       "id": "c4665e6d-4f8b-3c36-a5b0-d4093e847fcb",
       "sourceId": "pubmed-recent",
       "sourceName": "PubMed",
@@ -1776,246 +2305,6 @@
           "sourceName": "PubMed",
           "sourceTier": "A",
           "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42912779/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "c48e062f-c0a2-3f6c-b049-eefcdec57828",
-      "sourceId": "nature-medicine",
-      "sourceName": "Nature Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/d41591-026-00054-y",
-      "canonicalUrl": "https://www.nature.com/articles/d41591-026-00054-y",
-      "titleOriginal": "\u003cb\u003ePutting conversational AI to the test in primary care\u003c/b\u003e",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-23T00:00:00Z",
-      "collectedAt": "2026-10-25T07:33:48.782852156Z",
-      "contentHash": "6e56a3311e007775d5db85f2f406d3b286e3308883638074cb841e25803995cf",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-medicine",
-          "sourceName": "Nature Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/d41591-026-00054-y"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "3f36d8e7-9b70-3288-b490-552de0967f39",
-      "sourceId": "nature-medicine",
-      "sourceName": "Nature Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41591-026-04730-x",
-      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04730-x",
-      "titleOriginal": "The human microbiome and chronic disease: ten strategic priorities for research and public health",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-23T00:00:00Z",
-      "collectedAt": "2026-10-25T07:33:48.783064797Z",
-      "contentHash": "95f12444d2d20ef3430e45f5e40384075f2d26696618769ea38fcfdf1ae7211c",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-medicine",
-          "sourceName": "Nature Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41591-026-04730-x"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "f0972869-8d5b-3994-a246-e604c895e2ce",
-      "sourceId": "nature-medicine",
-      "sourceName": "Nature Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41591-026-04734-7",
-      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04734-7",
-      "titleOriginal": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-23T00:00:00Z",
-      "collectedAt": "2026-10-25T07:33:48.783272759Z",
-      "contentHash": "a17060b213f0606348e00dfe448eae4e46fdb46a211bd7ca9d5de388d6fad3cd",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-medicine",
-          "sourceName": "Nature Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41591-026-04734-7"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "c30a6d76-529b-365f-b9e3-3e077b44b6d1",
-      "sourceId": "nature-medicine",
-      "sourceName": "Nature Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41591-026-04711-0",
-      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04711-0",
-      "titleOriginal": "Bispecific dual T cell agonist invikafusp alfa in solid tumors: the phase 1/2 START-001 trial",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-23T00:00:00Z",
-      "collectedAt": "2026-10-25T07:33:48.783532559Z",
-      "contentHash": "ef280d3701e660093be9ac264b12f1433e23a4cb8a7afd57746f613becc38608",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-medicine",
-          "sourceName": "Nature Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41591-026-04711-0"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "36d3be47-dd28-308f-b751-f1c875b2cc02",
-      "sourceId": "nature-medicine",
-      "sourceName": "Nature Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41591-026-04707-w",
-      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04707-w",
-      "titleOriginal": "Determinants of response to CAR T cell therapy in a multicenter, multi-trial cohort analysis of patients with lymphoma",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-23T00:00:00Z",
-      "collectedAt": "2026-10-25T07:33:48.783757012Z",
-      "contentHash": "7fd629f16f0b4c0f0efbea898118f03aa4dc4cef5d72f80a1eae9c65a1563f48",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-medicine",
-          "sourceName": "Nature Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41591-026-04707-w"
         }
       ],
       "importanceScore": 43,

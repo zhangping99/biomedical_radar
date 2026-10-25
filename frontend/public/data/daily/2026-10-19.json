@@ -1,7 +1,101 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-25T17:12:34.265645675Z",
+  "generatedAt": "2026-10-25T17:38:37.682666497Z",
   "articles": [
+    {
+      "id": "bbc1762f-cb1e-3d26-801d-1c5c7564656e",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42921573/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42921573",
+      "titleOriginal": "Steady-State Pharmacokinetic Drug-Drug Interaction Study of Zastaprazan, a Novel Potassium-Competitive Acid Blocker, and Atorvastatin in Healthy Participants.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-19T00:00:00Z",
+      "collectedAt": "2026-10-25T17:38:37.017105607Z",
+      "contentHash": "c754489372fd151298c9184b4f296fa9cbff2fed051d134749d0f0e81ed12376",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42921573/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "8bf71446-3c5e-33d3-9dd3-43207de46f1f",
+      "sourceId": "nature-biotechnology",
+      "sourceName": "Nature Biotechnology",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41587-026-03345-4",
+      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03345-4",
+      "titleOriginal": "Editor’s pick: Bioptimus",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Biotechnology"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-19T00:00:00Z",
+      "collectedAt": "2026-10-25T17:38:36.974721966Z",
+      "contentHash": "c4e8a710e9ee2564ab482592dcf165f217ac0704bd4472523f63e7fe23ed1953",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-biotechnology",
+          "sourceName": "Nature Biotechnology",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41587-026-03345-4"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "80cd2283-e8c9-3b96-bbc5-50f55df8e80d",
       "sourceId": "gsk-press-releases",
@@ -556,53 +650,6 @@
           "sourceName": "PubMed",
           "sourceTier": "A",
           "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42912008/"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "8bf71446-3c5e-33d3-9dd3-43207de46f1f",
-      "sourceId": "nature-biotechnology",
-      "sourceName": "Nature Biotechnology",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41587-026-03345-4",
-      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03345-4",
-      "titleOriginal": "Editor’s pick: Bioptimus",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Biotechnology"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-19T00:00:00Z",
-      "collectedAt": "2026-10-25T07:33:49.002997839Z",
-      "contentHash": "c4e8a710e9ee2564ab482592dcf165f217ac0704bd4472523f63e7fe23ed1953",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-biotechnology",
-          "sourceName": "Nature Biotechnology",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41587-026-03345-4"
         }
       ],
       "importanceScore": 35,
