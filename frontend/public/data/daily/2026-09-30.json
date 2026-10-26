@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-26T19:55:45.550719764Z",
+  "generatedAt": "2026-10-26T20:43:32.136932544Z",
   "articles": [
+    {
+      "id": "1c135540-27c1-381e-9d70-6c6c0abacbf4",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/30/rami-hazzi-md-named-new-leader-of-cleveland-clinic-euclid-hospital",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/30/rami-hazzi-md-named-new-leader-of-cleveland-clinic-euclid-hospital",
+      "titleOriginal": "Rami Hazzi, M.D., Named New Leader of Cleveland Clinic Euclid Hospital",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-30T00:00:00Z",
+      "collectedAt": "2026-10-26T20:43:29.744439966Z",
+      "contentHash": "63356fb35064573cc8d6266a329c33cee213ce975d081aab7867f33183286576",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/30/rami-hazzi-md-named-new-leader-of-cleveland-clinic-euclid-hospital"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "005d2459-4058-3379-8051-3419206fddc6",
       "sourceId": "pmda-safety-updates",
@@ -139,51 +184,6 @@
           "sourceName": "Merck News Releases",
           "sourceTier": "B",
           "originalUrl": "https://www.merck.com/news/mercks-tulisokibart-met-primary-and-key-secondary-endpoints-in-phase-2b-study-in-patients-with-moderate-to-severe-hidradenitis-suppurativa-hs/"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "1c135540-27c1-381e-9d70-6c6c0abacbf4",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/30/rami-hazzi-md-named-new-leader-of-cleveland-clinic-euclid-hospital",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/30/rami-hazzi-md-named-new-leader-of-cleveland-clinic-euclid-hospital",
-      "titleOriginal": "Rami Hazzi, M.D., Named New Leader of Cleveland Clinic Euclid Hospital",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-30T00:00:00Z",
-      "collectedAt": "2026-10-26T09:19:29.533245846Z",
-      "contentHash": "63356fb35064573cc8d6266a329c33cee213ce975d081aab7867f33183286576",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/30/rami-hazzi-md-named-new-leader-of-cleveland-clinic-euclid-hospital"
         }
       ],
       "importanceScore": 20,
