@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-26T07:45:54.774670004Z",
+  "generatedAt": "2026-10-26T09:19:33.692156839Z",
   "articles": [
+    {
+      "id": "a92fe7de-4193-32a5-925c-484c73abc647",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/20/why-you-cant-fall-asleep-even-when-youre-exhausted",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/20/why-you-cant-fall-asleep-even-when-youre-exhausted",
+      "titleOriginal": "Why You Can’t Fall Asleep Even When You’re Exhausted",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-20T00:00:00Z",
+      "collectedAt": "2026-10-26T09:19:29.531233576Z",
+      "contentHash": "d0cc42167a1f82f0ef4317f1e31e4208b9f2ff2293d8db335e356561f3c72def",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/20/why-you-cant-fall-asleep-even-when-youre-exhausted"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "e76f862d-7c0a-3d5a-8a4f-858fbe925f70",
       "sourceId": "pubmed-recent",
@@ -852,51 +897,6 @@
       "importanceReasons": [
         "官方一手来源"
       ]
-    },
-    {
-      "id": "a92fe7de-4193-32a5-925c-484c73abc647",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/20/why-you-cant-fall-asleep-even-when-youre-exhausted",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/20/why-you-cant-fall-asleep-even-when-youre-exhausted",
-      "titleOriginal": "Why You Can’t Fall Asleep Even When You’re Exhausted",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-20T00:00:00Z",
-      "collectedAt": "2026-10-25T08:41:51.284974964Z",
-      "contentHash": "d0cc42167a1f82f0ef4317f1e31e4208b9f2ff2293d8db335e356561f3c72def",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/20/why-you-cant-fall-asleep-even-when-youre-exhausted"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     },
     {
       "id": "0e93ec83-07a1-3d47-8fb5-61f297e6046e",
