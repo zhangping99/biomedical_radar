@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-26T20:43:32.136932544Z",
+  "generatedAt": "2026-10-26T21:00:30.278457716Z",
   "articles": [
     {
       "id": "79b7d6d2-3885-3848-ada0-e99c72b8ff58",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-06T04:00:00Z",
-      "collectedAt": "2026-10-26T15:10:43.404834102Z",
+      "collectedAt": "2026-10-26T21:00:27.787210839Z",
       "contentHash": "4c94574c39603ea54b712476149ecf785c2685470db72c10b17404e4b59d1034",
       "generated": false,
       "generatorVersion": null,
@@ -1094,56 +1094,6 @@
       "importanceScore": 35,
       "importanceReasons": [
         "官方一手来源"
-      ]
-    },
-    {
-      "id": "02df47d6-35cf-3cf6-a5f5-c13820b1aeb1",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/greenwich-rx-issues-voluntary-nationwide-recall-compounded-glutathione-due-elevated-endotoxin-levels",
-      "canonicalUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/greenwich-rx-issues-voluntary-nationwide-recall-compounded-glutathione-due-elevated-endotoxin-levels",
-      "titleOriginal": "Greenwich Rx Issues Voluntary Nationwide Recall of Compounded Glutathione Due to Elevated Endotoxin Levels",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-06T22:58:16Z",
-      "collectedAt": "2026-10-09T06:06:29.160410778Z",
-      "contentHash": "d58bc210072f4ee66eb747d58aa74c746140fe5f0030cfa4116d4802e0ac1478",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/greenwich-rx-issues-voluntary-nationwide-recall-compounded-glutathione-due-elevated-endotoxin-levels"
-        }
-      ],
-      "importanceScore": 73,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "近期更新"
       ]
     },
     {
@@ -3976,56 +3926,6 @@
           "sourceName": "U.S. Food and Drug Administration - Drugs",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/aidance-scientific-inc-735346-10012026"
-        }
-      ],
-      "importanceScore": 73,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "07284a8a-c97c-39e0-9f57-f1e7ee3423bc",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/walmart-inc-736557-10012026",
-      "canonicalUrl": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/walmart-inc-736557-10012026",
-      "titleOriginal": "Walmart, Inc. - 736557 - 10/01/2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "approval"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-06T13:20:07Z",
-      "collectedAt": "2026-10-07T15:32:56.202841599Z",
-      "contentHash": "11274eb588335aa3e20251302e674d3b186b5e606be7819581b8a26ce5f40ef9",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/walmart-inc-736557-10012026"
         }
       ],
       "importanceScore": 73,
