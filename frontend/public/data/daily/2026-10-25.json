@@ -1,54 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-26T15:10:46.007352805Z",
+  "generatedAt": "2026-10-26T19:55:45.550719764Z",
   "articles": [
-    {
-      "id": "39e08b00-eb0c-33ce-9ed9-6d079eb4f084",
-      "sourceId": "hansoh-news",
-      "sourceName": "翰森制药新闻发布",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.hansoh.cn/news/news-detail-514095.htm",
-      "canonicalUrl": "https://www.hansoh.cn/news/news-detail-514095.htm",
-      "titleOriginal": "ESMO 2026 | 翰森制药公布HS-20122(新型EGFR/c-Met双抗 ADC)用于晚期实体瘤患者的首次人体I期临床研究数据",
-      "titleZh": "ESMO 2026 | 翰森制药公布HS-20122(新型EGFR/c-Met双抗 ADC)用于晚期实体瘤患者的首次人体I期临床研究数据",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "drug_rd",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "翰森制药"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-25T00:00:00Z",
-      "collectedAt": "2026-10-26T14:32:39.570712838Z",
-      "contentHash": "ab6b2c4b454de1e47b291aea82a90068d20342607b3e44d4c25465c59d091850",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "hansoh-news",
-          "sourceName": "翰森制药新闻发布",
-          "sourceTier": "B",
-          "originalUrl": "https://www.hansoh.cn/news/news-detail-514095.htm"
-        }
-      ],
-      "importanceScore": 28,
-      "importanceReasons": [
-        "近期更新"
-      ]
-    },
     {
       "id": "761f2812-00f1-31b2-a294-2fc1a06fd16f",
       "sourceId": "pubmed-recent",
@@ -76,7 +29,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-25T00:00:00Z",
-      "collectedAt": "2026-10-26T07:45:53.346937339Z",
+      "collectedAt": "2026-10-26T19:55:43.378773144Z",
       "contentHash": "edb70573e3ad5e8b8744cf0b0d25f1b962450607f9fdbb816aac724904c15fc9",
       "generated": false,
       "generatorVersion": null,
@@ -126,7 +79,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-25T00:00:00Z",
-      "collectedAt": "2026-10-26T07:45:53.347135058Z",
+      "collectedAt": "2026-10-26T19:55:43.378935646Z",
       "contentHash": "5496b087a57474064c9ac6d89836b5d0d837f77e2113eba882f347e4afc0f7a2",
       "generated": false,
       "generatorVersion": null,
@@ -146,6 +99,54 @@
       "importanceReasons": [
         "官方一手来源",
         "高影响事件",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "e51a0543-72ed-3164-8aa1-57d36cd03dd5",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42928319/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42928319",
+      "titleOriginal": "Evaluating the Impacts of Inflammatory Proteins on the Risk of Alzheimer\u0027s Disease.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-25T00:00:00Z",
+      "collectedAt": "2026-10-26T19:55:43.378208825Z",
+      "contentHash": "e66132c9add5e11ab5818c36ca00899969d1921b2ebd4e3012ac45cbe2a304ba",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42928319/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
         "近期更新"
       ]
     },
@@ -175,7 +176,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-25T00:00:00Z",
-      "collectedAt": "2026-10-26T07:45:53.348101268Z",
+      "collectedAt": "2026-10-26T19:55:43.379111413Z",
       "contentHash": "331a32da7e7ac5f63fa57ddddd04e0b01efd223f0a9bda2d68f0ad76ba81b454",
       "generated": false,
       "generatorVersion": null,
@@ -223,7 +224,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-25T00:00:00Z",
-      "collectedAt": "2026-10-26T07:45:53.350207444Z",
+      "collectedAt": "2026-10-26T19:55:43.379275458Z",
       "contentHash": "50cde27e7a24fc377907928ae24f62491681b6e192d5fd1db22e724d9e5d1707",
       "generated": false,
       "generatorVersion": null,
@@ -271,7 +272,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-25T00:00:00Z",
-      "collectedAt": "2026-10-26T07:45:53.352456636Z",
+      "collectedAt": "2026-10-26T19:55:43.380160974Z",
       "contentHash": "fe7c2dfcb28b03288ec10f85c9ae737d197c230e80eb88cbecf60b1862cdc846",
       "generated": false,
       "generatorVersion": null,
@@ -319,7 +320,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-25T00:00:00Z",
-      "collectedAt": "2026-10-26T07:45:53.352697655Z",
+      "collectedAt": "2026-10-26T19:55:43.380353572Z",
       "contentHash": "5e808f757e0083988640772f49b454487d6a1d11800f196e28b9e33880da4a7a",
       "generated": false,
       "generatorVersion": null,
@@ -338,6 +339,53 @@
       "importanceScore": 43,
       "importanceReasons": [
         "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "39e08b00-eb0c-33ce-9ed9-6d079eb4f084",
+      "sourceId": "hansoh-news",
+      "sourceName": "翰森制药新闻发布",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.hansoh.cn/news/news-detail-514095.htm",
+      "canonicalUrl": "https://www.hansoh.cn/news/news-detail-514095.htm",
+      "titleOriginal": "ESMO 2026 | 翰森制药公布HS-20122(新型EGFR/c-Met双抗 ADC)用于晚期实体瘤患者的首次人体I期临床研究数据",
+      "titleZh": "ESMO 2026 | 翰森制药公布HS-20122(新型EGFR/c-Met双抗 ADC)用于晚期实体瘤患者的首次人体I期临床研究数据",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "drug_rd",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "翰森制药"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-25T00:00:00Z",
+      "collectedAt": "2026-10-26T14:32:39.570712838Z",
+      "contentHash": "ab6b2c4b454de1e47b291aea82a90068d20342607b3e44d4c25465c59d091850",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "hansoh-news",
+          "sourceName": "翰森制药新闻发布",
+          "sourceTier": "B",
+          "originalUrl": "https://www.hansoh.cn/news/news-detail-514095.htm"
+        }
+      ],
+      "importanceScore": 28,
+      "importanceReasons": [
         "近期更新"
       ]
     },
@@ -813,54 +861,6 @@
           "sourceName": "PubMed",
           "sourceTier": "A",
           "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42919807/"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "dfcc4a5b-ffd0-36a3-a3ed-be893fd7b36b",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42920374/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42920374",
-      "titleOriginal": "Measurement Properties of Hand-Held Dynamometry for Ankle Strength Assessment: A COSMIN-Based Systematic Review and Meta-Analysis.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-10-25T07:33:48.930164163Z",
-      "contentHash": "6c616558cf7f136c521f38643f54493dc520ee9976c2068a50e88eb383f4831d",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42920374/"
         }
       ],
       "importanceScore": 50,

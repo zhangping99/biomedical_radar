@@ -1,7 +1,295 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-26T15:10:46.007352805Z",
+  "generatedAt": "2026-10-26T19:55:45.550719764Z",
   "articles": [
+    {
+      "id": "a6f5c91f-32bb-33b7-bb8e-385dff72ad83",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07890324",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07890324",
+      "titleOriginal": "A Phase II Clinical Study Evaluating the Efficacy and Safety of SXRN Injection in Patients With Cancer Cachexia",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert",
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Cachexia-Anorexia Syndrome",
+        "Cachexia; Cancer"
+      ],
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "collectedAt": "2026-10-26T19:55:42.865203766Z",
+      "contentHash": "41b13621619f5d45699621d52c3ff93fe67694e696113aa64fa78a3c3ee61f6e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07890324"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "c7a31de2-a85c-31f9-94fa-0d737125f4c7",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42928904/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42928904",
+      "titleOriginal": "Moderators of metabolic threshold adaptations: a systematic review and meta-analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "collectedAt": "2026-10-26T19:55:43.376861570Z",
+      "contentHash": "6d9e40c92835cfe7ca559be825360b4323b23bcac32374d38470ea35057e5fc2",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42928904/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "d81f63dc-a95e-3a90-806c-9889840e98c7",
+      "sourceId": "nature-biotechnology",
+      "sourceName": "Nature Biotechnology",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41587-026-03350-7",
+      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03350-7",
+      "titleOriginal": "Recordanelles capture transient gene expression in single human cells",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Biotechnology"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "collectedAt": "2026-10-26T19:55:44.313340768Z",
+      "contentHash": "c15cca8b8ab9a042e81fc19262265f3014263dfa0e4ef6021eb551459164d6dd",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-biotechnology",
+          "sourceName": "Nature Biotechnology",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41587-026-03350-7"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "a4f4969b-2f6b-3566-b2a3-bd42e36f866d",
+      "sourceId": "nature-biotechnology",
+      "sourceName": "Nature Biotechnology",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41587-026-03358-z",
+      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03358-z",
+      "titleOriginal": "Human Argonaute 2 is a programmable targeting domain for RNA editing",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Biotechnology"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "collectedAt": "2026-10-26T19:55:44.313482081Z",
+      "contentHash": "b69a2bb9af9bba14e08c55f9b68c250e67296e6d6a867c5be0ea90e43d51aad9",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-biotechnology",
+          "sourceName": "Nature Biotechnology",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41587-026-03358-z"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "7f492fa9-d46b-3b37-b5d3-d37005d5be5f",
+      "sourceId": "nature-reviews-cancer",
+      "sourceName": "Nature Reviews Cancer",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41568-026-00995-z",
+      "canonicalUrl": "https://www.nature.com/articles/s41568-026-00995-z",
+      "titleOriginal": "Hit the pause button",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Reviews Cancer"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "collectedAt": "2026-10-26T19:55:45.347522060Z",
+      "contentHash": "3fc7eeac8659bef75d980c6749118a2bf7a32fd56fdb2057ff2b4f5d4db493af",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-reviews-cancer",
+          "sourceName": "Nature Reviews Cancer",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41568-026-00995-z"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "04cedebf-5efe-341f-ae90-7b77e8f553a3",
+      "sourceId": "nature-reviews-cancer",
+      "sourceName": "Nature Reviews Cancer",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41568-026-00983-3",
+      "canonicalUrl": "https://www.nature.com/articles/s41568-026-00983-3",
+      "titleOriginal": "Cancer theranostics",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Reviews Cancer"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "collectedAt": "2026-10-26T19:55:45.347640130Z",
+      "contentHash": "fdb5259c8d2be89bc9cf9787e83359583a86435807c7ebfc7f6c557ced6d0e93",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-reviews-cancer",
+          "sourceName": "Nature Reviews Cancer",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41568-026-00983-3"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "9396f366-8744-3a2e-bd04-ceec1ca84cc5",
       "sourceId": "fda-drug-news",
@@ -610,194 +898,6 @@
           "sourceName": "Nature Medicine",
           "sourceTier": "A",
           "originalUrl": "https://www.nature.com/articles/d41591-026-00053-z"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "d81f63dc-a95e-3a90-806c-9889840e98c7",
-      "sourceId": "nature-biotechnology",
-      "sourceName": "Nature Biotechnology",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41587-026-03350-7",
-      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03350-7",
-      "titleOriginal": "Recordanelles capture transient gene expression in single human cells",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Biotechnology"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-22T00:00:00Z",
-      "collectedAt": "2026-10-26T07:45:53.400237410Z",
-      "contentHash": "c15cca8b8ab9a042e81fc19262265f3014263dfa0e4ef6021eb551459164d6dd",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-biotechnology",
-          "sourceName": "Nature Biotechnology",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41587-026-03350-7"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "a4f4969b-2f6b-3566-b2a3-bd42e36f866d",
-      "sourceId": "nature-biotechnology",
-      "sourceName": "Nature Biotechnology",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41587-026-03358-z",
-      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03358-z",
-      "titleOriginal": "Human Argonaute 2 is a programmable targeting domain for RNA editing",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Biotechnology"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-22T00:00:00Z",
-      "collectedAt": "2026-10-26T07:45:53.400508335Z",
-      "contentHash": "b69a2bb9af9bba14e08c55f9b68c250e67296e6d6a867c5be0ea90e43d51aad9",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-biotechnology",
-          "sourceName": "Nature Biotechnology",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41587-026-03358-z"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "7f492fa9-d46b-3b37-b5d3-d37005d5be5f",
-      "sourceId": "nature-reviews-cancer",
-      "sourceName": "Nature Reviews Cancer",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41568-026-00995-z",
-      "canonicalUrl": "https://www.nature.com/articles/s41568-026-00995-z",
-      "titleOriginal": "Hit the pause button",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Reviews Cancer"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-22T00:00:00Z",
-      "collectedAt": "2026-10-26T07:45:53.419993373Z",
-      "contentHash": "3fc7eeac8659bef75d980c6749118a2bf7a32fd56fdb2057ff2b4f5d4db493af",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-reviews-cancer",
-          "sourceName": "Nature Reviews Cancer",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41568-026-00995-z"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "04cedebf-5efe-341f-ae90-7b77e8f553a3",
-      "sourceId": "nature-reviews-cancer",
-      "sourceName": "Nature Reviews Cancer",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41568-026-00983-3",
-      "canonicalUrl": "https://www.nature.com/articles/s41568-026-00983-3",
-      "titleOriginal": "Cancer theranostics",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Reviews Cancer"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-22T00:00:00Z",
-      "collectedAt": "2026-10-26T07:45:53.420203405Z",
-      "contentHash": "fdb5259c8d2be89bc9cf9787e83359583a86435807c7ebfc7f6c557ced6d0e93",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-reviews-cancer",
-          "sourceName": "Nature Reviews Cancer",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41568-026-00983-3"
         }
       ],
       "importanceScore": 35,
