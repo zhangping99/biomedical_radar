@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-26T22:52:41.605861506Z",
+  "generatedAt": "2026-10-26T23:18:29.572292376Z",
   "articles": [
+    {
+      "id": "0140f778-5fec-3c54-8ab9-929bbcab96c9",
+      "sourceId": "hansoh-news",
+      "sourceName": "翰森制药新闻发布",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.hansoh.cn/news/news-detail-514086.htm",
+      "canonicalUrl": "https://www.hansoh.cn/news/news-detail-514086.htm",
+      "titleOriginal": "ECNP 2026 | 翰森制药公布HS-10380治疗精神分裂症IIb期临床研究数据",
+      "titleZh": "ECNP 2026 | 翰森制药公布HS-10380治疗精神分裂症IIb期临床研究数据",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "drug_rd",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "翰森制药"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-12T00:00:00Z",
+      "collectedAt": "2026-10-26T23:18:25.189850443Z",
+      "contentHash": "06265e95c077eabd8829e35c3991be81cb59aa3a66904705ba21b5c69c48587c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "hansoh-news",
+          "sourceName": "翰森制药新闻发布",
+          "sourceTier": "B",
+          "originalUrl": "https://www.hansoh.cn/news/news-detail-514086.htm"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "364b3094-f5ac-3f4c-a899-b474151c0bd1",
       "sourceId": "btch-research",
@@ -90,51 +135,6 @@
           "sourceName": "Peking Union Medical College Hospital Research",
           "sourceTier": "B",
           "originalUrl": "https://www.pumch.cn/detail/46917.html"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "0140f778-5fec-3c54-8ab9-929bbcab96c9",
-      "sourceId": "hansoh-news",
-      "sourceName": "翰森制药新闻发布",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.hansoh.cn/news/news-detail-514086.htm",
-      "canonicalUrl": "https://www.hansoh.cn/news/news-detail-514086.htm",
-      "titleOriginal": "ECNP 2026 | 翰森制药公布HS-10380治疗精神分裂症IIb期临床研究数据",
-      "titleZh": "ECNP 2026 | 翰森制药公布HS-10380治疗精神分裂症IIb期临床研究数据",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "drug_rd",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "翰森制药"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-12T00:00:00Z",
-      "collectedAt": "2026-10-26T14:32:39.571697972Z",
-      "contentHash": "06265e95c077eabd8829e35c3991be81cb59aa3a66904705ba21b5c69c48587c",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "hansoh-news",
-          "sourceName": "翰森制药新闻发布",
-          "sourceTier": "B",
-          "originalUrl": "https://www.hansoh.cn/news/news-detail-514086.htm"
         }
       ],
       "importanceScore": 20,
