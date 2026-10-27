@@ -1,54 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-27T12:40:36.059063149Z",
+  "generatedAt": "2026-10-27T13:33:22.832702800Z",
   "articles": [
-    {
-      "id": "4780ce8b-1687-3fbf-8341-a9f7d9010e38",
-      "sourceId": "abbvie-news",
-      "sourceName": "AbbVie News",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://news.abbvie.com/2026-10-13-AbbVie-Presents-New-Phase-3-AFFIRM-Data-Showing-Clinical-and-Endoscopic-Outcomes-With-Subcutaneous-SKYRIZI-R-risankizumab-rzaa-in-Patients-With-Moderately-to-Severely-Active-Crohns-Disease",
-      "canonicalUrl": "https://news.abbvie.com/2026-10-13-AbbVie-Presents-New-Phase-3-AFFIRM-Data-Showing-Clinical-and-Endoscopic-Outcomes-With-Subcutaneous-SKYRIZI-R-risankizumab-rzaa-in-Patients-With-Moderately-to-Severely-Active-Crohns-Disease",
-      "titleOriginal": "AbbVie Presents New Phase 3 AFFIRM Data Showing Clinical and Endoscopic Outcomes With Subcutaneous SKYRIZI® (risankizumab-rzaa) in Patients With Moderately to Severely Active Crohn\u0027s Disease",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "drug_rd",
-      "eventTypes": [
-        "phase_3_result"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "AbbVie"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-13T19:15:00Z",
-      "collectedAt": "2026-10-27T06:47:37.177940033Z",
-      "contentHash": "162efc49400a3c643ca4dc2d8b3e5adb7444cdd05e26e50a8484a69b574c3b22",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "abbvie-news",
-          "sourceName": "AbbVie News",
-          "sourceTier": "B",
-          "originalUrl": "https://news.abbvie.com/2026-10-13-AbbVie-Presents-New-Phase-3-AFFIRM-Data-Showing-Clinical-and-Endoscopic-Outcomes-With-Subcutaneous-SKYRIZI-R-risankizumab-rzaa-in-Patients-With-Moderately-to-Severely-Active-Crohns-Disease"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "高影响事件"
-      ]
-    },
     {
       "id": "77b191fb-65ad-3790-b5f4-1d5bd483fb95",
       "sourceId": "merck-news-releases",
@@ -75,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-13T00:00:00Z",
-      "collectedAt": "2026-10-27T06:47:35.105921450Z",
+      "collectedAt": "2026-10-27T13:33:19.734233034Z",
       "contentHash": "f8900e7c7234880bbde1a516a30f17f3d8e069081d94ed703f9c0510515e7929",
       "generated": false,
       "generatorVersion": null,
@@ -122,7 +75,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-13T00:00:00Z",
-      "collectedAt": "2026-10-27T06:47:35.105795121Z",
+      "collectedAt": "2026-10-27T13:33:19.732935328Z",
       "contentHash": "abb903ba5f3a4aafd5ae829a0ba19e2128c127eb62b5958aa82ec5449952af3b",
       "generated": false,
       "generatorVersion": null,
@@ -140,6 +93,53 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
+    },
+    {
+      "id": "4780ce8b-1687-3fbf-8341-a9f7d9010e38",
+      "sourceId": "abbvie-news",
+      "sourceName": "AbbVie News",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://news.abbvie.com/2026-10-13-AbbVie-Presents-New-Phase-3-AFFIRM-Data-Showing-Clinical-and-Endoscopic-Outcomes-With-Subcutaneous-SKYRIZI-R-risankizumab-rzaa-in-Patients-With-Moderately-to-Severely-Active-Crohns-Disease",
+      "canonicalUrl": "https://news.abbvie.com/2026-10-13-AbbVie-Presents-New-Phase-3-AFFIRM-Data-Showing-Clinical-and-Endoscopic-Outcomes-With-Subcutaneous-SKYRIZI-R-risankizumab-rzaa-in-Patients-With-Moderately-to-Severely-Active-Crohns-Disease",
+      "titleOriginal": "AbbVie Presents New Phase 3 AFFIRM Data Showing Clinical and Endoscopic Outcomes With Subcutaneous SKYRIZI® (risankizumab-rzaa) in Patients With Moderately to Severely Active Crohn\u0027s Disease",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "drug_rd",
+      "eventTypes": [
+        "phase_3_result"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "AbbVie"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-13T19:15:00Z",
+      "collectedAt": "2026-10-27T06:47:37.177940033Z",
+      "contentHash": "162efc49400a3c643ca4dc2d8b3e5adb7444cdd05e26e50a8484a69b574c3b22",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "abbvie-news",
+          "sourceName": "AbbVie News",
+          "sourceTier": "B",
+          "originalUrl": "https://news.abbvie.com/2026-10-13-AbbVie-Presents-New-Phase-3-AFFIRM-Data-Showing-Clinical-and-Endoscopic-Outcomes-With-Subcutaneous-SKYRIZI-R-risankizumab-rzaa-in-Patients-With-Moderately-to-Severely-Active-Crohns-Disease"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "高影响事件"
+      ]
     },
     {
       "id": "d5d8ffe1-4608-3334-b00e-b2eb81fbbbcc",
