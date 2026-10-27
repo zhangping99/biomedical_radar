@@ -1,7 +1,153 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-26T23:18:29.572292376Z",
+  "generatedAt": "2026-10-27T05:01:08.519511808Z",
   "articles": [
+    {
+      "id": "b1441fb5-3256-3b86-b39f-b336cbc0ffae",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/dantrium-intravenous-dantrolene-sodium-injection-presence-particulate-matter",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/dantrium-intravenous-dantrolene-sodium-injection-presence-particulate-matter",
+      "titleOriginal": "Dantrium Intravenous (Dantrolene sodium for injection): Presence of particulate matter",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-19T00:00:00Z",
+      "collectedAt": "2026-10-27T05:01:06.811505209Z",
+      "contentHash": "b1b298c32a93c9a4ccc940c0ea8b5a12950ac78e67ecb11a1310f17e7b5467f8",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/dantrium-intravenous-dantrolene-sodium-injection-presence-particulate-matter"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "cf22d0ba-64bd-328e-bca9-e1137d9d75ee",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/iqecgr-digital-ecg",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/iqecgr-digital-ecg",
+      "titleOriginal": "IQecg® Digital ECG",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-19T00:00:00Z",
+      "collectedAt": "2026-10-27T05:01:06.811614253Z",
+      "contentHash": "f1b37c4ee17d1a5588eb64e8ba6ad53f928933eb01e85c0ddd7904df24499593",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/iqecgr-digital-ecg"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "ff9277e1-229a-35ea-92da-0c52d06e191d",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/diagnostic-ultrasound-system-correction-philips-ultrasound-issues-updated-use-instructions-lumify",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/diagnostic-ultrasound-system-correction-philips-ultrasound-issues-updated-use-instructions-lumify",
+      "titleOriginal": "Diagnostic Ultrasound System Correction: Philips Ultrasound Issues Updated Use Instructions for Lumify Diagnostic Ultrasound System",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-19T04:00:00Z",
+      "collectedAt": "2026-10-27T05:01:06.221401548Z",
+      "contentHash": "19d5612ae812f941234028ca9edd489afb2c937893c7532494cd498b2bd61d51",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/diagnostic-ultrasound-system-correction-philips-ultrasound-issues-updated-use-instructions-lumify"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "80cd2283-e8c9-3b96-bbc5-50f55df8e80d",
       "sourceId": "gsk-press-releases",
@@ -183,152 +329,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "b1441fb5-3256-3b86-b39f-b336cbc0ffae",
-      "sourceId": "health-canada-health-products",
-      "sourceName": "Health Canada Health Product Recalls",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/dantrium-intravenous-dantrolene-sodium-injection-presence-particulate-matter",
-      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/dantrium-intravenous-dantrolene-sodium-injection-presence-particulate-matter",
-      "titleOriginal": "Dantrium Intravenous (Dantrolene sodium for injection): Presence of particulate matter",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Health Canada"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-19T00:00:00Z",
-      "collectedAt": "2026-10-26T21:00:28.090914121Z",
-      "contentHash": "b1b298c32a93c9a4ccc940c0ea8b5a12950ac78e67ecb11a1310f17e7b5467f8",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "health-canada-health-products",
-          "sourceName": "Health Canada Health Product Recalls",
-          "sourceTier": "A",
-          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/dantrium-intravenous-dantrolene-sodium-injection-presence-particulate-matter"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "cf22d0ba-64bd-328e-bca9-e1137d9d75ee",
-      "sourceId": "health-canada-health-products",
-      "sourceName": "Health Canada Health Product Recalls",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/iqecgr-digital-ecg",
-      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/iqecgr-digital-ecg",
-      "titleOriginal": "IQecg® Digital ECG",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Health Canada"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-19T00:00:00Z",
-      "collectedAt": "2026-10-26T21:00:28.091183446Z",
-      "contentHash": "f1b37c4ee17d1a5588eb64e8ba6ad53f928933eb01e85c0ddd7904df24499593",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "health-canada-health-products",
-          "sourceName": "Health Canada Health Product Recalls",
-          "sourceTier": "A",
-          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/iqecgr-digital-ecg"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "ff9277e1-229a-35ea-92da-0c52d06e191d",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/diagnostic-ultrasound-system-correction-philips-ultrasound-issues-updated-use-instructions-lumify",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/diagnostic-ultrasound-system-correction-philips-ultrasound-issues-updated-use-instructions-lumify",
-      "titleOriginal": "Diagnostic Ultrasound System Correction: Philips Ultrasound Issues Updated Use Instructions for Lumify Diagnostic Ultrasound System",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-19T04:00:00Z",
-      "collectedAt": "2026-10-26T21:00:27.776295378Z",
-      "contentHash": "19d5612ae812f941234028ca9edd489afb2c937893c7532494cd498b2bd61d51",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/diagnostic-ultrasound-system-correction-philips-ultrasound-issues-updated-use-instructions-lumify"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
     },
     {
       "id": "a9bb1943-ba90-3fb3-8028-fe5ad7a9f695",

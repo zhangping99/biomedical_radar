@@ -1,7 +1,200 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-26T23:18:29.572292376Z",
+  "generatedAt": "2026-10-27T05:01:08.519511808Z",
   "articles": [
+    {
+      "id": "a68c5ce7-7ef3-3185-a255-3c59f7039a84",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-issues-correction-presource-packs-containing-bd-alaris-pump-infusion",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-issues-correction-presource-packs-containing-bd-alaris-pump-infusion",
+      "titleOriginal": "Early Alert: Cardinal Health Issues Correction for Presource Packs Containing BD Alaris Pump Infusion Sets",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-20T04:00:00Z",
+      "collectedAt": "2026-10-27T05:01:06.220949046Z",
+      "contentHash": "489bdfae61ec07fa3dfe6d0bc64931d7c9b414c3bc3754a403f1263b92ae7f31",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-issues-correction-presource-packs-containing-bd-alaris-pump-infusion"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "be4ab4d2-f01f-3113-a9db-868ff453b179",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-removal-nova-biomedical-removes-statstrip-glucose-hospital-meter-systems",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-removal-nova-biomedical-removes-statstrip-glucose-hospital-meter-systems",
+      "titleOriginal": "Hospital Glucose Meter Removal: Nova Biomedical Removes StatStrip Glucose Hospital Meter Systems",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-20T04:00:00Z",
+      "collectedAt": "2026-10-27T05:01:06.220475882Z",
+      "contentHash": "063635f377a5fad9e260d7ba24e42156e94e02810985f35951f84ca608f6a65c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-removal-nova-biomedical-removes-statstrip-glucose-hospital-meter-systems"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "fa88b582-d618-374a-898c-2b5d96d473a9",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/letters-health-care-providers/update-import-alert-certain-olympus-medical-devices-manufactured-japan-letter-health-care-providers",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/letters-health-care-providers/update-import-alert-certain-olympus-medical-devices-manufactured-japan-letter-health-care-providers",
+      "titleOriginal": "Update: Import Alert for Certain Olympus Medical Devices Manufactured in Japan - Letter to Health Care Providers",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-20T04:00:00Z",
+      "collectedAt": "2026-10-27T05:01:06.220723355Z",
+      "contentHash": "063ee74eceee1de3c7c9a6bedc8be17d1d05be18abba1d40e5f4fcfb6e3ac220",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/letters-health-care-providers/update-import-alert-certain-olympus-medical-devices-manufactured-japan-letter-health-care-providers"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "a541d342-a6ee-34ff-9aaf-6cdb23710f2e",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-updates-use-instructions-presource-packs-containing-bd-alaris-pump",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-updates-use-instructions-presource-packs-containing-bd-alaris-pump",
+      "titleOriginal": "Early Alert: Cardinal Health Updates Use Instructions for Presource Packs Containing BD Alaris Pump Infusion Sets",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-20T04:00:00Z",
+      "collectedAt": "2026-10-27T05:01:06.221172443Z",
+      "contentHash": "a06b1e01eafcadad54bc0820edd0a946add773813ebf7a5a6caa9a5dc4465a69",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-updates-use-instructions-presource-packs-containing-bd-alaris-pump"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "2a0c5c26-e2de-39f9-939b-177f2e12b5fd",
       "sourceId": "gsk-press-releases",
@@ -229,199 +422,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "a68c5ce7-7ef3-3185-a255-3c59f7039a84",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-issues-correction-presource-packs-containing-bd-alaris-pump-infusion",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-issues-correction-presource-packs-containing-bd-alaris-pump-infusion",
-      "titleOriginal": "Early Alert: Cardinal Health Issues Correction for Presource Packs Containing BD Alaris Pump Infusion Sets",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-20T04:00:00Z",
-      "collectedAt": "2026-10-26T21:00:27.775391874Z",
-      "contentHash": "489bdfae61ec07fa3dfe6d0bc64931d7c9b414c3bc3754a403f1263b92ae7f31",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-issues-correction-presource-packs-containing-bd-alaris-pump-infusion"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "be4ab4d2-f01f-3113-a9db-868ff453b179",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-removal-nova-biomedical-removes-statstrip-glucose-hospital-meter-systems",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-removal-nova-biomedical-removes-statstrip-glucose-hospital-meter-systems",
-      "titleOriginal": "Hospital Glucose Meter Removal: Nova Biomedical Removes StatStrip Glucose Hospital Meter Systems",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-20T04:00:00Z",
-      "collectedAt": "2026-10-26T21:00:27.774547841Z",
-      "contentHash": "063635f377a5fad9e260d7ba24e42156e94e02810985f35951f84ca608f6a65c",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-removal-nova-biomedical-removes-statstrip-glucose-hospital-meter-systems"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "fa88b582-d618-374a-898c-2b5d96d473a9",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/letters-health-care-providers/update-import-alert-certain-olympus-medical-devices-manufactured-japan-letter-health-care-providers",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/letters-health-care-providers/update-import-alert-certain-olympus-medical-devices-manufactured-japan-letter-health-care-providers",
-      "titleOriginal": "Update: Import Alert for Certain Olympus Medical Devices Manufactured in Japan - Letter to Health Care Providers",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-20T04:00:00Z",
-      "collectedAt": "2026-10-26T21:00:27.774939756Z",
-      "contentHash": "063ee74eceee1de3c7c9a6bedc8be17d1d05be18abba1d40e5f4fcfb6e3ac220",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/letters-health-care-providers/update-import-alert-certain-olympus-medical-devices-manufactured-japan-letter-health-care-providers"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "a541d342-a6ee-34ff-9aaf-6cdb23710f2e",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-updates-use-instructions-presource-packs-containing-bd-alaris-pump",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-updates-use-instructions-presource-packs-containing-bd-alaris-pump",
-      "titleOriginal": "Early Alert: Cardinal Health Updates Use Instructions for Presource Packs Containing BD Alaris Pump Infusion Sets",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-20T04:00:00Z",
-      "collectedAt": "2026-10-26T21:00:27.775851436Z",
-      "contentHash": "a06b1e01eafcadad54bc0820edd0a946add773813ebf7a5a6caa9a5dc4465a69",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-updates-use-instructions-presource-packs-containing-bd-alaris-pump"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
     },
     {
       "id": "a92fe7de-4193-32a5-925c-484c73abc647",

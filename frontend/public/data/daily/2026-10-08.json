@@ -1,7 +1,102 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-26T23:18:29.572292376Z",
+  "generatedAt": "2026-10-27T05:01:08.519511808Z",
   "articles": [
+    {
+      "id": "5e86ec4e-8f8c-32f9-af0d-f81ebdeaba6f",
+      "sourceId": "pmda-safety-updates",
+      "sourceName": "Japan PMDA Safety Updates",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/revision-of-precautions/0014.html",
+      "canonicalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/revision-of-precautions/0014.html",
+      "titleOriginal": "Revisions of PRECAUTIONS: Anamorelin hydrochloride,etc.posted",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "JP",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Pharmaceuticals and Medical Devices Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-08T00:00:00Z",
+      "collectedAt": "2026-10-27T05:01:07.183065230Z",
+      "contentHash": "d77fceb6edf197ac057e19b1de9c66a4d384aaf4eea258f00f79caae731f6b51",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "pmda-safety-updates",
+          "sourceName": "Japan PMDA Safety Updates",
+          "sourceTier": "A",
+          "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/revision-of-precautions/0014.html"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "f42d54eb-252e-3030-96a9-561ae39bcadf",
+      "sourceId": "ema-news",
+      "sourceName": "European Medicines Agency",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.ema.europa.eu/en/news/clinical-trial-applications-advice-pilot-becomes-permanent",
+      "canonicalUrl": "https://www.ema.europa.eu/en/news/clinical-trial-applications-advice-pilot-becomes-permanent",
+      "titleOriginal": "Clinical trial applications advice pilot becomes permanent",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "EU",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "European Medicines Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-08T15:09:00Z",
+      "collectedAt": "2026-10-27T05:01:06.240458300Z",
+      "contentHash": "1e8b362a950eefd79a829b8ecad0a0984add4217b04d2c55868131abd26a6591",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "ema-news",
+          "sourceName": "European Medicines Agency",
+          "sourceTier": "A",
+          "originalUrl": "https://www.ema.europa.eu/en/news/clinical-trial-applications-advice-pilot-becomes-permanent"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "a6da8b9a-34e4-39c8-94d1-90a522cc4418",
       "sourceId": "hengrui-focus-news",
@@ -93,101 +188,6 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关"
-      ]
-    },
-    {
-      "id": "5e86ec4e-8f8c-32f9-af0d-f81ebdeaba6f",
-      "sourceId": "pmda-safety-updates",
-      "sourceName": "Japan PMDA Safety Updates",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/revision-of-precautions/0014.html",
-      "canonicalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/revision-of-precautions/0014.html",
-      "titleOriginal": "Revisions of PRECAUTIONS: Anamorelin hydrochloride,etc.posted",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "JP",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Pharmaceuticals and Medical Devices Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-08T00:00:00Z",
-      "collectedAt": "2026-10-26T21:00:29.370393207Z",
-      "contentHash": "d77fceb6edf197ac057e19b1de9c66a4d384aaf4eea258f00f79caae731f6b51",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "pmda-safety-updates",
-          "sourceName": "Japan PMDA Safety Updates",
-          "sourceTier": "A",
-          "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/revision-of-precautions/0014.html"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "f42d54eb-252e-3030-96a9-561ae39bcadf",
-      "sourceId": "ema-news",
-      "sourceName": "European Medicines Agency",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.ema.europa.eu/en/news/clinical-trial-applications-advice-pilot-becomes-permanent",
-      "canonicalUrl": "https://www.ema.europa.eu/en/news/clinical-trial-applications-advice-pilot-becomes-permanent",
-      "titleOriginal": "Clinical trial applications advice pilot becomes permanent",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "EU",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "European Medicines Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-08T15:09:00Z",
-      "collectedAt": "2026-10-26T21:00:27.803076792Z",
-      "contentHash": "1e8b362a950eefd79a829b8ecad0a0984add4217b04d2c55868131abd26a6591",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "ema-news",
-          "sourceName": "European Medicines Agency",
-          "sourceTier": "A",
-          "originalUrl": "https://www.ema.europa.eu/en/news/clinical-trial-applications-advice-pilot-becomes-permanent"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
       ]
     },
     {
