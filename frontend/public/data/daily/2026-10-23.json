@@ -1,7 +1,151 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-27T06:47:38.972332072Z",
+  "generatedAt": "2026-10-27T07:48:33.487488152Z",
   "articles": [
+    {
+      "id": "a323ce22-891d-3a94-9be7-eda783b2eb80",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07891299",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07891299",
+      "titleOriginal": "VR During Chest Tube Removal After CABG",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Coronary Artery Bypass Graft Surgery(CABG)",
+        "Postoperative Pain Management"
+      ],
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "collectedAt": "2026-10-27T07:48:31.098320963Z",
+      "contentHash": "ab18f4cc641699cde6547bd35e2515bfe1227cff4696d85ec0aa5be89c3e2a78",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07891299"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "c48e062f-c0a2-3f6c-b049-eefcdec57828",
+      "sourceId": "nature-medicine",
+      "sourceName": "Nature Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/d41591-026-00054-y",
+      "canonicalUrl": "https://www.nature.com/articles/d41591-026-00054-y",
+      "titleOriginal": "\u003cb\u003ePutting conversational AI to the test in primary care\u003c/b\u003e",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "collectedAt": "2026-10-27T07:48:31.514705966Z",
+      "contentHash": "6e56a3311e007775d5db85f2f406d3b286e3308883638074cb841e25803995cf",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-medicine",
+          "sourceName": "Nature Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/d41591-026-00054-y"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "3f36d8e7-9b70-3288-b490-552de0967f39",
+      "sourceId": "nature-medicine",
+      "sourceName": "Nature Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41591-026-04730-x",
+      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04730-x",
+      "titleOriginal": "The human microbiome and chronic disease: ten strategic priorities for research and public health",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "collectedAt": "2026-10-27T07:48:31.514930837Z",
+      "contentHash": "95f12444d2d20ef3430e45f5e40384075f2d26696618769ea38fcfdf1ae7211c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-medicine",
+          "sourceName": "Nature Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41591-026-04730-x"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "4a6919f3-ef29-3662-815c-b5ec15bb7d0c",
       "sourceId": "hansoh-news",
@@ -426,56 +570,6 @@
       ]
     },
     {
-      "id": "a323ce22-891d-3a94-9be7-eda783b2eb80",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07891299",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07891299",
-      "titleOriginal": "VR During Chest Tube Removal After CABG",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Coronary Artery Bypass Graft Surgery(CABG)",
-        "Postoperative Pain Management"
-      ],
-      "publishedAt": "2026-10-23T00:00:00Z",
-      "collectedAt": "2026-10-26T19:55:42.867304401Z",
-      "contentHash": "ab18f4cc641699cde6547bd35e2515bfe1227cff4696d85ec0aa5be89c3e2a78",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07891299"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
       "id": "2ef90db7-8f15-3668-98da-b51bd6ae7a83",
       "sourceId": "pubmed-recent",
       "sourceName": "PubMed",
@@ -562,100 +656,6 @@
           "sourceName": "PubMed",
           "sourceTier": "A",
           "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42925114/"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "c48e062f-c0a2-3f6c-b049-eefcdec57828",
-      "sourceId": "nature-medicine",
-      "sourceName": "Nature Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/d41591-026-00054-y",
-      "canonicalUrl": "https://www.nature.com/articles/d41591-026-00054-y",
-      "titleOriginal": "\u003cb\u003ePutting conversational AI to the test in primary care\u003c/b\u003e",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-23T00:00:00Z",
-      "collectedAt": "2026-10-26T19:55:42.901523904Z",
-      "contentHash": "6e56a3311e007775d5db85f2f406d3b286e3308883638074cb841e25803995cf",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-medicine",
-          "sourceName": "Nature Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/d41591-026-00054-y"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "3f36d8e7-9b70-3288-b490-552de0967f39",
-      "sourceId": "nature-medicine",
-      "sourceName": "Nature Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41591-026-04730-x",
-      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04730-x",
-      "titleOriginal": "The human microbiome and chronic disease: ten strategic priorities for research and public health",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-23T00:00:00Z",
-      "collectedAt": "2026-10-26T19:55:42.901741568Z",
-      "contentHash": "95f12444d2d20ef3430e45f5e40384075f2d26696618769ea38fcfdf1ae7211c",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-medicine",
-          "sourceName": "Nature Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41591-026-04730-x"
         }
       ],
       "importanceScore": 35,

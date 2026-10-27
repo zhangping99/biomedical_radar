@@ -1,52 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-27T06:47:38.972332072Z",
+  "generatedAt": "2026-10-27T07:48:33.487488152Z",
   "articles": [
-    {
-      "id": "3febde55-4d24-3b8c-bb25-1bc8c8bcbb80",
-      "sourceId": "abbvie-news",
-      "sourceName": "AbbVie News",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://news.abbvie.com/2026-10-17-SKYRIZI-R-risankizumab-and-RINVOQ-R-upadacitinib-Data-Highlight-Long-Term-Clinical-and-Endoscopic-Outcomes-Across-Inflammatory-Bowel-Disease-IBD-at-UEGW-2026",
-      "canonicalUrl": "https://news.abbvie.com/2026-10-17-SKYRIZI-R-risankizumab-and-RINVOQ-R-upadacitinib-Data-Highlight-Long-Term-Clinical-and-Endoscopic-Outcomes-Across-Inflammatory-Bowel-Disease-IBD-at-UEGW-2026",
-      "titleOriginal": "SKYRIZI® (risankizumab) and RINVOQ® (upadacitinib) Data Highlight Long-Term Clinical and Endoscopic Outcomes Across Inflammatory Bowel Disease (IBD) at UEGW 2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "drug_rd",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "AbbVie"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-17T06:00:00Z",
-      "collectedAt": "2026-10-27T06:47:37.177793524Z",
-      "contentHash": "8655a9768d84b7467d7fd2e0e96601d3a6cf2ede17d3ee834b3b50480baf70e2",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "abbvie-news",
-          "sourceName": "AbbVie News",
-          "sourceTier": "B",
-          "originalUrl": "https://news.abbvie.com/2026-10-17-SKYRIZI-R-risankizumab-and-RINVOQ-R-upadacitinib-Data-Highlight-Long-Term-Clinical-and-Endoscopic-Outcomes-Across-Inflammatory-Bowel-Disease-IBD-at-UEGW-2026"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
     {
       "id": "b3acff36-e9ce-3d1d-967a-10751b33b11b",
       "sourceId": "nejm-current-issue",
@@ -73,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-17T11:30:00Z",
-      "collectedAt": "2026-10-26T19:55:43.256781536Z",
+      "collectedAt": "2026-10-27T07:48:31.644059573Z",
       "contentHash": "57b2fec85d2cca7b0dd42aed05a028e66adba96178a7c45bbc7aeff87af0923c",
       "generated": false,
       "generatorVersion": null,
@@ -120,7 +75,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-17T11:30:00Z",
-      "collectedAt": "2026-10-26T19:55:43.257292255Z",
+      "collectedAt": "2026-10-27T07:48:31.644846567Z",
       "contentHash": "6614060302f57d61a04d1b20e33d660071e4cbdebec28adb54f382e62d8c0516",
       "generated": false,
       "generatorVersion": null,
@@ -140,6 +95,51 @@
       "importanceReasons": [
         "官方一手来源"
       ]
+    },
+    {
+      "id": "3febde55-4d24-3b8c-bb25-1bc8c8bcbb80",
+      "sourceId": "abbvie-news",
+      "sourceName": "AbbVie News",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://news.abbvie.com/2026-10-17-SKYRIZI-R-risankizumab-and-RINVOQ-R-upadacitinib-Data-Highlight-Long-Term-Clinical-and-Endoscopic-Outcomes-Across-Inflammatory-Bowel-Disease-IBD-at-UEGW-2026",
+      "canonicalUrl": "https://news.abbvie.com/2026-10-17-SKYRIZI-R-risankizumab-and-RINVOQ-R-upadacitinib-Data-Highlight-Long-Term-Clinical-and-Endoscopic-Outcomes-Across-Inflammatory-Bowel-Disease-IBD-at-UEGW-2026",
+      "titleOriginal": "SKYRIZI® (risankizumab) and RINVOQ® (upadacitinib) Data Highlight Long-Term Clinical and Endoscopic Outcomes Across Inflammatory Bowel Disease (IBD) at UEGW 2026",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "drug_rd",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "AbbVie"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-17T06:00:00Z",
+      "collectedAt": "2026-10-27T06:47:37.177793524Z",
+      "contentHash": "8655a9768d84b7467d7fd2e0e96601d3a6cf2ede17d3ee834b3b50480baf70e2",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "abbvie-news",
+          "sourceName": "AbbVie News",
+          "sourceTier": "B",
+          "originalUrl": "https://news.abbvie.com/2026-10-17-SKYRIZI-R-risankizumab-and-RINVOQ-R-upadacitinib-Data-Highlight-Long-Term-Clinical-and-Endoscopic-Outcomes-Across-Inflammatory-Bowel-Disease-IBD-at-UEGW-2026"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
     },
     {
       "id": "bcdbead0-2a29-3ea1-99a6-a94286941e9f",
