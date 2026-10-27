@@ -1,7 +1,152 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-27T13:33:22.832702800Z",
+  "generatedAt": "2026-10-27T14:29:41.365921942Z",
   "articles": [
+    {
+      "id": "9ad58c2e-edc0-3d8a-8ed7-df10c419f306",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/flintstones-complete-multivitamins-and-minerals-recalled-wholesalers-distribution",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/flintstones-complete-multivitamins-and-minerals-recalled-wholesalers-distribution",
+      "titleOriginal": "Flintstones Complete Multivitamins and Minerals: Recalled from wholesalers (Distribution Error)",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-15T00:00:00Z",
+      "collectedAt": "2026-10-27T14:29:41.207955742Z",
+      "contentHash": "94b2eb1f771c6639aa087dfa000c26325027c420c8892b0035b9c2c70c046ead",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/flintstones-complete-multivitamins-and-minerals-recalled-wholesalers-distribution"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "a2c91ffd-45df-3001-9a24-4d1e3bf57cf7",
+      "sourceId": "ema-news",
+      "sourceName": "European Medicines Agency",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.ema.europa.eu/en/news/ema-recommends-authorisation-rasonque-metastatic-pancreatic-cancer",
+      "canonicalUrl": "https://www.ema.europa.eu/en/news/ema-recommends-authorisation-rasonque-metastatic-pancreatic-cancer",
+      "titleOriginal": "EMA recommends authorisation of Rasonque for metastatic pancreatic cancer",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "EU",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "European Medicines Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-15T13:30:00Z",
+      "collectedAt": "2026-10-27T14:29:35.720725578Z",
+      "contentHash": "172d320505b9bcf5cba7bd17dc545c87d1d42131661046d738ff8e7f85692fda",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "ema-news",
+          "sourceName": "European Medicines Agency",
+          "sourceTier": "A",
+          "originalUrl": "https://www.ema.europa.eu/en/news/ema-recommends-authorisation-rasonque-metastatic-pancreatic-cancer"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "94dd0924-23a4-3802-ae56-aa5fd026181d",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-transcatheter-mitral-valve-delivery-system-issue-edwards-lifesciences",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-transcatheter-mitral-valve-delivery-system-issue-edwards-lifesciences",
+      "titleOriginal": "Early Alert: Transcatheter Mitral Valve Delivery System Issue from Edwards Lifesciences",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-15T04:00:00Z",
+      "collectedAt": "2026-10-27T14:29:35.745825322Z",
+      "contentHash": "5fd382b2071a4445e98709589cb99036922ad296ad538a6570c64c2e994663bc",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-transcatheter-mitral-valve-delivery-system-issue-edwards-lifesciences"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "ca0f5e7a-1395-3a64-bacf-4af6f5a45712",
       "sourceId": "cleveland-clinic-news",
@@ -46,55 +191,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "9ad58c2e-edc0-3d8a-8ed7-df10c419f306",
-      "sourceId": "health-canada-health-products",
-      "sourceName": "Health Canada Health Product Recalls",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/flintstones-complete-multivitamins-and-minerals-recalled-wholesalers-distribution",
-      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/flintstones-complete-multivitamins-and-minerals-recalled-wholesalers-distribution",
-      "titleOriginal": "Flintstones Complete Multivitamins and Minerals: Recalled from wholesalers (Distribution Error)",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Health Canada"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-15T00:00:00Z",
-      "collectedAt": "2026-10-27T05:01:06.812132305Z",
-      "contentHash": "94b2eb1f771c6639aa087dfa000c26325027c420c8892b0035b9c2c70c046ead",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "health-canada-health-products",
-          "sourceName": "Health Canada Health Product Recalls",
-          "sourceTier": "A",
-          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/flintstones-complete-multivitamins-and-minerals-recalled-wholesalers-distribution"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
     },
     {
       "id": "92e90ac7-512c-3efd-9937-d5360c6c2720",
@@ -191,102 +287,6 @@
       "importanceReasons": [
         "官方一手来源",
         "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "a2c91ffd-45df-3001-9a24-4d1e3bf57cf7",
-      "sourceId": "ema-news",
-      "sourceName": "European Medicines Agency",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.ema.europa.eu/en/news/ema-recommends-authorisation-rasonque-metastatic-pancreatic-cancer",
-      "canonicalUrl": "https://www.ema.europa.eu/en/news/ema-recommends-authorisation-rasonque-metastatic-pancreatic-cancer",
-      "titleOriginal": "EMA recommends authorisation of Rasonque for metastatic pancreatic cancer",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "EU",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "European Medicines Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-15T13:30:00Z",
-      "collectedAt": "2026-10-27T05:01:06.238719797Z",
-      "contentHash": "172d320505b9bcf5cba7bd17dc545c87d1d42131661046d738ff8e7f85692fda",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "ema-news",
-          "sourceName": "European Medicines Agency",
-          "sourceTier": "A",
-          "originalUrl": "https://www.ema.europa.eu/en/news/ema-recommends-authorisation-rasonque-metastatic-pancreatic-cancer"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "94dd0924-23a4-3802-ae56-aa5fd026181d",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-transcatheter-mitral-valve-delivery-system-issue-edwards-lifesciences",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-transcatheter-mitral-valve-delivery-system-issue-edwards-lifesciences",
-      "titleOriginal": "Early Alert: Transcatheter Mitral Valve Delivery System Issue from Edwards Lifesciences",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-15T04:00:00Z",
-      "collectedAt": "2026-10-27T05:01:06.221618356Z",
-      "contentHash": "5fd382b2071a4445e98709589cb99036922ad296ad538a6570c64c2e994663bc",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-transcatheter-mitral-valve-delivery-system-issue-edwards-lifesciences"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
         "政策或安全相关"
       ]
     },

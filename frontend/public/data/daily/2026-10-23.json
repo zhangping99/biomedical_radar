@@ -1,7 +1,106 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-27T13:33:22.832702800Z",
+  "generatedAt": "2026-10-27T14:29:41.365921942Z",
   "articles": [
+    {
+      "id": "a3856c10-6de9-33b4-a2e3-c1cef2f0e7b1",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/2026-safety-and-availability-communications",
+      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/2026-safety-and-availability-communications",
+      "titleOriginal": "2026 Safety and Availability Communications",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-23T15:01:22Z",
+      "collectedAt": "2026-10-27T14:29:35.753900958Z",
+      "contentHash": "0a574b5e8bb19bc281b3d72c8c59196acf885f3e498bc939e99d3605180a9ec6",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/2026-safety-and-availability-communications"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "b7750523-9ee7-36f3-9833-c90bee5c82da",
+      "sourceId": "ema-news",
+      "sourceName": "European Medicines Agency",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.ema.europa.eu/en/news/ama-ema-issue-joint-guidance-ebola-vaccine-development",
+      "canonicalUrl": "https://www.ema.europa.eu/en/news/ama-ema-issue-joint-guidance-ebola-vaccine-development",
+      "titleOriginal": "AMA and EMA issue joint guidance on Ebola vaccine development",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "EU",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "policy_release",
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "European Medicines Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-23T09:41:01Z",
+      "collectedAt": "2026-10-27T14:29:35.678506167Z",
+      "contentHash": "24f044ca3f2b6532f347944a81db27c346403204bebecb22acf3df293de32917",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "ema-news",
+          "sourceName": "European Medicines Agency",
+          "sourceTier": "A",
+          "originalUrl": "https://www.ema.europa.eu/en/news/ama-ema-issue-joint-guidance-ebola-vaccine-development"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "4a6919f3-ef29-3662-815c-b5ec15bb7d0c",
       "sourceId": "hansoh-news",
@@ -374,55 +473,6 @@
       ]
     },
     {
-      "id": "a3856c10-6de9-33b4-a2e3-c1cef2f0e7b1",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/2026-safety-and-availability-communications",
-      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/2026-safety-and-availability-communications",
-      "titleOriginal": "2026 Safety and Availability Communications",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-23T15:01:22Z",
-      "collectedAt": "2026-10-27T05:01:06.230198571Z",
-      "contentHash": "0a574b5e8bb19bc281b3d72c8c59196acf885f3e498bc939e99d3605180a9ec6",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/2026-safety-and-availability-communications"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
       "id": "d87a8205-08e2-3e86-b620-acb6ebe783aa",
       "sourceId": "fda-biologics-news",
       "sourceName": "FDA Vaccines, Blood and Biologics",
@@ -462,56 +512,6 @@
           "sourceName": "FDA Vaccines, Blood and Biologics",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/recently-issued-biologics-guidance-documents"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "b7750523-9ee7-36f3-9833-c90bee5c82da",
-      "sourceId": "ema-news",
-      "sourceName": "European Medicines Agency",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.ema.europa.eu/en/news/ama-ema-issue-joint-guidance-ebola-vaccine-development",
-      "canonicalUrl": "https://www.ema.europa.eu/en/news/ama-ema-issue-joint-guidance-ebola-vaccine-development",
-      "titleOriginal": "AMA and EMA issue joint guidance on Ebola vaccine development",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "EU",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "policy_release",
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "European Medicines Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-23T09:41:01Z",
-      "collectedAt": "2026-10-27T05:01:06.217119097Z",
-      "contentHash": "24f044ca3f2b6532f347944a81db27c346403204bebecb22acf3df293de32917",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "ema-news",
-          "sourceName": "European Medicines Agency",
-          "sourceTier": "A",
-          "originalUrl": "https://www.ema.europa.eu/en/news/ama-ema-issue-joint-guidance-ebola-vaccine-development"
         }
       ],
       "importanceScore": 65,
