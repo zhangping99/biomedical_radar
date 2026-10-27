@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-27T19:25:42.512773208Z",
+  "generatedAt": "2026-10-27T20:13:32.685976790Z",
   "articles": [
+    {
+      "id": "1c135540-27c1-381e-9d70-6c6c0abacbf4",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/30/rami-hazzi-md-named-new-leader-of-cleveland-clinic-euclid-hospital",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/30/rami-hazzi-md-named-new-leader-of-cleveland-clinic-euclid-hospital",
+      "titleOriginal": "Rami Hazzi, M.D., Named New Leader of Cleveland Clinic Euclid Hospital",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-30T00:00:00Z",
+      "collectedAt": "2026-10-27T20:13:29.567969095Z",
+      "contentHash": "63356fb35064573cc8d6266a329c33cee213ce975d081aab7867f33183286576",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/30/rami-hazzi-md-named-new-leader-of-cleveland-clinic-euclid-hospital"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "a0e4108a-490c-3ee9-8bcd-bca7e1930eec",
       "sourceId": "clinicaltrials-recent",
@@ -192,51 +237,6 @@
         "官方一手来源",
         "政策或安全相关"
       ]
-    },
-    {
-      "id": "1c135540-27c1-381e-9d70-6c6c0abacbf4",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/30/rami-hazzi-md-named-new-leader-of-cleveland-clinic-euclid-hospital",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/09/30/rami-hazzi-md-named-new-leader-of-cleveland-clinic-euclid-hospital",
-      "titleOriginal": "Rami Hazzi, M.D., Named New Leader of Cleveland Clinic Euclid Hospital",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-30T00:00:00Z",
-      "collectedAt": "2026-10-27T09:18:55.017869197Z",
-      "contentHash": "63356fb35064573cc8d6266a329c33cee213ce975d081aab7867f33183286576",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/09/30/rami-hazzi-md-named-new-leader-of-cleveland-clinic-euclid-hospital"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     },
     {
       "id": "1c33c444-0a87-3514-916c-cb7d9dfbb980",
