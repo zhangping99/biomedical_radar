@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-28T20:31:54.475221440Z",
+  "generatedAt": "2026-10-28T21:01:54.387256572Z",
   "articles": [
     {
       "id": "7a0219d2-422f-3950-90b9-f95ed5c64fca",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-01T04:00:00Z",
-      "collectedAt": "2026-10-28T15:05:34.392874447Z",
+      "collectedAt": "2026-10-28T21:01:51.939706883Z",
       "contentHash": "d58bc210072f4ee66eb747d58aa74c746140fe5f0030cfa4116d4802e0ac1478",
       "generated": false,
       "generatorVersion": null,
@@ -77,7 +77,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-01T14:00:00Z",
-      "collectedAt": "2026-10-28T15:05:34.408482508Z",
+      "collectedAt": "2026-10-28T21:01:51.956498450Z",
       "contentHash": "4da8a8817bbc138c71266b22e9c88fb07510abf705e90c01d9a64c78838447cd",
       "generated": false,
       "generatorVersion": null,
@@ -125,7 +125,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-01T13:49:00Z",
-      "collectedAt": "2026-10-28T15:05:34.408961927Z",
+      "collectedAt": "2026-10-28T21:01:51.957927077Z",
       "contentHash": "df48879d15d7beefaf4454388306bbd2bbe0d7059fab6e54dd18351e910d71cf",
       "generated": false,
       "generatorVersion": null,
@@ -173,7 +173,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-01T11:00:00Z",
-      "collectedAt": "2026-10-28T15:05:34.409367167Z",
+      "collectedAt": "2026-10-28T21:01:51.959278846Z",
       "contentHash": "419ef379a4b95fd3e54d964b7b00d7675f6cd32d4807545164f8cb5ea7501f2e",
       "generated": false,
       "generatorVersion": null,
@@ -221,7 +221,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-01T08:37:00Z",
-      "collectedAt": "2026-10-28T15:05:34.409813935Z",
+      "collectedAt": "2026-10-28T21:01:51.960831990Z",
       "contentHash": "38913da1cf7ad5bca518f9bcf70b9fb38bbe18e1c1a3b0c2d7e2fd8ab1f21cfe",
       "generated": false,
       "generatorVersion": null,
@@ -11873,54 +11873,6 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "ba1ddd75-5a4f-3bd0-86c8-0f3ceee9291a",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/drugs/information-health-care-professionals-drugs/fda-drug-info-rounds-video",
-      "canonicalUrl": "https://www.fda.gov/drugs/information-health-care-professionals-drugs/fda-drug-info-rounds-video",
-      "titleOriginal": "FDA Drug Info Rounds Video",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "drug_rd",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-01T04:00:36Z",
-      "collectedAt": "2026-10-01T05:49:58.334369799Z",
-      "contentHash": "cda2c41196edb8d19e93e9cc9589e88a7cadc99b1ce5d29a624b781d167d5683",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/drugs/information-health-care-professionals-drugs/fda-drug-info-rounds-video"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
         "24小时内更新"
       ]
     },

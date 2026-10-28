@@ -1,54 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-28T20:31:54.475221440Z",
+  "generatedAt": "2026-10-28T21:01:54.387256572Z",
   "articles": [
-    {
-      "id": "d7d759d6-0fd8-399c-b4df-c835f636edfa",
-      "sourceId": "nature-biotechnology",
-      "sourceName": "Nature Biotechnology",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41587-026-03360-5",
-      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03360-5",
-      "titleOriginal": "Genetic code expansion enables plant-directed control of bacterial activity",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Biotechnology"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-20T00:00:00Z",
-      "collectedAt": "2026-10-28T19:32:08.721701707Z",
-      "contentHash": "6ec24ecc3582ebf9b47a9473f45ac442039897ff960c8b25ee44f59c34fe6480",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-biotechnology",
-          "sourceName": "Nature Biotechnology",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41587-026-03360-5"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
     {
       "id": "a68c5ce7-7ef3-3185-a255-3c59f7039a84",
       "sourceId": "fda-medwatch-alerts",
@@ -75,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-20T04:00:00Z",
-      "collectedAt": "2026-10-28T15:05:34.378091978Z",
+      "collectedAt": "2026-10-28T21:01:51.921087056Z",
       "contentHash": "489bdfae61ec07fa3dfe6d0bc64931d7c9b414c3bc3754a403f1263b92ae7f31",
       "generated": false,
       "generatorVersion": null,
@@ -95,6 +48,54 @@
       "importanceReasons": [
         "官方一手来源",
         "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "be4ab4d2-f01f-3113-a9db-868ff453b179",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-removal-nova-biomedical-removes-statstrip-glucose-hospital-meter-systems",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-removal-nova-biomedical-removes-statstrip-glucose-hospital-meter-systems",
+      "titleOriginal": "Hospital Glucose Meter Removal: Nova Biomedical Removes StatStrip Glucose Hospital Meter Systems",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-20T04:00:00Z",
+      "collectedAt": "2026-10-28T21:01:51.920642515Z",
+      "contentHash": "063635f377a5fad9e260d7ba24e42156e94e02810985f35951f84ca608f6a65c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-removal-nova-biomedical-removes-statstrip-glucose-hospital-meter-systems"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
         "政策或安全相关"
       ]
     },
@@ -124,7 +125,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-20T04:00:00Z",
-      "collectedAt": "2026-10-28T15:05:34.377646613Z",
+      "collectedAt": "2026-10-28T21:01:51.921535472Z",
       "contentHash": "a06b1e01eafcadad54bc0820edd0a946add773813ebf7a5a6caa9a5dc4465a69",
       "generated": false,
       "generatorVersion": null,
@@ -172,7 +173,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-20T04:00:00Z",
-      "collectedAt": "2026-10-28T15:05:34.378511875Z",
+      "collectedAt": "2026-10-28T21:01:51.921994233Z",
       "contentHash": "063ee74eceee1de3c7c9a6bedc8be17d1d05be18abba1d40e5f4fcfb6e3ac220",
       "generated": false,
       "generatorVersion": null,
@@ -195,33 +196,33 @@
       ]
     },
     {
-      "id": "be4ab4d2-f01f-3113-a9db-868ff453b179",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
+      "id": "d7d759d6-0fd8-399c-b4df-c835f636edfa",
+      "sourceId": "nature-biotechnology",
+      "sourceName": "Nature Biotechnology",
       "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-removal-nova-biomedical-removes-statstrip-glucose-hospital-meter-systems",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-removal-nova-biomedical-removes-statstrip-glucose-hospital-meter-systems",
-      "titleOriginal": "Hospital Glucose Meter Removal: Nova Biomedical Removes StatStrip Glucose Hospital Meter Systems",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41587-026-03360-5",
+      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03360-5",
+      "titleOriginal": "Genetic code expansion enables plant-directed control of bacterial activity",
       "titleZh": null,
       "summaryZh": null,
       "whyItMattersZh": null,
       "language": "en",
-      "region": "US",
-      "category": "quality_safety",
+      "region": "GLOBAL",
+      "category": "research_academic",
       "eventTypes": [
         "update"
       ],
       "entities": [
         {
           "type": "institution",
-          "name": "U.S. Food and Drug Administration"
+          "name": "Nature Biotechnology"
         }
       ],
       "diseaseAreas": [],
-      "publishedAt": "2026-10-20T04:00:00Z",
-      "collectedAt": "2026-10-28T15:05:34.378882741Z",
-      "contentHash": "063635f377a5fad9e260d7ba24e42156e94e02810985f35951f84ca608f6a65c",
+      "publishedAt": "2026-10-20T00:00:00Z",
+      "collectedAt": "2026-10-28T19:32:08.721701707Z",
+      "contentHash": "6ec24ecc3582ebf9b47a9473f45ac442039897ff960c8b25ee44f59c34fe6480",
       "generated": false,
       "generatorVersion": null,
       "generatedAt": null,
@@ -230,16 +231,15 @@
       "legalBasis": "rss_allowed",
       "sourceLinks": [
         {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceId": "nature-biotechnology",
+          "sourceName": "Nature Biotechnology",
           "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-removal-nova-biomedical-removes-statstrip-glucose-hospital-meter-systems"
+          "originalUrl": "https://www.nature.com/articles/s41587-026-03360-5"
         }
       ],
-      "importanceScore": 50,
+      "importanceScore": 35,
       "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
+        "官方一手来源"
       ]
     },
     {
@@ -2140,55 +2140,6 @@
           "sourceName": "U.S. Food and Drug Administration - Drugs",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2026"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "e91f9c6d-3250-3ee1-9019-30d8a1b85822",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/drugs/medication-health-fraud/fraudulent-products",
-      "canonicalUrl": "https://www.fda.gov/drugs/medication-health-fraud/fraudulent-products",
-      "titleOriginal": "Fraudulent Products",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-20T17:25:43Z",
-      "collectedAt": "2026-10-22T13:46:44.428243716Z",
-      "contentHash": "92fafd15780af7e1c64c3ad46fa03e45c1579a2ca7172a1a320ec4dd1d6f7514",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/drugs/medication-health-fraud/fraudulent-products"
         }
       ],
       "importanceScore": 58,

@@ -1,7 +1,55 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-28T20:31:54.475221440Z",
+  "generatedAt": "2026-10-28T21:01:54.387256572Z",
   "articles": [
+    {
+      "id": "ff9277e1-229a-35ea-92da-0c52d06e191d",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/diagnostic-ultrasound-system-correction-philips-ultrasound-issues-updated-use-instructions-lumify",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/diagnostic-ultrasound-system-correction-philips-ultrasound-issues-updated-use-instructions-lumify",
+      "titleOriginal": "Diagnostic Ultrasound System Correction: Philips Ultrasound Issues Updated Use Instructions for Lumify Diagnostic Ultrasound System",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-19T04:00:00Z",
+      "collectedAt": "2026-10-28T21:01:51.922405226Z",
+      "contentHash": "19d5612ae812f941234028ca9edd489afb2c937893c7532494cd498b2bd61d51",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/diagnostic-ultrasound-system-correction-philips-ultrasound-issues-updated-use-instructions-lumify"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "a9bb1943-ba90-3fb3-8028-fe5ad7a9f695",
       "sourceId": "cleveland-clinic-news",
@@ -142,54 +190,6 @@
       "importanceReasons": [
         "官方一手来源",
         "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "ff9277e1-229a-35ea-92da-0c52d06e191d",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/diagnostic-ultrasound-system-correction-philips-ultrasound-issues-updated-use-instructions-lumify",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/diagnostic-ultrasound-system-correction-philips-ultrasound-issues-updated-use-instructions-lumify",
-      "titleOriginal": "Diagnostic Ultrasound System Correction: Philips Ultrasound Issues Updated Use Instructions for Lumify Diagnostic Ultrasound System",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-19T04:00:00Z",
-      "collectedAt": "2026-10-28T15:05:34.383116439Z",
-      "contentHash": "19d5612ae812f941234028ca9edd489afb2c937893c7532494cd498b2bd61d51",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/diagnostic-ultrasound-system-correction-philips-ultrasound-issues-updated-use-instructions-lumify"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
         "政策或安全相关"
       ]
     },
@@ -2088,55 +2088,6 @@
       "importanceScore": 28,
       "importanceReasons": [
         "近期更新"
-      ]
-    },
-    {
-      "id": "094a483f-cef0-3463-998d-32b260583e9e",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/drugs/counterfeit-medicine/counterfeit-versions-eye-drops-found-several-states",
-      "canonicalUrl": "https://www.fda.gov/drugs/counterfeit-medicine/counterfeit-versions-eye-drops-found-several-states",
-      "titleOriginal": "Counterfeit Versions of Eye Drops Found in Several States",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-19T19:46:53Z",
-      "collectedAt": "2026-10-20T13:33:11.719225369Z",
-      "contentHash": "e5edda82379d8e331bfb9a6719388d84788f22825615862fa0a316bcab3b398c",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/drugs/counterfeit-medicine/counterfeit-versions-eye-drops-found-several-states"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "24小时内更新"
       ]
     },
     {
