@@ -1,7 +1,55 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-28T14:27:36.578686335Z",
+  "generatedAt": "2026-10-28T15:05:36.793954941Z",
   "articles": [
+    {
+      "id": "48c1ff02-933b-3c13-8455-0ccb159fd3c3",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/patients/fda-patient-listening-sessions/patient-listening-session-summaries",
+      "canonicalUrl": "https://www.fda.gov/patients/fda-patient-listening-sessions/patient-listening-session-summaries",
+      "titleOriginal": "Patient Listening Session Summaries",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-22T20:21:19Z",
+      "collectedAt": "2026-10-28T15:05:34.393641317Z",
+      "contentHash": "524d4cd59f6f42ee875509d66999899f60a5c032f333a130406eb6c6e27f4933",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/patients/fda-patient-listening-sessions/patient-listening-session-summaries"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "d37a5b94-67fc-312b-9864-c8a5dab56dd2",
       "sourceId": "abbvie-news",
@@ -372,54 +420,6 @@
       "importanceScore": 35,
       "importanceReasons": [
         "官方一手来源"
-      ]
-    },
-    {
-      "id": "48c1ff02-933b-3c13-8455-0ccb159fd3c3",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/patients/fda-patient-listening-sessions/patient-listening-session-summaries",
-      "canonicalUrl": "https://www.fda.gov/patients/fda-patient-listening-sessions/patient-listening-session-summaries",
-      "titleOriginal": "Patient Listening Session Summaries",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-22T20:21:19Z",
-      "collectedAt": "2026-10-28T05:39:37.301984179Z",
-      "contentHash": "524d4cd59f6f42ee875509d66999899f60a5c032f333a130406eb6c6e27f4933",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/patients/fda-patient-listening-sessions/patient-listening-session-summaries"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
       ]
     },
     {
