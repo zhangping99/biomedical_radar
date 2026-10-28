@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-28T13:31:55.857134275Z",
+  "generatedAt": "2026-10-28T14:27:36.578686335Z",
   "articles": [
     {
       "id": "76bbf412-4a5f-3f3a-b942-25d992bc9d03",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-08-20T00:00:00Z",
-      "collectedAt": "2026-10-28T07:20:19.339835470Z",
+      "collectedAt": "2026-10-28T14:27:36.432564443Z",
       "contentHash": "19c09be53efa269ede5de23e12dee39ef566a565ac3374bf6e361bced3ceeb20",
       "generated": false,
       "generatorVersion": null,
@@ -42,6 +42,51 @@
           "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
           "sourceTier": "B",
           "originalUrl": "https://www.hengrui.com/media/detail-1014.html"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "493d293c-5e8e-3ff6-9936-0d5ff9f4d325",
+      "sourceId": "3sbio-news",
+      "sourceName": "三生制药新闻",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.3sbio.com/news/details.aspx?id\u003d347",
+      "canonicalUrl": "https://www.3sbio.com/news/details.aspx?id\u003d347",
+      "titleOriginal": "三生制药发布2026中期业绩:创新驱动、合作共赢、行稳致远",
+      "titleZh": "三生制药发布2026中期业绩:创新驱动、合作共赢、行稳致远",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "三生制药"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-20T00:00:00Z",
+      "collectedAt": "2026-10-28T14:27:36.477019722Z",
+      "contentHash": "3c1c9a959063018766cc6994c25a5e35c3d89eca1070a7a5d75f304eb8b1f24e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "3sbio-news",
+          "sourceName": "三生制药新闻",
+          "sourceTier": "B",
+          "originalUrl": "https://www.3sbio.com/news/details.aspx?id\u003d347"
         }
       ],
       "importanceScore": 20,
