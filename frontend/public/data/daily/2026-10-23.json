@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-28T08:25:43.251506586Z",
+  "generatedAt": "2026-10-28T09:59:16.947310214Z",
   "articles": [
+    {
+      "id": "0aa4dce2-1253-394e-a8f8-624d444a6216",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/23/newsweek-ranks-cleveland-clinic-among-worlds-best-smart-hospitals",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/23/newsweek-ranks-cleveland-clinic-among-worlds-best-smart-hospitals",
+      "titleOriginal": "Newsweek Ranks Cleveland Clinic Among World\u0027s Best Smart Hospitals",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "collectedAt": "2026-10-28T09:59:14.667231897Z",
+      "contentHash": "50fcd05e07553b0a16ee4830929b439292ef63af51c33608dbe6e961de53bc88",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/23/newsweek-ranks-cleveland-clinic-among-worlds-best-smart-hospitals"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "4df7353e-633b-3911-8eb9-33b35cb64567",
       "sourceId": "pubmed-recent",
@@ -706,51 +751,6 @@
         "高影响事件",
         "政策或安全相关"
       ]
-    },
-    {
-      "id": "0aa4dce2-1253-394e-a8f8-624d444a6216",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/23/newsweek-ranks-cleveland-clinic-among-worlds-best-smart-hospitals",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/23/newsweek-ranks-cleveland-clinic-among-worlds-best-smart-hospitals",
-      "titleOriginal": "Newsweek Ranks Cleveland Clinic Among World\u0027s Best Smart Hospitals",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-23T00:00:00Z",
-      "collectedAt": "2026-10-27T20:13:29.558138424Z",
-      "contentHash": "50fcd05e07553b0a16ee4830929b439292ef63af51c33608dbe6e961de53bc88",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/23/newsweek-ranks-cleveland-clinic-among-worlds-best-smart-hospitals"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     },
     {
       "id": "a323ce22-891d-3a94-9be7-eda783b2eb80",
