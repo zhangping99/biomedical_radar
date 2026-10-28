@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-28T07:20:22.534543920Z",
+  "generatedAt": "2026-10-28T08:25:43.251506586Z",
   "articles": [
+    {
+      "id": "a0e4108a-490c-3ee9-8bcd-bca7e1930eec",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07849231",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07849231",
+      "titleOriginal": "A Study to Evaluate DMR-001 in Participants With CALR-mutant Myeloproliferative Neoplasms",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Myeloproliferative Neoplasms (MPNs)"
+      ],
+      "publishedAt": "2026-09-30T00:00:00Z",
+      "collectedAt": "2026-10-28T08:25:40.789879486Z",
+      "contentHash": "4a33490df72aad56c1a978e3d1501f6613803eda910b519e4326c794c21cf647",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07849231"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "5282528b-2d66-353b-9d54-60cbbb9abda5",
       "sourceId": "merck-news-releases",
@@ -188,55 +237,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "a0e4108a-490c-3ee9-8bcd-bca7e1930eec",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07849231",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07849231",
-      "titleOriginal": "A Study to Evaluate DMR-001 in Participants With CALR-mutant Myeloproliferative Neoplasms",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Myeloproliferative Neoplasms (MPNs)"
-      ],
-      "publishedAt": "2026-09-30T00:00:00Z",
-      "collectedAt": "2026-10-27T19:25:41.627782143Z",
-      "contentHash": "4a33490df72aad56c1a978e3d1501f6613803eda910b519e4326c794c21cf647",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07849231"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     },
     {
       "id": "1c33c444-0a87-3514-916c-cb7d9dfbb980",
