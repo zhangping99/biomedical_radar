@@ -1,7 +1,57 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-29T07:39:07.570951132Z",
+  "generatedAt": "2026-10-29T08:25:55.232002036Z",
   "articles": [
+    {
+      "id": "d7310993-b348-3c4a-be34-d4e5dae1ad3f",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07849517",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07849517",
+      "titleOriginal": "Postoperative Delirium and Analgesia in Elderly Patients",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Postoperative Delirium",
+        "Postoperative Pain, Acute"
+      ],
+      "publishedAt": "2026-09-30T00:00:00Z",
+      "collectedAt": "2026-10-29T08:25:53.801131632Z",
+      "contentHash": "1aa1ecc026b7ffb97b7ba2442cc3755fe3152f208b20f33c883c639cbeeb749e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07849517"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "5282528b-2d66-353b-9d54-60cbbb9abda5",
       "sourceId": "merck-news-releases",
@@ -188,56 +238,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "d7310993-b348-3c4a-be34-d4e5dae1ad3f",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07849517",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07849517",
-      "titleOriginal": "Postoperative Delirium and Analgesia in Elderly Patients",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Postoperative Delirium",
-        "Postoperative Pain, Acute"
-      ],
-      "publishedAt": "2026-09-30T00:00:00Z",
-      "collectedAt": "2026-10-28T19:32:07.488108921Z",
-      "contentHash": "1aa1ecc026b7ffb97b7ba2442cc3755fe3152f208b20f33c883c639cbeeb749e",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07849517"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     },
     {
       "id": "a0e4108a-490c-3ee9-8bcd-bca7e1930eec",
