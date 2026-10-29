@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-29T08:25:55.232002036Z",
+  "generatedAt": "2026-10-29T10:22:21.242514159Z",
   "articles": [
+    {
+      "id": "080b5533-8939-3660-91da-718b6990cdb6",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/22/the-risks-of-holding-on-to-old-prescriptions",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/22/the-risks-of-holding-on-to-old-prescriptions",
+      "titleOriginal": "The Risks of Holding On to Old Prescriptions",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-22T00:00:00Z",
+      "collectedAt": "2026-10-29T10:22:17.513911406Z",
+      "contentHash": "eeeb8ca7958e358904aed7448d4d7958304888e68af7db9f0b83a1fe7983dd28",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/22/the-risks-of-holding-on-to-old-prescriptions"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "1fd6e4c9-482e-3058-b89c-3da1fa91591a",
       "sourceId": "clinicaltrials-recent",
@@ -475,51 +520,6 @@
           "sourceName": "Amgen News Releases",
           "sourceTier": "B",
           "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/10/amgen-foundation-tops-75-million-in-handson-biotechnology-education-reaching-100000-students-a-year"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "080b5533-8939-3660-91da-718b6990cdb6",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/22/the-risks-of-holding-on-to-old-prescriptions",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/22/the-risks-of-holding-on-to-old-prescriptions",
-      "titleOriginal": "The Risks of Holding On to Old Prescriptions",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-22T00:00:00Z",
-      "collectedAt": "2026-10-28T20:31:50.401290508Z",
-      "contentHash": "eeeb8ca7958e358904aed7448d4d7958304888e68af7db9f0b83a1fe7983dd28",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/22/the-risks-of-holding-on-to-old-prescriptions"
         }
       ],
       "importanceScore": 20,
