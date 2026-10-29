@@ -1,7 +1,105 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-29T19:11:12.935200142Z",
+  "generatedAt": "2026-10-29T19:37:01.818715761Z",
   "articles": [
+    {
+      "id": "0e7f55ac-dccd-326c-b369-3090d1e4b056",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07877259",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07877259",
+      "titleOriginal": "Collection and Distribution of Blood Components From Healthy Donors for In Vitro Research Use",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration",
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Blood Donors",
+        "Apheresis"
+      ],
+      "publishedAt": "2026-10-16T00:00:00Z",
+      "collectedAt": "2026-10-29T19:37:00.881398599Z",
+      "contentHash": "c84a4ebb49f3a2df3e9171a3b2f67163e20af6c12bcf2a772fa0748502052ce2",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07877259"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "75dee9ad-8131-33ee-8c62-3ce94879859b",
+      "sourceId": "nature-reviews-cancer",
+      "sourceName": "Nature Reviews Cancer",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41568-026-00996-y",
+      "canonicalUrl": "https://www.nature.com/articles/s41568-026-00996-y",
+      "titleOriginal": "Lean, mean, breast cancer-fighting machine",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Reviews Cancer"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-16T00:00:00Z",
+      "collectedAt": "2026-10-29T19:37:01.418730941Z",
+      "contentHash": "dea1d21a85c40fc1ba9d33896b07334cbd1fd937bf1b6c1dc4663edaeb26c491",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-reviews-cancer",
+          "sourceName": "Nature Reviews Cancer",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41568-026-00996-y"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "0f4535e4-f09b-36ce-9b93-d8f541424b64",
       "sourceId": "gsk-press-releases",
@@ -138,53 +236,6 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关"
-      ]
-    },
-    {
-      "id": "75dee9ad-8131-33ee-8c62-3ce94879859b",
-      "sourceId": "nature-reviews-cancer",
-      "sourceName": "Nature Reviews Cancer",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41568-026-00996-y",
-      "canonicalUrl": "https://www.nature.com/articles/s41568-026-00996-y",
-      "titleOriginal": "Lean, mean, breast cancer-fighting machine",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Reviews Cancer"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-16T00:00:00Z",
-      "collectedAt": "2026-10-29T08:25:55.012254026Z",
-      "contentHash": "dea1d21a85c40fc1ba9d33896b07334cbd1fd937bf1b6c1dc4663edaeb26c491",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-reviews-cancer",
-          "sourceName": "Nature Reviews Cancer",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41568-026-00996-y"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
       ]
     },
     {
