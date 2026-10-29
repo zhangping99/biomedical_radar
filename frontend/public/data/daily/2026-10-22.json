@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-29T20:31:17.449182851Z",
+  "generatedAt": "2026-10-29T21:06:58.427052181Z",
   "articles": [
     {
       "id": "ae794f65-c3f4-3398-a829-d2a3596e5c1a",
@@ -620,54 +620,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "48c1ff02-933b-3c13-8455-0ccb159fd3c3",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/patients/fda-patient-listening-sessions/patient-listening-session-summaries",
-      "canonicalUrl": "https://www.fda.gov/patients/fda-patient-listening-sessions/patient-listening-session-summaries",
-      "titleOriginal": "Patient Listening Session Summaries",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-22T20:21:19Z",
-      "collectedAt": "2026-10-28T15:05:34.393641317Z",
-      "contentHash": "524d4cd59f6f42ee875509d66999899f60a5c032f333a130406eb6c6e27f4933",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/patients/fda-patient-listening-sessions/patient-listening-session-summaries"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
     },
     {
       "id": "83e53fd6-262a-39b3-a903-cf074a0c8a1c",
@@ -2863,56 +2815,6 @@
       "importanceReasons": [
         "官方一手来源",
         "近期更新"
-      ]
-    },
-    {
-      "id": "34fc1321-f2a3-3792-8f45-a895120f58df",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/drugs/generic-drugs/competitive-generic-therapy-approvals",
-      "canonicalUrl": "https://www.fda.gov/drugs/generic-drugs/competitive-generic-therapy-approvals",
-      "titleOriginal": "Competitive Generic Therapy Approvals",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "approval"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-22T15:14:32Z",
-      "collectedAt": "2026-10-23T13:24:46.910647889Z",
-      "contentHash": "256cfac470f53f79f6bdd65ce6c19fc8f0a39eeb2ac1f24468a46937e8b8e750",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/drugs/generic-drugs/competitive-generic-therapy-approvals"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
       ]
     },
     {
