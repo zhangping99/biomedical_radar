@@ -1,7 +1,1306 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-30T07:42:52.776890495Z",
+  "generatedAt": "2026-10-30T08:36:19.799209775Z",
   "articles": [
+    {
+      "id": "c9c4af0f-f4a7-388c-abc7-9d5ca46ca7e5",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955209/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955209",
+      "titleOriginal": "Efficacy and Safety of Short-Course Radiotherapy Alone or Combined With Consolidation Chemotherapy Versus Conventional Long-Course Chemoradiotherapy for Locally Advanced Rectal Cancer: A Meta-Analysis of Randomized Controlled Trials.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "safety_alert",
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T00:00:00Z",
+      "collectedAt": "2026-10-30T08:36:17.719446173Z",
+      "contentHash": "4e0ae3ad7e14ead5e2b53bdced21406345d8e5fc1978bb22ec4156b1e4b291ce",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955209/"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "77d26e8a-5c54-388b-8317-5cbb2395330c",
+      "sourceId": "nejm-current-issue",
+      "sourceName": "New England Journal of Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMra2506114?af\u003dR\u0026rss\u003dcurrentIssue",
+      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMra2506114?af\u003dR\u0026rss\u003dcurrentIssue",
+      "titleOriginal": "Gram-Negative Bacterial Resistance",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "New England Journal of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T09:00:13Z",
+      "collectedAt": "2026-10-30T08:36:17.964251972Z",
+      "contentHash": "0d5565dd4b7ccf2b275b5d3b4aa3895214e0b8565ecf208cedc80668dcd06274",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nejm-current-issue",
+          "sourceName": "New England Journal of Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMra2506114?af\u003dR\u0026rss\u003dcurrentIssue"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "3bc16dfc-1607-30da-9724-c669460299f5",
+      "sourceId": "nejm-current-issue",
+      "sourceName": "New England Journal of Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2610348?af\u003dR\u0026rss\u003dcurrentIssue",
+      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2610348?af\u003dR\u0026rss\u003dcurrentIssue",
+      "titleOriginal": "Ensartinib in ALK-Positive Non–Small-Cell Lung Cancer",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "New England Journal of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T09:00:13Z",
+      "collectedAt": "2026-10-30T08:36:17.964495928Z",
+      "contentHash": "e3eb5f05d72b9569aa2c0c08d265f2b4ae2b05d1d6ade3434a3564bac24f3e22",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nejm-current-issue",
+          "sourceName": "New England Journal of Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2610348?af\u003dR\u0026rss\u003dcurrentIssue"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "49caf4d1-6c1c-3fc7-b4ce-5266723805fd",
+      "sourceId": "nejm-current-issue",
+      "sourceName": "New England Journal of Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2611462?af\u003dR\u0026rss\u003dcurrentIssue",
+      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2611462?af\u003dR\u0026rss\u003dcurrentIssue",
+      "titleOriginal": "Syncope",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "New England Journal of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T09:00:13Z",
+      "collectedAt": "2026-10-30T08:36:17.964964504Z",
+      "contentHash": "6278c155b9aa733a5d82b872dab35de385f2605d014bd329cd689cf5b8d468bb",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nejm-current-issue",
+          "sourceName": "New England Journal of Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2611462?af\u003dR\u0026rss\u003dcurrentIssue"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "0291fa8f-5c42-3c46-b80f-81470199a706",
+      "sourceId": "nejm-current-issue",
+      "sourceName": "New England Journal of Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2611610?af\u003dR\u0026rss\u003dcurrentIssue",
+      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2611610?af\u003dR\u0026rss\u003dcurrentIssue",
+      "titleOriginal": "Sirolimus-Coated Balloon Angioplasty for Infrainguinal Artery Disease",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "New England Journal of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T09:00:13Z",
+      "collectedAt": "2026-10-30T08:36:17.965148899Z",
+      "contentHash": "3d13314cf1946efab060dd8e3d59bba60e49dc2ebba3871d1fb724aa692ccdb4",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nejm-current-issue",
+          "sourceName": "New England Journal of Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2611610?af\u003dR\u0026rss\u003dcurrentIssue"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "317ba6e7-8ead-35fe-af10-8c640492a3dc",
+      "sourceId": "nejm-current-issue",
+      "sourceName": "New England Journal of Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2514812?af\u003dR\u0026rss\u003dcurrentIssue",
+      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2514812?af\u003dR\u0026rss\u003dcurrentIssue",
+      "titleOriginal": "SLC6A19 Inhibitor Repinatrabit and Phenylalanine Levels in Phenylketonuria",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "New England Journal of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T09:00:13Z",
+      "collectedAt": "2026-10-30T08:36:17.965366445Z",
+      "contentHash": "a31dc802751d7a1902119f3b0480fab80c57e9c6b5fa16d5fdc6d6fed2bedaaa",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nejm-current-issue",
+          "sourceName": "New England Journal of Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2514812?af\u003dR\u0026rss\u003dcurrentIssue"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "a1a23a30-ea62-308d-a33e-6a70a429b935",
+      "sourceId": "nejm-current-issue",
+      "sourceName": "New England Journal of Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2518656?af\u003dR\u0026rss\u003dcurrentIssue",
+      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2518656?af\u003dR\u0026rss\u003dcurrentIssue",
+      "titleOriginal": "Gene Therapy for Phenylketonuria in Adults",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "New England Journal of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T09:00:13Z",
+      "collectedAt": "2026-10-30T08:36:17.965557563Z",
+      "contentHash": "e4b3fa324abd0be412546cf46a6dbacbcd4b7363071fb04274e6bdd2da695491",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nejm-current-issue",
+          "sourceName": "New England Journal of Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2518656?af\u003dR\u0026rss\u003dcurrentIssue"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "7f94e958-bc9f-342a-86c0-d20ca039fb95",
+      "sourceId": "nejm-current-issue",
+      "sourceName": "New England Journal of Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2609764?af\u003dR\u0026rss\u003dcurrentIssue",
+      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2609764?af\u003dR\u0026rss\u003dcurrentIssue",
+      "titleOriginal": "Neuroepithelial Tumor with AAV Integration",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "New England Journal of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T09:00:13Z",
+      "collectedAt": "2026-10-30T08:36:17.965734353Z",
+      "contentHash": "15da602476bd699751aa2b495b556cd14d4c31e4fc9847222b36be3c23835837",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nejm-current-issue",
+          "sourceName": "New England Journal of Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2609764?af\u003dR\u0026rss\u003dcurrentIssue"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "e5c8b779-2cbb-3ba1-9798-915c49688da5",
+      "sourceId": "nejm-current-issue",
+      "sourceName": "New England Journal of Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMe2612346?af\u003dR\u0026rss\u003dcurrentIssue",
+      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMe2612346?af\u003dR\u0026rss\u003dcurrentIssue",
+      "titleOriginal": "Cardiac Monitors for Unexplained Syncope — More Benefit than Expected?",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "New England Journal of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T09:00:13Z",
+      "collectedAt": "2026-10-30T08:36:17.965910292Z",
+      "contentHash": "f8b3e96cf1ed76e9dda445f0b6b25cf8db627b3055324f667af2d16f4e5535e6",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nejm-current-issue",
+          "sourceName": "New England Journal of Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMe2612346?af\u003dR\u0026rss\u003dcurrentIssue"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "bb96413f-cc09-3ae4-9b17-0209da32787a",
+      "sourceId": "nejm-current-issue",
+      "sourceName": "New England Journal of Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMicm2609770?af\u003dR\u0026rss\u003dcurrentIssue",
+      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMicm2609770?af\u003dR\u0026rss\u003dcurrentIssue",
+      "titleOriginal": "Splenosis",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "New England Journal of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T09:00:13Z",
+      "collectedAt": "2026-10-30T08:36:17.967053669Z",
+      "contentHash": "5cb42d52a47c4fe2a933a549ac00d363e7082d1852d0bb6c27eb4579335c34e1",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nejm-current-issue",
+          "sourceName": "New England Journal of Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMicm2609770?af\u003dR\u0026rss\u003dcurrentIssue"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "6ab9db9d-79a4-39ec-8da8-154626db299e",
+      "sourceId": "nejm-current-issue",
+      "sourceName": "New England Journal of Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMimc2600356?af\u003dR\u0026rss\u003dcurrentIssue",
+      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMimc2600356?af\u003dR\u0026rss\u003dcurrentIssue",
+      "titleOriginal": "An Element Out of Place",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "New England Journal of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T09:00:13Z",
+      "collectedAt": "2026-10-30T08:36:17.967205042Z",
+      "contentHash": "2fee97e2b5fa756d74abb71f2de166959183c4d31c40cbbccfb8486b2800752d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nejm-current-issue",
+          "sourceName": "New England Journal of Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMimc2600356?af\u003dR\u0026rss\u003dcurrentIssue"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "8a04c378-c949-39a4-bf32-a0a916a4517b",
+      "sourceId": "nejm-current-issue",
+      "sourceName": "New England Journal of Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2603185?af\u003dR\u0026rss\u003dcurrentIssue",
+      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2603185?af\u003dR\u0026rss\u003dcurrentIssue",
+      "titleOriginal": "Case 31-2026: A 42-Year-Old Pregnant Woman with Vaginal Hemorrhage",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "New England Journal of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T09:00:13Z",
+      "collectedAt": "2026-10-30T08:36:17.967416427Z",
+      "contentHash": "f51f236b9a940c52cb267478a5a8487d6504939ac53f4fc49c53882197a1eadf",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nejm-current-issue",
+          "sourceName": "New England Journal of Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2603185?af\u003dR\u0026rss\u003dcurrentIssue"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "77f73c09-abd5-3608-8914-4d126ab2c658",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955574/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955574",
+      "titleOriginal": "Mitochondrial Dysfunction as a Convergent Mechanism of α-Synuclein Toxicity: A Systematic Review of In Vitro Fibrillar Models.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T00:00:00Z",
+      "collectedAt": "2026-10-30T08:36:17.715925131Z",
+      "contentHash": "25c2866b5c501606b681ae15250a9da4b179be8735cb0fb0dc6575b8a351b713",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955574/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "1d1f4fd8-7f86-3e46-9971-2bf385faf4ab",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955526/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955526",
+      "titleOriginal": "A randomised controlled crossover trial comparing two mandibular repositioning appliances for treatment of moderate obstructive sleep apnoea.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T00:00:00Z",
+      "collectedAt": "2026-10-30T08:36:17.716871631Z",
+      "contentHash": "da46f7f804fb33b8656f8e4bdfdcdc4391ace4fae1ee582c84e602424a70cdc6",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955526/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "cfe1a40e-dc71-3db7-a75b-024a78b72bce",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955513/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955513",
+      "titleOriginal": "Breastfeeding and maternal bone health 10 years postpartum: findings from the ROLO longitudinal cohort study.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T00:00:00Z",
+      "collectedAt": "2026-10-30T08:36:17.717043973Z",
+      "contentHash": "45f5370603d826609c2873da87f119a334213bb3bb2a7cf269fc15090b47c45c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955513/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "920d6140-8cc6-3c4f-9641-282e69157a18",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955463/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955463",
+      "titleOriginal": "Effect of intraoral glossopharyngeal nerve block on hemodynamic response to mouth retractor placement in transoral robotic surgery: a randomized clinical trial.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "clinical_registration",
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T00:00:00Z",
+      "collectedAt": "2026-10-30T08:36:17.717233347Z",
+      "contentHash": "64edd9fc34d45a8e821e5117eee31be23ceb05c4aea55d02088909fd4b8f515c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955463/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "28a7ef13-c2ed-351a-9d1e-282527da28bf",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955426/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955426",
+      "titleOriginal": "Germline BRCA-Lynch syndrome MINAS: report of six Argentinian families and a systematic review of the literature.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T00:00:00Z",
+      "collectedAt": "2026-10-30T08:36:17.717621342Z",
+      "contentHash": "6dc9e92ee7d4e8ae8687b140b8261fd2fc35bea2915b436af8ce18c9cd347393",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955426/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "1e2167e3-3cc2-365d-b423-1593aa09de7d",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955391/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955391",
+      "titleOriginal": "Comparison of sterile silicone studs and scalp infiltration with lignocaine for the attenuation of the hemodynamic and stress response to skull pin insertion during craniotomy in pediatric neurosurgical patients: a randomized controlled trial : Sterile silicone studs versus lignocaine infiltration for skull pin insertion.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T00:00:00Z",
+      "collectedAt": "2026-10-30T08:36:17.717783826Z",
+      "contentHash": "ffff75345dd323fa1d49668b73c7de73ef4d35473ea98d0acfc064eff735c482",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955391/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "af318196-ae92-3bb9-a0ea-8dc6906d5eab",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955373/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955373",
+      "titleOriginal": "Changes in gait function associated with cerebral small vessel disease-related cognitive impairment during dual-task walking: a systematic review and meta-analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T00:00:00Z",
+      "collectedAt": "2026-10-30T08:36:17.718615680Z",
+      "contentHash": "34209c25824718e5b66d933aae4eee0aaaea6e4f46f8aa5159136722024c7ec9",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955373/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "c453e1ea-fd4c-30aa-a273-42f8f59eab0f",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955358/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955358",
+      "titleOriginal": "Controlled postoperative red wine intake versus abstinence in habitual wine drinkers undergoing elective urological surgery (WISE): a translational randomized controlled trial assessing quality of life, surgical outcomes and complications.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T00:00:00Z",
+      "collectedAt": "2026-10-30T08:36:17.718820523Z",
+      "contentHash": "76601d3182826031a13e4edb876b06aeb4a8899b2205008b50474137e024f16d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955358/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "5f32a4a4-e007-31a8-b3a2-9cebd638e74c",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955351/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955351",
+      "titleOriginal": "(Short-term effects of myofascial release with therapist-mediated transcutaneous electrical nerve stimulation in adolescent idiopathic scoliosis: an exploratory randomized controlled trial).",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T00:00:00Z",
+      "collectedAt": "2026-10-30T08:36:17.719025386Z",
+      "contentHash": "76727b46adbba320aa41ee8295c26e37ce8c313557fd0a0c28d8353a43426038",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955351/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "0ace1ba9-07ad-323e-9063-a2020ff6fa96",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955350/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955350",
+      "titleOriginal": "Reporting Gaps and Challenges in Randomized Trials of Generative AI for Medical Use: Insights From a Systematic Review.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T00:00:00Z",
+      "collectedAt": "2026-10-30T08:36:17.719225150Z",
+      "contentHash": "c273359112e2484babccda5d5be044fc8dca31cdf57896c985b526221c38f9bc",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955350/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "ff3b5ddd-a151-3a39-a07b-1cca2b2a2e6b",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955200/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955200",
+      "titleOriginal": "The Experience of Urinary Incontinence and Lower Urinary Tract Symptoms on Work Participation: A Scoping Review.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T00:00:00Z",
+      "collectedAt": "2026-10-30T08:36:17.719829179Z",
+      "contentHash": "e520ee64a763b6389b8209d8e92b3c7979784e15f6a29158d1be9f9f7a17792c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955200/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "7fe373b0-5220-38e6-95be-22ed1d6f113c",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955146/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955146",
+      "titleOriginal": "Obesity and perioperative outcomes of robotic-assisted surgery for endometrial cancer: a systematic review and meta-analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T00:00:00Z",
+      "collectedAt": "2026-10-30T08:36:17.720176929Z",
+      "contentHash": "c3ea4c5804d5a4ac75ff243070d9598ece41f7467a266bb66d133fa7b1fda431",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42955146/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "1d8a3b8f-b524-348a-b876-ed1d5a77c3f7",
+      "sourceId": "nature-medicine",
+      "sourceName": "Nature Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41591-026-04748-1",
+      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04748-1",
+      "titleOriginal": "Editorial Expression of Concern: \u003ci\u003eMicroRNA-133\u003c/i\u003e controls cardiac hypertrophy",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T00:00:00Z",
+      "collectedAt": "2026-10-30T08:36:17.521212061Z",
+      "contentHash": "103d83eb331fda4ee857c35a1699183e2a0ce6250c05b538bf367e24571f41d2",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-medicine",
+          "sourceName": "Nature Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41591-026-04748-1"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "1fbcd126-cc1d-30b9-9d4b-01f66432f5cb",
+      "sourceId": "nature-biotechnology",
+      "sourceName": "Nature Biotechnology",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41587-026-03352-5",
+      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03352-5",
+      "titleOriginal": "An engineered, compact Cas12m variant for multiplexed gene activation in vivo",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Biotechnology"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T00:00:00Z",
+      "collectedAt": "2026-10-30T08:36:17.777365109Z",
+      "contentHash": "e5449fa429c0bd2d60d5242ed042db2c98075a0c373d7a4b3abbd61c4a9e12cb",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-biotechnology",
+          "sourceName": "Nature Biotechnology",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41587-026-03352-5"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "b87c2509-7260-3ccb-99c6-8939952d039b",
+      "sourceId": "nature-biotechnology",
+      "sourceName": "Nature Biotechnology",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41587-026-03343-6",
+      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03343-6",
+      "titleOriginal": "An mRNA–lipid nanoparticle vaccine against H5N1 influenza virus protects lactating dairy cows from infection",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Biotechnology"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T00:00:00Z",
+      "collectedAt": "2026-10-30T08:36:17.777665971Z",
+      "contentHash": "039b98407d2f1d51a6e7048ec39a9aeda612fab57e4afec84c3c274202611240",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-biotechnology",
+          "sourceName": "Nature Biotechnology",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41587-026-03343-6"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
     {
       "id": "05a7d2e6-7324-3d04-be4d-c82f708737c9",
       "sourceId": "abbvie-news",
@@ -926,534 +2225,6 @@
       ]
     },
     {
-      "id": "77d26e8a-5c54-388b-8317-5cbb2395330c",
-      "sourceId": "nejm-current-issue",
-      "sourceName": "New England Journal of Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMra2506114?af\u003dR\u0026rss\u003dcurrentIssue",
-      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMra2506114?af\u003dR\u0026rss\u003dcurrentIssue",
-      "titleOriginal": "Gram-Negative Bacterial Resistance",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "New England Journal of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-28T09:00:13Z",
-      "collectedAt": "2026-10-29T19:37:01.376974160Z",
-      "contentHash": "0d5565dd4b7ccf2b275b5d3b4aa3895214e0b8565ecf208cedc80668dcd06274",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nejm-current-issue",
-          "sourceName": "New England Journal of Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMra2506114?af\u003dR\u0026rss\u003dcurrentIssue"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "3bc16dfc-1607-30da-9724-c669460299f5",
-      "sourceId": "nejm-current-issue",
-      "sourceName": "New England Journal of Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2610348?af\u003dR\u0026rss\u003dcurrentIssue",
-      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2610348?af\u003dR\u0026rss\u003dcurrentIssue",
-      "titleOriginal": "Ensartinib in ALK-Positive Non–Small-Cell Lung Cancer",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "New England Journal of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-28T09:00:13Z",
-      "collectedAt": "2026-10-29T19:37:01.377170217Z",
-      "contentHash": "e3eb5f05d72b9569aa2c0c08d265f2b4ae2b05d1d6ade3434a3564bac24f3e22",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nejm-current-issue",
-          "sourceName": "New England Journal of Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2610348?af\u003dR\u0026rss\u003dcurrentIssue"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "49caf4d1-6c1c-3fc7-b4ce-5266723805fd",
-      "sourceId": "nejm-current-issue",
-      "sourceName": "New England Journal of Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2611462?af\u003dR\u0026rss\u003dcurrentIssue",
-      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2611462?af\u003dR\u0026rss\u003dcurrentIssue",
-      "titleOriginal": "Syncope",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "New England Journal of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-28T09:00:13Z",
-      "collectedAt": "2026-10-29T19:37:01.377634377Z",
-      "contentHash": "6278c155b9aa733a5d82b872dab35de385f2605d014bd329cd689cf5b8d468bb",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nejm-current-issue",
-          "sourceName": "New England Journal of Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2611462?af\u003dR\u0026rss\u003dcurrentIssue"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "0291fa8f-5c42-3c46-b80f-81470199a706",
-      "sourceId": "nejm-current-issue",
-      "sourceName": "New England Journal of Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2611610?af\u003dR\u0026rss\u003dcurrentIssue",
-      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2611610?af\u003dR\u0026rss\u003dcurrentIssue",
-      "titleOriginal": "Sirolimus-Coated Balloon Angioplasty for Infrainguinal Artery Disease",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "New England Journal of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-28T09:00:13Z",
-      "collectedAt": "2026-10-29T19:37:01.377818321Z",
-      "contentHash": "3d13314cf1946efab060dd8e3d59bba60e49dc2ebba3871d1fb724aa692ccdb4",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nejm-current-issue",
-          "sourceName": "New England Journal of Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2611610?af\u003dR\u0026rss\u003dcurrentIssue"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "317ba6e7-8ead-35fe-af10-8c640492a3dc",
-      "sourceId": "nejm-current-issue",
-      "sourceName": "New England Journal of Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2514812?af\u003dR\u0026rss\u003dcurrentIssue",
-      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2514812?af\u003dR\u0026rss\u003dcurrentIssue",
-      "titleOriginal": "SLC6A19 Inhibitor Repinatrabit and Phenylalanine Levels in Phenylketonuria",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "New England Journal of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-28T09:00:13Z",
-      "collectedAt": "2026-10-29T19:37:01.378031431Z",
-      "contentHash": "a31dc802751d7a1902119f3b0480fab80c57e9c6b5fa16d5fdc6d6fed2bedaaa",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nejm-current-issue",
-          "sourceName": "New England Journal of Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2514812?af\u003dR\u0026rss\u003dcurrentIssue"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "a1a23a30-ea62-308d-a33e-6a70a429b935",
-      "sourceId": "nejm-current-issue",
-      "sourceName": "New England Journal of Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2518656?af\u003dR\u0026rss\u003dcurrentIssue",
-      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2518656?af\u003dR\u0026rss\u003dcurrentIssue",
-      "titleOriginal": "Gene Therapy for Phenylketonuria in Adults",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "New England Journal of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-28T09:00:13Z",
-      "collectedAt": "2026-10-29T19:37:01.378211899Z",
-      "contentHash": "e4b3fa324abd0be412546cf46a6dbacbcd4b7363071fb04274e6bdd2da695491",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nejm-current-issue",
-          "sourceName": "New England Journal of Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2518656?af\u003dR\u0026rss\u003dcurrentIssue"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "7f94e958-bc9f-342a-86c0-d20ca039fb95",
-      "sourceId": "nejm-current-issue",
-      "sourceName": "New England Journal of Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2609764?af\u003dR\u0026rss\u003dcurrentIssue",
-      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2609764?af\u003dR\u0026rss\u003dcurrentIssue",
-      "titleOriginal": "Neuroepithelial Tumor with AAV Integration",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "New England Journal of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-28T09:00:13Z",
-      "collectedAt": "2026-10-29T19:37:01.378388239Z",
-      "contentHash": "15da602476bd699751aa2b495b556cd14d4c31e4fc9847222b36be3c23835837",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nejm-current-issue",
-          "sourceName": "New England Journal of Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMc2609764?af\u003dR\u0026rss\u003dcurrentIssue"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "e5c8b779-2cbb-3ba1-9798-915c49688da5",
-      "sourceId": "nejm-current-issue",
-      "sourceName": "New England Journal of Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMe2612346?af\u003dR\u0026rss\u003dcurrentIssue",
-      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMe2612346?af\u003dR\u0026rss\u003dcurrentIssue",
-      "titleOriginal": "Cardiac Monitors for Unexplained Syncope — More Benefit than Expected?",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "New England Journal of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-28T09:00:13Z",
-      "collectedAt": "2026-10-29T19:37:01.378575119Z",
-      "contentHash": "f8b3e96cf1ed76e9dda445f0b6b25cf8db627b3055324f667af2d16f4e5535e6",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nejm-current-issue",
-          "sourceName": "New England Journal of Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMe2612346?af\u003dR\u0026rss\u003dcurrentIssue"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "bb96413f-cc09-3ae4-9b17-0209da32787a",
-      "sourceId": "nejm-current-issue",
-      "sourceName": "New England Journal of Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMicm2609770?af\u003dR\u0026rss\u003dcurrentIssue",
-      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMicm2609770?af\u003dR\u0026rss\u003dcurrentIssue",
-      "titleOriginal": "Splenosis",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "New England Journal of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-28T09:00:13Z",
-      "collectedAt": "2026-10-29T19:37:01.379777943Z",
-      "contentHash": "5cb42d52a47c4fe2a933a549ac00d363e7082d1852d0bb6c27eb4579335c34e1",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nejm-current-issue",
-          "sourceName": "New England Journal of Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMicm2609770?af\u003dR\u0026rss\u003dcurrentIssue"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "6ab9db9d-79a4-39ec-8da8-154626db299e",
-      "sourceId": "nejm-current-issue",
-      "sourceName": "New England Journal of Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMimc2600356?af\u003dR\u0026rss\u003dcurrentIssue",
-      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMimc2600356?af\u003dR\u0026rss\u003dcurrentIssue",
-      "titleOriginal": "An Element Out of Place",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "New England Journal of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-28T09:00:13Z",
-      "collectedAt": "2026-10-29T19:37:01.379982246Z",
-      "contentHash": "2fee97e2b5fa756d74abb71f2de166959183c4d31c40cbbccfb8486b2800752d",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nejm-current-issue",
-          "sourceName": "New England Journal of Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMimc2600356?af\u003dR\u0026rss\u003dcurrentIssue"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "8a04c378-c949-39a4-bf32-a0a916a4517b",
-      "sourceId": "nejm-current-issue",
-      "sourceName": "New England Journal of Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2603185?af\u003dR\u0026rss\u003dcurrentIssue",
-      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2603185?af\u003dR\u0026rss\u003dcurrentIssue",
-      "titleOriginal": "Case 31-2026: A 42-Year-Old Pregnant Woman with Vaginal Hemorrhage",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "New England Journal of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-28T09:00:13Z",
-      "collectedAt": "2026-10-29T19:37:01.380165469Z",
-      "contentHash": "f51f236b9a940c52cb267478a5a8487d6504939ac53f4fc49c53882197a1eadf",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nejm-current-issue",
-          "sourceName": "New England Journal of Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2603185?af\u003dR\u0026rss\u003dcurrentIssue"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
       "id": "d66e5545-05d2-3d23-bbbd-e494819613ce",
       "sourceId": "pubmed-recent",
       "sourceName": "PubMed",
@@ -1886,54 +2657,6 @@
       ]
     },
     {
-      "id": "1d8a3b8f-b524-348a-b876-ed1d5a77c3f7",
-      "sourceId": "nature-medicine",
-      "sourceName": "Nature Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41591-026-04748-1",
-      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04748-1",
-      "titleOriginal": "Editorial Expression of Concern: \u003ci\u003eMicroRNA-133\u003c/i\u003e controls cardiac hypertrophy",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-28T00:00:00Z",
-      "collectedAt": "2026-10-29T19:37:00.995481660Z",
-      "contentHash": "103d83eb331fda4ee857c35a1699183e2a0ce6250c05b538bf367e24571f41d2",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-medicine",
-          "sourceName": "Nature Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41591-026-04748-1"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
       "id": "fae954a3-05bd-3a13-889d-801a677e9daf",
       "sourceId": "medrxiv-recent",
       "sourceName": "medRxiv",
@@ -2123,102 +2846,6 @@
       "importanceScore": 43,
       "importanceReasons": [
         "高影响事件",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "1fbcd126-cc1d-30b9-9d4b-01f66432f5cb",
-      "sourceId": "nature-biotechnology",
-      "sourceName": "Nature Biotechnology",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41587-026-03352-5",
-      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03352-5",
-      "titleOriginal": "An engineered, compact Cas12m variant for multiplexed gene activation in vivo",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Biotechnology"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-28T00:00:00Z",
-      "collectedAt": "2026-10-29T19:37:01.383866374Z",
-      "contentHash": "e5449fa429c0bd2d60d5242ed042db2c98075a0c373d7a4b3abbd61c4a9e12cb",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-biotechnology",
-          "sourceName": "Nature Biotechnology",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41587-026-03352-5"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "b87c2509-7260-3ccb-99c6-8939952d039b",
-      "sourceId": "nature-biotechnology",
-      "sourceName": "Nature Biotechnology",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41587-026-03343-6",
-      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03343-6",
-      "titleOriginal": "An mRNA–lipid nanoparticle vaccine against H5N1 influenza virus protects lactating dairy cows from infection",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Biotechnology"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-28T00:00:00Z",
-      "collectedAt": "2026-10-29T19:37:01.384043987Z",
-      "contentHash": "039b98407d2f1d51a6e7048ec39a9aeda612fab57e4afec84c3c274202611240",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-biotechnology",
-          "sourceName": "Nature Biotechnology",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41587-026-03343-6"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
         "近期更新"
       ]
     },

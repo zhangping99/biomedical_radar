@@ -1,7 +1,57 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-30T07:42:52.776890495Z",
+  "generatedAt": "2026-10-30T08:36:19.799209775Z",
   "articles": [
+    {
+      "id": "e080f7dc-79c3-322c-a324-8317e9e354ec",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07881692",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07881692",
+      "titleOriginal": "GOT VOICE Feasibility With In-Person Group Singing",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Elderly",
+        "Coronary Arterial Disease (CAD)"
+      ],
+      "publishedAt": "2026-10-19T00:00:00Z",
+      "collectedAt": "2026-10-30T08:36:17.399484591Z",
+      "contentHash": "844fe6e5bae9067140e7f4ab548e89f9a6b754b7fde1ed3a458e0623240fc35e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07881692"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "80cd2283-e8c9-3b96-bbc5-50f55df8e80d",
       "sourceId": "gsk-press-releases",
@@ -276,56 +326,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "e080f7dc-79c3-322c-a324-8317e9e354ec",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07881692",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07881692",
-      "titleOriginal": "GOT VOICE Feasibility With In-Person Group Singing",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Elderly",
-        "Coronary Arterial Disease (CAD)"
-      ],
-      "publishedAt": "2026-10-19T00:00:00Z",
-      "collectedAt": "2026-10-29T19:37:00.879370820Z",
-      "contentHash": "844fe6e5bae9067140e7f4ab548e89f9a6b754b7fde1ed3a458e0623240fc35e",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07881692"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     },
     {
       "id": "b1441fb5-3256-3b86-b39f-b336cbc0ffae",
