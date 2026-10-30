@@ -1,7 +1,54 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-30T19:19:54.151144041Z",
+  "generatedAt": "2026-10-30T20:05:21.970995925Z",
   "articles": [
+    {
+      "id": "2c3837b1-21b0-38cd-ad43-3f52d963322c",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/28/keeping-kids-safe-on-halloween",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/28/keeping-kids-safe-on-halloween",
+      "titleOriginal": "Keeping Kids Safe on Halloween",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T00:00:00Z",
+      "collectedAt": "2026-10-30T20:05:19.479665556Z",
+      "contentHash": "34c3db99f79bac9571a0ac5b4756f9e63aca7a9919b8ced49f3de223d458236c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/28/keeping-kids-safe-on-halloween"
+        }
+      ],
+      "importanceScore": 28,
+      "importanceReasons": [
+        "近期更新"
+      ]
+    },
     {
       "id": "77d26e8a-5c54-388b-8317-5cbb2395330c",
       "sourceId": "nejm-current-issue",
@@ -1641,53 +1688,6 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "2c3837b1-21b0-38cd-ad43-3f52d963322c",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/28/keeping-kids-safe-on-halloween",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/28/keeping-kids-safe-on-halloween",
-      "titleOriginal": "Keeping Kids Safe on Halloween",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-28T00:00:00Z",
-      "collectedAt": "2026-10-30T10:25:03.757536806Z",
-      "contentHash": "34c3db99f79bac9571a0ac5b4756f9e63aca7a9919b8ced49f3de223d458236c",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/28/keeping-kids-safe-on-halloween"
-        }
-      ],
-      "importanceScore": 28,
-      "importanceReasons": [
         "近期更新"
       ]
     },
