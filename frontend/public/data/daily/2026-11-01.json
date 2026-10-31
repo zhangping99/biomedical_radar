@@ -1,16 +1,16 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-31T14:31:06.479428233Z",
+  "generatedAt": "2026-10-31T18:32:00.984994785Z",
   "articles": [
     {
-      "id": "99eaf5a6-82d7-3aac-947f-33300db60e60",
+      "id": "f5ff2910-7b51-31b7-ac53-f9d547f758d7",
       "sourceId": "pubmed-recent",
       "sourceName": "PubMed",
       "sourceTier": "A",
       "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42956759/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42956759",
-      "titleOriginal": "Decitabine plus busulfan-cyclophosphamide versus busulfan-cyclophosphamide myeloablative conditioning before allogeneic haematopoietic stem cell transplantation for reducing risk of relapse in adult KMT2A‐rearranged leukaemia in China: an open-label, multicentre, randomised phase 3 trial.",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963322/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963322",
+      "titleOriginal": "Effect of Food on the Pharmacokinetics, Pharmacodynamics, and Safety of Zastaprazan, a Potassium-Competitive Acid Blocker, in Healthy Participants.",
       "titleZh": null,
       "summaryZh": null,
       "whyItMattersZh": null,
@@ -18,7 +18,7 @@
       "region": "GLOBAL",
       "category": "research_academic",
       "eventTypes": [
-        "phase_3_result"
+        "safety_alert"
       ],
       "entities": [
         {
@@ -28,8 +28,8 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-01T00:00:00Z",
-      "collectedAt": "2026-10-31T08:23:55.624173439Z",
-      "contentHash": "cba443881a6c83a24b7cf58dd633dd16e4601522b2d880c5c0d8ca42c5c17d3b",
+      "collectedAt": "2026-10-31T18:31:59.808098223Z",
+      "contentHash": "73ed1927f955184c1b22580df9f29e2478b0f27c0475b7727bfacea2a4fc2ff5",
       "generated": false,
       "generatorVersion": null,
       "generatedAt": null,
@@ -41,13 +41,205 @@
           "sourceId": "pubmed-recent",
           "sourceName": "PubMed",
           "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42956759/"
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963322/"
         }
       ],
       "importanceScore": 65,
       "importanceReasons": [
         "官方一手来源",
         "高影响事件",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "10ddb996-eea2-3a40-91d3-86bb09121661",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963935/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963935",
+      "titleOriginal": "A multicenter, prospective, phase 2 trial on proton re-irradiation for patients with previously treated head and neck cancer.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "collectedAt": "2026-10-31T18:31:59.805455160Z",
+      "contentHash": "044e57967ffb58f523092acd18080e0d578950e9d294b9edea1083ebd1b2c0cb",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963935/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "5a2b1bdd-3756-3f7a-a0c9-428bc69f519b",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963911/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963911",
+      "titleOriginal": "Eltrombopag during induction chemotherapy in older patients with newly diagnosed acute myeloid leukemia is safe and reduces platelet transfusion requirements: The EPAG-2015 French Innovative Leukemia Organization phase 2 randomized trial.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "collectedAt": "2026-10-31T18:31:59.805578350Z",
+      "contentHash": "e08addd44e1b0b59f686436f1e4ea8dd968afa1c637fee365cd8e331f17e2ef3",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963911/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "2db65ca1-9fad-3c6d-89c2-057e410ee192",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963345/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963345",
+      "titleOriginal": "Effects of a Nurse-Led Multicomponent Exercise Intervention for Haemodialysis Patients With Possible or Confirmed Sarcopenia: A Cluster Randomised Trial.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "collectedAt": "2026-10-31T18:31:59.806850546Z",
+      "contentHash": "f708088e91eb67806261b47a4523b152cfa60781435094a39a9b53d4492c03b6",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963345/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "a581d087-59b4-3ad8-ac6a-688c4e8b3b0d",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963341/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963341",
+      "titleOriginal": "The Effect of Implementing Orem\u0027s Self-Care Model on Balance and Fatigue in Patients With Diabetic Neuropathy: A Clinical Trial.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "collectedAt": "2026-10-31T18:31:59.806996087Z",
+      "contentHash": "ec78c849c04b8243720cff814a25bed7b91b49bdc9844be105bc922e0a01b1f6",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963341/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
         "24小时内更新"
       ]
     },
@@ -77,7 +269,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-01T00:00:00Z",
-      "collectedAt": "2026-10-31T08:23:55.622253918Z",
+      "collectedAt": "2026-10-31T18:31:59.811312277Z",
       "contentHash": "bd2921b0f4d2a0502d433a66b533b8fa247d70e74c7984a0926d04c68d793137",
       "generated": false,
       "generatorVersion": null,
@@ -125,7 +317,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-01T00:00:00Z",
-      "collectedAt": "2026-10-31T08:23:55.622324824Z",
+      "collectedAt": "2026-10-31T18:31:59.811467226Z",
       "contentHash": "6e7189d84e3a639fce03d2b0245477656db9b3596df2f3be2fc03f4123f8ef5d",
       "generated": false,
       "generatorVersion": null,
@@ -173,7 +365,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-01T00:00:00Z",
-      "collectedAt": "2026-10-31T08:23:55.622397072Z",
+      "collectedAt": "2026-10-31T18:31:59.811627435Z",
       "contentHash": "37bf9f57112d32d2c638359251b236908d8734923f918336480258c884d648f1",
       "generated": false,
       "generatorVersion": null,
@@ -221,7 +413,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-01T00:00:00Z",
-      "collectedAt": "2026-10-31T08:23:55.622842561Z",
+      "collectedAt": "2026-10-31T18:31:59.812598238Z",
       "contentHash": "354c5a15bfa8d5ed7749c6f09a5e919a4bd78a30c17e9c9ea8c918b5c2d3add6",
       "generated": false,
       "generatorVersion": null,
@@ -240,6 +432,55 @@
       "importanceScore": 50,
       "importanceReasons": [
         "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "99eaf5a6-82d7-3aac-947f-33300db60e60",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42956759/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42956759",
+      "titleOriginal": "Decitabine plus busulfan-cyclophosphamide versus busulfan-cyclophosphamide myeloablative conditioning before allogeneic haematopoietic stem cell transplantation for reducing risk of relapse in adult KMT2A‐rearranged leukaemia in China: an open-label, multicentre, randomised phase 3 trial.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "phase_3_result"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-01T00:00:00Z",
+      "collectedAt": "2026-10-31T08:23:55.624173439Z",
+      "contentHash": "cba443881a6c83a24b7cf58dd633dd16e4601522b2d880c5c0d8ca42c5c17d3b",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42956759/"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
         "24小时内更新"
       ]
     },

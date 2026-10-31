@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-31T14:31:06.479428233Z",
+  "generatedAt": "2026-10-31T18:32:00.984994785Z",
   "articles": [
+    {
+      "id": "5e796255-90ae-33e9-b27b-1e2c35ba95dd",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07796360",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07796360",
+      "titleOriginal": "Dynamic Magnetic Resonance Imaging of Human Subarachnoid Space Using Intrathecal Gadolinium Contrast",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Healthy Volunteers"
+      ],
+      "publishedAt": "2026-09-01T00:00:00Z",
+      "collectedAt": "2026-10-31T18:31:59.220770881Z",
+      "contentHash": "11aae0d56dd78bb9a4643d4179e83b11c81021717bd15521fb26169dae22abaa",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07796360"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "e85e2fcc-6a1c-3f95-b278-52cdf8000bba",
       "sourceId": "gsk-press-releases",
@@ -47,55 +96,6 @@
       "importanceScore": 35,
       "importanceReasons": [
         "高影响事件"
-      ]
-    },
-    {
-      "id": "5e796255-90ae-33e9-b27b-1e2c35ba95dd",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07796360",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07796360",
-      "titleOriginal": "Dynamic Magnetic Resonance Imaging of Human Subarachnoid Space Using Intrathecal Gadolinium Contrast",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Healthy Volunteers"
-      ],
-      "publishedAt": "2026-09-01T00:00:00Z",
-      "collectedAt": "2026-10-31T08:23:55.185148137Z",
-      "contentHash": "11aae0d56dd78bb9a4643d4179e83b11c81021717bd15521fb26169dae22abaa",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07796360"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
       ]
     },
     {
