@@ -1,7 +1,54 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-31T13:50:48.801077250Z",
+  "generatedAt": "2026-10-31T14:31:06.479428233Z",
   "articles": [
+    {
+      "id": "f42d54eb-252e-3030-96a9-561ae39bcadf",
+      "sourceId": "ema-news",
+      "sourceName": "European Medicines Agency",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.ema.europa.eu/en/news/clinical-trial-applications-advice-pilot-becomes-permanent",
+      "canonicalUrl": "https://www.ema.europa.eu/en/news/clinical-trial-applications-advice-pilot-becomes-permanent",
+      "titleOriginal": "Clinical trial applications advice pilot becomes permanent",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "EU",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "European Medicines Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-08T15:09:00Z",
+      "collectedAt": "2026-10-31T14:31:04.122397050Z",
+      "contentHash": "256eeec32abbb8e7366e6deb19b743a71aaa82f259ef1cd0a5687ce1dc0d86ce",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "ema-news",
+          "sourceName": "European Medicines Agency",
+          "sourceTier": "A",
+          "originalUrl": "https://www.ema.europa.eu/en/news/clinical-trial-applications-advice-pilot-becomes-permanent"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "a6da8b9a-34e4-39c8-94d1-90a522cc4418",
       "sourceId": "hengrui-focus-news",
@@ -180,53 +227,6 @@
           "sourceName": "Nature Reviews Cancer",
           "sourceTier": "A",
           "originalUrl": "https://www.nature.com/articles/s41568-026-00985-1"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "f42d54eb-252e-3030-96a9-561ae39bcadf",
-      "sourceId": "ema-news",
-      "sourceName": "European Medicines Agency",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.ema.europa.eu/en/news/clinical-trial-applications-advice-pilot-becomes-permanent",
-      "canonicalUrl": "https://www.ema.europa.eu/en/news/clinical-trial-applications-advice-pilot-becomes-permanent",
-      "titleOriginal": "Clinical trial applications advice pilot becomes permanent",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "EU",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "European Medicines Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-08T15:09:00Z",
-      "collectedAt": "2026-10-31T05:37:39.945943437Z",
-      "contentHash": "256eeec32abbb8e7366e6deb19b743a71aaa82f259ef1cd0a5687ce1dc0d86ce",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "ema-news",
-          "sourceName": "European Medicines Agency",
-          "sourceTier": "A",
-          "originalUrl": "https://www.ema.europa.eu/en/news/clinical-trial-applications-advice-pilot-becomes-permanent"
         }
       ],
       "importanceScore": 35,

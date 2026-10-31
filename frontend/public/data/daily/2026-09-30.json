@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-31T13:50:48.801077250Z",
+  "generatedAt": "2026-10-31T14:31:06.479428233Z",
   "articles": [
+    {
+      "id": "005d2459-4058-3379-8051-3419206fddc6",
+      "sourceId": "pmda-safety-updates",
+      "sourceName": "Japan PMDA Safety Updates",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/medical-safety-information/0024.html",
+      "canonicalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/medical-safety-information/0024.html",
+      "titleOriginal": "MHLW Pharmaceuticals and Medical Devices Safety Information No.431 posted",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "JP",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Pharmaceuticals and Medical Devices Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-30T00:00:00Z",
+      "collectedAt": "2026-10-31T14:31:06.181711044Z",
+      "contentHash": "b601fd5f870f5ec0413957cae4deff9752d4ef6716d7145d6578020a83878319",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "pmda-safety-updates",
+          "sourceName": "Japan PMDA Safety Updates",
+          "sourceTier": "A",
+          "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/medical-safety-information/0024.html"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "1c135540-27c1-381e-9d70-6c6c0abacbf4",
       "sourceId": "cleveland-clinic-news",
@@ -46,55 +95,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "005d2459-4058-3379-8051-3419206fddc6",
-      "sourceId": "pmda-safety-updates",
-      "sourceName": "Japan PMDA Safety Updates",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/medical-safety-information/0024.html",
-      "canonicalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/medical-safety-information/0024.html",
-      "titleOriginal": "MHLW Pharmaceuticals and Medical Devices Safety Information No.431 posted",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "JP",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Pharmaceuticals and Medical Devices Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-30T00:00:00Z",
-      "collectedAt": "2026-10-31T05:37:41.281433990Z",
-      "contentHash": "b601fd5f870f5ec0413957cae4deff9752d4ef6716d7145d6578020a83878319",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "pmda-safety-updates",
-          "sourceName": "Japan PMDA Safety Updates",
-          "sourceTier": "A",
-          "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/medical-safety-information/0024.html"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
     },
     {
       "id": "9fbab2e2-7586-36db-ae83-7b77fdbb0cb6",
