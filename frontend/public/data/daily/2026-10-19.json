@@ -1,52 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-10-31T13:04:03.366847877Z",
+  "generatedAt": "2026-10-31T13:50:48.801077250Z",
   "articles": [
-    {
-      "id": "a9bb1943-ba90-3fb3-8028-fe5ad7a9f695",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/19/cleveland-clinic-led-study-establishes-major-genetic-contributor-to-heart-failure-in-people-of-african-ancestry",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/19/cleveland-clinic-led-study-establishes-major-genetic-contributor-to-heart-failure-in-people-of-african-ancestry",
-      "titleOriginal": "Cleveland Clinic-led Study Establishes Major Genetic Contributor to Heart Failure in People of African Ancestry",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-19T00:00:00Z",
-      "collectedAt": "2026-10-31T09:55:40.564379007Z",
-      "contentHash": "703fc5d85174202e5d1512166fe886360f2875424176b83fc94959e217246c77",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/19/cleveland-clinic-led-study-establishes-major-genetic-contributor-to-heart-failure-in-people-of-african-ancestry"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
     {
       "id": "80cd2283-e8c9-3b96-bbc5-50f55df8e80d",
       "sourceId": "gsk-press-releases",
@@ -73,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-19T17:42:21Z",
-      "collectedAt": "2026-10-31T07:28:00.109323881Z",
+      "collectedAt": "2026-10-31T13:50:45.575116370Z",
       "contentHash": "fa72071d89594c9266ea870ddd93dbdedff5cad243fb5451a5d96c9ec84f4f8e",
       "generated": false,
       "generatorVersion": null,
@@ -120,7 +75,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-19T08:00:00Z",
-      "collectedAt": "2026-10-31T07:28:01.354733768Z",
+      "collectedAt": "2026-10-31T13:50:47.949904901Z",
       "contentHash": "c3fb9d89fd306533c37ee4c846e31c024c32e24eec18cce3d3c65d2f362bde1e",
       "generated": false,
       "generatorVersion": null,
@@ -165,7 +120,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-19T00:00:00Z",
-      "collectedAt": "2026-10-31T07:27:59.920722995Z",
+      "collectedAt": "2026-10-31T13:50:45.081704558Z",
       "contentHash": "c16764cc72efdd90fa491bf9837dcf8d056a96c1a9ddde2a08d02920b42055b5",
       "generated": false,
       "generatorVersion": null,
@@ -210,7 +165,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-19T00:00:00Z",
-      "collectedAt": "2026-10-31T07:28:02.161626158Z",
+      "collectedAt": "2026-10-31T13:50:47.724641346Z",
       "contentHash": "db1c1061a2e0a52d6540d6d8fdab009d063c7ff631fcd44936bf5d01f4d95989",
       "generated": false,
       "generatorVersion": null,
@@ -224,6 +179,51 @@
           "sourceName": "翰森制药新闻发布",
           "sourceTier": "B",
           "originalUrl": "https://www.hansoh.cn/news/news-detail-514090.htm"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "a9bb1943-ba90-3fb3-8028-fe5ad7a9f695",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/19/cleveland-clinic-led-study-establishes-major-genetic-contributor-to-heart-failure-in-people-of-african-ancestry",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/19/cleveland-clinic-led-study-establishes-major-genetic-contributor-to-heart-failure-in-people-of-african-ancestry",
+      "titleOriginal": "Cleveland Clinic-led Study Establishes Major Genetic Contributor to Heart Failure in People of African Ancestry",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-19T00:00:00Z",
+      "collectedAt": "2026-10-31T09:55:40.564379007Z",
+      "contentHash": "703fc5d85174202e5d1512166fe886360f2875424176b83fc94959e217246c77",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/19/cleveland-clinic-led-study-establishes-major-genetic-contributor-to-heart-failure-in-people-of-african-ancestry"
         }
       ],
       "importanceScore": 20,
