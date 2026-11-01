@@ -1,7 +1,939 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-01T08:04:44.380503560Z",
+  "generatedAt": "2026-11-01T09:12:58.234076709Z",
   "articles": [
+    {
+      "id": "d37d7745-c2a2-3a45-9c05-d86b6c5366a4",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07907055",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07907055",
+      "titleOriginal": "PAUL® Glaucoma Implant Safety and Effectiveness Study",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert",
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Refractory Glaucoma"
+      ],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "collectedAt": "2026-11-01T09:12:56.342640988Z",
+      "contentHash": "ccb68d88dde501175ec42541288b47426d4e32c6689daa1565bc0f0be0eea522",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07907055"
+        }
+      ],
+      "importanceScore": 73,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "eca36387-8c36-3483-816c-81b56d4c54ac",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42965335/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42965335",
+      "titleOriginal": "Efficacy and Safety of Nafamostat Mesilate Injection in Patients Receiving Continuous Renal Replacement Therapy: A Meta-Analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "safety_alert",
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "collectedAt": "2026-11-01T09:12:57.461428102Z",
+      "contentHash": "e3d7a758a85400686fd53490a63c8a83d248e0f3dd80a618fe1066fa67222926",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42965335/"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "ca5a667a-2ad7-3137-b189-a87ccb092915",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07907419",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07907419",
+      "titleOriginal": "Effect of a Health Belief Model Based Digital Nudge Intervention on Breast Cancer Screening",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Breast Cancer Screening",
+        "Breast Cancer Awareness",
+        "Health Belief Model"
+      ],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "collectedAt": "2026-11-01T09:12:56.341512608Z",
+      "contentHash": "2e2b2ba4858d4caa9fb974264140b7f6fb33a208cd0e1fdaf283ecb7a871c41f",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07907419"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "eb72b0a6-cca5-37e4-8eb1-22782d6dbeb8",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07907328",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07907328",
+      "titleOriginal": "FUS Neuromodulation for Binge Eating Disorder",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Binge-Eating Disorder"
+      ],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "collectedAt": "2026-11-01T09:12:56.341995813Z",
+      "contentHash": "ecad6e4e79e66a4025eccf6b7f95ada5663b5e567c555d3bfc7995b90584cd8c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07907328"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "5949d911-e311-3d4f-8552-0dae22eec29f",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07907458",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07907458",
+      "titleOriginal": "Digital Use, 24-Hour Movement Behaviors, and Myofascial Release in University Students With Neck Pain",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Forward Head Posture",
+        "Chronic Nonspecific Neck Pain"
+      ],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "collectedAt": "2026-11-01T09:12:56.342313493Z",
+      "contentHash": "6771582a97997de148d1f4a2567549225dc705128a1d8d4aac791ee215d75829",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07907458"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "f6efc9a7-c8b7-3332-88cc-1b2af7abb9d7",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07906015",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07906015",
+      "titleOriginal": "Short, Wordless Animated Storytelling to Promote Mental Health Help-Seeking in Young Adults: A U.S. Online Randomized Controlled Trial",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Mental Health Help-Seeking"
+      ],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "collectedAt": "2026-11-01T09:12:56.343261980Z",
+      "contentHash": "d4a512103dddae85004286b2898458a6e7dc9bdb9587304f48eaadee14e4582b",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07906015"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "a1e56b0b-f70f-31aa-91ec-f38069c8c776",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07907289",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07907289",
+      "titleOriginal": "Adaptive Gamified Sensory Training on Sensory Function and Limb-Specific Functional Performance in Patients With Diabetic Peripheral Neuropathy",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Diabetic Peripheral Neuropathy"
+      ],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "collectedAt": "2026-11-01T09:12:56.344653013Z",
+      "contentHash": "51cb3e0dac128872739bd8c209ab3f383bbef365b0329193508e588a71919ac7",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07907289"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "2308eea6-faeb-370d-97e6-e37cb5a9844b",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42965706/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42965706",
+      "titleOriginal": "Microbiome-derived TOPOSCORE is associated with response to immune checkpoint inhibitor re-induction after chemotherapy in primary resistant metastatic melanoma.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "collectedAt": "2026-11-01T09:12:57.456355187Z",
+      "contentHash": "1f2e3653786826d203d60622aa833880f442bcab2cfa6c5b54b173d7760b9dfc",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42965706/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "7c20a733-fc7a-3d1c-8acc-4dc71ef0eaa7",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42965381/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42965381",
+      "titleOriginal": "Digital Health Services and Healthcare Management Outcomes: A Systematic Review and Meta-Analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "collectedAt": "2026-11-01T09:12:57.460951285Z",
+      "contentHash": "4a989e8d398ed11e0a42ddf74193140ea0a2dc510e8742127930298fc1014901",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42965381/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "4f27d560-dd78-3282-a76e-741a3f622f18",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42965346/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42965346",
+      "titleOriginal": "Application of Electrical Impedance Tomography-Guided Pulmonary Rehabilitation Strategy in Patients with Respiratory Failure.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "collectedAt": "2026-11-01T09:12:57.461068015Z",
+      "contentHash": "d2de0a83e53f8b214c4e8d3738aed5b0c590fc8e90fab4f8f58f5dadfc03bb64",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42965346/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "369010ac-f415-3c41-a821-8ae0a7d020db",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42965343/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42965343",
+      "titleOriginal": "Integrated Traditional Chinese Medicine, Mili-Fire Needle, and Light-Emitting Diode Phototherapy for Cystic Acne and Post-Acne Sequelae.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "collectedAt": "2026-11-01T09:12:57.461178739Z",
+      "contentHash": "a09093d493b31353bc29b41f23d21a1f4792f6bd4e6e58effca4fe91d6f0ff9d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42965343/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "afb79e0e-4b0f-316e-a222-6ecffe341cd5",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42965341/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42965341",
+      "titleOriginal": "Slow Flow/No-Reflow After Primary Percutaneous Coronary Intervention in ST-Segment Elevation Myocardial Infarction: A Meta-Analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "collectedAt": "2026-11-01T09:12:57.461302332Z",
+      "contentHash": "71299159e91d6efaeb4ef8adfed71fee3bb0c308f19e6dbdffecfca6e240d4cd",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42965341/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "4b2e0ea4-a0b9-357a-a401-2300d05b4b43",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42964506/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42964506",
+      "titleOriginal": "Dose-Dependent Effect of Crocin on Depressive and Anxiety Symptom Scores: A GRADE-Assessed Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "collectedAt": "2026-11-01T09:12:57.461909500Z",
+      "contentHash": "05968085ddbcece3065d54e50b3e2215b722f46f7157d178888450004a642358",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42964506/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "a2273461-4667-3f8a-ac60-5edbb5717593",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963821/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963821",
+      "titleOriginal": "Efficacy of a training program to support the application of the Guideline Evidence-based Health Information: a randomized controlled trial and process evaluation.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "collectedAt": "2026-11-01T09:12:57.462635496Z",
+      "contentHash": "9466c4016a989294e2c13aa628a83dbd796463d8956f5b2e4f74a850226243e2",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963821/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "edb1cb72-05d0-3af1-b2c0-6dcffd09103d",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963818/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963818",
+      "titleOriginal": "Factors associated with missed video directly observed therapy sessions among persons with TB.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "collectedAt": "2026-11-01T09:12:57.465919974Z",
+      "contentHash": "6e2c74b1eb8775bca068776c47f8facc0e3b0a9a748a14adf39dba9ba8161f49",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963818/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "3f1ba342-060b-3b24-ae31-10d9917dcaff",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963817/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963817",
+      "titleOriginal": "How do adult migrants with active TB adhere to care in high-income countries? A systematic review.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "collectedAt": "2026-11-01T09:12:57.466075448Z",
+      "contentHash": "143178638e7bb02f704ff1856088f218312d38ae2ea9f522e994f0cfecb38f1a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963817/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "b9ed8788-3752-3023-84b5-3813767719b1",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963814/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963814",
+      "titleOriginal": "Second-hand smoke exposure linked to TB infection or disease in children/adolescents: systematic review and meta-analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "collectedAt": "2026-11-01T09:12:57.466191229Z",
+      "contentHash": "96be8d82e812341572fa2eee1bf324238d169aaa67200636e26c6176ace60201",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963814/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "bba443c7-5801-38a8-8c68-f9fbbb390dbc",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963595/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963595",
+      "titleOriginal": "The effect of early rehabilitation nursing on the recovery of cardiac function in patients with acute myocardial infarction.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "collectedAt": "2026-11-01T09:12:57.466412993Z",
+      "contentHash": "5b5fb2ae20f39f1968a8b1bcb6282767ac53d190e0dd32e4011a718b453ef4b4",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963595/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "9937b9e0-8b0a-301a-888f-f7c8a7ac4324",
+      "sourceId": "nature-medicine",
+      "sourceName": "Nature Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41591-026-04722-x",
+      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04722-x",
+      "titleOriginal": "Climate change threatens malaria elimination in the Asia Pacific",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "collectedAt": "2026-11-01T09:12:57.288809155Z",
+      "contentHash": "5950df02ab21c06f9b034c22157d75da84b620f7c8efce77bb765fb77ba70be5",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-medicine",
+          "sourceName": "Nature Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41591-026-04722-x"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
     {
       "id": "048496de-247d-3aca-930a-129f161746e3",
       "sourceId": "sanofi-press-releases",
@@ -1474,552 +2406,6 @@
       ]
     },
     {
-      "id": "d37d7745-c2a2-3a45-9c05-d86b6c5366a4",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07907055",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07907055",
-      "titleOriginal": "PAUL® Glaucoma Implant Safety and Effectiveness Study",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert",
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Refractory Glaucoma"
-      ],
-      "publishedAt": "2026-10-30T00:00:00Z",
-      "collectedAt": "2026-10-31T18:31:59.220200826Z",
-      "contentHash": "ccb68d88dde501175ec42541288b47426d4e32c6689daa1565bc0f0be0eea522",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07907055"
-        }
-      ],
-      "importanceScore": 73,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "ca5a667a-2ad7-3137-b189-a87ccb092915",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07907419",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07907419",
-      "titleOriginal": "Effect of a Health Belief Model Based Digital Nudge Intervention on Breast Cancer Screening",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Breast Cancer Screening",
-        "Breast Cancer Awareness",
-        "Health Belief Model"
-      ],
-      "publishedAt": "2026-10-30T00:00:00Z",
-      "collectedAt": "2026-10-31T18:31:59.218270831Z",
-      "contentHash": "2e2b2ba4858d4caa9fb974264140b7f6fb33a208cd0e1fdaf283ecb7a871c41f",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07907419"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "eb72b0a6-cca5-37e4-8eb1-22782d6dbeb8",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07907328",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07907328",
-      "titleOriginal": "FUS Neuromodulation for Binge Eating Disorder",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Binge-Eating Disorder"
-      ],
-      "publishedAt": "2026-10-30T00:00:00Z",
-      "collectedAt": "2026-10-31T18:31:59.219000093Z",
-      "contentHash": "ecad6e4e79e66a4025eccf6b7f95ada5663b5e567c555d3bfc7995b90584cd8c",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07907328"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "5949d911-e311-3d4f-8552-0dae22eec29f",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07907458",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07907458",
-      "titleOriginal": "Digital Use, 24-Hour Movement Behaviors, and Myofascial Release in University Students With Neck Pain",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Forward Head Posture",
-        "Chronic Nonspecific Neck Pain"
-      ],
-      "publishedAt": "2026-10-30T00:00:00Z",
-      "collectedAt": "2026-10-31T18:31:59.219501009Z",
-      "contentHash": "6771582a97997de148d1f4a2567549225dc705128a1d8d4aac791ee215d75829",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07907458"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "f6efc9a7-c8b7-3332-88cc-1b2af7abb9d7",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07906015",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07906015",
-      "titleOriginal": "Short, Wordless Animated Storytelling to Promote Mental Health Help-Seeking in Young Adults: A U.S. Online Randomized Controlled Trial",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Mental Health Help-Seeking"
-      ],
-      "publishedAt": "2026-10-30T00:00:00Z",
-      "collectedAt": "2026-10-31T18:31:59.221432126Z",
-      "contentHash": "d4a512103dddae85004286b2898458a6e7dc9bdb9587304f48eaadee14e4582b",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07906015"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "a1e56b0b-f70f-31aa-91ec-f38069c8c776",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07907289",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07907289",
-      "titleOriginal": "Adaptive Gamified Sensory Training on Sensory Function and Limb-Specific Functional Performance in Patients With Diabetic Peripheral Neuropathy",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Diabetic Peripheral Neuropathy"
-      ],
-      "publishedAt": "2026-10-30T00:00:00Z",
-      "collectedAt": "2026-10-31T18:31:59.223877653Z",
-      "contentHash": "51cb3e0dac128872739bd8c209ab3f383bbef365b0329193508e588a71919ac7",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07907289"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "a2273461-4667-3f8a-ac60-5edbb5717593",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963821/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963821",
-      "titleOriginal": "Efficacy of a training program to support the application of the Guideline Evidence-based Health Information: a randomized controlled trial and process evaluation.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-30T00:00:00Z",
-      "collectedAt": "2026-10-31T18:31:59.805821033Z",
-      "contentHash": "9466c4016a989294e2c13aa628a83dbd796463d8956f5b2e4f74a850226243e2",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963821/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "edb1cb72-05d0-3af1-b2c0-6dcffd09103d",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963818/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963818",
-      "titleOriginal": "Factors associated with missed video directly observed therapy sessions among persons with TB.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-30T00:00:00Z",
-      "collectedAt": "2026-10-31T18:31:59.805939043Z",
-      "contentHash": "6e2c74b1eb8775bca068776c47f8facc0e3b0a9a748a14adf39dba9ba8161f49",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963818/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "3f1ba342-060b-3b24-ae31-10d9917dcaff",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963817/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963817",
-      "titleOriginal": "How do adult migrants with active TB adhere to care in high-income countries? A systematic review.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-30T00:00:00Z",
-      "collectedAt": "2026-10-31T18:31:59.806073444Z",
-      "contentHash": "143178638e7bb02f704ff1856088f218312d38ae2ea9f522e994f0cfecb38f1a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963817/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "b9ed8788-3752-3023-84b5-3813767719b1",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963814/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963814",
-      "titleOriginal": "Second-hand smoke exposure linked to TB infection or disease in children/adolescents: systematic review and meta-analysis.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-30T00:00:00Z",
-      "collectedAt": "2026-10-31T18:31:59.806181125Z",
-      "contentHash": "96be8d82e812341572fa2eee1bf324238d169aaa67200636e26c6176ace60201",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963814/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "bba443c7-5801-38a8-8c68-f9fbbb390dbc",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963595/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963595",
-      "titleOriginal": "The effect of early rehabilitation nursing on the recovery of cardiac function in patients with acute myocardial infarction.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-30T00:00:00Z",
-      "collectedAt": "2026-10-31T18:31:59.806407368Z",
-      "contentHash": "5b5fb2ae20f39f1968a8b1bcb6282767ac53d190e0dd32e4011a718b453ef4b4",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42963595/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
       "id": "a1b07573-061b-3a39-9ef7-de2711a7ebec",
       "sourceId": "pubmed-recent",
       "sourceName": "PubMed",
@@ -2731,54 +3117,6 @@
           "sourceName": "PubMed",
           "sourceTier": "A",
           "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42961087/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "9937b9e0-8b0a-301a-888f-f7c8a7ac4324",
-      "sourceId": "nature-medicine",
-      "sourceName": "Nature Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41591-026-04722-x",
-      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04722-x",
-      "titleOriginal": "Climate change threatens malaria elimination in the Asia Pacific",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-30T00:00:00Z",
-      "collectedAt": "2026-10-31T18:31:59.279362851Z",
-      "contentHash": "5950df02ab21c06f9b034c22157d75da84b620f7c8efce77bb765fb77ba70be5",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-medicine",
-          "sourceName": "Nature Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41591-026-04722-x"
         }
       ],
       "importanceScore": 43,
