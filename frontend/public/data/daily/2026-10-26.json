@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-02T09:26:26.849257955Z",
+  "generatedAt": "2026-11-02T11:38:36.039764888Z",
   "articles": [
+    {
+      "id": "e7ec6f4c-940b-32a5-80b7-f993417cd412",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/26/how-to-avoid-getting-hurt-when-raking-leaves",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/26/how-to-avoid-getting-hurt-when-raking-leaves",
+      "titleOriginal": "How to Avoid Getting Hurt When Raking Leaves",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-26T00:00:00Z",
+      "collectedAt": "2026-11-02T11:38:33.172172678Z",
+      "contentHash": "352745a78a63967798b032395b0bcff7a7ddc48bb7e44e519e310c8d3ae04410",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/26/how-to-avoid-getting-hurt-when-raking-leaves"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "1f0c0226-94e6-31b7-868b-52c451ddf0e7",
       "sourceId": "nature-biotechnology",
@@ -549,51 +594,6 @@
           "sourceName": "Peking Union Medical College Hospital Research",
           "sourceTier": "B",
           "originalUrl": "https://www.pumch.cn/detail/47039.html"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "e7ec6f4c-940b-32a5-80b7-f993417cd412",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/26/how-to-avoid-getting-hurt-when-raking-leaves",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/26/how-to-avoid-getting-hurt-when-raking-leaves",
-      "titleOriginal": "How to Avoid Getting Hurt When Raking Leaves",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-26T00:00:00Z",
-      "collectedAt": "2026-11-01T19:53:07.264088997Z",
-      "contentHash": "352745a78a63967798b032395b0bcff7a7ddc48bb7e44e519e310c8d3ae04410",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/26/how-to-avoid-getting-hurt-when-raking-leaves"
         }
       ],
       "importanceScore": 20,
