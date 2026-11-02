@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-02T18:20:07.277004751Z",
-  "batchStartedAt": "2026-11-02T18:20:02.058599327Z",
-  "batchCompletedAt": "2026-11-02T18:20:07.277004751Z",
+  "generatedAt": "2026-11-02T21:56:07.247210278Z",
+  "batchStartedAt": "2026-11-02T21:56:02.610405785Z",
+  "batchCompletedAt": "2026-11-02T21:56:07.247210278Z",
   "sources": [
     {
       "sourceId": "3sbio-news",
@@ -56,8 +56,8 @@
       "sourceId": "beijing-health-policy",
       "sourceName": "Beijing Municipal Health Commission",
       "status": "ok",
-      "startedAt": "2026-11-02T06:49:38.245992428Z",
-      "completedAt": "2026-11-02T06:49:41.073400749Z",
+      "startedAt": "2026-11-02T21:56:02.617419574Z",
+      "completedAt": "2026-11-02T21:56:05.860524957Z",
       "fetchedCount": 20,
       "newCount": 20,
       "duplicateCount": 0,
@@ -104,8 +104,8 @@
       "sourceId": "cde-drug-review-updates",
       "sourceName": "NMPA Center for Drug Evaluation",
       "status": "ok",
-      "startedAt": "2026-11-02T06:49:38.245392016Z",
-      "completedAt": "2026-11-02T06:49:53.905469630Z",
+      "startedAt": "2026-11-02T21:56:02.614590999Z",
+      "completedAt": "2026-11-02T21:56:06.509741126Z",
       "fetchedCount": 20,
       "newCount": 12,
       "duplicateCount": 8,
@@ -264,8 +264,8 @@
       "sourceId": "guangdong-health-explain",
       "sourceName": "广东省卫生健康委政策解读",
       "status": "ok",
-      "startedAt": "2026-11-02T06:49:41.073506095Z",
-      "completedAt": "2026-11-02T06:49:43.066737891Z",
+      "startedAt": "2026-11-02T21:56:05.321927926Z",
+      "completedAt": "2026-11-02T21:56:07.213240550Z",
       "fetchedCount": 20,
       "newCount": 20,
       "duplicateCount": 0,
@@ -471,30 +471,34 @@
     {
       "sourceId": "nhsa-healthcare-security-updates",
       "sourceName": "National Healthcare Security Administration Policies",
-      "status": "failed",
-      "startedAt": "2026-11-02T06:49:38.245602246Z",
-      "completedAt": "2026-11-02T06:50:39.554637950Z",
-      "fetchedCount": 0,
-      "newCount": 0,
+      "status": "ok",
+      "startedAt": "2026-11-02T21:56:02.619010908Z",
+      "completedAt": "2026-11-02T21:56:05.626709050Z",
+      "fetchedCount": 20,
+      "newCount": 20,
       "duplicateCount": 0,
-      "failedCount": 1,
-      "httpStatusClasses": {},
-      "errorCode": "HTTPCONNECTTIMEOUTEXCEPTION",
-      "nextRetryAt": "2026-11-02T12:50:39.554649502Z"
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
     },
     {
       "sourceId": "nhsa-policy-explain",
       "sourceName": "国家医保局政策解读",
-      "status": "failed",
-      "startedAt": "2026-11-02T06:49:38.246587889Z",
-      "completedAt": "2026-11-02T06:51:40.341273307Z",
-      "fetchedCount": 0,
-      "newCount": 0,
+      "status": "ok",
+      "startedAt": "2026-11-02T21:56:02.617644985Z",
+      "completedAt": "2026-11-02T21:56:05.321866008Z",
+      "fetchedCount": 20,
+      "newCount": 20,
       "duplicateCount": 0,
-      "failedCount": 1,
-      "httpStatusClasses": {},
-      "errorCode": "HTTPCONNECTTIMEOUTEXCEPTION",
-      "nextRetryAt": "2026-11-02T12:51:40.341276042Z"
+      "failedCount": 0,
+      "httpStatusClasses": {
+        "2xx": 1
+      },
+      "errorCode": null,
+      "nextRetryAt": null
     },
     {
       "sourceId": "nmpa-public-notices",
