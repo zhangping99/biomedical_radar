@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-02T22:27:43.578650937Z",
+  "generatedAt": "2026-11-02T22:46:19.376474329Z",
   "articles": [
+    {
+      "id": "4b17cad6-05ca-3dc5-a971-cf1582635e7e",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07832630",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07832630",
+      "titleOriginal": "Saruparib in HRDsig+ Solid Tumors",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Malignant Neoplastic Disease (Disorder)"
+      ],
+      "publishedAt": "2026-09-22T00:00:00Z",
+      "collectedAt": "2026-11-02T22:46:18.647886050Z",
+      "contentHash": "e318aa86bdc929e981d402ea4122b0a7c360a104fdea74245f40e7d4c4eb7c3d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07832630"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "5c3a8717-8331-3fdd-84b8-ab9c849ba59e",
       "sourceId": "amgen-news-releases",
