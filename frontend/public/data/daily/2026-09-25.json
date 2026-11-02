@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-02T11:38:36.039764888Z",
+  "generatedAt": "2026-11-02T18:20:07.277004751Z",
   "articles": [
+    {
+      "id": "c255a0b6-be7f-3f79-bba8-b3afc18f5d77",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/angiographic-catheter-recall-boston-scientific-removes-imager-ii-angiographic-catheters",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/angiographic-catheter-recall-boston-scientific-removes-imager-ii-angiographic-catheters",
+      "titleOriginal": "Angiographic Catheter Recall: Boston Scientific Removes Imager II Angiographic Catheters",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-25T04:00:00Z",
+      "collectedAt": "2026-11-02T18:20:03.054679984Z",
+      "contentHash": "a00d3d374dc7dfa65d1c19b784185a4acf9c863833817635c99b2990d0c852c1",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/angiographic-catheter-recall-boston-scientific-removes-imager-ii-angiographic-catheters"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "5cf24092-facd-37d8-847d-06c0cbcebf13",
       "sourceId": "cleveland-clinic-news",
@@ -46,55 +95,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "c255a0b6-be7f-3f79-bba8-b3afc18f5d77",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/angiographic-catheter-recall-boston-scientific-removes-imager-ii-angiographic-catheters",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/angiographic-catheter-recall-boston-scientific-removes-imager-ii-angiographic-catheters",
-      "titleOriginal": "Angiographic Catheter Recall: Boston Scientific Removes Imager II Angiographic Catheters",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-25T04:00:00Z",
-      "collectedAt": "2026-11-02T05:58:41.749888505Z",
-      "contentHash": "a00d3d374dc7dfa65d1c19b784185a4acf9c863833817635c99b2990d0c852c1",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/angiographic-catheter-recall-boston-scientific-removes-imager-ii-angiographic-catheters"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
     },
     {
       "id": "28076db5-9e45-30a7-bbe3-dca1195a9606",
@@ -282,54 +282,6 @@
       "importanceScore": 35,
       "importanceReasons": [
         "官方一手来源"
-      ]
-    },
-    {
-      "id": "deca27c4-cd6e-3044-b5b6-90b2eb0ec1b5",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/office-therapeutic-products-otp-events-meetings-and-workshops",
-      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/office-therapeutic-products-otp-events-meetings-and-workshops",
-      "titleOriginal": "Office of Therapeutic Products (OTP) Events, Meetings, and Workshops",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-25T13:14:52Z",
-      "collectedAt": "2026-10-05T17:08:15.520671019Z",
-      "contentHash": "a400c5cccc4b33fa103948b919410db5a865343695cf1f67836d2aaf301765b3",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/workshops-meetings-conferences-biologics/office-therapeutic-products-otp-events-meetings-and-workshops"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
       ]
     },
     {
