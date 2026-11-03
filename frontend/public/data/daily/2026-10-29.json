@@ -1,7 +1,97 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-03T07:14:46.936731802Z",
+  "generatedAt": "2026-11-03T08:32:30.022223632Z",
   "articles": [
+    {
+      "id": "966e6b33-49c5-387f-89dc-0b0bae334011",
+      "sourceId": "merck-news-releases",
+      "sourceName": "Merck News Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.merck.com/news/merck-co-inc-rahway-n-j-usa-announces-third-quarter-2026-financial-results-highlights-multiple-milestones-advancing-broad-diverse-pipeline/",
+      "canonicalUrl": "https://www.merck.com/news/merck-co-inc-rahway-n-j-usa-announces-third-quarter-2026-financial-results-highlights-multiple-milestones-advancing-broad-diverse-pipeline",
+      "titleOriginal": "Merck \u0026 Co., Inc., Rahway, N.J., USA Announces Third-Quarter 2026 Financial Results; Highlights Multiple Milestones Advancing Broad, Diverse Pipeline",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Merck"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-29T00:00:00Z",
+      "collectedAt": "2026-11-03T08:32:26.781364854Z",
+      "contentHash": "07e1cd1f1a445e450f78f3ff29f017bec16fbf6278f013f5c65dc69428f2bd71",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "merck-news-releases",
+          "sourceName": "Merck News Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://www.merck.com/news/merck-co-inc-rahway-n-j-usa-announces-third-quarter-2026-financial-results-highlights-multiple-milestones-advancing-broad-diverse-pipeline/"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "c4eb9832-25b7-3986-b54a-103cbd41a98c",
+      "sourceId": "junshi-news",
+      "sourceName": "君实生物新闻",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.junshipharma.com/%e5%90%9b%e5%ae%9e%e7%94%9f%e7%89%a9%e5%ae%a3%e5%b8%83js207%ef%bc%88%e6%8a%97pd-1-vegf%e5%8f%8c%e6%8a%97%ef%bc%89%e8%81%94%e5%90%88js007%ef%bc%88%e6%8a%97ctla-4%e5%8d%95%e6%8a%97%ef%bc%89%e4%b8%80/",
+      "canonicalUrl": "https://www.junshipharma.com/%E5%90%9B%E5%AE%9E%E7%94%9F%E7%89%A9%E5%AE%A3%E5%B8%83js207%EF%BC%88%E6%8A%97pd-1-vegf%E5%8F%8C%E6%8A%97%EF%BC%89%E8%81%94%E5%90%88js007%EF%BC%88%E6%8A%97ctla-4%E5%8D%95%E6%8A%97%EF%BC%89%E4%B8%80",
+      "titleOriginal": "君实生物宣布JS207(抗PD-1/VEGF双抗)联合JS007(抗CTLA-4单抗)一线治疗肝癌III期临床研究完成首例患者给药",
+      "titleZh": "君实生物宣布JS207(抗PD-1/VEGF双抗)联合JS007(抗CTLA-4单抗)一线治疗肝癌III期临床研究完成首例患者给药",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "drug_rd",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "君实生物"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-29T00:00:00Z",
+      "collectedAt": "2026-11-03T08:32:28.689723563Z",
+      "contentHash": "b43502e02b048b56836736455a87e2ad6c5032a4c9e9fe38fb6a4847a5787357",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "junshi-news",
+          "sourceName": "君实生物新闻",
+          "sourceTier": "B",
+          "originalUrl": "https://www.junshipharma.com/%e5%90%9b%e5%ae%9e%e7%94%9f%e7%89%a9%e5%ae%a3%e5%b8%83js207%ef%bc%88%e6%8a%97pd-1-vegf%e5%8f%8c%e6%8a%97%ef%bc%89%e8%81%94%e5%90%88js007%ef%bc%88%e6%8a%97ctla-4%e5%8d%95%e6%8a%97%ef%bc%89%e4%b8%80/"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "37e9cb7c-ab7e-37d6-b560-fc262b0c6241",
       "sourceId": "guangdong-health-explain",
@@ -966,51 +1056,6 @@
       "importanceReasons": [
         "官方一手来源"
       ]
-    },
-    {
-      "id": "966e6b33-49c5-387f-89dc-0b0bae334011",
-      "sourceId": "merck-news-releases",
-      "sourceName": "Merck News Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.merck.com/news/merck-co-inc-rahway-n-j-usa-announces-third-quarter-2026-financial-results-highlights-multiple-milestones-advancing-broad-diverse-pipeline/",
-      "canonicalUrl": "https://www.merck.com/news/merck-co-inc-rahway-n-j-usa-announces-third-quarter-2026-financial-results-highlights-multiple-milestones-advancing-broad-diverse-pipeline",
-      "titleOriginal": "Merck \u0026 Co., Inc., Rahway, N.J., USA Announces Third-Quarter 2026 Financial Results; Highlights Multiple Milestones Advancing Broad, Diverse Pipeline",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "Merck"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-29T00:00:00Z",
-      "collectedAt": "2026-11-02T22:27:36.993291693Z",
-      "contentHash": "07e1cd1f1a445e450f78f3ff29f017bec16fbf6278f013f5c65dc69428f2bd71",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "merck-news-releases",
-          "sourceName": "Merck News Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://www.merck.com/news/merck-co-inc-rahway-n-j-usa-announces-third-quarter-2026-financial-results-highlights-multiple-milestones-advancing-broad-diverse-pipeline/"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     },
     {
       "id": "b9e2ad04-da6a-3d48-a284-8f3ac3f19a4b",
