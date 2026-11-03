@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-03T20:29:51.499011215Z",
+  "generatedAt": "2026-11-03T21:13:46.232848413Z",
   "articles": [
+    {
+      "id": "f895a37b-4fd5-3ad3-8d04-30f6b9a9c88c",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/27/helping-kids-navigate-halloween-frights",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/27/helping-kids-navigate-halloween-frights",
+      "titleOriginal": "Helping Kids Navigate Halloween Frights",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-27T00:00:00Z",
+      "collectedAt": "2026-11-03T21:13:41.998625262Z",
+      "contentHash": "0dd094991488a69c8fd63214872c3cebf051d15a0d7fbace9e5856bb9967471a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/27/helping-kids-navigate-halloween-frights"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "f68c6fb9-b57d-3718-8004-58427d53b2b2",
       "sourceId": "pubmed-recent",
@@ -565,51 +610,6 @@
         "高影响事件",
         "政策或安全相关"
       ]
-    },
-    {
-      "id": "f895a37b-4fd5-3ad3-8d04-30f6b9a9c88c",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/27/helping-kids-navigate-halloween-frights",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/27/helping-kids-navigate-halloween-frights",
-      "titleOriginal": "Helping Kids Navigate Halloween Frights",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-27T00:00:00Z",
-      "collectedAt": "2026-11-03T11:16:58.213685531Z",
-      "contentHash": "0dd094991488a69c8fd63214872c3cebf051d15a0d7fbace9e5856bb9967471a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/27/helping-kids-navigate-halloween-frights"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     },
     {
       "id": "3691f081-305a-32ab-90ba-ca25a0b13986",
