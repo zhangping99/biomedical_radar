@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-03T11:54:58.178457776Z",
+  "generatedAt": "2026-11-03T19:29:16.144034833Z",
   "articles": [
     {
       "id": "7e00222c-a65b-3df5-85b1-144d9c42d17e",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-30T23:55:49Z",
-      "collectedAt": "2026-11-03T11:54:55.482974732Z",
+      "collectedAt": "2026-11-03T19:29:13.063049570Z",
       "contentHash": "f923b5a275edf073ad1f1dd586e2f46524c1aec7428b9059d603bb15ff9ae40a",
       "generated": false,
       "generatorVersion": null,
@@ -77,7 +77,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-30T12:51:27Z",
-      "collectedAt": "2026-11-03T11:54:55.483696286Z",
+      "collectedAt": "2026-11-03T19:29:13.066272794Z",
       "contentHash": "4cb6ecedda28934fe4579bde033c8b4012107cfbfcd54c268396ec7b67df2989",
       "generated": false,
       "generatorVersion": null,
@@ -126,7 +126,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-30T11:11:00Z",
-      "collectedAt": "2026-11-03T11:54:55.391220369Z",
+      "collectedAt": "2026-11-03T19:29:12.991005110Z",
       "contentHash": "d278523158a661544957f72c8b23767fb8eec2079e04aff577ffd9a739340cde",
       "generated": false,
       "generatorVersion": null,
@@ -175,7 +175,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-30T04:00:00Z",
-      "collectedAt": "2026-11-03T11:54:55.446002070Z",
+      "collectedAt": "2026-11-03T19:29:13.061429495Z",
       "contentHash": "32d1430ecbd8ef3a064bb6dda4ff68fd1dd5d0a985388ff159f9e8fdf6be8c1c",
       "generated": false,
       "generatorVersion": null,
@@ -224,7 +224,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-30T00:00:00Z",
-      "collectedAt": "2026-11-03T11:54:55.821638534Z",
+      "collectedAt": "2026-11-03T19:29:13.896021745Z",
       "contentHash": "da3d854239f9ea730d9dc81dc7bbc736b5000dc7f0ad47088148220361017601",
       "generated": false,
       "generatorVersion": null,
@@ -273,7 +273,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-30T00:00:00Z",
-      "collectedAt": "2026-11-03T11:54:55.821986267Z",
+      "collectedAt": "2026-11-03T19:29:13.896195238Z",
       "contentHash": "cbf1fbaf6b8bd07babe02e8eb27c301760a37d55afe877fdb9576225d4628888",
       "generated": false,
       "generatorVersion": null,
@@ -322,7 +322,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-30T20:32:08Z",
-      "collectedAt": "2026-11-03T11:54:55.483222126Z",
+      "collectedAt": "2026-11-03T19:29:13.063330523Z",
       "contentHash": "169e69cbeab32f68483c9f1e0a300f96a806633015cd07414db1d6d4ad96c7e8",
       "generated": false,
       "generatorVersion": null,
@@ -336,6 +336,150 @@
           "sourceName": "FDA Vaccines, Blood and Biologics",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-plasmid-dna-based-immunotherapy-adults-recurrent-respiratory-papillomatosis"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "58185f64-b7a4-3d90-8df9-ac828ec0f151",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/industry/fda-esubmitter/esubmitter-application-history",
+      "canonicalUrl": "https://www.fda.gov/industry/fda-esubmitter/esubmitter-application-history",
+      "titleOriginal": "eSubmitter Application History",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-30T19:37:13Z",
+      "collectedAt": "2026-11-03T19:29:13.066058485Z",
+      "contentHash": "044b088c01fd2a38880f105aed5fef5821d0fb1fefcb2a665564c16ce44ccbe4",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/industry/fda-esubmitter/esubmitter-application-history"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "51997aad-9de1-39e9-b821-147a33ce7233",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-correction-nova-biomedical-updates-use-instructions-statstrip-glucose",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-correction-nova-biomedical-updates-use-instructions-statstrip-glucose",
+      "titleOriginal": "Hospital Glucose Meter Correction: Nova Biomedical Updates Use Instructions for StatStrip Glucose Hospital Meter Systems",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-30T04:00:00Z",
+      "collectedAt": "2026-11-03T19:29:13.061782451Z",
+      "contentHash": "e4c79f0a64f27924554158ff12d26371a271ad1204f32a5c32e3636819a9a80f",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-correction-nova-biomedical-updates-use-instructions-statstrip-glucose"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "4e2ef65d-4e8f-3a1e-bd55-24cd9bb6d8c7",
+      "sourceId": "pmda-safety-updates",
+      "sourceName": "Japan PMDA Safety Updates",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/properly-use-alert/0001.html",
+      "canonicalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/properly-use-alert/0001.html",
+      "titleOriginal": "PMDA Alert for Proper Use of Drugs: Request for Proper Use of GLP-1 Receptor Agonists and GIP/GLP-1 Receptor Agonists posted",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "JP",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Pharmaceuticals and Medical Devices Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "collectedAt": "2026-11-03T19:29:14.070454669Z",
+      "contentHash": "6784a9af55a597be62f1cd20db813d9f4dd55667674521054a31e0f9f18ad113",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "pmda-safety-updates",
+          "sourceName": "Japan PMDA Safety Updates",
+          "sourceTier": "A",
+          "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/properly-use-alert/0001.html"
         }
       ],
       "importanceScore": 50,
@@ -432,54 +576,6 @@
           "sourceName": "U.S. Food and Drug Administration - Drugs",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/science-research/science-and-research-special-topics/digital-health-technologies-dhts-drug-development"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "58185f64-b7a4-3d90-8df9-ac828ec0f151",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/industry/fda-esubmitter/esubmitter-application-history",
-      "canonicalUrl": "https://www.fda.gov/industry/fda-esubmitter/esubmitter-application-history",
-      "titleOriginal": "eSubmitter Application History",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-30T19:37:13Z",
-      "collectedAt": "2026-11-03T11:54:55.483503204Z",
-      "contentHash": "044b088c01fd2a38880f105aed5fef5821d0fb1fefcb2a665564c16ce44ccbe4",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/industry/fda-esubmitter/esubmitter-application-history"
         }
       ],
       "importanceScore": 50,
@@ -720,102 +816,6 @@
           "sourceName": "U.S. Food and Drug Administration - Drugs",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/drugs/development-resources/notices-updates"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "51997aad-9de1-39e9-b821-147a33ce7233",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-correction-nova-biomedical-updates-use-instructions-statstrip-glucose",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-correction-nova-biomedical-updates-use-instructions-statstrip-glucose",
-      "titleOriginal": "Hospital Glucose Meter Correction: Nova Biomedical Updates Use Instructions for StatStrip Glucose Hospital Meter Systems",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-30T04:00:00Z",
-      "collectedAt": "2026-11-03T11:54:55.445618159Z",
-      "contentHash": "e4c79f0a64f27924554158ff12d26371a271ad1204f32a5c32e3636819a9a80f",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-correction-nova-biomedical-updates-use-instructions-statstrip-glucose"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "4e2ef65d-4e8f-3a1e-bd55-24cd9bb6d8c7",
-      "sourceId": "pmda-safety-updates",
-      "sourceName": "Japan PMDA Safety Updates",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/properly-use-alert/0001.html",
-      "canonicalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/properly-use-alert/0001.html",
-      "titleOriginal": "PMDA Alert for Proper Use of Drugs: Request for Proper Use of GLP-1 Receptor Agonists and GIP/GLP-1 Receptor Agonists posted",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "JP",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Pharmaceuticals and Medical Devices Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-30T00:00:00Z",
-      "collectedAt": "2026-11-03T11:54:56.826036147Z",
-      "contentHash": "6784a9af55a597be62f1cd20db813d9f4dd55667674521054a31e0f9f18ad113",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "pmda-safety-updates",
-          "sourceName": "Japan PMDA Safety Updates",
-          "sourceTier": "A",
-          "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/properly-use-alert/0001.html"
         }
       ],
       "importanceScore": 50,
