@@ -1,7 +1,59 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-03T08:32:30.022223632Z",
+  "generatedAt": "2026-11-03T09:29:25.944481069Z",
   "articles": [
+    {
+      "id": "a2381064-b1f6-370c-b646-5d57ab85466b",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07775807",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07775807",
+      "titleOriginal": "Closed-loop TBS Targeting rPO for the Core Clinical Features of Methamphetamine Use Disorder",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Methamphetamine Use Disorder",
+        "Substance Use Disorder",
+        "Cue-reactivity",
+        "Craving"
+      ],
+      "publishedAt": "2026-08-20T00:00:00Z",
+      "collectedAt": "2026-11-03T09:29:24.661386053Z",
+      "contentHash": "e7f4a326be1b68367099aa249db841546b407b739e7aa9de1429531b85cff9e5",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07775807"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "76bbf412-4a5f-3f3a-b942-25d992bc9d03",
       "sourceId": "hengrui-focus-news",
@@ -91,58 +143,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "a2381064-b1f6-370c-b646-5d57ab85466b",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07775807",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07775807",
-      "titleOriginal": "Closed-loop TBS Targeting rPO for the Core Clinical Features of Methamphetamine Use Disorder",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Methamphetamine Use Disorder",
-        "Substance Use Disorder",
-        "Cue-reactivity",
-        "Craving"
-      ],
-      "publishedAt": "2026-08-20T00:00:00Z",
-      "collectedAt": "2026-11-02T22:46:18.644241430Z",
-      "contentHash": "e7f4a326be1b68367099aa249db841546b407b739e7aa9de1429531b85cff9e5",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07775807"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     },
     {
       "id": "50d25828-71ec-3f9b-aa73-cfae0628174f",

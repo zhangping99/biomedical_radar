@@ -1,7 +1,57 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-03T08:32:30.022223632Z",
+  "generatedAt": "2026-11-03T09:29:25.944481069Z",
   "articles": [
+    {
+      "id": "766101ab-2ace-3263-973d-c2ea20fdef7e",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07891728",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07891728",
+      "titleOriginal": "A Multicenter Evaluation of SalivIQTM Strep A for Detecting Group A Streptococcus From Saliva and Throat Swabs in Patients With Acute Pharyngitis",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Streptococcal Pharyngitis",
+        "Group A Streptococcal Infection"
+      ],
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "collectedAt": "2026-11-03T09:29:24.661701804Z",
+      "contentHash": "c98063da3459de0404199aab00aa218f0d854e2a08986fd66654a1c8354fc903",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07891728"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "4a6919f3-ef29-3662-815c-b5ec15bb7d0c",
       "sourceId": "hansoh-news",
@@ -278,56 +328,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "766101ab-2ace-3263-973d-c2ea20fdef7e",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07891728",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07891728",
-      "titleOriginal": "A Multicenter Evaluation of SalivIQTM Strep A for Detecting Group A Streptococcus From Saliva and Throat Swabs in Patients With Acute Pharyngitis",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Streptococcal Pharyngitis",
-        "Group A Streptococcal Infection"
-      ],
-      "publishedAt": "2026-10-23T00:00:00Z",
-      "collectedAt": "2026-11-02T22:46:18.644517610Z",
-      "contentHash": "c98063da3459de0404199aab00aa218f0d854e2a08986fd66654a1c8354fc903",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07891728"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     },
     {
       "id": "91ee5ea8-820c-3072-967d-d27050aa883a",
