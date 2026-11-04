@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-04T12:06:22.990194280Z",
+  "generatedAt": "2026-11-04T19:43:44.481947121Z",
   "articles": [
     {
       "id": "aaa5d881-5b91-3edc-a4d7-975ed96decc4",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-29T00:00:00Z",
-      "collectedAt": "2026-11-04T12:06:20.318714152Z",
+      "collectedAt": "2026-11-04T19:43:41.889939475Z",
       "contentHash": "215c961bf432a4cc9787031efb584a1c50bdcf6abf09f7b99e7f1ce3aea51a36",
       "generated": false,
       "generatorVersion": null,
@@ -77,7 +77,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-29T00:00:00Z",
-      "collectedAt": "2026-11-04T12:06:20.318954851Z",
+      "collectedAt": "2026-11-04T19:43:41.890119272Z",
       "contentHash": "ec1aeab736666c6d63fdc4c31fa89d31063f4c26139b3269f33aadb5058a31d3",
       "generated": false,
       "generatorVersion": null,
@@ -126,7 +126,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-29T00:00:00Z",
-      "collectedAt": "2026-11-04T12:06:20.319139115Z",
+      "collectedAt": "2026-11-04T19:43:41.890365312Z",
       "contentHash": "5058a33b763dc03d70e0a46b846b4d23ae3e0e2a5112cddcc8deea06688499a1",
       "generated": false,
       "generatorVersion": null,
@@ -175,7 +175,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-29T00:00:00Z",
-      "collectedAt": "2026-11-04T12:06:20.319297139Z",
+      "collectedAt": "2026-11-04T19:43:41.890538616Z",
       "contentHash": "21f031d8a1829a49e29b7d856a3decda29eabaa65024ee32a3534bc4177dfe04",
       "generated": false,
       "generatorVersion": null,
@@ -224,7 +224,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-29T20:24:12Z",
-      "collectedAt": "2026-11-04T12:06:20.049596451Z",
+      "collectedAt": "2026-11-04T19:43:41.579496718Z",
       "contentHash": "fdcb96eafc283c1887f2503bb7200869d35965e73f1b02b4d92d0351685661a4",
       "generated": false,
       "generatorVersion": null,
@@ -272,7 +272,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-29T19:10:45Z",
-      "collectedAt": "2026-11-04T12:06:20.049816932Z",
+      "collectedAt": "2026-11-04T19:43:41.579708764Z",
       "contentHash": "af87634d04e6c5811a861c872577997477f2f2dfb7ae7b2380473a1c8af0d748",
       "generated": false,
       "generatorVersion": null,
@@ -292,6 +292,149 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关"
+      ]
+    },
+    {
+      "id": "7e0c5e19-ef48-32c6-946c-35c4c8961e95",
+      "sourceId": "ema-news",
+      "sourceName": "European Medicines Agency",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.ema.europa.eu/en/news/ema-closed-all-souls-day-2-november",
+      "canonicalUrl": "https://www.ema.europa.eu/en/news/ema-closed-all-souls-day-2-november",
+      "titleOriginal": "EMA closed on All Souls\u0027 Day, 2 November",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "EU",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "European Medicines Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-29T12:30:00Z",
+      "collectedAt": "2026-11-04T19:43:41.568285736Z",
+      "contentHash": "bb1d82e65693f9e564388cf55a75374c3e4e7090ff5253675a39654539df8cc0",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "ema-news",
+          "sourceName": "European Medicines Agency",
+          "sourceTier": "A",
+          "originalUrl": "https://www.ema.europa.eu/en/news/ema-closed-all-souls-day-2-november"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "1e208a60-9bfd-3c22-b026-5768d7aef452",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-medline-removes-or-corrects-all-medline-brand-beds-and-accessories",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-medline-removes-or-corrects-all-medline-brand-beds-and-accessories",
+      "titleOriginal": "Early Alert: Medline Removes or Corrects All Medline Brand Beds and Accessories",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-29T04:00:00Z",
+      "collectedAt": "2026-11-04T19:43:41.570056551Z",
+      "contentHash": "63d7977a5249ea83ff4d819a3960180be43419eb17fdaec3594e8550acca873a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-medline-removes-or-corrects-all-medline-brand-beds-and-accessories"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "77d41ed9-4c91-33b7-8e80-b08213c05193",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/infectious-disease-tests",
+      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/infectious-disease-tests",
+      "titleOriginal": "Infectious Disease Tests",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "device_diagnostics",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-29T19:05:24Z",
+      "collectedAt": "2026-11-04T19:43:41.579889332Z",
+      "contentHash": "b2d03aa1b898db07eba0135fab6c0eac2b305e84ef9540ad93b44e7a4aa0dbe4",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/infectious-disease-tests"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
       ]
     },
     {
@@ -389,149 +532,6 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关"
-      ]
-    },
-    {
-      "id": "7e0c5e19-ef48-32c6-946c-35c4c8961e95",
-      "sourceId": "ema-news",
-      "sourceName": "European Medicines Agency",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.ema.europa.eu/en/news/ema-closed-all-souls-day-2-november",
-      "canonicalUrl": "https://www.ema.europa.eu/en/news/ema-closed-all-souls-day-2-november",
-      "titleOriginal": "EMA closed on All Souls\u0027 Day, 2 November",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "EU",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "European Medicines Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-29T12:30:00Z",
-      "collectedAt": "2026-11-04T12:06:19.849881119Z",
-      "contentHash": "bb1d82e65693f9e564388cf55a75374c3e4e7090ff5253675a39654539df8cc0",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "ema-news",
-          "sourceName": "European Medicines Agency",
-          "sourceTier": "A",
-          "originalUrl": "https://www.ema.europa.eu/en/news/ema-closed-all-souls-day-2-november"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "1e208a60-9bfd-3c22-b026-5768d7aef452",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-medline-removes-or-corrects-all-medline-brand-beds-and-accessories",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-medline-removes-or-corrects-all-medline-brand-beds-and-accessories",
-      "titleOriginal": "Early Alert: Medline Removes or Corrects All Medline Brand Beds and Accessories",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-29T04:00:00Z",
-      "collectedAt": "2026-11-04T12:06:19.865766143Z",
-      "contentHash": "63d7977a5249ea83ff4d819a3960180be43419eb17fdaec3594e8550acca873a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-medline-removes-or-corrects-all-medline-brand-beds-and-accessories"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "77d41ed9-4c91-33b7-8e80-b08213c05193",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/infectious-disease-tests",
-      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/infectious-disease-tests",
-      "titleOriginal": "Infectious Disease Tests",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "device_diagnostics",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-29T19:05:24Z",
-      "collectedAt": "2026-11-04T12:06:20.050003720Z",
-      "contentHash": "b2d03aa1b898db07eba0135fab6c0eac2b305e84ef9540ad93b44e7a4aa0dbe4",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/infectious-disease-tests"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
       ]
     },
     {
