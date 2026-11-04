@@ -1,7 +1,103 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-04T20:31:19.547395562Z",
+  "generatedAt": "2026-11-04T20:49:06.615303051Z",
   "articles": [
+    {
+      "id": "295b8a1d-805c-3309-a082-8117a9b1bac8",
+      "sourceId": "nejm-current-issue",
+      "sourceName": "New England Journal of Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMoa2606998?af\u003dR\u0026rss\u003dcurrentIssue",
+      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMoa2606998?af\u003dR\u0026rss\u003dcurrentIssue",
+      "titleOriginal": "Tozorakimab to Prevent COPD Exacerbations",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "New England Journal of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-08T11:45:04Z",
+      "collectedAt": "2026-11-04T20:49:04.196067434Z",
+      "contentHash": "f9a46036209393d6c412ec0d0b2feb6b7695fb94a7a169b3dde85dcd1ea89792",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nejm-current-issue",
+          "sourceName": "New England Journal of Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMoa2606998?af\u003dR\u0026rss\u003dcurrentIssue"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "827aa5e6-ed6a-3908-96bd-43c25fe0b0e2",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07807280",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07807280",
+      "titleOriginal": "C-Carbs: A CGM-guided Approach to Teaching Carb Awareness",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Type 1 Diabetes"
+      ],
+      "publishedAt": "2026-09-08T00:00:00Z",
+      "collectedAt": "2026-11-04T20:49:03.786531672Z",
+      "contentHash": "4f080fabb6d8082496cb82168a747d26bc3051643040b31641a1766b682a4023",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07807280"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "053db144-2381-3ba1-8d7f-4a0bc45db490",
       "sourceId": "amgen-news-releases",
@@ -46,53 +142,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "295b8a1d-805c-3309-a082-8117a9b1bac8",
-      "sourceId": "nejm-current-issue",
-      "sourceName": "New England Journal of Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMoa2606998?af\u003dR\u0026rss\u003dcurrentIssue",
-      "canonicalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMoa2606998?af\u003dR\u0026rss\u003dcurrentIssue",
-      "titleOriginal": "Tozorakimab to Prevent COPD Exacerbations",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "New England Journal of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-08T11:45:04Z",
-      "collectedAt": "2026-11-04T09:07:22.024715823Z",
-      "contentHash": "f9a46036209393d6c412ec0d0b2feb6b7695fb94a7a169b3dde85dcd1ea89792",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nejm-current-issue",
-          "sourceName": "New England Journal of Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nejm.org/doi/full/10.1056/NEJMoa2606998?af\u003dR\u0026rss\u003dcurrentIssue"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     },
     {
       "id": "af6035a2-4fae-3b6f-80d6-9a7b49523657",
@@ -3786,56 +3835,6 @@
       "importanceReasons": [
         "官方一手来源",
         "高影响事件",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "827aa5e6-ed6a-3908-96bd-43c25fe0b0e2",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07807280",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07807280",
-      "titleOriginal": "C-Carbs: A CGM-guided Approach to Teaching Carb Awareness",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Type 1 Diabetes"
-      ],
-      "publishedAt": "2026-09-08T00:00:00Z",
-      "collectedAt": "2026-09-09T07:22:13.859188137Z",
-      "contentHash": "4f080fabb6d8082496cb82168a747d26bc3051643040b31641a1766b682a4023",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07807280"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
         "近期更新"
       ]
     },
