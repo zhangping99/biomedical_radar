@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-06T08:28:09.810078807Z",
+  "generatedAt": "2026-11-06T09:20:50.097946487Z",
   "articles": [
+    {
+      "id": "10fd1be0-4d96-39f2-8ad0-019a814e25da",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07896382",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07896382",
+      "titleOriginal": "Comparative Effects Of Sensory Reweighting And Proprioceptive Facilitation Training On Balance And Fall Risk In Diabetic Peripheral Neuropathy",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Diabetic Peripheral Neuropathy (DPN)"
+      ],
+      "publishedAt": "2026-10-27T00:00:00Z",
+      "collectedAt": "2026-11-06T09:20:48.387728836Z",
+      "contentHash": "e91398b3eeea4ae1f0d0e6ab33ca345b4ed8c52da12800084fa0b2cc32515f32",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07896382"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "7777e44c-9a69-3670-93cc-d9abd83e1e03",
       "sourceId": "abbvie-news",
@@ -321,55 +370,6 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关"
-      ]
-    },
-    {
-      "id": "10fd1be0-4d96-39f2-8ad0-019a814e25da",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07896382",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07896382",
-      "titleOriginal": "Comparative Effects Of Sensory Reweighting And Proprioceptive Facilitation Training On Balance And Fall Risk In Diabetic Peripheral Neuropathy",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Diabetic Peripheral Neuropathy (DPN)"
-      ],
-      "publishedAt": "2026-10-27T00:00:00Z",
-      "collectedAt": "2026-11-05T21:04:30.480410575Z",
-      "contentHash": "e91398b3eeea4ae1f0d0e6ab33ca345b4ed8c52da12800084fa0b2cc32515f32",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07896382"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
       ]
     },
     {
