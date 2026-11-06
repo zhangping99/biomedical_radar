@@ -1,7 +1,54 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-06T09:20:50.097946487Z",
+  "generatedAt": "2026-11-06T11:25:47.000495379Z",
   "articles": [
+    {
+      "id": "6d4ef665-c7ff-3e8e-b287-dc1990248a4e",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/05/bladder-cancer-on-the-rise-in-younger-women",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/11/05/bladder-cancer-on-the-rise-in-younger-women",
+      "titleOriginal": "Bladder Cancer on the Rise in Younger Women",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "collectedAt": "2026-11-06T11:25:37.111365247Z",
+      "contentHash": "88e50be411438f4f624dd99980286e62cb10c9f158cd5b2d2536cadca049d9f1",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/05/bladder-cancer-on-the-rise-in-younger-women"
+        }
+      ],
+      "importanceScore": 28,
+      "importanceReasons": [
+        "近期更新"
+      ]
+    },
     {
       "id": "e17d9fa4-7aea-3b0f-b036-6e1fa6cbc18b",
       "sourceId": "clinicaltrials-recent",
@@ -3667,53 +3714,6 @@
       "importanceScore": 50,
       "importanceReasons": [
         "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "6d4ef665-c7ff-3e8e-b287-dc1990248a4e",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/05/bladder-cancer-on-the-rise-in-younger-women",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/11/05/bladder-cancer-on-the-rise-in-younger-women",
-      "titleOriginal": "Bladder Cancer on the Rise in Younger Women",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "collectedAt": "2026-11-05T21:32:53.454329116Z",
-      "contentHash": "88e50be411438f4f624dd99980286e62cb10c9f158cd5b2d2536cadca049d9f1",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/05/bladder-cancer-on-the-rise-in-younger-women"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
         "24小时内更新"
       ]
     },
