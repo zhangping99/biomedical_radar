@@ -1,7 +1,59 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-06T20:04:01.988648462Z",
+  "generatedAt": "2026-11-06T20:26:25.072333329Z",
   "articles": [
+    {
+      "id": "aacf6281-eb7f-320f-86ca-1d280248a9ee",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07791459",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07791459",
+      "titleOriginal": "BrainGate2: Feasibility Study of an Intracortical Neural Interface System for Persons With Aphasia (BG-Aphasia-01)",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Expressive Aphasia",
+        "Aphasia Following Cerebral Infarction",
+        "Aphasia Following Nontraumatic Intracerebral Hemorrhage",
+        "Aphasia Non Fluent"
+      ],
+      "publishedAt": "2026-08-28T00:00:00Z",
+      "collectedAt": "2026-11-06T20:26:13.932407083Z",
+      "contentHash": "a8a1c38bb65ee0e67e56b50f7e7ff4258237de43e4502c1e9bf740d54a489c6f",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07791459"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "8e77c545-61bb-3479-adac-bd414b2e73c7",
       "sourceId": "nejm-current-issue",

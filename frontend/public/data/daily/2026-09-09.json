@@ -1,7 +1,62 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-06T20:04:01.988648462Z",
+  "generatedAt": "2026-11-06T20:26:25.072333329Z",
   "articles": [
+    {
+      "id": "1aa09437-9fcd-3435-b0bf-958219ca9b71",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07808632",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07808632",
+      "titleOriginal": "Effect of Stress Ball Use During Femoral Arterial Sheath Removal After Coronary Angiography",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Femoral Arterial Sheath Removal",
+        "Stress Ball",
+        "Pain",
+        "Anxiety",
+        "Patient Satisfaction",
+        "Hemodynamic Parameters",
+        "Nonpharmacological Intervention"
+      ],
+      "publishedAt": "2026-09-09T00:00:00Z",
+      "collectedAt": "2026-11-06T20:26:13.929581115Z",
+      "contentHash": "94b0e6d59a3f6fef8dd7646773d5977dfb8315de4dbf92d3711c1e0d236ff4d2",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07808632"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "e279acff-9835-3aea-b75c-aad4e01aa57b",
       "sourceId": "nejm-current-issue",
