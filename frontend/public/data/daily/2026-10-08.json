@@ -1,7 +1,54 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-06T21:01:48.137120185Z",
+  "generatedAt": "2026-11-06T21:29:04.825557139Z",
   "articles": [
+    {
+      "id": "f42d54eb-252e-3030-96a9-561ae39bcadf",
+      "sourceId": "ema-news",
+      "sourceName": "European Medicines Agency",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.ema.europa.eu/en/news/clinical-trial-applications-advice-pilot-becomes-permanent",
+      "canonicalUrl": "https://www.ema.europa.eu/en/news/clinical-trial-applications-advice-pilot-becomes-permanent",
+      "titleOriginal": "Clinical trial applications advice pilot becomes permanent",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "EU",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "European Medicines Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-08T15:09:00Z",
+      "collectedAt": "2026-11-06T21:29:02.035516418Z",
+      "contentHash": "256eeec32abbb8e7366e6deb19b743a71aaa82f259ef1cd0a5687ce1dc0d86ce",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "ema-news",
+          "sourceName": "European Medicines Agency",
+          "sourceTier": "A",
+          "originalUrl": "https://www.ema.europa.eu/en/news/clinical-trial-applications-advice-pilot-becomes-permanent"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "7be68812-d622-3fa0-9ae6-7e52ec30f39a",
       "sourceId": "cleveland-clinic-news",
@@ -185,53 +232,6 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关"
-      ]
-    },
-    {
-      "id": "f42d54eb-252e-3030-96a9-561ae39bcadf",
-      "sourceId": "ema-news",
-      "sourceName": "European Medicines Agency",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.ema.europa.eu/en/news/clinical-trial-applications-advice-pilot-becomes-permanent",
-      "canonicalUrl": "https://www.ema.europa.eu/en/news/clinical-trial-applications-advice-pilot-becomes-permanent",
-      "titleOriginal": "Clinical trial applications advice pilot becomes permanent",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "EU",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "European Medicines Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-08T15:09:00Z",
-      "collectedAt": "2026-11-06T15:54:51.122291408Z",
-      "contentHash": "256eeec32abbb8e7366e6deb19b743a71aaa82f259ef1cd0a5687ce1dc0d86ce",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "ema-news",
-          "sourceName": "European Medicines Agency",
-          "sourceTier": "A",
-          "originalUrl": "https://www.ema.europa.eu/en/news/clinical-trial-applications-advice-pilot-becomes-permanent"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
       ]
     },
     {
@@ -1084,54 +1084,6 @@
           "sourceName": "U.S. Food and Drug Administration - Drugs",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/about-fda/accelerating-rare-disease-cures-arc-program/rare-disease-drug-approvals"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "d478b9c4-19b2-35f7-9e49-d5ba1fcde4bd",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/drugs/generic-drugs/what-approval-process-generic-drugs",
-      "canonicalUrl": "https://www.fda.gov/drugs/generic-drugs/what-approval-process-generic-drugs",
-      "titleOriginal": "What Is the Approval Process for Generic Drugs?",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-08T13:43:04Z",
-      "collectedAt": "2026-10-13T11:45:46.705855410Z",
-      "contentHash": "fdfbfd1976844876967a24083004c139908529ec7162d8ad795feb9c1cb60831",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/drugs/generic-drugs/what-approval-process-generic-drugs"
         }
       ],
       "importanceScore": 50,
