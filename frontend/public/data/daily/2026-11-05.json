@@ -1,72 +1,21 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-05T21:58:45.529137537Z",
+  "generatedAt": "2026-11-06T06:40:15.304180354Z",
   "articles": [
     {
-      "id": "dab80bbd-fd46-3a95-8175-8d8fe3a25d99",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
+      "id": "d2b60cee-1610-3555-9257-2ed8d2aff5ed",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
       "sourceTier": "A",
       "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/class-4-medicines-defect-notification-neuraxpharm-uk-limited-levetiracetam-neuraxpharm-granules-for-oral-solution-in-sachet-el-26-a-slash-40",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/class-4-medicines-defect-notification-neuraxpharm-uk-limited-levetiracetam-neuraxpharm-granules-for-oral-solution-in-sachet-el-26-a-slash-40",
-      "titleOriginal": "Class 4 Medicines Defect Notification: Neuraxpharm UK Limited, Levetiracetam Neuraxpharm granules for oral solution in sachet, EL(26)A/40",
+      "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
+      "canonicalUrl": "https://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs",
+      "titleOriginal": "What\u0027s New Related to Drugs",
       "titleZh": null,
       "summaryZh": null,
       "whyItMattersZh": null,
       "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "approval",
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-05T21:58:42.880188004Z",
-      "contentHash": "6b7d3523506537214d511dfdb731957835fe7c83823fa5ed1e51fbcae11a7402",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/class-4-medicines-defect-notification-neuraxpharm-uk-limited-levetiracetam-neuraxpharm-granules-for-oral-solution-in-sachet-el-26-a-slash-40"
-        }
-      ],
-      "importanceScore": 95,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "c802e33e-44f4-3d87-b0fd-1096c289e7b0",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-21-to-25-september-2026",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-21-to-25-september-2026",
-      "titleOriginal": "Field Safety Notices: 21 to 25 September 2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
+      "region": "US",
       "category": "quality_safety",
       "eventTypes": [
         "safety_alert"
@@ -74,13 +23,13 @@
       "entities": [
         {
           "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
+          "name": "U.S. Food and Drug Administration"
         }
       ],
       "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-05T21:58:42.880967551Z",
-      "contentHash": "b2ba952f2572faf6eb84ba3664e2a307ce4f6cd34a1b1607ade04c12e942b0cd",
+      "publishedAt": "2026-11-05T22:35:36Z",
+      "collectedAt": "2026-11-06T06:40:12.363154903Z",
+      "contentHash": "bcb49a4d9a5942784cd6c8fbfa553c31f3f3660404e32d8c7bdb5bf34309db8a",
       "generated": false,
       "generatorVersion": null,
       "generatedAt": null,
@@ -89,810 +38,10 @@
       "legalBasis": "rss_allowed",
       "sourceLinks": [
         {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
           "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-21-to-25-september-2026"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "3a8e2126-c802-33cb-9144-f1306620193e",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/class-3-medicines-recall-norgine-limited-movicol-plain-13-dot-7g-powder-for-oral-solution-el-26-a-slash-41",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/class-3-medicines-recall-norgine-limited-movicol-plain-13-dot-7g-powder-for-oral-solution-el-26-a-slash-41",
-      "titleOriginal": "Class 3 Medicines Recall: Norgine Limited, MOVICOL Plain 13.7g powder for oral solution, EL(26)A/41",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-05T21:58:42.879988902Z",
-      "contentHash": "fddc9abbea7f5def2caaec899b1a4879aaa933ea319a52121eff1e05f77502ba",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/class-3-medicines-recall-norgine-limited-movicol-plain-13-dot-7g-powder-for-oral-solution-el-26-a-slash-41"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "acc78714-9097-31c7-a7f3-8c90b5566736",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-28-september-2026-to-2-october-2026",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-28-september-2026-to-2-october-2026",
-      "titleOriginal": "Field Safety Notices: 28 September 2026 to 2 October 2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-05T21:58:42.879833040Z",
-      "contentHash": "baa9b3c83dabb27352c79e7435d0fa2014c3dca1681c368d65474df85c6b52bb",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-28-september-2026-to-2-october-2026"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "92056765-08d9-3b21-9294-fbebb7439156",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-8-12-june-2026",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-8-12-june-2026",
-      "titleOriginal": "Field Safety Notices: 8 -12 June 2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-05T21:58:42.879688189Z",
-      "contentHash": "3119079750ac887098f2c16f2303692395c80b85a6b3998f41e07588b98b829f",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-8-12-june-2026"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "20939a77-61db-3a1f-b352-90cec6fbe3aa",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-for-october-2026",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-for-october-2026",
-      "titleOriginal": "Field Safety Notices for October 2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-05T21:58:42.879234240Z",
-      "contentHash": "c1e1085850cc01b95597a79fa1db8db273631e9d5a97c56b7ab2ebcb7bdd74f2",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-for-october-2026"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "f9331d67-80b7-3df3-9c1a-67882d2740cb",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/class-2-medicines-recall-norgine-pharmaceuticals-limited-pedmarqsi-80-mg-slash-ml-solution-for-infusion-el-26-a-slash-42",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/class-2-medicines-recall-norgine-pharmaceuticals-limited-pedmarqsi-80-mg-slash-ml-solution-for-infusion-el-26-a-slash-42",
-      "titleOriginal": "Class 2 Medicines Recall: Norgine Pharmaceuticals Limited, Pedmarqsi 80 mg/mL solution for infusion, EL(26)A/42",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-05T21:58:42.879027634Z",
-      "contentHash": "2ffdc1c1e4c42212685ead0896cf10c028a246f4f4fc64e7b654786cd1284c0c",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/class-2-medicines-recall-norgine-pharmaceuticals-limited-pedmarqsi-80-mg-slash-ml-solution-for-infusion-el-26-a-slash-42"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "5b8dc610-dc1e-395c-8bc6-e5456ad90769",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-27-to-31-january-2025",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-27-to-31-january-2025",
-      "titleOriginal": "Field Safety Notices: 27 to 31 January 2025",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-05T21:58:42.877775804Z",
-      "contentHash": "c2b77c75c28a87d1ce560aaf5381b769377ba86b9a6187370b3ab4b3ee344be8",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-27-to-31-january-2025"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "16b31bb6-0e07-3793-baa1-16fa199c889b",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/nova-biomedical-statstrip-ketone-test-strips-risk-of-disruption-to-blood-ketone-testing-due-to-quality-control-failures-and-supply-interruption-dsi-slash-2026-slash-013",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/nova-biomedical-statstrip-ketone-test-strips-risk-of-disruption-to-blood-ketone-testing-due-to-quality-control-failures-and-supply-interruption-dsi-slash-2026-slash-013",
-      "titleOriginal": "Nova Biomedical StatStrip ketone test strips: risk of disruption to blood ketone testing due to quality-control failures and supply interruption DSI/2026/013",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-05T21:58:42.876868488Z",
-      "contentHash": "bb012042558cc506b2eb538fc92d03b1260389e1d81af302b3467e50dd1627ea",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/nova-biomedical-statstrip-ketone-test-strips-risk-of-disruption-to-blood-ketone-testing-due-to-quality-control-failures-and-supply-interruption-dsi-slash-2026-slash-013"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "87d017c9-b5f2-3e4e-9f8c-e04ca90a465f",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-12-october-2026-to-16-october-2026",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-12-october-2026-to-16-october-2026",
-      "titleOriginal": "Field Safety Notices: 12 to 16 October 2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-05T21:58:42.876720722Z",
-      "contentHash": "b1c3bb53359927f87a52e3bac7c09f50fbb33fc67178d9b1c84bf9f3d5cf145a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-12-october-2026-to-16-october-2026"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "ddc32f3c-0414-3363-9248-051927241c7c",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-5-to-9-october-2026",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-5-to-9-october-2026",
-      "titleOriginal": "Field Safety Notices: 5 to 9 October 2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-05T21:58:42.876549662Z",
-      "contentHash": "c29f677259a8d590f345a69e89b809dd8d1059c395d559f61de71e7fd54e8de8",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-5-to-9-october-2026"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "a6b0a4fe-901e-3b11-bb28-bd052f351478",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/class-2-medicines-recall-xeal-pharma-clopidogrel-oral-liquids-all-strengths-el-26-a-slash-43",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/class-2-medicines-recall-xeal-pharma-clopidogrel-oral-liquids-all-strengths-el-26-a-slash-43",
-      "titleOriginal": "Class 2 Medicines Recall: Xeal Pharma, Clopidogrel Oral Liquids (all strengths), EL(26)A/43",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-05T21:58:42.876368523Z",
-      "contentHash": "0911db8a9e7492b3640e0712be814d1028dd1a927c3b4ff507953a17b3ad0cbc",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/class-2-medicines-recall-xeal-pharma-clopidogrel-oral-liquids-all-strengths-el-26-a-slash-43"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "3aca5369-2bd5-3751-a5fe-2b335b4ffa54",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-19-to-23-october-2026",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-19-to-23-october-2026",
-      "titleOriginal": "Field Safety Notices: 19 to 23 October 2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-05T21:58:42.876219425Z",
-      "contentHash": "07f7b0054721d43e1360c291189ed41b802bfc8b5e4beee1d353a5d9e08c5ea7",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-19-to-23-october-2026"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "cfe3c435-2850-3f3b-989f-8c55da1e9aff",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/class-2-medicines-recall-advanz-pharma-limited-mynzepli-40-mg-slash-ml-solution-for-injection-in-pre-filled-syringe-el-26-a-slash-44",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/class-2-medicines-recall-advanz-pharma-limited-mynzepli-40-mg-slash-ml-solution-for-injection-in-pre-filled-syringe-el-26-a-slash-44",
-      "titleOriginal": "Class 2 Medicines Recall: Advanz Pharma Limited, Mynzepli 40 mg/mL solution for injection in pre-filled syringe, EL(26)A/44",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-05T21:58:42.875966973Z",
-      "contentHash": "52885158312fa7a887bf364fd78c3460bccdf249e4bd63e69eb01850faec7227",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/class-2-medicines-recall-advanz-pharma-limited-mynzepli-40-mg-slash-ml-solution-for-injection-in-pre-filled-syringe-el-26-a-slash-44"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "22598016-6962-3d26-92a5-2eb18d3df4b3",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/class-2-medicines-recall-accord-uk-ltd-lercanidipine-hydrochloride-10mg-film-coated-tablets-el-26-a-slash-45",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/class-2-medicines-recall-accord-uk-ltd-lercanidipine-hydrochloride-10mg-film-coated-tablets-el-26-a-slash-45",
-      "titleOriginal": "Class 2 Medicines Recall: Accord-UK Ltd, Lercanidipine Hydrochloride 10mg Film-Coated Tablets, EL(26)A/45",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-05T21:58:42.875775405Z",
-      "contentHash": "788c89860525715dda1378f6b02201902c43d1eaa47851b0fb8c26505d1a3409",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/class-2-medicines-recall-accord-uk-ltd-lercanidipine-hydrochloride-10mg-film-coated-tablets-el-26-a-slash-45"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "90ba914c-20c8-3da6-827c-83828e15307b",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-october-2026",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-october-2026",
-      "titleOriginal": "MHRA Safety Roundup: October 2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-05T21:58:42.875628109Z",
-      "contentHash": "5f7eb712a4d07aef1fabdc998ce0ce3e3aec4098ae7187cedb1ee4f76c018f14",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-october-2026"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "7d106ac9-2552-3875-91f2-c0541bf8316b",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-26-to-30-october-2026",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-26-to-30-october-2026",
-      "titleOriginal": "Field Safety Notices: 26 to 30 October 2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-05T21:58:42.875434588Z",
-      "contentHash": "3ad3f8a294c872804e6375a0d640d48b914e07a8e50680b74505874945636d2f",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/field-safety-notices-26-to-30-october-2026"
-        }
-      ],
-      "importanceScore": 80,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "a12f5c96-18df-3ba0-b90b-2282be220f93",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/class-3-medicines-recall-aspire-pharma-limited-tropicamide-1-percent-eye-drops-solution-in-single-dose-containers-20-x-0-dot-5ml-el-26-a-slash-47",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/class-3-medicines-recall-aspire-pharma-limited-tropicamide-1-percent-eye-drops-solution-in-single-dose-containers-20-x-0-dot-5ml-el-26-a-slash-47",
-      "titleOriginal": "Class 3 Medicines Recall: Aspire Pharma Limited, Tropicamide 1% Eye Drops, solution in single dose containers 20 x 0.5ml , EL(26)A/47",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-05T21:58:42.874584939Z",
-      "contentHash": "122c76bee32c6f1e99206c34e17d78be07197b303de2bdf083c743422262a816",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
-          "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/class-3-medicines-recall-aspire-pharma-limited-tropicamide-1-percent-eye-drops-solution-in-single-dose-containers-20-x-0-dot-5ml-el-26-a-slash-47"
+          "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/whats-new-related-drugs"
         }
       ],
       "importanceScore": 80,
@@ -929,7 +78,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-05T14:54:41Z",
-      "collectedAt": "2026-11-05T21:58:42.575067704Z",
+      "collectedAt": "2026-11-06T06:40:12.361373860Z",
       "contentHash": "0a574b5e8bb19bc281b3d72c8c59196acf885f3e498bc939e99d3605180a9ec6",
       "generated": false,
       "generatorVersion": null,
@@ -980,7 +129,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-05T14:32:17Z",
-      "collectedAt": "2026-11-05T21:58:42.575282756Z",
+      "collectedAt": "2026-11-06T06:40:12.361564219Z",
       "contentHash": "df97b3c595d67500dc9ea17867af4cfa4031c8d92c639264a29d548aefdf7aba",
       "generated": false,
       "generatorVersion": null,
@@ -1030,7 +179,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-05T13:39:05Z",
-      "collectedAt": "2026-11-05T21:58:42.543406937Z",
+      "collectedAt": "2026-11-06T06:40:12.371088984Z",
       "contentHash": "6e6e08fde501d50fa4bb8cb5ceb504d158cf93175f20b546f1cb4d91f238867a",
       "generated": false,
       "generatorVersion": null,
@@ -1080,7 +229,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-05T00:00:00Z",
-      "collectedAt": "2026-11-05T21:58:42.835302875Z",
+      "collectedAt": "2026-11-06T06:40:12.641213811Z",
       "contentHash": "edf3bc8cdd613cb350b1933522f49d1d9845cacdd2c4bfae851496bc2aff2a16",
       "generated": false,
       "generatorVersion": null,
@@ -1096,12 +245,12 @@
           "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/hf-cables-reusable"
         }
       ],
-      "importanceScore": 80,
+      "importanceScore": 73,
       "importanceReasons": [
         "官方一手来源",
         "高影响事件",
         "政策或安全相关",
-        "24小时内更新"
+        "近期更新"
       ]
     },
     {
@@ -1130,7 +279,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-05T00:00:00Z",
-      "collectedAt": "2026-11-05T21:58:42.835609729Z",
+      "collectedAt": "2026-11-06T06:40:12.641426473Z",
       "contentHash": "4c307b9e3daa0d87fe2536b1403f42d71063792986d10a278ebad056da5c9d91",
       "generated": false,
       "generatorVersion": null,
@@ -1146,12 +295,12 @@
           "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/horizon-medical-imaging-system"
         }
       ],
-      "importanceScore": 80,
+      "importanceScore": 73,
       "importanceReasons": [
         "官方一手来源",
         "高影响事件",
         "政策或安全相关",
-        "24小时内更新"
+        "近期更新"
       ]
     },
     {
@@ -1180,7 +329,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-05T00:00:00Z",
-      "collectedAt": "2026-11-05T21:58:42.835788113Z",
+      "collectedAt": "2026-11-06T06:40:12.641535974Z",
       "contentHash": "039404712f30f4a5af6644d00dd86fb95e21bedb1654b6050a3dafec3546d773",
       "generated": false,
       "generatorVersion": null,
@@ -1196,12 +345,12 @@
           "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/nova-statstripr-ketone-test-strips"
         }
       ],
-      "importanceScore": 80,
+      "importanceScore": 73,
       "importanceReasons": [
         "官方一手来源",
         "高影响事件",
         "政策或安全相关",
-        "24小时内更新"
+        "近期更新"
       ]
     },
     {
@@ -1230,7 +379,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-05T00:00:00Z",
-      "collectedAt": "2026-11-05T21:58:42.835947701Z",
+      "collectedAt": "2026-11-06T06:40:12.641660717Z",
       "contentHash": "db3fdbd16f68074e1380ef2b2668c75a2dd9a4559981e38a4ac7f9c9d12b5fa5",
       "generated": false,
       "generatorVersion": null,
@@ -1246,42 +395,42 @@
           "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/magnetom-flowace"
         }
       ],
-      "importanceScore": 80,
+      "importanceScore": 73,
       "importanceReasons": [
         "官方一手来源",
         "高影响事件",
         "政策或安全相关",
-        "24小时内更新"
+        "近期更新"
       ]
     },
     {
-      "id": "b8ca2b3e-11c5-34ec-a673-c296d6a28950",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
+      "id": "a3cda41f-75e5-3d1d-93cf-90ba96871f20",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
       "sourceTier": "A",
       "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/continuous-renal-replacement-therapy-crrt-consider-delayed-administration-of-concurrent-echinocandins-such-as-caspofungin-to-reduce-the-risk-of-adsorption-onto-new-polyacrylonitrile-pan-based-filter-membranes-dsi-slash-2026-slash-",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/continuous-renal-replacement-therapy-crrt-consider-delayed-administration-of-concurrent-echinocandins-such-as-caspofungin-to-reduce-the-risk-of-adsorption-onto-new-polyacrylonitrile-pan-based-filter-membranes-dsi-slash-2026-slash-",
-      "titleOriginal": "Continuous renal replacement therapy (CRRT): Consider delayed administration of concurrent echinocandins, such as caspofungin, to reduce the risk of adsorption onto new polyacrylonitrile (PAN)-based filter membranes DSI/2026/014",
+      "originalUrl": "http://www.fda.gov/drugs/resources-information-approved-drugs/oncology-cancerhematologic-malignancies-approval-notifications",
+      "canonicalUrl": "https://www.fda.gov/drugs/resources-information-approved-drugs/oncology-cancerhematologic-malignancies-approval-notifications",
+      "titleOriginal": "Oncology (Cancer)/Hematologic Malignancies Approval Notifications",
       "titleZh": null,
       "summaryZh": null,
       "whyItMattersZh": null,
       "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
+      "region": "US",
+      "category": "policy_regulation",
       "eventTypes": [
         "update"
       ],
       "entities": [
         {
           "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
+          "name": "U.S. Food and Drug Administration"
         }
       ],
       "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-05T21:58:42.877919863Z",
-      "contentHash": "37bff3da8e22baf86b2701d4fddd880bedf47c3919d0ffa4471fcbc533c636e9",
+      "publishedAt": "2026-11-05T22:37:29Z",
+      "collectedAt": "2026-11-06T06:40:12.355745822Z",
+      "contentHash": "34f65e7358637802056576d768fab499ce9a850561e773f339612371f0f8ece4",
       "generated": false,
       "generatorVersion": null,
       "generatedAt": null,
@@ -1290,10 +439,10 @@
       "legalBasis": "rss_allowed",
       "sourceLinks": [
         {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
           "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/continuous-renal-replacement-therapy-crrt-consider-delayed-administration-of-concurrent-echinocandins-such-as-caspofungin-to-reduce-the-risk-of-adsorption-onto-new-polyacrylonitrile-pan-based-filter-membranes-dsi-slash-2026-slash-"
+          "originalUrl": "http://www.fda.gov/drugs/resources-information-approved-drugs/oncology-cancerhematologic-malignancies-approval-notifications"
         }
       ],
       "importanceScore": 65,
@@ -1304,33 +453,33 @@
       ]
     },
     {
-      "id": "ff738189-cefb-3ac5-9360-9f52458ed041",
-      "sourceId": "mhra-drug-device-alerts",
-      "sourceName": "UK MHRA Drug and Device Alerts",
+      "id": "a5647f4a-308b-3aa3-b573-37b0b0dd6637",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
       "sourceTier": "A",
       "sourceType": "regulator",
-      "originalUrl": "https://www.gov.uk/drug-device-alerts/class-4-medicines-defect-notification-sandoz-limited-co-amoxiclav-powder-for-oral-suspension-250-slash-62-dot-5-mg-slash-ml-el-26-a-slash-46",
-      "canonicalUrl": "https://www.gov.uk/drug-device-alerts/class-4-medicines-defect-notification-sandoz-limited-co-amoxiclav-powder-for-oral-suspension-250-slash-62-dot-5-mg-slash-ml-el-26-a-slash-46",
-      "titleOriginal": "Class 4 Medicines Defect Notification: Sandoz Limited, Co-Amoxiclav powder for oral suspension 250/62.5 mg/5mL, EL(26)A/46",
+      "originalUrl": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-accelerated-approval-amivantamab-and-hyaluronidase-lpuj-recurrent-or-metastatic-head-and",
+      "canonicalUrl": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-accelerated-approval-amivantamab-and-hyaluronidase-lpuj-recurrent-or-metastatic-head-and",
+      "titleOriginal": "FDA grants accelerated approval to amivantamab and hyaluronidase-lpuj for recurrent or metastatic head and neck squamous cell carcinoma",
       "titleZh": null,
       "summaryZh": null,
       "whyItMattersZh": null,
       "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
+      "region": "US",
+      "category": "policy_regulation",
       "eventTypes": [
         "update"
       ],
       "entities": [
         {
           "type": "institution",
-          "name": "Medicines and Healthcare products Regulatory Agency"
+          "name": "U.S. Food and Drug Administration"
         }
       ],
       "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-05T21:58:42.874282724Z",
-      "contentHash": "4be6efe2c2d32c0c587a3626ecba28275b0e9786d6d02a6eba2d725a96d973d2",
+      "publishedAt": "2026-11-05T22:32:01Z",
+      "collectedAt": "2026-11-06T06:40:12.363363719Z",
+      "contentHash": "6fd0e54ac640541f72b5a46831fa6cb69d158a7fcaae6545bde60dcf30b85740",
       "generated": false,
       "generatorVersion": null,
       "generatedAt": null,
@@ -1339,10 +488,59 @@
       "legalBasis": "rss_allowed",
       "sourceLinks": [
         {
-          "sourceId": "mhra-drug-device-alerts",
-          "sourceName": "UK MHRA Drug and Device Alerts",
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
           "sourceTier": "A",
-          "originalUrl": "https://www.gov.uk/drug-device-alerts/class-4-medicines-defect-notification-sandoz-limited-co-amoxiclav-powder-for-oral-suspension-250-slash-62-dot-5-mg-slash-ml-el-26-a-slash-46"
+          "originalUrl": "http://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-accelerated-approval-amivantamab-and-hyaluronidase-lpuj-recurrent-or-metastatic-head-and"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "94d94af0-669f-3618-b8ca-c62ac42bcf94",
+      "sourceId": "fda-drug-news",
+      "sourceName": "U.S. Food and Drug Administration - Drugs",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-new-treatment-head-and-neck-squamous-cell-carcinoma",
+      "canonicalUrl": "https://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-new-treatment-head-and-neck-squamous-cell-carcinoma",
+      "titleOriginal": "FDA Grants Accelerated Approval to a New Treatment for Head and Neck Squamous Cell Carcinoma",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-05T22:30:38Z",
+      "collectedAt": "2026-11-06T06:40:12.363656579Z",
+      "contentHash": "fa8f350cceb7b53f17addd81f7f85795d6a3ade853d9f38b54e9eff28366cf3c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-drug-news",
+          "sourceName": "U.S. Food and Drug Administration - Drugs",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-new-treatment-head-and-neck-squamous-cell-carcinoma"
         }
       ],
       "importanceScore": 65,
@@ -1378,7 +576,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-05T21:30:23Z",
-      "collectedAt": "2026-11-05T21:58:42.529728156Z",
+      "collectedAt": "2026-11-06T06:40:12.363932804Z",
       "contentHash": "c6a96bcf049e475200512722bc93073d234da39f2cde5802ea414fc0e2d985cd",
       "generated": false,
       "generatorVersion": null,
@@ -1427,7 +625,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-05T19:40:47Z",
-      "collectedAt": "2026-11-05T21:58:42.532041842Z",
+      "collectedAt": "2026-11-06T06:40:12.364140830Z",
       "contentHash": "171b697f264968b71fc02a6b6f0421998505daa0c74bd8adb46e9cc34be5e60c",
       "generated": false,
       "generatorVersion": null,
@@ -1476,7 +674,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-05T19:40:08Z",
-      "collectedAt": "2026-11-05T21:58:42.532310905Z",
+      "collectedAt": "2026-11-06T06:40:12.364323057Z",
       "contentHash": "c5b3b07b4f75177ab872d2e1e404c0f1e265e596cbc7008ceecdb03e275152cd",
       "generated": false,
       "generatorVersion": null,
@@ -1525,7 +723,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-05T19:29:27Z",
-      "collectedAt": "2026-11-05T21:58:42.532710281Z",
+      "collectedAt": "2026-11-06T06:40:12.364562779Z",
       "contentHash": "c5c50007be7ce7a3238256dea09fc95ca4190012003cd21bb9e4c89dde9cf698",
       "generated": false,
       "generatorVersion": null,
@@ -1574,7 +772,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-05T19:25:30Z",
-      "collectedAt": "2026-11-05T21:58:42.533012205Z",
+      "collectedAt": "2026-11-06T06:40:12.364754140Z",
       "contentHash": "2746613c90d36de5e0ffbd6e4744a419865b302d0ff17db1ebeaf9523b224727",
       "generated": false,
       "generatorVersion": null,
@@ -1623,7 +821,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-05T18:32:28Z",
-      "collectedAt": "2026-11-05T21:58:42.533285476Z",
+      "collectedAt": "2026-11-06T06:40:12.364941394Z",
       "contentHash": "5e3fd3ee75af333e000b9a8b6f8a00755637aac657cb8e57592d1138d0b7e8a4",
       "generated": false,
       "generatorVersion": null,
@@ -1672,7 +870,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-05T18:31:55Z",
-      "collectedAt": "2026-11-05T21:58:42.536172002Z",
+      "collectedAt": "2026-11-06T06:40:12.368913943Z",
       "contentHash": "60ba570a7e7bd83609d56601512ae3733feda0454ff67880cd5b5914ee3211ff",
       "generated": false,
       "generatorVersion": null,
@@ -1721,7 +919,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-05T17:37:24Z",
-      "collectedAt": "2026-11-05T21:58:42.574323343Z",
+      "collectedAt": "2026-11-06T06:40:12.360621416Z",
       "contentHash": "36a22d6bb6032b7cc909028a996e20d5fe3b6ac62e1237268049d1d9b2347a7e",
       "generated": false,
       "generatorVersion": null,
@@ -1770,7 +968,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-05T17:19:12Z",
-      "collectedAt": "2026-11-05T21:58:42.541646396Z",
+      "collectedAt": "2026-11-06T06:40:12.369928862Z",
       "contentHash": "6606504f1f0c25bfc20871792c73dfe9678795460ad24b317594dbf0f14cc247",
       "generated": false,
       "generatorVersion": null,
@@ -1819,7 +1017,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-05T17:03:41Z",
-      "collectedAt": "2026-11-05T21:58:42.541950955Z",
+      "collectedAt": "2026-11-06T06:40:12.370148995Z",
       "contentHash": "a80e125002cb8960ff6e3466b681a06ca148a876747fbcc75e1fc9cb8762c0dd",
       "generated": false,
       "generatorVersion": null,
@@ -1868,7 +1066,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-05T15:58:50Z",
-      "collectedAt": "2026-11-05T21:58:42.542572978Z",
+      "collectedAt": "2026-11-06T06:40:12.370545918Z",
       "contentHash": "e35c6dbeb7bb4563f50334ba9ae7a78b18257d0f8c70ac0b466c6d287adfe55a",
       "generated": false,
       "generatorVersion": null,
@@ -1917,7 +1115,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-05T14:07:27Z",
-      "collectedAt": "2026-11-05T21:58:42.542814209Z",
+      "collectedAt": "2026-11-06T06:40:12.370718250Z",
       "contentHash": "cb3c44373c22ab2da28c01997d3873fb3959d44ef7f6b94a9b8ba6059a41d0eb",
       "generated": false,
       "generatorVersion": null,
@@ -1966,7 +1164,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-05T14:03:28Z",
-      "collectedAt": "2026-11-05T21:58:42.543092089Z",
+      "collectedAt": "2026-11-06T06:40:12.370903252Z",
       "contentHash": "73fb183106c6c2ea844819c55505c678fc5fca5b5363f06f3c4abc98ed588107",
       "generated": false,
       "generatorVersion": null,
@@ -2015,7 +1213,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-05T12:01:54Z",
-      "collectedAt": "2026-11-05T21:58:42.546664457Z",
+      "collectedAt": "2026-11-06T06:40:12.376290611Z",
       "contentHash": "f8c349fb39c8616841ed29fc7626a31b50536e7f0c65236503075d66e5b1ffa3",
       "generated": false,
       "generatorVersion": null,
@@ -2035,246 +1233,6 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "7d263061-e147-3f18-8605-8fb40584563b",
-      "sourceId": "china-cdc-news",
-      "sourceName": "Chinese Center for Disease Control and Prevention",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.chinacdc.cn/zxyw/202610/t20261027_1842492.html",
-      "canonicalUrl": "https://www.chinacdc.cn/zxyw/202610/t20261027_1842492.html",
-      "titleOriginal": "新发突发传染病数学建模前沿与实践技术2026年度第二期培训班在大理召开",
-      "titleZh": "新发突发传染病数学建模前沿与实践技术2026年度第二期培训班在大理召开",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "public_health",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "中国疾病预防控制中心"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-05T21:58:45.388369297Z",
-      "contentHash": "8072764712b4ecb698c6e22720896dd151f050a4af8d0e3af3cef706350aac5d",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "china-cdc-news",
-          "sourceName": "Chinese Center for Disease Control and Prevention",
-          "sourceTier": "A",
-          "originalUrl": "https://www.chinacdc.cn/zxyw/202610/t20261027_1842492.html"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "b29aeb09-28e5-37a9-a220-651bb1015976",
-      "sourceId": "china-cdc-news",
-      "sourceName": "Chinese Center for Disease Control and Prevention",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.chinacdc.cn/zxyw/202610/t20261025_1842453.html",
-      "canonicalUrl": "https://www.chinacdc.cn/zxyw/202610/t20261025_1842453.html",
-      "titleOriginal": "中心(院)团委组织开展第十届“青年专家走基层”志愿服务活动",
-      "titleZh": "中心(院)团委组织开展第十届“青年专家走基层”志愿服务活动",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "public_health",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "中国疾病预防控制中心"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-05T21:58:45.388223364Z",
-      "contentHash": "50008eacbe60ac0a70810b5363ae07a573bad9abefa572427810f569a8fcde9b",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "china-cdc-news",
-          "sourceName": "Chinese Center for Disease Control and Prevention",
-          "sourceTier": "A",
-          "originalUrl": "https://www.chinacdc.cn/zxyw/202610/t20261025_1842453.html"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "311dbff3-1e82-3444-8f3a-6b803b7dd366",
-      "sourceId": "china-cdc-news",
-      "sourceName": "Chinese Center for Disease Control and Prevention",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.chinacdc.cn/zxyw/202610/t20261030_1842585.html",
-      "canonicalUrl": "https://www.chinacdc.cn/zxyw/202610/t20261030_1842585.html",
-      "titleOriginal": "多部门传染病防控联席会商第四次会议在京召开",
-      "titleZh": "多部门传染病防控联席会商第四次会议在京召开",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "public_health",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "中国疾病预防控制中心"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-05T21:58:45.388084665Z",
-      "contentHash": "d6db15d87526531f40d4ec14d21d8aac9d21fc771b051685f1951dd784f57003",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "china-cdc-news",
-          "sourceName": "Chinese Center for Disease Control and Prevention",
-          "sourceTier": "A",
-          "originalUrl": "https://www.chinacdc.cn/zxyw/202610/t20261030_1842585.html"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "63cdf4bf-d8de-3485-bebf-a03511e1afad",
-      "sourceId": "china-cdc-news",
-      "sourceName": "Chinese Center for Disease Control and Prevention",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.chinacdc.cn/zxyw/202610/t20261031_1842590.html",
-      "canonicalUrl": "https://www.chinacdc.cn/zxyw/202610/t20261031_1842590.html",
-      "titleOriginal": "王健伟主任(院长)会见英国卫生安全局首席执行官苏慧宁并签署合作备忘录",
-      "titleZh": "王健伟主任(院长)会见英国卫生安全局首席执行官苏慧宁并签署合作备忘录",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "public_health",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "中国疾病预防控制中心"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-05T21:58:45.387898166Z",
-      "contentHash": "060afc34c500931fc2ecf2074cb5e4253f10d5e5e093ad94279efd12a38301a8",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "china-cdc-news",
-          "sourceName": "Chinese Center for Disease Control and Prevention",
-          "sourceTier": "A",
-          "originalUrl": "https://www.chinacdc.cn/zxyw/202610/t20261031_1842590.html"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "4830da23-dfcb-32ba-a110-7fc9020f93b7",
-      "sourceId": "china-cdc-news",
-      "sourceName": "Chinese Center for Disease Control and Prevention",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.chinacdc.cn/zxyw/202611/t20261105_1842744.html",
-      "canonicalUrl": "https://www.chinacdc.cn/zxyw/202611/t20261105_1842744.html",
-      "titleOriginal": "中国疾控中心(中国预科院)新发突发与重大传染病防控国家科技重大专项2026年11月调度会议顺利召开",
-      "titleZh": "中国疾控中心(中国预科院)新发突发与重大传染病防控国家科技重大专项2026年11月调度会议顺利召开",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "public_health",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "中国疾病预防控制中心"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-05T21:58:45.387474403Z",
-      "contentHash": "f00202b4deb9b4f2a6825417aec4cb3c507c2fdf97349d9c815dcde05cb62c59",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "china-cdc-news",
-          "sourceName": "Chinese Center for Disease Control and Prevention",
-          "sourceTier": "A",
-          "originalUrl": "https://www.chinacdc.cn/zxyw/202611/t20261105_1842744.html"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
         "24小时内更新"
       ]
     },
@@ -2304,7 +1262,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-05T17:44:09Z",
-      "collectedAt": "2026-11-05T21:58:42.536440424Z",
+      "collectedAt": "2026-11-06T06:40:12.369110852Z",
       "contentHash": "c2872162616e11644875b36c26ca496f9c1adfcc9c3ae54222c82bc9b9317737",
       "generated": false,
       "generatorVersion": null,
@@ -2352,7 +1310,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-05T16:40:22Z",
-      "collectedAt": "2026-11-05T21:58:42.542254443Z",
+      "collectedAt": "2026-11-06T06:40:12.370357521Z",
       "contentHash": "4a5141d43c98a812d512e6ba2c1c16a440611c1a77eff528b0eab521a83f2bba",
       "generated": false,
       "generatorVersion": null,

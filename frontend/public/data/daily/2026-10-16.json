@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-05T21:58:45.529137537Z",
+  "generatedAt": "2026-11-06T06:40:15.304180354Z",
   "articles": [
     {
       "id": "77a4f823-efcc-3750-b3b5-dd5e06205bc8",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-16T10:00:00Z",
-      "collectedAt": "2026-11-05T21:58:42.539541992Z",
+      "collectedAt": "2026-11-06T06:40:12.362487479Z",
       "contentHash": "e92b8747027fb78c290863ca0eb3ea186f9a25ac2538f1f6f2d70d44bc66618e",
       "generated": false,
       "generatorVersion": null,
@@ -529,56 +529,6 @@
       "importanceReasons": []
     },
     {
-      "id": "a16349c5-30a2-3bfd-afcb-b38f9d6746a3",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/industry/fda-actions-accelerate-and-modernize-early-and-late-stage-clinical-development/fda-expedited-investigational-new-drug-ind-pilot-program",
-      "canonicalUrl": "https://www.fda.gov/industry/fda-actions-accelerate-and-modernize-early-and-late-stage-clinical-development/fda-expedited-investigational-new-drug-ind-pilot-program",
-      "titleOriginal": "FDA Expedited Investigational New Drug (IND) Pilot Program",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert",
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-16T19:25:16Z",
-      "collectedAt": "2026-10-22T13:46:44.437192639Z",
-      "contentHash": "2cacceb580f2a5b7e78dfc6bd7f185e46aa67a0f35a76107e95c2aeddb26bf5d",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/industry/fda-actions-accelerate-and-modernize-early-and-late-stage-clinical-development/fda-expedited-investigational-new-drug-ind-pilot-program"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
       "id": "bd130bab-da39-3e94-b8f9-665ac5a5424d",
       "sourceId": "fda-biologics-news",
       "sourceName": "FDA Vaccines, Blood and Biologics",
@@ -624,53 +574,6 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关"
-      ]
-    },
-    {
-      "id": "12b33ab5-051c-33f3-992d-bbb51fd1a123",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/industry/fda-expedited-investigational-new-drug-ind-pilot-program/expedited-ind-rolling-submission-process-and-program-structure",
-      "canonicalUrl": "https://www.fda.gov/industry/fda-expedited-investigational-new-drug-ind-pilot-program/expedited-ind-rolling-submission-process-and-program-structure",
-      "titleOriginal": "Expedited IND Rolling Submission Process and Program Structure",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "drug_rd",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-16T19:28:27Z",
-      "collectedAt": "2026-10-22T13:46:44.436459790Z",
-      "contentHash": "3e0c71fc22cf30c21793a8e1186ee30488e520a94d4f9c8bdd4e7ce056847fdc",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/industry/fda-expedited-investigational-new-drug-ind-pilot-program/expedited-ind-rolling-submission-process-and-program-structure"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
       ]
     },
     {

@@ -1,11 +1,11 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-05T21:58:45.529137537Z",
+  "generatedAt": "2026-11-06T06:40:15.304180354Z",
   "articles": [
     {
-      "id": "452edc1c-5fa9-3587-b791-8625cc338708",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
+      "id": "a16349c5-30a2-3bfd-afcb-b38f9d6746a3",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
       "sourceTier": "A",
       "sourceType": "regulator",
       "originalUrl": "http://www.fda.gov/industry/fda-actions-accelerate-and-modernize-early-and-late-stage-clinical-development/fda-expedited-investigational-new-drug-ind-pilot-program",
@@ -29,7 +29,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-04T20:11:58Z",
-      "collectedAt": "2026-11-05T21:58:42.548427252Z",
+      "collectedAt": "2026-11-06T06:40:12.366686755Z",
       "contentHash": "2cacceb580f2a5b7e78dfc6bd7f185e46aa67a0f35a76107e95c2aeddb26bf5d",
       "generated": false,
       "generatorVersion": null,
@@ -39,8 +39,8 @@
       "legalBasis": "rss_allowed",
       "sourceLinks": [
         {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/industry/fda-actions-accelerate-and-modernize-early-and-late-stage-clinical-development/fda-expedited-investigational-new-drug-ind-pilot-program"
         }
@@ -79,7 +79,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-04T15:17:14Z",
-      "collectedAt": "2026-11-05T21:58:42.578249121Z",
+      "collectedAt": "2026-11-06T06:40:12.366874991Z",
       "contentHash": "97464eb25987900aeaec25fed63e88fb471b3f90460a35bb19aa438b69282d26",
       "generated": false,
       "generatorVersion": null,
@@ -129,7 +129,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-04T00:00:00Z",
-      "collectedAt": "2026-11-05T21:58:42.836086851Z",
+      "collectedAt": "2026-11-06T06:40:12.641753543Z",
       "contentHash": "e563e86c3e2f35f5327717648e49f6332d1c72e4dd9a7bb241b8c57376b6a11c",
       "generated": false,
       "generatorVersion": null,
@@ -179,7 +179,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-04T00:00:00Z",
-      "collectedAt": "2026-11-05T21:58:42.836247051Z",
+      "collectedAt": "2026-11-06T06:40:12.641857025Z",
       "contentHash": "ec22f4c14211690cf9f1840f9c8d6a218c83fa5ac89412faf89572917cd8b46f",
       "generated": false,
       "generatorVersion": null,
@@ -229,7 +229,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-04T00:00:00Z",
-      "collectedAt": "2026-11-05T21:58:42.836391120Z",
+      "collectedAt": "2026-11-06T06:40:12.641949531Z",
       "contentHash": "6ac8867c48e2e412d30eba783f2f394566cbb79ffdf7f625a9a27abbe2403512",
       "generated": false,
       "generatorVersion": null,
@@ -279,7 +279,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-04T00:00:00Z",
-      "collectedAt": "2026-11-05T21:58:42.836601413Z",
+      "collectedAt": "2026-11-06T06:40:12.642097017Z",
       "contentHash": "37bdd213472a29ddf4dec920addf7d93d76b0073d97304a870e9c84ea85cabde",
       "generated": false,
       "generatorVersion": null,
@@ -300,6 +300,151 @@
         "官方一手来源",
         "高影响事件",
         "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "4a4e80b8-e32d-39e3-834e-57c7da93a2c9",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/news-events/office-therapeutic-products-otp-events-meetings-and-workshops",
+      "canonicalUrl": "https://www.fda.gov/news-events/office-therapeutic-products-otp-events-meetings-and-workshops",
+      "titleOriginal": "Office of Therapeutic Products (OTP) Events, Meetings, and Workshops",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-04T12:57:54Z",
+      "collectedAt": "2026-11-06T06:40:12.368500897Z",
+      "contentHash": "d0efefa8845ba0a7a621b6c6237f2cab536533687ff20a29e646257110f8ae21",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/news-events/office-therapeutic-products-otp-events-meetings-and-workshops"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "12b33ab5-051c-33f3-992d-bbb51fd1a123",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/industry/fda-expedited-investigational-new-drug-ind-pilot-program/expedited-ind-rolling-submission-process-and-program-structure",
+      "canonicalUrl": "https://www.fda.gov/industry/fda-expedited-investigational-new-drug-ind-pilot-program/expedited-ind-rolling-submission-process-and-program-structure",
+      "titleOriginal": "Expedited IND Rolling Submission Process and Program Structure",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "drug_rd",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-04T20:12:42Z",
+      "collectedAt": "2026-11-06T06:40:12.362787744Z",
+      "contentHash": "3e0c71fc22cf30c21793a8e1186ee30488e520a94d4f9c8bdd4e7ce056847fdc",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/industry/fda-expedited-investigational-new-drug-ind-pilot-program/expedited-ind-rolling-submission-process-and-program-structure"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "56bdb625-22f7-3413-b96e-05ba778dfcca",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/news-events/office-therapeutic-products-otp-events-meetings-and-workshops/workshop-integration-site-analysis-during-long-term-follow-gene-therapies-integrating-viral-vectors",
+      "canonicalUrl": "https://www.fda.gov/news-events/office-therapeutic-products-otp-events-meetings-and-workshops/workshop-integration-site-analysis-during-long-term-follow-gene-therapies-integrating-viral-vectors",
+      "titleOriginal": "Workshop on Integration Site Analysis During Long Term Follow-Up for Gene Therapies with Integrating Viral Vectors - 11/14/2024",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "drug_rd",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-04T12:58:08Z",
+      "collectedAt": "2026-11-06T06:40:12.367049658Z",
+      "contentHash": "a3a0a0b8bc9826ad0be45cb647f3676e85c7fe33c3bdf98d1e9c07061528fff7",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/news-events/office-therapeutic-products-otp-events-meetings-and-workshops/workshop-integration-site-analysis-during-long-term-follow-gene-therapies-integrating-viral-vectors"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
         "近期更新"
       ]
     },
@@ -398,151 +543,6 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "4a4e80b8-e32d-39e3-834e-57c7da93a2c9",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/news-events/office-therapeutic-products-otp-events-meetings-and-workshops",
-      "canonicalUrl": "https://www.fda.gov/news-events/office-therapeutic-products-otp-events-meetings-and-workshops",
-      "titleOriginal": "Office of Therapeutic Products (OTP) Events, Meetings, and Workshops",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-04T12:57:54Z",
-      "collectedAt": "2026-11-05T21:58:42.580114799Z",
-      "contentHash": "d0efefa8845ba0a7a621b6c6237f2cab536533687ff20a29e646257110f8ae21",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/news-events/office-therapeutic-products-otp-events-meetings-and-workshops"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "ab3d252f-5494-3837-9bf1-6e139c6b21ba",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/industry/fda-expedited-investigational-new-drug-ind-pilot-program/expedited-ind-rolling-submission-process-and-program-structure",
-      "canonicalUrl": "https://www.fda.gov/industry/fda-expedited-investigational-new-drug-ind-pilot-program/expedited-ind-rolling-submission-process-and-program-structure",
-      "titleOriginal": "Expedited IND Rolling Submission Process and Program Structure",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "drug_rd",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-04T20:12:42Z",
-      "collectedAt": "2026-11-05T21:58:42.547289986Z",
-      "contentHash": "3e0c71fc22cf30c21793a8e1186ee30488e520a94d4f9c8bdd4e7ce056847fdc",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/industry/fda-expedited-investigational-new-drug-ind-pilot-program/expedited-ind-rolling-submission-process-and-program-structure"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "56bdb625-22f7-3413-b96e-05ba778dfcca",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/news-events/office-therapeutic-products-otp-events-meetings-and-workshops/workshop-integration-site-analysis-during-long-term-follow-gene-therapies-integrating-viral-vectors",
-      "canonicalUrl": "https://www.fda.gov/news-events/office-therapeutic-products-otp-events-meetings-and-workshops/workshop-integration-site-analysis-during-long-term-follow-gene-therapies-integrating-viral-vectors",
-      "titleOriginal": "Workshop on Integration Site Analysis During Long Term Follow-Up for Gene Therapies with Integrating Viral Vectors - 11/14/2024",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "drug_rd",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-04T12:58:08Z",
-      "collectedAt": "2026-11-05T21:58:42.578499299Z",
-      "contentHash": "a3a0a0b8bc9826ad0be45cb647f3676e85c7fe33c3bdf98d1e9c07061528fff7",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/news-events/office-therapeutic-products-otp-events-meetings-and-workshops/workshop-integration-site-analysis-during-long-term-follow-gene-therapies-integrating-viral-vectors"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
         "近期更新"
       ]
     },
