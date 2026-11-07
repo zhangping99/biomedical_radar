@@ -1,7 +1,152 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-07T07:44:04.842045579Z",
+  "generatedAt": "2026-11-07T08:44:25.967158095Z",
   "articles": [
+    {
+      "id": "906f57d9-3fe8-3472-b0ba-94ef8ed78ddd",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07911241",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07911241",
+      "titleOriginal": "Validation of the Healthcare Relationship Assessment Scale (ERA) in Health Sciences Students.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Health Adult Subjects",
+        "Communication",
+        "Clinical Communication"
+      ],
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "collectedAt": "2026-11-07T08:44:24.641659180Z",
+      "contentHash": "b6e6553a33c43198371a92bc884d2a1b563e6820d7399450e2b5c41ab9598ee5",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07911241"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "e08e5747-990e-3d20-a684-9315ef4f7784",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42993547/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42993547",
+      "titleOriginal": "A Scalable Teacher Professional Development and Wellness Program in Primary Schools: A Cluster Randomized Clinical Trial.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "collectedAt": "2026-11-07T08:44:25.309022195Z",
+      "contentHash": "1c156911eb55963db966deb5206758cf1f9b7eed371a6d3ff1aa45f4157638ab",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42993547/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "6f02738e-fc51-3a16-88d7-15206a2a5b40",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42993545/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42993545",
+      "titleOriginal": "Primary Endocrine Therapy vs Upfront Surgery for Older Women With Estrogen Receptor-Positive Breast Cancer: A Systematic Review and Meta-Analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "collectedAt": "2026-11-07T08:44:25.309109706Z",
+      "contentHash": "5984cef8638e5e45b21bb484b3a4d03f9c011effc390a3620869e7b45478f5ed",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42993545/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "4cb797dd-8833-3900-9fc0-df7e9beba6f2",
       "sourceId": "merck-news-releases",
@@ -423,57 +568,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "906f57d9-3fe8-3472-b0ba-94ef8ed78ddd",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07911241",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07911241",
-      "titleOriginal": "Validation of the Healthcare Relationship Assessment Scale (ERA) in Health Sciences Students.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Health Adult Subjects",
-        "Communication",
-        "Clinical Communication"
-      ],
-      "publishedAt": "2026-11-02T00:00:00Z",
-      "collectedAt": "2026-11-06T20:26:13.926070838Z",
-      "contentHash": "b6e6553a33c43198371a92bc884d2a1b563e6820d7399450e2b5c41ab9598ee5",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07911241"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     },
     {
       "id": "28d1aa2c-c022-3135-a99a-23d992374976",
