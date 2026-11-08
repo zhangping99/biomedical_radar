@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-08T08:57:13.611687370Z",
+  "generatedAt": "2026-11-08T10:43:28.862590556Z",
   "articles": [
+    {
+      "id": "aa631f91-25d4-3c58-9c62-13bfd661ac9f",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/07/cleveland-clinic-holds-second-annual-london-innovation-summit",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/07/cleveland-clinic-holds-second-annual-london-innovation-summit",
+      "titleOriginal": "Cleveland Clinic Holds Second Annual London Innovation Summit",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-07T00:00:00Z",
+      "collectedAt": "2026-11-08T10:43:25.289150951Z",
+      "contentHash": "9a5529ae36f0b697f07236b994c43bf0e02efb6737697ac3c36db013729d8463",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/07/cleveland-clinic-holds-second-annual-london-innovation-summit"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "14b9042c-b167-320c-ab44-64f6fc0f892f",
       "sourceId": "cleveland-clinic-news",
@@ -42,51 +87,6 @@
           "sourceName": "Cleveland Clinic Newsroom",
           "sourceTier": "B",
           "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/07/newsweek-ranks-cleveland-clinic-one-of-worlds-top-hospitals-for-specialized-care-2027"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "aa631f91-25d4-3c58-9c62-13bfd661ac9f",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/07/cleveland-clinic-holds-second-annual-london-innovation-summit",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/07/cleveland-clinic-holds-second-annual-london-innovation-summit",
-      "titleOriginal": "Cleveland Clinic Holds Second Annual London Innovation Summit",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-07T00:00:00Z",
-      "collectedAt": "2026-11-07T19:35:26.981215955Z",
-      "contentHash": "9a5529ae36f0b697f07236b994c43bf0e02efb6737697ac3c36db013729d8463",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/07/cleveland-clinic-holds-second-annual-london-innovation-summit"
         }
       ],
       "importanceScore": 20,

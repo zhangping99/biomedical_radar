@@ -1,7 +1,783 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-08T08:57:13.611687370Z",
+  "generatedAt": "2026-11-08T10:43:28.862590556Z",
   "articles": [
+    {
+      "id": "364b3094-f5ac-3f4c-a899-b474151c0bd1",
+      "sourceId": "btch-research",
+      "sourceName": "Beijing Tsinghua Changgung Hospital Research",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://www.btch.edu.cn/jxky/kjdt/d18365af59b84cd795330509838c6a67.htm",
+      "canonicalUrl": "https://www.btch.edu.cn/jxky/kjdt/d18365af59b84cd795330509838c6a67.htm",
+      "titleOriginal": "北京清华长庚医院卢倩团队异种器官移植前瞻性研究获批北京市科技...",
+      "titleZh": "北京清华长庚医院卢倩团队异种器官移植前瞻性研究获批北京市科技...",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "hospital_service",
+      "eventTypes": [
+        "approval",
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "北京清华长庚医院"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-12T00:00:00Z",
+      "collectedAt": "2026-11-08T10:43:28.040892747Z",
+      "contentHash": "622d006ac761fcca9fdedd10401cd32869cd7efc27da0c654337e03f10320184",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "btch-research",
+          "sourceName": "Beijing Tsinghua Changgung Hospital Research",
+          "sourceTier": "B",
+          "originalUrl": "https://www.btch.edu.cn/jxky/kjdt/d18365af59b84cd795330509838c6a67.htm"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "高影响事件"
+      ]
+    },
+    {
+      "id": "89128383-f31b-3735-85b9-d2d5ab399212",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/07/cleveland-clinic-first-in-human-trial-shows-gene-silencing-therapy-for-high-cholesterol-to-be-safe-and-effective",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/11/07/cleveland-clinic-first-in-human-trial-shows-gene-silencing-therapy-for-high-cholesterol-to-be-safe-and-effective",
+      "titleOriginal": "Cleveland Clinic First-in-Human Trial Shows Gene-Silencing Therapy for High Cholesterol to Be Safe and Effective",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "collectedAt": "2026-11-08T10:43:25.280523031Z",
+      "contentHash": "2d97e472ae5d0c4f959803839f6bcaf72e05b883bfb06f54f0d97ab0eea4d4e9",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/07/cleveland-clinic-first-in-human-trial-shows-gene-silencing-therapy-for-high-cholesterol-to-be-safe-and-effective"
+        }
+      ],
+      "importanceScore": 28,
+      "importanceReasons": [
+        "近期更新"
+      ]
+    },
+    {
+      "id": "a78bb683-e9ad-35a8-9c10-aefa801ad1f4",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/07/cleveland-clinic-trial-shows-novel-lipoproteina-drug-did-not-reduce-major-cardiovascular-events-after-nearly-5-years",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/11/07/cleveland-clinic-trial-shows-novel-lipoproteina-drug-did-not-reduce-major-cardiovascular-events-after-nearly-5-years",
+      "titleOriginal": "Cleveland Clinic Trial Shows Novel Lipoprotein(a) Drug Did Not Reduce Major Cardiovascular Events After Nearly 5 Years",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "collectedAt": "2026-11-08T10:43:25.284907078Z",
+      "contentHash": "bbdf2ff4ebdf9e8a14645b7960b70c9611a6c0f647a1268ab19c2965c280065d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/07/cleveland-clinic-trial-shows-novel-lipoproteina-drug-did-not-reduce-major-cardiovascular-events-after-nearly-5-years"
+        }
+      ],
+      "importanceScore": 28,
+      "importanceReasons": [
+        "近期更新"
+      ]
+    },
+    {
+      "id": "5a685947-c9cd-3dc8-b4c7-811614ea6ef2",
+      "sourceId": "pumch-research",
+      "sourceName": "Peking Union Medical College Hospital Research",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://www.pumch.cn/detail/47087.html",
+      "canonicalUrl": "https://www.pumch.cn/detail/47087.html",
+      "titleOriginal": "科技成果转化公示 〔2026〕61号---北京协和医院关于“检测包虫病的病原体并分型的组合物、试剂盒及用途”科技成果的转化信息公示",
+      "titleZh": "科技成果转化公示 〔2026〕61号---北京协和医院关于“检测包虫病的病原体并分型的组合物、试剂盒及用途”科技成果的转化信息公示",
+      "summaryZh": "根据《北京协和医院促进科技成果转化管理办法》（协科研发〔2025〕43号）规定，对“检测包虫病的病原体并分型的组合物、试剂盒及用途...",
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "北京协和医院"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "collectedAt": "2026-11-08T10:43:28.817447250Z",
+      "contentHash": "23afebcaed5ca3cf1c7ea19da069913c96def7040b7f46fd40427d4fbcf9619f",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "pumch-research",
+          "sourceName": "Peking Union Medical College Hospital Research",
+          "sourceTier": "B",
+          "originalUrl": "https://www.pumch.cn/detail/47087.html"
+        }
+      ],
+      "importanceScore": 28,
+      "importanceReasons": [
+        "近期更新"
+      ]
+    },
+    {
+      "id": "68027f83-c4e3-33f3-8f11-f8c49d96696e",
+      "sourceId": "pumch-research",
+      "sourceName": "Peking Union Medical College Hospital Research",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://www.pumch.cn/detail/47064.html",
+      "canonicalUrl": "https://www.pumch.cn/detail/47064.html",
+      "titleOriginal": "科技成果转化公示〔2026〕60号---关于“干燥综合征诊断标志物”的科研成果转让",
+      "titleZh": "科技成果转化公示〔2026〕60号---关于“干燥综合征诊断标志物”的科研成果转让",
+      "summaryZh": "北京协和医院拥有的“干燥综合征诊断标志物”科研成果，拟进行科技成果转让，欢迎有兴趣的单位来参与洽谈转让。 ...",
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "北京协和医院"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "collectedAt": "2026-11-08T10:43:28.817675516Z",
+      "contentHash": "9d11f7e35a8619b064eb9d45d0368b0389dcd5ad57fc357a9306e346aca54e6e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "pumch-research",
+          "sourceName": "Peking Union Medical College Hospital Research",
+          "sourceTier": "B",
+          "originalUrl": "https://www.pumch.cn/detail/47064.html"
+        }
+      ],
+      "importanceScore": 28,
+      "importanceReasons": [
+        "近期更新"
+      ]
+    },
+    {
+      "id": "6d4ef665-c7ff-3e8e-b287-dc1990248a4e",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/05/bladder-cancer-on-the-rise-in-younger-women",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/11/05/bladder-cancer-on-the-rise-in-younger-women",
+      "titleOriginal": "Bladder Cancer on the Rise in Younger Women",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "collectedAt": "2026-11-08T10:43:25.286452054Z",
+      "contentHash": "88e50be411438f4f624dd99980286e62cb10c9f158cd5b2d2536cadca049d9f1",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/05/bladder-cancer-on-the-rise-in-younger-women"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "eb61c70d-071c-3caa-bf31-d43e505b5979",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/04/can-cool-weather-trigger-joint-pain",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/11/04/can-cool-weather-trigger-joint-pain",
+      "titleOriginal": "Can Cool Weather Trigger Joint Pain?",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "collectedAt": "2026-11-08T10:43:25.286768440Z",
+      "contentHash": "eec9a42538dc62f93e4c593fe0a46aad8d8e47325c43ff21528781f9af00c389",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/04/can-cool-weather-trigger-joint-pain"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "61877fae-a286-3c39-a44f-a50f588016a1",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/03/cleveland-clinic-study-finds-bariatric-surgery-effective-for-substantial-weight-loss-after-glp-1-intolerance-or-limited-weight-loss",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/11/03/cleveland-clinic-study-finds-bariatric-surgery-effective-for-substantial-weight-loss-after-glp-1-intolerance-or-limited-weight-loss",
+      "titleOriginal": "Cleveland Clinic Study Finds Bariatric Surgery Effective for Substantial Weight Loss After GLP-1 Intolerance or Limited Weight Loss",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "collectedAt": "2026-11-08T10:43:25.285457073Z",
+      "contentHash": "0c35359330360b9a5cbb42fe98b5b1053440ddabfb285e4f1110b88ca0483102",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/03/cleveland-clinic-study-finds-bariatric-surgery-effective-for-substantial-weight-loss-after-glp-1-intolerance-or-limited-weight-loss"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "c6515848-0b7f-30b8-821d-99c187eaaee8",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/03/preventing-carbon-monoxide-exposure-as-temps-cool",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/11/03/preventing-carbon-monoxide-exposure-as-temps-cool",
+      "titleOriginal": "Preventing Carbon Monoxide Exposure as Temps Cool",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "collectedAt": "2026-11-08T10:43:25.287054034Z",
+      "contentHash": "223b8420aa5de24258d914dd92c952442ceaf6d2555ce218e2f7adb84a4d956b",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/03/preventing-carbon-monoxide-exposure-as-temps-cool"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "9112ddd0-3f44-3822-a95f-b72e364336c6",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/02/taking-care-of-your-beard-during-no-shave-november",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/11/02/taking-care-of-your-beard-during-no-shave-november",
+      "titleOriginal": "Taking Care of Your Beard During \u0027No Shave November\u0027",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "collectedAt": "2026-11-08T10:43:25.287365491Z",
+      "contentHash": "94d6940579f13256daf1246f8229b410fd97e211df14c899da96427bff73c600",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/02/taking-care-of-your-beard-during-no-shave-november"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "0aa4dce2-1253-394e-a8f8-624d444a6216",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/23/newsweek-ranks-cleveland-clinic-among-worlds-best-smart-hospitals",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/23/newsweek-ranks-cleveland-clinic-among-worlds-best-smart-hospitals",
+      "titleOriginal": "Newsweek Ranks Cleveland Clinic Among World\u0027s Best Smart Hospitals",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "collectedAt": "2026-11-08T10:43:25.287949405Z",
+      "contentHash": "50fcd05e07553b0a16ee4830929b439292ef63af51c33608dbe6e961de53bc88",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/23/newsweek-ranks-cleveland-clinic-among-worlds-best-smart-hospitals"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "a9bb1943-ba90-3fb3-8028-fe5ad7a9f695",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/19/cleveland-clinic-led-study-establishes-major-genetic-contributor-to-heart-failure-in-people-of-african-ancestry",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/19/cleveland-clinic-led-study-establishes-major-genetic-contributor-to-heart-failure-in-people-of-african-ancestry",
+      "titleOriginal": "Cleveland Clinic-led Study Establishes Major Genetic Contributor to Heart Failure in People of African Ancestry",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-19T00:00:00Z",
+      "collectedAt": "2026-11-08T10:43:25.286018854Z",
+      "contentHash": "703fc5d85174202e5d1512166fe886360f2875424176b83fc94959e217246c77",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/19/cleveland-clinic-led-study-establishes-major-genetic-contributor-to-heart-failure-in-people-of-african-ancestry"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "ca0f5e7a-1395-3a64-bacf-4af6f5a45712",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/15/cleveland-clinic-first-in-ohio-to-perform-abdominal-tumor-removal-using-highly-specialized-surgical-technique",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/15/cleveland-clinic-first-in-ohio-to-perform-abdominal-tumor-removal-using-highly-specialized-surgical-technique",
+      "titleOriginal": "Cleveland Clinic First in Ohio to Perform Abdominal Tumor Removal Using Highly Specialized Surgical Technique",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-15T00:00:00Z",
+      "collectedAt": "2026-11-08T10:43:25.288339991Z",
+      "contentHash": "d66c0073b0fbe2515640c228813d9030c9961114b2bb0bacd1cc772b14b2eaee",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/15/cleveland-clinic-first-in-ohio-to-perform-abdominal-tumor-removal-using-highly-specialized-surgical-technique"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "7be68812-d622-3fa0-9ae6-7e52ec30f39a",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/08/ufc-cleveland-clinic-renew-longstanding-partnership",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/08/ufc-cleveland-clinic-renew-longstanding-partnership",
+      "titleOriginal": "UFC®, Cleveland Clinic Renew Longstanding Partnership",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-08T00:00:00Z",
+      "collectedAt": "2026-11-08T10:43:25.288730330Z",
+      "contentHash": "aa8a324f24560dc4589a3db62da01c2e2dd80574577dfc1971e1bedc0bd5a3b3",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/08/ufc-cleveland-clinic-renew-longstanding-partnership"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "aa631f91-25d4-3c58-9c62-13bfd661ac9f",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/07/cleveland-clinic-holds-second-annual-london-innovation-summit",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/07/cleveland-clinic-holds-second-annual-london-innovation-summit",
+      "titleOriginal": "Cleveland Clinic Holds Second Annual London Innovation Summit",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-07T00:00:00Z",
+      "collectedAt": "2026-11-08T10:43:25.289150951Z",
+      "contentHash": "9a5529ae36f0b697f07236b994c43bf0e02efb6737697ac3c36db013729d8463",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/07/cleveland-clinic-holds-second-annual-london-innovation-summit"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "290b9efb-828c-3293-a548-0613c7df4531",
+      "sourceId": "btch-research",
+      "sourceName": "Beijing Tsinghua Changgung Hospital Research",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://xinwen.bjd.com.cn/content/s6a9a97d7e4b0e42f8effdcf7.html?from\u003dappMessage\u0026timestamp\u003d1788745469197",
+      "canonicalUrl": "https://xinwen.bjd.com.cn/content/s6a9a97d7e4b0e42f8effdcf7.html?from\u003dappMessage\u0026timestamp\u003d1788745469197",
+      "titleOriginal": "北京日报 | 率先应用新技术!北京研发抗抑郁新药,有望填补国...",
+      "titleZh": "北京日报 | 率先应用新技术!北京研发抗抑郁新药,有望填补国...",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "北京清华长庚医院"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-09-07T00:00:00Z",
+      "collectedAt": "2026-11-08T10:43:28.041345675Z",
+      "contentHash": "b8b986d1cb18b772e30f34710c89a2a5d17aa0c86829f87a3e8974635017715a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "btch-research",
+          "sourceName": "Beijing Tsinghua Changgung Hospital Research",
+          "sourceTier": "B",
+          "originalUrl": "https://xinwen.bjd.com.cn/content/s6a9a97d7e4b0e42f8effdcf7.html?from\u003dappMessage\u0026timestamp\u003d1788745469197"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "fc830c5b-30d3-3ea9-889f-4f4cffbf4dc8",
+      "sourceId": "bjcancer-research",
+      "sourceName": "北京大学肿瘤医院科研成果",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://www.bjcancer.org/Html/News/Articles/1001377.html",
+      "canonicalUrl": "https://www.bjcancer.org/Html/News/Articles/1001377.html",
+      "titleOriginal": "鲁智豪教授荣获2026年度“科学探索奖”",
+      "titleZh": "鲁智豪教授荣获2026年度“科学探索奖”",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "北京大学肿瘤医院"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-08-25T00:00:00Z",
+      "collectedAt": "2026-11-08T10:43:26.328517111Z",
+      "contentHash": "a4018f09ab5ef18adcb053a542284207754351125836c2266b7ca7a5919a92ec",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "bjcancer-research",
+          "sourceName": "北京大学肿瘤医院科研成果",
+          "sourceTier": "B",
+          "originalUrl": "https://www.bjcancer.org/Html/News/Articles/1001377.html"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "5e5ae81a-e81b-3028-9714-37e2eb0f625d",
       "sourceId": "clinicaltrials-recent",
@@ -18753,602 +19529,6 @@
       "importanceReasons": []
     },
     {
-      "id": "a78bb683-e9ad-35a8-9c10-aefa801ad1f4",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/07/cleveland-clinic-trial-shows-novel-lipoproteina-drug-did-not-reduce-major-cardiovascular-events-after-nearly-5-years",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/11/07/cleveland-clinic-trial-shows-novel-lipoproteina-drug-did-not-reduce-major-cardiovascular-events-after-nearly-5-years",
-      "titleOriginal": "Cleveland Clinic Trial Shows Novel Lipoprotein(a) Drug Did Not Reduce Major Cardiovascular Events After Nearly 5 Years",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-07T00:00:00Z",
-      "collectedAt": "2026-11-07T19:35:26.979628902Z",
-      "contentHash": "bbdf2ff4ebdf9e8a14645b7960b70c9611a6c0f647a1268ab19c2965c280065d",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/07/cleveland-clinic-trial-shows-novel-lipoproteina-drug-did-not-reduce-major-cardiovascular-events-after-nearly-5-years"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "364b3094-f5ac-3f4c-a899-b474151c0bd1",
-      "sourceId": "btch-research",
-      "sourceName": "Beijing Tsinghua Changgung Hospital Research",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://www.btch.edu.cn/jxky/kjdt/d18365af59b84cd795330509838c6a67.htm",
-      "canonicalUrl": "https://www.btch.edu.cn/jxky/kjdt/d18365af59b84cd795330509838c6a67.htm",
-      "titleOriginal": "北京清华长庚医院卢倩团队异种器官移植前瞻性研究获批北京市科技...",
-      "titleZh": "北京清华长庚医院卢倩团队异种器官移植前瞻性研究获批北京市科技...",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "hospital_service",
-      "eventTypes": [
-        "approval",
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "北京清华长庚医院"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-12T00:00:00Z",
-      "collectedAt": "2026-11-07T19:35:28.604121747Z",
-      "contentHash": "622d006ac761fcca9fdedd10401cd32869cd7efc27da0c654337e03f10320184",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "btch-research",
-          "sourceName": "Beijing Tsinghua Changgung Hospital Research",
-          "sourceTier": "B",
-          "originalUrl": "https://www.btch.edu.cn/jxky/kjdt/d18365af59b84cd795330509838c6a67.htm"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "高影响事件"
-      ]
-    },
-    {
-      "id": "5a685947-c9cd-3dc8-b4c7-811614ea6ef2",
-      "sourceId": "pumch-research",
-      "sourceName": "Peking Union Medical College Hospital Research",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://www.pumch.cn/detail/47087.html",
-      "canonicalUrl": "https://www.pumch.cn/detail/47087.html",
-      "titleOriginal": "科技成果转化公示 〔2026〕61号---北京协和医院关于“检测包虫病的病原体并分型的组合物、试剂盒及用途”科技成果的转化信息公示",
-      "titleZh": "科技成果转化公示 〔2026〕61号---北京协和医院关于“检测包虫病的病原体并分型的组合物、试剂盒及用途”科技成果的转化信息公示",
-      "summaryZh": "根据《北京协和医院促进科技成果转化管理办法》（协科研发〔2025〕43号）规定，对“检测包虫病的病原体并分型的组合物、试剂盒及用途...",
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "北京协和医院"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "collectedAt": "2026-11-07T19:35:29.946328758Z",
-      "contentHash": "23afebcaed5ca3cf1c7ea19da069913c96def7040b7f46fd40427d4fbcf9619f",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "pumch-research",
-          "sourceName": "Peking Union Medical College Hospital Research",
-          "sourceTier": "B",
-          "originalUrl": "https://www.pumch.cn/detail/47087.html"
-        }
-      ],
-      "importanceScore": 28,
-      "importanceReasons": [
-        "近期更新"
-      ]
-    },
-    {
-      "id": "68027f83-c4e3-33f3-8f11-f8c49d96696e",
-      "sourceId": "pumch-research",
-      "sourceName": "Peking Union Medical College Hospital Research",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://www.pumch.cn/detail/47064.html",
-      "canonicalUrl": "https://www.pumch.cn/detail/47064.html",
-      "titleOriginal": "科技成果转化公示〔2026〕60号---关于“干燥综合征诊断标志物”的科研成果转让",
-      "titleZh": "科技成果转化公示〔2026〕60号---关于“干燥综合征诊断标志物”的科研成果转让",
-      "summaryZh": "北京协和医院拥有的“干燥综合征诊断标志物”科研成果，拟进行科技成果转让，欢迎有兴趣的单位来参与洽谈转让。 ...",
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "北京协和医院"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "collectedAt": "2026-11-07T19:35:29.946640008Z",
-      "contentHash": "9d11f7e35a8619b064eb9d45d0368b0389dcd5ad57fc357a9306e346aca54e6e",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "pumch-research",
-          "sourceName": "Peking Union Medical College Hospital Research",
-          "sourceTier": "B",
-          "originalUrl": "https://www.pumch.cn/detail/47064.html"
-        }
-      ],
-      "importanceScore": 28,
-      "importanceReasons": [
-        "近期更新"
-      ]
-    },
-    {
-      "id": "6d4ef665-c7ff-3e8e-b287-dc1990248a4e",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/05/bladder-cancer-on-the-rise-in-younger-women",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/11/05/bladder-cancer-on-the-rise-in-younger-women",
-      "titleOriginal": "Bladder Cancer on the Rise in Younger Women",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "collectedAt": "2026-11-07T19:35:26.977540042Z",
-      "contentHash": "88e50be411438f4f624dd99980286e62cb10c9f158cd5b2d2536cadca049d9f1",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/05/bladder-cancer-on-the-rise-in-younger-women"
-        }
-      ],
-      "importanceScore": 28,
-      "importanceReasons": [
-        "近期更新"
-      ]
-    },
-    {
-      "id": "eb61c70d-071c-3caa-bf31-d43e505b5979",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/04/can-cool-weather-trigger-joint-pain",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/11/04/can-cool-weather-trigger-joint-pain",
-      "titleOriginal": "Can Cool Weather Trigger Joint Pain?",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "collectedAt": "2026-11-07T19:35:26.977978231Z",
-      "contentHash": "eec9a42538dc62f93e4c593fe0a46aad8d8e47325c43ff21528781f9af00c389",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/04/can-cool-weather-trigger-joint-pain"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "61877fae-a286-3c39-a44f-a50f588016a1",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/03/cleveland-clinic-study-finds-bariatric-surgery-effective-for-substantial-weight-loss-after-glp-1-intolerance-or-limited-weight-loss",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/11/03/cleveland-clinic-study-finds-bariatric-surgery-effective-for-substantial-weight-loss-after-glp-1-intolerance-or-limited-weight-loss",
-      "titleOriginal": "Cleveland Clinic Study Finds Bariatric Surgery Effective for Substantial Weight Loss After GLP-1 Intolerance or Limited Weight Loss",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "collectedAt": "2026-11-07T19:35:26.974795509Z",
-      "contentHash": "0c35359330360b9a5cbb42fe98b5b1053440ddabfb285e4f1110b88ca0483102",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/03/cleveland-clinic-study-finds-bariatric-surgery-effective-for-substantial-weight-loss-after-glp-1-intolerance-or-limited-weight-loss"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "c6515848-0b7f-30b8-821d-99c187eaaee8",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/03/preventing-carbon-monoxide-exposure-as-temps-cool",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/11/03/preventing-carbon-monoxide-exposure-as-temps-cool",
-      "titleOriginal": "Preventing Carbon Monoxide Exposure as Temps Cool",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "collectedAt": "2026-11-07T19:35:26.978430515Z",
-      "contentHash": "223b8420aa5de24258d914dd92c952442ceaf6d2555ce218e2f7adb84a4d956b",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/03/preventing-carbon-monoxide-exposure-as-temps-cool"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "9112ddd0-3f44-3822-a95f-b72e364336c6",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/02/taking-care-of-your-beard-during-no-shave-november",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/11/02/taking-care-of-your-beard-during-no-shave-november",
-      "titleOriginal": "Taking Care of Your Beard During \u0027No Shave November\u0027",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-02T00:00:00Z",
-      "collectedAt": "2026-11-07T19:35:26.978847393Z",
-      "contentHash": "94d6940579f13256daf1246f8229b410fd97e211df14c899da96427bff73c600",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/02/taking-care-of-your-beard-during-no-shave-november"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "0aa4dce2-1253-394e-a8f8-624d444a6216",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/23/newsweek-ranks-cleveland-clinic-among-worlds-best-smart-hospitals",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/23/newsweek-ranks-cleveland-clinic-among-worlds-best-smart-hospitals",
-      "titleOriginal": "Newsweek Ranks Cleveland Clinic Among World\u0027s Best Smart Hospitals",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-23T00:00:00Z",
-      "collectedAt": "2026-11-07T19:35:26.970159093Z",
-      "contentHash": "50fcd05e07553b0a16ee4830929b439292ef63af51c33608dbe6e961de53bc88",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/23/newsweek-ranks-cleveland-clinic-among-worlds-best-smart-hospitals"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "a9bb1943-ba90-3fb3-8028-fe5ad7a9f695",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/19/cleveland-clinic-led-study-establishes-major-genetic-contributor-to-heart-failure-in-people-of-african-ancestry",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/19/cleveland-clinic-led-study-establishes-major-genetic-contributor-to-heart-failure-in-people-of-african-ancestry",
-      "titleOriginal": "Cleveland Clinic-led Study Establishes Major Genetic Contributor to Heart Failure in People of African Ancestry",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-19T00:00:00Z",
-      "collectedAt": "2026-11-07T19:35:26.976831189Z",
-      "contentHash": "703fc5d85174202e5d1512166fe886360f2875424176b83fc94959e217246c77",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/19/cleveland-clinic-led-study-establishes-major-genetic-contributor-to-heart-failure-in-people-of-african-ancestry"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "ca0f5e7a-1395-3a64-bacf-4af6f5a45712",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/15/cleveland-clinic-first-in-ohio-to-perform-abdominal-tumor-removal-using-highly-specialized-surgical-technique",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/15/cleveland-clinic-first-in-ohio-to-perform-abdominal-tumor-removal-using-highly-specialized-surgical-technique",
-      "titleOriginal": "Cleveland Clinic First in Ohio to Perform Abdominal Tumor Removal Using Highly Specialized Surgical Technique",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-15T00:00:00Z",
-      "collectedAt": "2026-11-07T19:35:26.980194518Z",
-      "contentHash": "d66c0073b0fbe2515640c228813d9030c9961114b2bb0bacd1cc772b14b2eaee",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/15/cleveland-clinic-first-in-ohio-to-perform-abdominal-tumor-removal-using-highly-specialized-surgical-technique"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "7be68812-d622-3fa0-9ae6-7e52ec30f39a",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/08/ufc-cleveland-clinic-renew-longstanding-partnership",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/08/ufc-cleveland-clinic-renew-longstanding-partnership",
-      "titleOriginal": "UFC®, Cleveland Clinic Renew Longstanding Partnership",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-08T00:00:00Z",
-      "collectedAt": "2026-11-07T19:35:26.980744425Z",
-      "contentHash": "aa8a324f24560dc4589a3db62da01c2e2dd80574577dfc1971e1bedc0bd5a3b3",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/08/ufc-cleveland-clinic-renew-longstanding-partnership"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
       "id": "14b9042c-b167-320c-ab44-64f6fc0f892f",
       "sourceId": "cleveland-clinic-news",
       "sourceName": "Cleveland Clinic Newsroom",
@@ -19388,141 +19568,6 @@
           "sourceName": "Cleveland Clinic Newsroom",
           "sourceTier": "B",
           "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/07/newsweek-ranks-cleveland-clinic-one-of-worlds-top-hospitals-for-specialized-care-2027"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "aa631f91-25d4-3c58-9c62-13bfd661ac9f",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/07/cleveland-clinic-holds-second-annual-london-innovation-summit",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/10/07/cleveland-clinic-holds-second-annual-london-innovation-summit",
-      "titleOriginal": "Cleveland Clinic Holds Second Annual London Innovation Summit",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-07T00:00:00Z",
-      "collectedAt": "2026-11-07T19:35:26.981215955Z",
-      "contentHash": "9a5529ae36f0b697f07236b994c43bf0e02efb6737697ac3c36db013729d8463",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/10/07/cleveland-clinic-holds-second-annual-london-innovation-summit"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "290b9efb-828c-3293-a548-0613c7df4531",
-      "sourceId": "btch-research",
-      "sourceName": "Beijing Tsinghua Changgung Hospital Research",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://xinwen.bjd.com.cn/content/s6a9a97d7e4b0e42f8effdcf7.html?from\u003dappMessage\u0026timestamp\u003d1788745469197",
-      "canonicalUrl": "https://xinwen.bjd.com.cn/content/s6a9a97d7e4b0e42f8effdcf7.html?from\u003dappMessage\u0026timestamp\u003d1788745469197",
-      "titleOriginal": "北京日报 | 率先应用新技术!北京研发抗抑郁新药,有望填补国...",
-      "titleZh": "北京日报 | 率先应用新技术!北京研发抗抑郁新药,有望填补国...",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "北京清华长庚医院"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-07T00:00:00Z",
-      "collectedAt": "2026-11-07T19:35:28.604582467Z",
-      "contentHash": "b8b986d1cb18b772e30f34710c89a2a5d17aa0c86829f87a3e8974635017715a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "btch-research",
-          "sourceName": "Beijing Tsinghua Changgung Hospital Research",
-          "sourceTier": "B",
-          "originalUrl": "https://xinwen.bjd.com.cn/content/s6a9a97d7e4b0e42f8effdcf7.html?from\u003dappMessage\u0026timestamp\u003d1788745469197"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "fc830c5b-30d3-3ea9-889f-4f4cffbf4dc8",
-      "sourceId": "bjcancer-research",
-      "sourceName": "北京大学肿瘤医院科研成果",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://www.bjcancer.org/Html/News/Articles/1001377.html",
-      "canonicalUrl": "https://www.bjcancer.org/Html/News/Articles/1001377.html",
-      "titleOriginal": "鲁智豪教授荣获2026年度“科学探索奖”",
-      "titleZh": "鲁智豪教授荣获2026年度“科学探索奖”",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "北京大学肿瘤医院"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-08-25T00:00:00Z",
-      "collectedAt": "2026-11-07T19:35:28.305963626Z",
-      "contentHash": "a4018f09ab5ef18adcb053a542284207754351125836c2266b7ca7a5919a92ec",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "bjcancer-research",
-          "sourceName": "北京大学肿瘤医院科研成果",
-          "sourceTier": "B",
-          "originalUrl": "https://www.bjcancer.org/Html/News/Articles/1001377.html"
         }
       ],
       "importanceScore": 20,
