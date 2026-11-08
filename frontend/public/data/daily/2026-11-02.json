@@ -1,7 +1,58 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-08T07:55:19.126125274Z",
+  "generatedAt": "2026-11-08T08:57:13.611687370Z",
   "articles": [
+    {
+      "id": "906f57d9-3fe8-3472-b0ba-94ef8ed78ddd",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07911241",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07911241",
+      "titleOriginal": "Validation of the Healthcare Relationship Assessment Scale (ERA) in Health Sciences Students.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Health Adult Subjects",
+        "Communication",
+        "Clinical Communication"
+      ],
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "collectedAt": "2026-11-08T08:57:12.320757526Z",
+      "contentHash": "b6e6553a33c43198371a92bc884d2a1b563e6820d7399450e2b5c41ab9598ee5",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07911241"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "4cb797dd-8833-3900-9fc0-df7e9beba6f2",
       "sourceId": "merck-news-releases",
@@ -374,57 +425,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "906f57d9-3fe8-3472-b0ba-94ef8ed78ddd",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07911241",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07911241",
-      "titleOriginal": "Validation of the Healthcare Relationship Assessment Scale (ERA) in Health Sciences Students.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Health Adult Subjects",
-        "Communication",
-        "Clinical Communication"
-      ],
-      "publishedAt": "2026-11-02T00:00:00Z",
-      "collectedAt": "2026-11-07T18:45:01.395845878Z",
-      "contentHash": "b6e6553a33c43198371a92bc884d2a1b563e6820d7399450e2b5c41ab9598ee5",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07911241"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     },
     {
       "id": "e08e5747-990e-3d20-a684-9315ef4f7784",
