@@ -1,7 +1,105 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-08T18:28:47.970483136Z",
+  "generatedAt": "2026-11-08T18:49:35.193579063Z",
   "articles": [
+    {
+      "id": "906f57d9-3fe8-3472-b0ba-94ef8ed78ddd",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07911241",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07911241",
+      "titleOriginal": "Validation of the Healthcare Relationship Assessment Scale (ERA) in Health Sciences Students.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Health Adult Subjects",
+        "Communication",
+        "Clinical Communication"
+      ],
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "collectedAt": "2026-11-08T18:49:34.363103334Z",
+      "contentHash": "b6e6553a33c43198371a92bc884d2a1b563e6820d7399450e2b5c41ab9598ee5",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07911241"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "1823f593-446c-3e48-9058-4ee1798dc8be",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42999050/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42999050",
+      "titleOriginal": "From Compliance-Based to Collaborative Financial Governance: A Bibliometric-Systematic Review of Multi-Actor Accountability in Public Financial Management.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "collectedAt": "2026-11-08T18:49:34.738418689Z",
+      "contentHash": "b1ff1b2967e0dd74d6402132224ba1248cce0f9ee2eb2f30204112e9dad98b29",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42999050/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "4cb797dd-8833-3900-9fc0-df7e9beba6f2",
       "sourceId": "merck-news-releases",
@@ -326,57 +424,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "906f57d9-3fe8-3472-b0ba-94ef8ed78ddd",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07911241",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07911241",
-      "titleOriginal": "Validation of the Healthcare Relationship Assessment Scale (ERA) in Health Sciences Students.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Health Adult Subjects",
-        "Communication",
-        "Clinical Communication"
-      ],
-      "publishedAt": "2026-11-02T00:00:00Z",
-      "collectedAt": "2026-11-08T08:57:12.320757526Z",
-      "contentHash": "b6e6553a33c43198371a92bc884d2a1b563e6820d7399450e2b5c41ab9598ee5",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07911241"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     },
     {
       "id": "7e1f62b5-cfc5-392e-80d9-508773bccd0f",
