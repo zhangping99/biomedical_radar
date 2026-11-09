@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-09T12:02:05.850759754Z",
+  "generatedAt": "2026-11-09T18:46:34.551691533Z",
   "articles": [
     {
       "id": "bc4a47e1-ed1a-39c1-9e11-a020381f8aaf",
@@ -3663,56 +3663,6 @@
         }
       ],
       "importanceScore": 95,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "c34dd5af-3032-3a88-8a6a-ff6574450ea8",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/drugs/drug-safety-and-availability/drug-safety-communications",
-      "canonicalUrl": "https://www.fda.gov/drugs/drug-safety-and-availability/drug-safety-communications",
-      "titleOriginal": "Drug Safety Communications",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-09-15T17:21:48Z",
-      "collectedAt": "2026-09-16T13:29:41.849358137Z",
-      "contentHash": "a8d8fb4cd49513592db82f191fd767051683a9fef9b24a7c08753b34ab873b3f",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/drugs/drug-safety-and-availability/drug-safety-communications"
-        }
-      ],
-      "importanceScore": 80,
       "importanceReasons": [
         "官方一手来源",
         "高影响事件",
