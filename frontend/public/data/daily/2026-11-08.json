@@ -1,7 +1,151 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-09T23:08:05.116534211Z",
+  "generatedAt": "2026-11-09T23:26:11.760470411Z",
   "articles": [
+    {
+      "id": "de638189-d7a7-3709-b7f6-e2e0802b8d11",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42999027/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42999027",
+      "titleOriginal": "A Pilot Clinical and Experimental Study of Type I Collagen Matrix Implantation Versus Microfracture for Knee Cartilage Defects.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "collectedAt": "2026-11-09T23:26:00.532486371Z",
+      "contentHash": "d5b0679a8f8e3c5f82bf3332e4994ff60306c1b136cfed93a28d2d08555f6f99",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42999027/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "61327635-f72d-31bc-b54f-871364b6b327",
+      "sourceId": "nature-medicine",
+      "sourceName": "Nature Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41591-026-04787-8",
+      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04787-8",
+      "titleOriginal": "Effects of semaglutide on cardiac structure and function in heart failure with preserved ejection fraction and obesity: a pre-specified cardiac magnetic resonance substudy of the CAMEO-SEMA trial",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "collectedAt": "2026-11-09T23:25:59.936911492Z",
+      "contentHash": "754ad56c5a5dbc7d572465041ea5f690d32fec121ee41d67283e610437aae128",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-medicine",
+          "sourceName": "Nature Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41591-026-04787-8"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "9d713b38-5944-3e2d-9af3-5b6cd9765a40",
+      "sourceId": "nature-medicine",
+      "sourceName": "Nature Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41591-026-04762-3",
+      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04762-3",
+      "titleOriginal": "Hemodynamic effects of semaglutide in individuals with heart failure with preserved ejection fraction and obesity: a placebo-controlled randomized clinical trial",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-08T00:00:00Z",
+      "collectedAt": "2026-11-09T23:25:59.937141028Z",
+      "contentHash": "d4ba73aec46de3c41cf76fa1f2070f8ae550b7633ac5d0c10dddf89d6d6c554a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-medicine",
+          "sourceName": "Nature Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41591-026-04762-3"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
     {
       "id": "0476c7f2-ea32-36fe-bf09-3a101e8987ba",
       "sourceId": "abbvie-news",
@@ -439,150 +583,6 @@
       "importanceScore": 58,
       "importanceReasons": [
         "高影响事件",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "de638189-d7a7-3709-b7f6-e2e0802b8d11",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42999027/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/42999027",
-      "titleOriginal": "A Pilot Clinical and Experimental Study of Type I Collagen Matrix Implantation Versus Microfracture for Knee Cartilage Defects.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-08T00:00:00Z",
-      "collectedAt": "2026-11-09T09:44:34.794003657Z",
-      "contentHash": "d5b0679a8f8e3c5f82bf3332e4994ff60306c1b136cfed93a28d2d08555f6f99",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/42999027/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "61327635-f72d-31bc-b54f-871364b6b327",
-      "sourceId": "nature-medicine",
-      "sourceName": "Nature Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41591-026-04787-8",
-      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04787-8",
-      "titleOriginal": "Effects of semaglutide on cardiac structure and function in heart failure with preserved ejection fraction and obesity: a pre-specified cardiac magnetic resonance substudy of the CAMEO-SEMA trial",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-08T00:00:00Z",
-      "collectedAt": "2026-11-09T09:44:34.384547427Z",
-      "contentHash": "754ad56c5a5dbc7d572465041ea5f690d32fec121ee41d67283e610437aae128",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-medicine",
-          "sourceName": "Nature Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41591-026-04787-8"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "9d713b38-5944-3e2d-9af3-5b6cd9765a40",
-      "sourceId": "nature-medicine",
-      "sourceName": "Nature Medicine",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41591-026-04762-3",
-      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04762-3",
-      "titleOriginal": "Hemodynamic effects of semaglutide in individuals with heart failure with preserved ejection fraction and obesity: a placebo-controlled randomized clinical trial",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-08T00:00:00Z",
-      "collectedAt": "2026-11-09T09:44:34.384824235Z",
-      "contentHash": "d4ba73aec46de3c41cf76fa1f2070f8ae550b7633ac5d0c10dddf89d6d6c554a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-medicine",
-          "sourceName": "Nature Medicine",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41591-026-04762-3"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
         "近期更新"
       ]
     },
