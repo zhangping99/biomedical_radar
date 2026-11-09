@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-09T22:44:22.733183567Z",
+  "generatedAt": "2026-11-09T23:08:05.116534211Z",
   "articles": [
+    {
+      "id": "bb7e759a-fb76-3577-8cb2-fa5506f1aa1a",
+      "sourceId": "merck-news-releases",
+      "sourceName": "Merck News Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.merck.com/news/paul-j-diaz-elected-to-merck-co-inc-rahway-n-j-usa-board-of-directors/",
+      "canonicalUrl": "https://www.merck.com/news/paul-j-diaz-elected-to-merck-co-inc-rahway-n-j-usa-board-of-directors",
+      "titleOriginal": "Paul J. Diaz Elected to Merck \u0026 Co., Inc., Rahway, N.J., USA Board of Directors",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Merck"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-13T00:00:00Z",
+      "collectedAt": "2026-11-09T23:08:02.679899373Z",
+      "contentHash": "abb903ba5f3a4aafd5ae829a0ba19e2128c127eb62b5958aa82ec5449952af3b",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "merck-news-releases",
+          "sourceName": "Merck News Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://www.merck.com/news/paul-j-diaz-elected-to-merck-co-inc-rahway-n-j-usa-board-of-directors/"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "d5d8ffe1-4608-3334-b00e-b2eb81fbbbcc",
       "sourceId": "fda-medwatch-alerts",
@@ -97,51 +142,6 @@
       "importanceReasons": [
         "高影响事件"
       ]
-    },
-    {
-      "id": "bb7e759a-fb76-3577-8cb2-fa5506f1aa1a",
-      "sourceId": "merck-news-releases",
-      "sourceName": "Merck News Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.merck.com/news/paul-j-diaz-elected-to-merck-co-inc-rahway-n-j-usa-board-of-directors/",
-      "canonicalUrl": "https://www.merck.com/news/paul-j-diaz-elected-to-merck-co-inc-rahway-n-j-usa-board-of-directors",
-      "titleOriginal": "Paul J. Diaz Elected to Merck \u0026 Co., Inc., Rahway, N.J., USA Board of Directors",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "Merck"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-13T00:00:00Z",
-      "collectedAt": "2026-11-09T08:38:04.603192067Z",
-      "contentHash": "abb903ba5f3a4aafd5ae829a0ba19e2128c127eb62b5958aa82ec5449952af3b",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "merck-news-releases",
-          "sourceName": "Merck News Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://www.merck.com/news/paul-j-diaz-elected-to-merck-co-inc-rahway-n-j-usa-board-of-directors/"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     },
     {
       "id": "4780ce8b-1687-3fbf-8341-a9f7d9010e38",
