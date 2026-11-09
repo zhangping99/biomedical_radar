@@ -1,7 +1,103 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-08T23:06:02.385558090Z",
+  "generatedAt": "2026-11-09T06:22:04.126931753Z",
   "articles": [
+    {
+      "id": "7e0c5e19-ef48-32c6-946c-35c4c8961e95",
+      "sourceId": "ema-news",
+      "sourceName": "European Medicines Agency",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.ema.europa.eu/en/news/ema-closed-all-souls-day-2-november",
+      "canonicalUrl": "https://www.ema.europa.eu/en/news/ema-closed-all-souls-day-2-november",
+      "titleOriginal": "EMA closed on All Souls\u0027 Day, 2 November",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "EU",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "European Medicines Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-29T12:30:00Z",
+      "collectedAt": "2026-11-09T06:22:00.857767558Z",
+      "contentHash": "bb1d82e65693f9e564388cf55a75374c3e4e7090ff5253675a39654539df8cc0",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "ema-news",
+          "sourceName": "European Medicines Agency",
+          "sourceTier": "A",
+          "originalUrl": "https://www.ema.europa.eu/en/news/ema-closed-all-souls-day-2-november"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "1e208a60-9bfd-3c22-b026-5768d7aef452",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-medline-removes-or-corrects-all-medline-brand-beds-and-accessories",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-medline-removes-or-corrects-all-medline-brand-beds-and-accessories",
+      "titleOriginal": "Early Alert: Medline Removes or Corrects All Medline Brand Beds and Accessories",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-29T04:00:00Z",
+      "collectedAt": "2026-11-09T06:22:00.739892525Z",
+      "contentHash": "63d7977a5249ea83ff4d819a3960180be43419eb17fdaec3594e8550acca873a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-medline-removes-or-corrects-all-medline-brand-beds-and-accessories"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "966e6b33-49c5-387f-89dc-0b0bae334011",
       "sourceId": "merck-news-releases",
@@ -132,102 +228,6 @@
           "sourceName": "广东省卫生健康委政策解读",
           "sourceTier": "A",
           "originalUrl": "https://wsjkw.gd.gov.cn/hdjl_zcjd/content/post_4972265.html"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "7e0c5e19-ef48-32c6-946c-35c4c8961e95",
-      "sourceId": "ema-news",
-      "sourceName": "European Medicines Agency",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.ema.europa.eu/en/news/ema-closed-all-souls-day-2-november",
-      "canonicalUrl": "https://www.ema.europa.eu/en/news/ema-closed-all-souls-day-2-november",
-      "titleOriginal": "EMA closed on All Souls\u0027 Day, 2 November",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "EU",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "European Medicines Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-29T12:30:00Z",
-      "collectedAt": "2026-11-08T20:28:12.096152957Z",
-      "contentHash": "bb1d82e65693f9e564388cf55a75374c3e4e7090ff5253675a39654539df8cc0",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "ema-news",
-          "sourceName": "European Medicines Agency",
-          "sourceTier": "A",
-          "originalUrl": "https://www.ema.europa.eu/en/news/ema-closed-all-souls-day-2-november"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "1e208a60-9bfd-3c22-b026-5768d7aef452",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-medline-removes-or-corrects-all-medline-brand-beds-and-accessories",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-medline-removes-or-corrects-all-medline-brand-beds-and-accessories",
-      "titleOriginal": "Early Alert: Medline Removes or Corrects All Medline Brand Beds and Accessories",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-29T04:00:00Z",
-      "collectedAt": "2026-11-08T20:28:12.090942413Z",
-      "contentHash": "63d7977a5249ea83ff4d819a3960180be43419eb17fdaec3594e8550acca873a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-medline-removes-or-corrects-all-medline-brand-beds-and-accessories"
         }
       ],
       "importanceScore": 50,
