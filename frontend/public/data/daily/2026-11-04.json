@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-10T09:44:59.431608628Z",
+  "generatedAt": "2026-11-10T11:41:21.093568333Z",
   "articles": [
+    {
+      "id": "eb61c70d-071c-3caa-bf31-d43e505b5979",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/04/can-cool-weather-trigger-joint-pain",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/11/04/can-cool-weather-trigger-joint-pain",
+      "titleOriginal": "Can Cool Weather Trigger Joint Pain?",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "collectedAt": "2026-11-10T11:41:14.007900046Z",
+      "contentHash": "eec9a42538dc62f93e4c593fe0a46aad8d8e47325c43ff21528781f9af00c389",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/04/can-cool-weather-trigger-joint-pain"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "69306c51-a7ef-3a39-a506-59f8cab635eb",
       "sourceId": "nejm-current-issue",
@@ -949,51 +994,6 @@
         "高影响事件",
         "政策或安全相关"
       ]
-    },
-    {
-      "id": "eb61c70d-071c-3caa-bf31-d43e505b5979",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/04/can-cool-weather-trigger-joint-pain",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/11/04/can-cool-weather-trigger-joint-pain",
-      "titleOriginal": "Can Cool Weather Trigger Joint Pain?",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-04T00:00:00Z",
-      "collectedAt": "2026-11-09T23:51:05.208216886Z",
-      "contentHash": "eec9a42538dc62f93e4c593fe0a46aad8d8e47325c43ff21528781f9af00c389",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/04/can-cool-weather-trigger-joint-pain"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     },
     {
       "id": "72fb53eb-05cd-32b5-9bd8-ea2b65ee6fcc",
