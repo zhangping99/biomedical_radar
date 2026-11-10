@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-10T20:00:15.428298743Z",
+  "generatedAt": "2026-11-10T20:35:26.485529829Z",
   "articles": [
     {
       "id": "a514da01-cbfc-3a3f-9c30-a6df55ca5334",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-24T23:00:33Z",
-      "collectedAt": "2026-11-10T08:48:46.987415930Z",
+      "collectedAt": "2026-11-10T20:35:17.759203943Z",
       "contentHash": "cb52a1959182ba04d6b077efdebdeaba8ebd553cf407e5aefd11d8360b6f56a6",
       "generated": false,
       "generatorVersion": null,
@@ -73,7 +73,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-24T00:00:00Z",
-      "collectedAt": "2026-11-09T23:08:02.103694886Z",
+      "collectedAt": "2026-11-10T20:35:26.358290864Z",
       "contentHash": "d569503aa9378942cf26357b056329cfb84334ec54fbab91355b910837b72417",
       "generated": false,
       "generatorVersion": null,
@@ -87,6 +87,51 @@
           "sourceName": "Amgen News Releases",
           "sourceTier": "B",
           "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/10/imdelltra-in-combination-with-imfinzi-reduced-risk-of-death-by-an-unprecedented-58-in-firstline-extensive-stage-small-cell-lung-cancer"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "7670abf4-a52d-3efe-8f4b-b9e6e85c5234",
+      "sourceId": "pfizer-press-releases",
+      "sourceName": "Pfizer Press Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.pfizer.com/news/press-release/press-release-detail/pfizers-25-valent-pediatric-pneumococcal-conjugate-vaccine",
+      "canonicalUrl": "https://www.pfizer.com/news/press-release/press-release-detail/pfizers-25-valent-pediatric-pneumococcal-conjugate-vaccine",
+      "titleOriginal": "Pfizer\u0027s 25-Valent Pediatric Pneumococcal Conjugate Vaccine Candidate Shows Robust Phase 2 Data at IDWeek 2026",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Pfizer"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-24T00:00:00Z",
+      "collectedAt": "2026-11-10T20:35:16.320993992Z",
+      "contentHash": "866dd6e4a8a1b8ab51854726c0056e1dbbfce01a4f7998f40a86265908272c1d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "pfizer-press-releases",
+          "sourceName": "Pfizer Press Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://www.pfizer.com/news/press-release/press-release-detail/pfizers-25-valent-pediatric-pneumococcal-conjugate-vaccine"
         }
       ],
       "importanceScore": 20,
