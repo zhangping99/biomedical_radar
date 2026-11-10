@@ -1,7 +1,201 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-09T23:51:07.546399244Z",
+  "generatedAt": "2026-11-10T02:43:51.697310028Z",
   "articles": [
+    {
+      "id": "408576e9-93e1-37d0-be57-6cb5db064260",
+      "sourceId": "ema-news",
+      "sourceName": "European Medicines Agency",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-26-29-october-2026",
+      "canonicalUrl": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-26-29-october-2026",
+      "titleOriginal": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 26 - 29 October 2026",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "EU",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "European Medicines Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-30T11:11:00Z",
+      "collectedAt": "2026-11-10T02:43:48.680357043Z",
+      "contentHash": "d278523158a661544957f72c8b23767fb8eec2079e04aff577ffd9a739340cde",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "ema-news",
+          "sourceName": "European Medicines Agency",
+          "sourceTier": "A",
+          "originalUrl": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-26-29-october-2026"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "a74ae1ca-187e-32a3-8a50-4bd358553642",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/platelet-factor-4-pf4-radioimmunoassay-recall-instrumentation-laboratories-removes-hemosil-acustar",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/platelet-factor-4-pf4-radioimmunoassay-recall-instrumentation-laboratories-removes-hemosil-acustar",
+      "titleOriginal": "Platelet Factor 4 (PF4) Radioimmunoassay Recall: Instrumentation Laboratories Removes HemosIL AcuStar HIT-IgG(PF4-H)",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-30T04:00:00Z",
+      "collectedAt": "2026-11-10T02:43:48.686139754Z",
+      "contentHash": "32d1430ecbd8ef3a064bb6dda4ff68fd1dd5d0a985388ff159f9e8fdf6be8c1c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/platelet-factor-4-pf4-radioimmunoassay-recall-instrumentation-laboratories-removes-hemosil-acustar"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "51997aad-9de1-39e9-b821-147a33ce7233",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-correction-nova-biomedical-updates-use-instructions-statstrip-glucose",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-correction-nova-biomedical-updates-use-instructions-statstrip-glucose",
+      "titleOriginal": "Hospital Glucose Meter Correction: Nova Biomedical Updates Use Instructions for StatStrip Glucose Hospital Meter Systems",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-30T04:00:00Z",
+      "collectedAt": "2026-11-10T02:43:48.685906257Z",
+      "contentHash": "e4c79f0a64f27924554158ff12d26371a271ad1204f32a5c32e3636819a9a80f",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-correction-nova-biomedical-updates-use-instructions-statstrip-glucose"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "4e2ef65d-4e8f-3a1e-bd55-24cd9bb6d8c7",
+      "sourceId": "pmda-safety-updates",
+      "sourceName": "Japan PMDA Safety Updates",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/properly-use-alert/0001.html",
+      "canonicalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/properly-use-alert/0001.html",
+      "titleOriginal": "PMDA Alert for Proper Use of Drugs: Request for Proper Use of GLP-1 Receptor Agonists and GIP/GLP-1 Receptor Agonists posted",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "JP",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Pharmaceuticals and Medical Devices Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-30T00:00:00Z",
+      "collectedAt": "2026-11-10T02:43:49.945268693Z",
+      "contentHash": "6784a9af55a597be62f1cd20db813d9f4dd55667674521054a31e0f9f18ad113",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "pmda-safety-updates",
+          "sourceName": "Japan PMDA Safety Updates",
+          "sourceTier": "A",
+          "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/properly-use-alert/0001.html"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "048496de-247d-3aca-930a-129f161746e3",
       "sourceId": "sanofi-press-releases",
@@ -94,200 +288,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "408576e9-93e1-37d0-be57-6cb5db064260",
-      "sourceId": "ema-news",
-      "sourceName": "European Medicines Agency",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-26-29-october-2026",
-      "canonicalUrl": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-26-29-october-2026",
-      "titleOriginal": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 26 - 29 October 2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "EU",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "European Medicines Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-30T11:11:00Z",
-      "collectedAt": "2026-11-09T18:46:31.768627109Z",
-      "contentHash": "d278523158a661544957f72c8b23767fb8eec2079e04aff577ffd9a739340cde",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "ema-news",
-          "sourceName": "European Medicines Agency",
-          "sourceTier": "A",
-          "originalUrl": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-26-29-october-2026"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "a74ae1ca-187e-32a3-8a50-4bd358553642",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/platelet-factor-4-pf4-radioimmunoassay-recall-instrumentation-laboratories-removes-hemosil-acustar",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/platelet-factor-4-pf4-radioimmunoassay-recall-instrumentation-laboratories-removes-hemosil-acustar",
-      "titleOriginal": "Platelet Factor 4 (PF4) Radioimmunoassay Recall: Instrumentation Laboratories Removes HemosIL AcuStar HIT-IgG(PF4-H)",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-30T04:00:00Z",
-      "collectedAt": "2026-11-09T18:46:31.789584880Z",
-      "contentHash": "32d1430ecbd8ef3a064bb6dda4ff68fd1dd5d0a985388ff159f9e8fdf6be8c1c",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/platelet-factor-4-pf4-radioimmunoassay-recall-instrumentation-laboratories-removes-hemosil-acustar"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "51997aad-9de1-39e9-b821-147a33ce7233",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-correction-nova-biomedical-updates-use-instructions-statstrip-glucose",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-correction-nova-biomedical-updates-use-instructions-statstrip-glucose",
-      "titleOriginal": "Hospital Glucose Meter Correction: Nova Biomedical Updates Use Instructions for StatStrip Glucose Hospital Meter Systems",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-30T04:00:00Z",
-      "collectedAt": "2026-11-09T18:46:31.789833034Z",
-      "contentHash": "e4c79f0a64f27924554158ff12d26371a271ad1204f32a5c32e3636819a9a80f",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-correction-nova-biomedical-updates-use-instructions-statstrip-glucose"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "4e2ef65d-4e8f-3a1e-bd55-24cd9bb6d8c7",
-      "sourceId": "pmda-safety-updates",
-      "sourceName": "Japan PMDA Safety Updates",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/properly-use-alert/0001.html",
-      "canonicalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/properly-use-alert/0001.html",
-      "titleOriginal": "PMDA Alert for Proper Use of Drugs: Request for Proper Use of GLP-1 Receptor Agonists and GIP/GLP-1 Receptor Agonists posted",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "JP",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Pharmaceuticals and Medical Devices Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-30T00:00:00Z",
-      "collectedAt": "2026-11-09T18:46:32.724233200Z",
-      "contentHash": "6784a9af55a597be62f1cd20db813d9f4dd55667674521054a31e0f9f18ad113",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "pmda-safety-updates",
-          "sourceName": "Japan PMDA Safety Updates",
-          "sourceTier": "A",
-          "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/properly-use-alert/0001.html"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
     },
     {
       "id": "d4f812ca-adec-3551-8980-2a732feba2c4",
