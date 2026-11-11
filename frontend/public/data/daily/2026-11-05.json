@@ -1,57 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-11T22:13:50.355128106Z",
+  "generatedAt": "2026-11-11T22:41:10.823036724Z",
   "articles": [
-    {
-      "id": "9761492f-014f-3406-8496-4215ebb16798",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07920523",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07920523",
-      "titleOriginal": "Comparing Foot-Type-Matched and Neutral Insoles for Foot Discomfort in Factory Workers",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Musculoskeletal Discomfort",
-        "Foot Discomfort"
-      ],
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "collectedAt": "2026-11-11T21:23:14.258201900Z",
-      "contentHash": "2af7554bc5164c90c42980fbf99920dcdd63eb9c63362adde3dc1bb0beae2ee0",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07920523"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
     {
       "id": "b52d4263-f438-3748-aea5-2c19fb945f25",
       "sourceId": "health-canada-health-products",
@@ -78,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-05T00:00:00Z",
-      "collectedAt": "2026-11-11T16:08:59.331047224Z",
+      "collectedAt": "2026-11-11T22:41:08.262155726Z",
       "contentHash": "edf3bc8cdd613cb350b1933522f49d1d9845cacdd2c4bfae851496bc2aff2a16",
       "generated": false,
       "generatorVersion": null,
@@ -127,7 +77,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-05T00:00:00Z",
-      "collectedAt": "2026-11-11T16:08:59.331209146Z",
+      "collectedAt": "2026-11-11T22:41:08.262275662Z",
       "contentHash": "9eb775bf7e94d4d02f3ee95321e9b120e19aafbdaae2ac264a1bd1c7c96ebd6c",
       "generated": false,
       "generatorVersion": null,
@@ -176,7 +126,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-05T00:00:00Z",
-      "collectedAt": "2026-11-11T16:08:59.331396575Z",
+      "collectedAt": "2026-11-11T22:41:08.262429809Z",
       "contentHash": "4c307b9e3daa0d87fe2536b1403f42d71063792986d10a278ebad056da5c9d91",
       "generated": false,
       "generatorVersion": null,
@@ -225,7 +175,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-05T00:00:00Z",
-      "collectedAt": "2026-11-11T16:08:59.331595496Z",
+      "collectedAt": "2026-11-11T22:41:08.262569663Z",
       "contentHash": "039404712f30f4a5af6644d00dd86fb95e21bedb1654b6050a3dafec3546d773",
       "generated": false,
       "generatorVersion": null,
@@ -274,7 +224,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-05T00:00:00Z",
-      "collectedAt": "2026-11-11T16:08:59.331757779Z",
+      "collectedAt": "2026-11-11T22:41:08.262700280Z",
       "contentHash": "db3fdbd16f68074e1380ef2b2668c75a2dd9a4559981e38a4ac7f9c9d12b5fa5",
       "generated": false,
       "generatorVersion": null,
@@ -295,6 +245,56 @@
         "官方一手来源",
         "高影响事件",
         "政策或安全相关"
+      ]
+    },
+    {
+      "id": "9761492f-014f-3406-8496-4215ebb16798",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07920523",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07920523",
+      "titleOriginal": "Comparing Foot-Type-Matched and Neutral Insoles for Foot Discomfort in Factory Workers",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Musculoskeletal Discomfort",
+        "Foot Discomfort"
+      ],
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "collectedAt": "2026-11-11T21:23:14.258201900Z",
+      "contentHash": "2af7554bc5164c90c42980fbf99920dcdd63eb9c63362adde3dc1bb0beae2ee0",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07920523"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
       ]
     },
     {

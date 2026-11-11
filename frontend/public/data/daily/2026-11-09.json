@@ -1,7 +1,944 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-11T22:13:50.355128106Z",
+  "generatedAt": "2026-11-11T22:41:10.823036724Z",
   "articles": [
+    {
+      "id": "a950104a-3ffc-3ccc-bf07-ccc68571c9ab",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/vaccine-and-related-biological-product-guidances",
+      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/biologics-guidances/vaccine-and-related-biological-product-guidances",
+      "titleOriginal": "Vaccine and Related Biological Product Guidances",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "policy_release"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T22:16:15Z",
+      "collectedAt": "2026-11-11T22:41:08.030702808Z",
+      "contentHash": "d5d0c8954a9302fc84c163eb92914357fe653b1476a64bc9646a58d16b6e34b7",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/vaccine-and-related-biological-product-guidances"
+        }
+      ],
+      "importanceScore": 73,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "7e00222c-a65b-3df5-85b1-144d9c42d17e",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products",
+      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products",
+      "titleOriginal": "Approved Cellular and Gene Therapy Products",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "approval"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T16:52:49Z",
+      "collectedAt": "2026-11-11T22:41:08.031465111Z",
+      "contentHash": "f923b5a275edf073ad1f1dd586e2f46524c1aec7428b9059d603bb15ff9ae40a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products"
+        }
+      ],
+      "importanceScore": 73,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "3f221f7a-7343-393a-8073-38e3638abd93",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/eugia-us-llc-fka-auro-medics-pharma-llc-issues-voluntary-nationwide-recall-vancomycin-hydrochloride",
+      "canonicalUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/eugia-us-llc-fka-auro-medics-pharma-llc-issues-voluntary-nationwide-recall-vancomycin-hydrochloride",
+      "titleOriginal": "Eugia US LLC (f/k/a Auro Medics Pharma LLC) Issues Voluntary Nationwide Recall of Vancomycin Hydrochloride for Injection USP 1.25g/Vial-30mL (Single Dose Vial) Due to Presence of Particulate Matter",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T05:00:00Z",
+      "collectedAt": "2026-11-11T22:41:08.031924793Z",
+      "contentHash": "30a9c4ef2bac72a9214613e9dbbd5a5d9f893504df1aa62cfd013c9e6f066eb9",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/eugia-us-llc-fka-auro-medics-pharma-llc-issues-voluntary-nationwide-recall-vancomycin-hydrochloride"
+        }
+      ],
+      "importanceScore": 73,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "5241bbe0-6034-372a-977e-e1e4063e4067",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/safety/medical-product-safety-information/medwatch-alert-fda-requires-safety-labeling-changes-glucagon-peptide-1-receptor-agonists-glp-1-ras",
+      "canonicalUrl": "https://www.fda.gov/safety/medical-product-safety-information/medwatch-alert-fda-requires-safety-labeling-changes-glucagon-peptide-1-receptor-agonists-glp-1-ras",
+      "titleOriginal": "MedWatch Alert: FDA Requires Safety Labeling Changes for Glucagon-Like Peptide-1 Receptor Agonists (GLP-1 RAs) Due to Potential Increased Risk of Rare But Serious Eye Condition: FDA Safety Communication",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T05:00:00Z",
+      "collectedAt": "2026-11-11T22:41:08.032663376Z",
+      "contentHash": "5eea3edf6e00cab9241a2b0a4a689b050caee28771fd2647e64fa496d0331b1a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/safety/medical-product-safety-information/medwatch-alert-fda-requires-safety-labeling-changes-glucagon-peptide-1-receptor-agonists-glp-1-ras"
+        }
+      ],
+      "importanceScore": 73,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "f0a731bc-eab8-3d3e-aec9-8fde3c653f62",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers-aic",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers-aic",
+      "titleOriginal": "Heart Pump Controller Recall: Abiomed Removes Automated Impella Controllers (AIC)",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T05:00:00Z",
+      "collectedAt": "2026-11-11T22:41:08.033117590Z",
+      "contentHash": "e727d52a997d94ca8205d8086e0f11c0f3699a345f60abd1b52f14ad96d04312",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers-aic"
+        }
+      ],
+      "importanceScore": 73,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "1b20ddcf-5d28-3290-b255-019d301e8a73",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/pdp-diphenhydramine-25-mg-and-50-mg-capsules-out-specification-impurity",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/pdp-diphenhydramine-25-mg-and-50-mg-capsules-out-specification-impurity",
+      "titleOriginal": "PDP-DIPHENHYDRAMINE 25 MG and 50 MG CAPSULES: Out-of-specification (Impurity)",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "collectedAt": "2026-11-11T22:41:08.261526383Z",
+      "contentHash": "11f2ba1852c334711449b891c0f878755d8e1fb8fd704855bd77d2a9b32003b3",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/pdp-diphenhydramine-25-mg-and-50-mg-capsules-out-specification-impurity"
+        }
+      ],
+      "importanceScore": 73,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "8795d919-9b98-3694-af34-aeb04a1ff1eb",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/news-events/fda-voices/delivering-answers-and-hope-rare-disease-families",
+      "canonicalUrl": "https://www.fda.gov/news-events/fda-voices/delivering-answers-and-hope-rare-disease-families",
+      "titleOriginal": "Delivering Answers and Hope for Rare Disease Families",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T19:31:46Z",
+      "collectedAt": "2026-11-11T22:41:08.030878623Z",
+      "contentHash": "73fb183106c6c2ea844819c55505c678fc5fca5b5363f06f3c4abc98ed588107",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/news-events/fda-voices/delivering-answers-and-hope-rare-disease-families"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "6ea65a25-6aa6-34f8-994f-2352e9744dad",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/news-events/press-announcements/fda-roundup-june-4-2024",
+      "canonicalUrl": "https://www.fda.gov/news-events/press-announcements/fda-roundup-june-4-2024",
+      "titleOriginal": "FDA Roundup: June 4, 2024",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T19:19:09Z",
+      "collectedAt": "2026-11-11T22:41:08.031072169Z",
+      "contentHash": "d311e9637c9c48c5357cc7bd9c4a42a885ee8c2273480dc676896a5b178b922f",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/news-events/press-announcements/fda-roundup-june-4-2024"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "48c1ff02-933b-3c13-8455-0ccb159fd3c3",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/patients/fda-patient-listening-sessions/patient-listening-session-summaries",
+      "canonicalUrl": "https://www.fda.gov/patients/fda-patient-listening-sessions/patient-listening-session-summaries",
+      "titleOriginal": "Patient Listening Session Summaries",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T18:00:23Z",
+      "collectedAt": "2026-11-11T22:41:08.031242290Z",
+      "contentHash": "524d4cd59f6f42ee875509d66999899f60a5c032f333a130406eb6c6e27f4933",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/patients/fda-patient-listening-sessions/patient-listening-session-summaries"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "17194921-c438-3958-9c80-e0789eba6037",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-22-2020-meeting-announcement",
+      "canonicalUrl": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-22-2020-meeting-announcement",
+      "titleOriginal": "Vaccines and Related Biological Products Advisory Committee October 22, 2020 Meeting Announcement - 10/22/2020",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T15:44:09Z",
+      "collectedAt": "2026-11-11T22:41:08.031676830Z",
+      "contentHash": "b8c329c9a15d9ec751246016417ba0c561d95a76fc1edf630e040d88f801a571",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-22-2020-meeting-announcement"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "117b718d-6ded-3ee0-a6f6-4628db948f4f",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-december-10-2020-meeting-announcement",
+      "canonicalUrl": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-december-10-2020-meeting-announcement",
+      "titleOriginal": "Vaccines and Related Biological Products Advisory Committee December 10, 2020 Meeting Announcement - 12/10/2020",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T15:43:06Z",
+      "collectedAt": "2026-11-11T22:41:08.031898613Z",
+      "contentHash": "953d7b766509dd5699c564218b8583ca92da5239729eabaa31cb16d8221ec52d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-december-10-2020-meeting-announcement"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "f3133fb7-124c-34fb-bd9e-21bbbae46552",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-december-17-2020-meeting-announcement",
+      "canonicalUrl": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-december-17-2020-meeting-announcement",
+      "titleOriginal": "Vaccines and Related Biological Products Advisory Committee December 17, 2020 Meeting Announcement - 12/17/2020",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T15:42:08Z",
+      "collectedAt": "2026-11-11T22:41:08.032116222Z",
+      "contentHash": "d1d0052d75b1aed8719623e3db36f4357204c655b5bf13ac523061fbdb87fedf",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-december-17-2020-meeting-announcement"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "a17b6aa0-c23e-3be6-802d-2a1bab47a71a",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-february-26-2021-meeting-announcement",
+      "canonicalUrl": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-february-26-2021-meeting-announcement",
+      "titleOriginal": "Vaccines and Related Biological Products Advisory Committee February 26, 2021 Meeting Announcement - 02/26/2021",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T15:41:13Z",
+      "collectedAt": "2026-11-11T22:41:08.032340386Z",
+      "contentHash": "22210054931f394da150f8ba737dc3730bb34d4410bc12b43cee4d0e9416bba9",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-february-26-2021-meeting-announcement"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "ab334525-a0fe-3063-b4f7-c5fdfc113dc1",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-june-10-2021-meeting-announcement",
+      "canonicalUrl": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-june-10-2021-meeting-announcement",
+      "titleOriginal": "Vaccines and Related Biological Products Advisory Committee June 10, 2021 Meeting Announcement - 06/10/2021",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T15:40:33Z",
+      "collectedAt": "2026-11-11T22:41:08.035582793Z",
+      "contentHash": "872fd90f409950ccb35eb160b9838a78f71d976d91033bb3c8edd37d86b7dbb9",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-june-10-2021-meeting-announcement"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "ccac2c60-8859-3377-9ddc-14137f0b006e",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-september-17-2021-meeting-announcement",
+      "canonicalUrl": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-september-17-2021-meeting-announcement",
+      "titleOriginal": "Vaccines and Related Biological Products Advisory Committee September 17, 2021 Meeting Announcement - 09/17/2021",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T15:33:11Z",
+      "collectedAt": "2026-11-11T22:41:08.035808688Z",
+      "contentHash": "a6fa1da990ceac604d04a1c6a7dc6e37d86c7d2ed43ab594db04326a6bf9e2ac",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-september-17-2021-meeting-announcement"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "79e8f21c-26cc-3147-8e62-eaddac381c25",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-14-15-2021-meeting-announcement",
+      "canonicalUrl": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-14-15-2021-meeting-announcement",
+      "titleOriginal": "Vaccines and Related Biological Products Advisory Committee October 14-15, 2021 Meeting Announcement - 10/14/2021",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T15:32:10Z",
+      "collectedAt": "2026-11-11T22:41:08.036037551Z",
+      "contentHash": "b69c204c1aa5358fc937a1761aab7237ecf1377ed5d6040a037e9aca44863a35",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-14-15-2021-meeting-announcement"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "ee7ee431-0bdc-383e-805c-ac06c2612b98",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-26-2021-meeting-announcement",
+      "canonicalUrl": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-26-2021-meeting-announcement",
+      "titleOriginal": "Vaccines and Related Biological Products Advisory Committee October 26, 2021 Meeting Announcement - 10/26/2021",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T15:31:28Z",
+      "collectedAt": "2026-11-11T22:41:08.036285219Z",
+      "contentHash": "97190fc2aa833ea3628b47c362e0bc12a00159e28098e68b00038ca528905aa3",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-26-2021-meeting-announcement"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "9697efc8-9853-3ee1-a8e5-6b8d762cc17e",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/postponed-vaccines-and-related-biological-products-advisory-committee-february-15-2022-meeting",
+      "canonicalUrl": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/postponed-vaccines-and-related-biological-products-advisory-committee-february-15-2022-meeting",
+      "titleOriginal": "POSTPONED- Vaccines and Related Biological Products Advisory Committee February 15, 2022 Meeting Announcement - 02/15/2022",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T15:30:45Z",
+      "collectedAt": "2026-11-11T22:41:08.036513697Z",
+      "contentHash": "0797c3ebfd3bcee6b6cd006038562c00bd79b91099b339d4fb3a2879d14f2418",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/postponed-vaccines-and-related-biological-products-advisory-committee-february-15-2022-meeting"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "62e047b3-c06c-3e98-be26-50801c998943",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-cardinal-health-updates-use-instructions-presource-packs-containing-bd",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-cardinal-health-updates-use-instructions-presource-packs-containing-bd",
+      "titleOriginal": "Convenience Kit Correction: Cardinal Health Updates Use Instructions for Presource Packs Containing BD Alaris Pump Infusion Sets",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T05:00:00Z",
+      "collectedAt": "2026-11-11T22:41:08.032904724Z",
+      "contentHash": "4e45d4ae0f20a6d38de92437b2445eeeb6e3f37399703f3b189699893f993bbe",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-cardinal-health-updates-use-instructions-presource-packs-containing-bd"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
     {
       "id": "548ec449-673a-30ef-aa4c-02b1606bb00b",
       "sourceId": "cleveland-clinic-news",
@@ -427,943 +1364,6 @@
       "importanceScore": 43,
       "importanceReasons": [
         "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "a950104a-3ffc-3ccc-bf07-ccc68571c9ab",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/vaccine-and-related-biological-product-guidances",
-      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/biologics-guidances/vaccine-and-related-biological-product-guidances",
-      "titleOriginal": "Vaccine and Related Biological Product Guidances",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "policy_release"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-09T22:16:15Z",
-      "collectedAt": "2026-11-11T16:08:59.055901818Z",
-      "contentHash": "d5d0c8954a9302fc84c163eb92914357fe653b1476a64bc9646a58d16b6e34b7",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/vaccine-and-related-biological-product-guidances"
-        }
-      ],
-      "importanceScore": 73,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "7e00222c-a65b-3df5-85b1-144d9c42d17e",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products",
-      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products",
-      "titleOriginal": "Approved Cellular and Gene Therapy Products",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "approval"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-09T16:52:49Z",
-      "collectedAt": "2026-11-11T16:08:59.057020675Z",
-      "contentHash": "f923b5a275edf073ad1f1dd586e2f46524c1aec7428b9059d603bb15ff9ae40a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products"
-        }
-      ],
-      "importanceScore": 73,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "3f221f7a-7343-393a-8073-38e3638abd93",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/eugia-us-llc-fka-auro-medics-pharma-llc-issues-voluntary-nationwide-recall-vancomycin-hydrochloride",
-      "canonicalUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/eugia-us-llc-fka-auro-medics-pharma-llc-issues-voluntary-nationwide-recall-vancomycin-hydrochloride",
-      "titleOriginal": "Eugia US LLC (f/k/a Auro Medics Pharma LLC) Issues Voluntary Nationwide Recall of Vancomycin Hydrochloride for Injection USP 1.25g/Vial-30mL (Single Dose Vial) Due to Presence of Particulate Matter",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-09T05:00:00Z",
-      "collectedAt": "2026-11-11T16:08:59.021673696Z",
-      "contentHash": "30a9c4ef2bac72a9214613e9dbbd5a5d9f893504df1aa62cfd013c9e6f066eb9",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/eugia-us-llc-fka-auro-medics-pharma-llc-issues-voluntary-nationwide-recall-vancomycin-hydrochloride"
-        }
-      ],
-      "importanceScore": 73,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "5241bbe0-6034-372a-977e-e1e4063e4067",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/safety/medical-product-safety-information/medwatch-alert-fda-requires-safety-labeling-changes-glucagon-peptide-1-receptor-agonists-glp-1-ras",
-      "canonicalUrl": "https://www.fda.gov/safety/medical-product-safety-information/medwatch-alert-fda-requires-safety-labeling-changes-glucagon-peptide-1-receptor-agonists-glp-1-ras",
-      "titleOriginal": "MedWatch Alert: FDA Requires Safety Labeling Changes for Glucagon-Like Peptide-1 Receptor Agonists (GLP-1 RAs) Due to Potential Increased Risk of Rare But Serious Eye Condition: FDA Safety Communication",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-09T05:00:00Z",
-      "collectedAt": "2026-11-11T16:08:59.023117328Z",
-      "contentHash": "5eea3edf6e00cab9241a2b0a4a689b050caee28771fd2647e64fa496d0331b1a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/safety/medical-product-safety-information/medwatch-alert-fda-requires-safety-labeling-changes-glucagon-peptide-1-receptor-agonists-glp-1-ras"
-        }
-      ],
-      "importanceScore": 73,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "f0a731bc-eab8-3d3e-aec9-8fde3c653f62",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers-aic",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers-aic",
-      "titleOriginal": "Heart Pump Controller Recall: Abiomed Removes Automated Impella Controllers (AIC)",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-09T05:00:00Z",
-      "collectedAt": "2026-11-11T16:08:59.024198936Z",
-      "contentHash": "e727d52a997d94ca8205d8086e0f11c0f3699a345f60abd1b52f14ad96d04312",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers-aic"
-        }
-      ],
-      "importanceScore": 73,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "1b20ddcf-5d28-3290-b255-019d301e8a73",
-      "sourceId": "health-canada-health-products",
-      "sourceName": "Health Canada Health Product Recalls",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/pdp-diphenhydramine-25-mg-and-50-mg-capsules-out-specification-impurity",
-      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/pdp-diphenhydramine-25-mg-and-50-mg-capsules-out-specification-impurity",
-      "titleOriginal": "PDP-DIPHENHYDRAMINE 25 MG and 50 MG CAPSULES: Out-of-specification (Impurity)",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Health Canada"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-09T00:00:00Z",
-      "collectedAt": "2026-11-11T16:08:59.329963712Z",
-      "contentHash": "11f2ba1852c334711449b891c0f878755d8e1fb8fd704855bd77d2a9b32003b3",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "health-canada-health-products",
-          "sourceName": "Health Canada Health Product Recalls",
-          "sourceTier": "A",
-          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/pdp-diphenhydramine-25-mg-and-50-mg-capsules-out-specification-impurity"
-        }
-      ],
-      "importanceScore": 73,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "8795d919-9b98-3694-af34-aeb04a1ff1eb",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/news-events/fda-voices/delivering-answers-and-hope-rare-disease-families",
-      "canonicalUrl": "https://www.fda.gov/news-events/fda-voices/delivering-answers-and-hope-rare-disease-families",
-      "titleOriginal": "Delivering Answers and Hope for Rare Disease Families",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-09T19:31:46Z",
-      "collectedAt": "2026-11-11T16:08:59.056186218Z",
-      "contentHash": "73fb183106c6c2ea844819c55505c678fc5fca5b5363f06f3c4abc98ed588107",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/news-events/fda-voices/delivering-answers-and-hope-rare-disease-families"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "6ea65a25-6aa6-34f8-994f-2352e9744dad",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/news-events/press-announcements/fda-roundup-june-4-2024",
-      "canonicalUrl": "https://www.fda.gov/news-events/press-announcements/fda-roundup-june-4-2024",
-      "titleOriginal": "FDA Roundup: June 4, 2024",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-09T19:19:09Z",
-      "collectedAt": "2026-11-11T16:08:59.056470899Z",
-      "contentHash": "d311e9637c9c48c5357cc7bd9c4a42a885ee8c2273480dc676896a5b178b922f",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/news-events/press-announcements/fda-roundup-june-4-2024"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "48c1ff02-933b-3c13-8455-0ccb159fd3c3",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/patients/fda-patient-listening-sessions/patient-listening-session-summaries",
-      "canonicalUrl": "https://www.fda.gov/patients/fda-patient-listening-sessions/patient-listening-session-summaries",
-      "titleOriginal": "Patient Listening Session Summaries",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-09T18:00:23Z",
-      "collectedAt": "2026-11-11T16:08:59.056721116Z",
-      "contentHash": "524d4cd59f6f42ee875509d66999899f60a5c032f333a130406eb6c6e27f4933",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/patients/fda-patient-listening-sessions/patient-listening-session-summaries"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "17194921-c438-3958-9c80-e0789eba6037",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-22-2020-meeting-announcement",
-      "canonicalUrl": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-22-2020-meeting-announcement",
-      "titleOriginal": "Vaccines and Related Biological Products Advisory Committee October 22, 2020 Meeting Announcement - 10/22/2020",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-09T15:44:09Z",
-      "collectedAt": "2026-11-11T16:08:59.057308782Z",
-      "contentHash": "b8c329c9a15d9ec751246016417ba0c561d95a76fc1edf630e040d88f801a571",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-22-2020-meeting-announcement"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "117b718d-6ded-3ee0-a6f6-4628db948f4f",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-december-10-2020-meeting-announcement",
-      "canonicalUrl": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-december-10-2020-meeting-announcement",
-      "titleOriginal": "Vaccines and Related Biological Products Advisory Committee December 10, 2020 Meeting Announcement - 12/10/2020",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-09T15:43:06Z",
-      "collectedAt": "2026-11-11T16:08:59.057648586Z",
-      "contentHash": "953d7b766509dd5699c564218b8583ca92da5239729eabaa31cb16d8221ec52d",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-december-10-2020-meeting-announcement"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "f3133fb7-124c-34fb-bd9e-21bbbae46552",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-december-17-2020-meeting-announcement",
-      "canonicalUrl": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-december-17-2020-meeting-announcement",
-      "titleOriginal": "Vaccines and Related Biological Products Advisory Committee December 17, 2020 Meeting Announcement - 12/17/2020",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-09T15:42:08Z",
-      "collectedAt": "2026-11-11T16:08:59.059875119Z",
-      "contentHash": "d1d0052d75b1aed8719623e3db36f4357204c655b5bf13ac523061fbdb87fedf",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-december-17-2020-meeting-announcement"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "a17b6aa0-c23e-3be6-802d-2a1bab47a71a",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-february-26-2021-meeting-announcement",
-      "canonicalUrl": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-february-26-2021-meeting-announcement",
-      "titleOriginal": "Vaccines and Related Biological Products Advisory Committee February 26, 2021 Meeting Announcement - 02/26/2021",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-09T15:41:13Z",
-      "collectedAt": "2026-11-11T16:08:59.060273362Z",
-      "contentHash": "22210054931f394da150f8ba737dc3730bb34d4410bc12b43cee4d0e9416bba9",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-february-26-2021-meeting-announcement"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "ab334525-a0fe-3063-b4f7-c5fdfc113dc1",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-june-10-2021-meeting-announcement",
-      "canonicalUrl": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-june-10-2021-meeting-announcement",
-      "titleOriginal": "Vaccines and Related Biological Products Advisory Committee June 10, 2021 Meeting Announcement - 06/10/2021",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-09T15:40:33Z",
-      "collectedAt": "2026-11-11T16:08:59.060626731Z",
-      "contentHash": "872fd90f409950ccb35eb160b9838a78f71d976d91033bb3c8edd37d86b7dbb9",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-june-10-2021-meeting-announcement"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "ccac2c60-8859-3377-9ddc-14137f0b006e",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-september-17-2021-meeting-announcement",
-      "canonicalUrl": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-september-17-2021-meeting-announcement",
-      "titleOriginal": "Vaccines and Related Biological Products Advisory Committee September 17, 2021 Meeting Announcement - 09/17/2021",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-09T15:33:11Z",
-      "collectedAt": "2026-11-11T16:08:59.060986262Z",
-      "contentHash": "a6fa1da990ceac604d04a1c6a7dc6e37d86c7d2ed43ab594db04326a6bf9e2ac",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-september-17-2021-meeting-announcement"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "79e8f21c-26cc-3147-8e62-eaddac381c25",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-14-15-2021-meeting-announcement",
-      "canonicalUrl": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-14-15-2021-meeting-announcement",
-      "titleOriginal": "Vaccines and Related Biological Products Advisory Committee October 14-15, 2021 Meeting Announcement - 10/14/2021",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-09T15:32:10Z",
-      "collectedAt": "2026-11-11T16:08:59.061341885Z",
-      "contentHash": "b69c204c1aa5358fc937a1761aab7237ecf1377ed5d6040a037e9aca44863a35",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-14-15-2021-meeting-announcement"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "ee7ee431-0bdc-383e-805c-ac06c2612b98",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-26-2021-meeting-announcement",
-      "canonicalUrl": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-26-2021-meeting-announcement",
-      "titleOriginal": "Vaccines and Related Biological Products Advisory Committee October 26, 2021 Meeting Announcement - 10/26/2021",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-09T15:31:28Z",
-      "collectedAt": "2026-11-11T16:08:59.061686037Z",
-      "contentHash": "97190fc2aa833ea3628b47c362e0bc12a00159e28098e68b00038ca528905aa3",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-october-26-2021-meeting-announcement"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "9697efc8-9853-3ee1-a8e5-6b8d762cc17e",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/postponed-vaccines-and-related-biological-products-advisory-committee-february-15-2022-meeting",
-      "canonicalUrl": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/postponed-vaccines-and-related-biological-products-advisory-committee-february-15-2022-meeting",
-      "titleOriginal": "POSTPONED- Vaccines and Related Biological Products Advisory Committee February 15, 2022 Meeting Announcement - 02/15/2022",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-09T15:30:45Z",
-      "collectedAt": "2026-11-11T16:08:59.062047341Z",
-      "contentHash": "0797c3ebfd3bcee6b6cd006038562c00bd79b91099b339d4fb3a2879d14f2418",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/postponed-vaccines-and-related-biological-products-advisory-committee-february-15-2022-meeting"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "62e047b3-c06c-3e98-be26-50801c998943",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-cardinal-health-updates-use-instructions-presource-packs-containing-bd",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-cardinal-health-updates-use-instructions-presource-packs-containing-bd",
-      "titleOriginal": "Convenience Kit Correction: Cardinal Health Updates Use Instructions for Presource Packs Containing BD Alaris Pump Infusion Sets",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-09T05:00:00Z",
-      "collectedAt": "2026-11-11T16:08:59.023669688Z",
-      "contentHash": "4e45d4ae0f20a6d38de92437b2445eeeb6e3f37399703f3b189699893f993bbe",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-cardinal-health-updates-use-instructions-presource-packs-containing-bd"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
         "近期更新"
       ]
     },
