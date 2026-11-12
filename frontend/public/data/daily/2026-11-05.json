@@ -1,7 +1,57 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-12T08:48:04.727626522Z",
+  "generatedAt": "2026-11-12T09:46:23.736744905Z",
   "articles": [
+    {
+      "id": "9761492f-014f-3406-8496-4215ebb16798",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07920523",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07920523",
+      "titleOriginal": "Comparing Foot-Type-Matched and Neutral Insoles for Foot Discomfort in Factory Workers",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Musculoskeletal Discomfort",
+        "Foot Discomfort"
+      ],
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "collectedAt": "2026-11-12T09:46:22.113256292Z",
+      "contentHash": "2af7554bc5164c90c42980fbf99920dcdd63eb9c63362adde3dc1bb0beae2ee0",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07920523"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "276b95e5-c763-36de-8b28-c961ae64632c",
       "sourceId": "gsk-press-releases",
@@ -335,56 +385,6 @@
         "官方一手来源",
         "高影响事件",
         "政策或安全相关"
-      ]
-    },
-    {
-      "id": "9761492f-014f-3406-8496-4215ebb16798",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07920523",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07920523",
-      "titleOriginal": "Comparing Foot-Type-Matched and Neutral Insoles for Foot Discomfort in Factory Workers",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Musculoskeletal Discomfort",
-        "Foot Discomfort"
-      ],
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "collectedAt": "2026-11-11T21:23:14.258201900Z",
-      "contentHash": "2af7554bc5164c90c42980fbf99920dcdd63eb9c63362adde3dc1bb0beae2ee0",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07920523"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
       ]
     },
     {

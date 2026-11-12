@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-12T08:48:04.727626522Z",
+  "generatedAt": "2026-11-12T09:46:23.736744905Z",
   "articles": [
+    {
+      "id": "b9a93904-297b-3084-b3ef-de3d516c8db0",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07775846",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07775846",
+      "titleOriginal": "QUARTET-DKD: Quadruple Therapy for Type 2 Diabetic Nephropathy",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Type 2 Diabetic Kidney Disease"
+      ],
+      "publishedAt": "2026-08-20T00:00:00Z",
+      "collectedAt": "2026-11-12T09:46:22.110900508Z",
+      "contentHash": "eeee17203f0f5992414c8144f7fd2c65d701f60f6515b85e42ec7fa1ccd6deae",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07775846"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "76bbf412-4a5f-3f3a-b942-25d992bc9d03",
       "sourceId": "hengrui-focus-news",
@@ -91,55 +140,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "b9a93904-297b-3084-b3ef-de3d516c8db0",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07775846",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07775846",
-      "titleOriginal": "QUARTET-DKD: Quadruple Therapy for Type 2 Diabetic Nephropathy",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Type 2 Diabetic Kidney Disease"
-      ],
-      "publishedAt": "2026-08-20T00:00:00Z",
-      "collectedAt": "2026-11-11T21:23:14.256376468Z",
-      "contentHash": "eeee17203f0f5992414c8144f7fd2c65d701f60f6515b85e42ec7fa1ccd6deae",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07775846"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     },
     {
       "id": "da52a33f-7a6b-3fc0-9ebc-63e9b105ba90",
