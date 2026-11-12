@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-12T21:03:50.673425342Z",
+  "generatedAt": "2026-11-12T21:27:51.491044297Z",
   "articles": [
+    {
+      "id": "26548d91-389d-3ad9-b9cf-9f3aa4f20c2d",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07800182",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07800182",
+      "titleOriginal": "A Randomized Controlled Trial of Prepared vs. Unprepared Food",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Pregnant Patients at Risk of Gestational Diabetes"
+      ],
+      "publishedAt": "2026-09-02T00:00:00Z",
+      "collectedAt": "2026-11-12T21:27:45.404287606Z",
+      "contentHash": "f2a7122ef3e65b3d1251d89c62b74130e13f26e0efaad430c8f7789ca8b6e2c1",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07800182"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "6150f29c-3861-3a99-be93-ea1836d73ed4",
       "sourceId": "nhsa-healthcare-security-updates",

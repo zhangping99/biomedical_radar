@@ -1,7 +1,527 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-12T21:03:50.673425342Z",
+  "generatedAt": "2026-11-12T21:27:51.491044297Z",
   "articles": [
+    {
+      "id": "e3f148d9-75c2-3304-94f8-ca89ac755b5c",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07925177",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07925177",
+      "titleOriginal": "[Trial of device that is not approved or cleared by the U.S. FDA]",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "approval",
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "collectedAt": "2026-11-12T21:27:45.406405552Z",
+      "contentHash": "93b528a2d82c6476126c9121d0d0844b120028a786e419702a7b95588f574123",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07925177"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件"
+      ]
+    },
+    {
+      "id": "ad708bd7-3b21-3d46-98bb-882c2db094f9",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43017995/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43017995",
+      "titleOriginal": "Comparative safety of the 20-valent and the 13-valent pneumococcal vaccines in infants and toddlers: a systematic review and meta-analysis of randomized trials.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "collectedAt": "2026-11-12T21:27:45.712182934Z",
+      "contentHash": "36ed48f6ac62e7ccbe7111a2e82d5f4d9a2efd8677dfb76068f2e39698fae3a0",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43017995/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件"
+      ]
+    },
+    {
+      "id": "11545d15-da64-3a62-9ce3-00fbac4a58cc",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43018023/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43018023",
+      "titleOriginal": "MS-39 Epithelial map-guided versus standard transepithelial photorefractive keratectomy in regular corneas: a randomized contralateral-eye study.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "collectedAt": "2026-11-12T21:27:45.711612597Z",
+      "contentHash": "2ae481552a3c23e43508a804a063369054552b4cbaede54e2440690f3dcab4c5",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43018023/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "b5d770d4-84df-3c0c-a3fe-9b1589901c29",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43018017/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43018017",
+      "titleOriginal": "Use of pumpkin seed (Cucurbita pepo) versus placebo and versus alpha-blockers in the management of benign prostatic hyperplasia: a systematic review and meta-analysis of randomized controlled trials.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "collectedAt": "2026-11-12T21:27:45.711732145Z",
+      "contentHash": "9d4b07789022c5420527c9e11d498def7ade447ca518e66761f189153185bf16",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43018017/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "67e316fb-9ff8-3986-ad3b-163fbe7aeb5d",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43018015/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43018015",
+      "titleOriginal": "Ropivacaine in oblique subcostal transversus abdominis plane block for laparoscopic sleeve gastrectomy: a randomized, double-blind clinical trial.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "collectedAt": "2026-11-12T21:27:45.711901556Z",
+      "contentHash": "348345a1dbe8bb60120b1b3677c731eac4372db2b5618734326e0f52af898382",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43018015/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "9ded6fa5-afc7-356d-aaba-476787b4f059",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43017997/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43017997",
+      "titleOriginal": "Exercise training program in children and adolescents with asthma: a randomized clinical trial.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "collectedAt": "2026-11-12T21:27:45.712043547Z",
+      "contentHash": "f42b67287f94b4684e5f35fe766267eb5d5d3db3500f2df606597d8f9894ea49",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43017997/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "cadfb54f-10ec-33d9-9584-9878296ebc08",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43017982/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43017982",
+      "titleOriginal": "Conditioned pain modulation is associated with anesthesia efficacy in patients with temporomandibular disorder.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "collectedAt": "2026-11-12T21:27:45.712340338Z",
+      "contentHash": "61e7744687d71a0750b76d1bb8ec0c552931817932fa94df817f01baa2bdaa4f",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43017982/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "72ad6c1a-b0fd-3f36-ba05-aaf3ba53343a",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43017975/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43017975",
+      "titleOriginal": "Impact of appliance design and the magnitude of maxillary expansion on facial soft tissue: systematic review.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "collectedAt": "2026-11-12T21:27:45.712473846Z",
+      "contentHash": "e8738f91fe7efdebca97cce515dc0af69af3ef587596b9c5f40fa6b5a11f8a97",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43017975/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "8e74f5b4-9426-3d79-9c92-bc002d94b7d3",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43017955/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43017955",
+      "titleOriginal": "The acute effects of release techniques applied to the plantar flexors of the foot on muscle stiffness, fascicle length, and range of motion.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "collectedAt": "2026-11-12T21:27:45.712602677Z",
+      "contentHash": "861e620fcc5f7ee8f4ad96d5f5cc82fd4ba8dc4e55822e180f96df22b395436c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43017955/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "1a8bdb61-5636-396d-8c0e-ae1fcb1bc09f",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43017949/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43017949",
+      "titleOriginal": "Post-stroke functional independence after brain stimulation: meta-analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "collectedAt": "2026-11-12T21:27:45.712727413Z",
+      "contentHash": "5e528f37d12f7150c3d836f708a0b06d702cc1fcd4d11683ca9e299ace914d6f",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43017949/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "d323d534-51f7-3473-be62-7c46d4951274",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43015907/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43015907",
+      "titleOriginal": "Computerised cognitive training combined with nutritional counseling in mild cognitive impairment - results of a 2 × 2 factorial randomized controlled trial (BrainFit-nutrition study).",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "collectedAt": "2026-11-12T21:27:45.712982632Z",
+      "contentHash": "0b7733def7f5b305a25d1914edfd2322f388c29653b6340ad638f6d11786732b",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43015907/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "46ccc797-b377-3c7e-9af7-a07a466f61c0",
       "sourceId": "amgen-news-releases",
