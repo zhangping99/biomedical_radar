@@ -1,7 +1,100 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-12T07:43:30.241187146Z",
+  "generatedAt": "2026-11-12T08:48:04.727626522Z",
   "articles": [
+    {
+      "id": "2a0c5c26-e2de-39f9-939b-177f2e12b5fd",
+      "sourceId": "gsk-press-releases",
+      "sourceName": "GSK Press Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.gsk.com/en-gb/media/press-releases/hibsago-bepirovirsen-approved-in-the-us-for-the-treatment-of-chronic-hepatitis-b-chb/",
+      "canonicalUrl": "https://www.gsk.com/en-gb/media/press-releases/hibsago-bepirovirsen-approved-in-the-us-for-the-treatment-of-chronic-hepatitis-b-chb",
+      "titleOriginal": "Hibsago (bepirovirsen) approved in the US for the treatment of chronic hepatitis B (CHB)",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "drug_rd",
+      "eventTypes": [
+        "approval",
+        "phase_3_result"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "GSK"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-20T17:42:21Z",
+      "collectedAt": "2026-11-12T08:48:02.438914860Z",
+      "contentHash": "42d184e9b8dbb2c618ae4e2a0dc5e2544aff8ade2463b2ddb16e3e568523c0e1",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "gsk-press-releases",
+          "sourceName": "GSK Press Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://www.gsk.com/en-gb/media/press-releases/hibsago-bepirovirsen-approved-in-the-us-for-the-treatment-of-chronic-hepatitis-b-chb/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "高影响事件"
+      ]
+    },
+    {
+      "id": "55c880f1-eabd-3346-97b4-ce660c888a15",
+      "sourceId": "sanofi-press-releases",
+      "sourceName": "Sanofi Press Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-10-20-12-00-00-3384293",
+      "canonicalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-10-20-12-00-00-3384293",
+      "titleOriginal": "Media Update: UEG Week: Sanofi and Teva’s duvakitug maintained long-term positive outcomes in new phase 2b data for ulcerative colitis and Crohn’s disease",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "EU",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Sanofi"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-20T00:00:00Z",
+      "collectedAt": "2026-11-12T08:48:01.619951314Z",
+      "contentHash": "116f285ee1b515fc59b82755b62913a73259fbdf65db629a367ffbbec981898a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "sanofi-press-releases",
+          "sourceName": "Sanofi Press Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-10-20-12-00-00-3384293"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "a68c5ce7-7ef3-3185-a255-3c59f7039a84",
       "sourceId": "fda-medwatch-alerts",
@@ -98,99 +191,6 @@
         "官方一手来源",
         "政策或安全相关"
       ]
-    },
-    {
-      "id": "2a0c5c26-e2de-39f9-939b-177f2e12b5fd",
-      "sourceId": "gsk-press-releases",
-      "sourceName": "GSK Press Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.gsk.com/en-gb/media/press-releases/hibsago-bepirovirsen-approved-in-the-us-for-the-treatment-of-chronic-hepatitis-b-chb/",
-      "canonicalUrl": "https://www.gsk.com/en-gb/media/press-releases/hibsago-bepirovirsen-approved-in-the-us-for-the-treatment-of-chronic-hepatitis-b-chb",
-      "titleOriginal": "Hibsago (bepirovirsen) approved in the US for the treatment of chronic hepatitis B (CHB)",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "drug_rd",
-      "eventTypes": [
-        "approval",
-        "phase_3_result"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "GSK"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-20T17:42:21Z",
-      "collectedAt": "2026-11-11T08:20:17.971272739Z",
-      "contentHash": "42d184e9b8dbb2c618ae4e2a0dc5e2544aff8ade2463b2ddb16e3e568523c0e1",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "gsk-press-releases",
-          "sourceName": "GSK Press Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://www.gsk.com/en-gb/media/press-releases/hibsago-bepirovirsen-approved-in-the-us-for-the-treatment-of-chronic-hepatitis-b-chb/"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "高影响事件"
-      ]
-    },
-    {
-      "id": "55c880f1-eabd-3346-97b4-ce660c888a15",
-      "sourceId": "sanofi-press-releases",
-      "sourceName": "Sanofi Press Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-10-20-12-00-00-3384293",
-      "canonicalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-10-20-12-00-00-3384293",
-      "titleOriginal": "Media Update: UEG Week: Sanofi and Teva’s duvakitug maintained long-term positive outcomes in new phase 2b data for ulcerative colitis and Crohn’s disease",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "EU",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "Sanofi"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-20T00:00:00Z",
-      "collectedAt": "2026-11-11T08:20:17.560206102Z",
-      "contentHash": "116f285ee1b515fc59b82755b62913a73259fbdf65db629a367ffbbec981898a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "sanofi-press-releases",
-          "sourceName": "Sanofi Press Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-10-20-12-00-00-3384293"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     },
     {
       "id": "4608f22e-6cd6-3a03-a5e9-f055aa457604",
