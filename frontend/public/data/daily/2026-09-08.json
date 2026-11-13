@@ -1,7 +1,58 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-13T20:39:20.733348409Z",
+  "generatedAt": "2026-11-13T20:53:39.113491277Z",
   "articles": [
+    {
+      "id": "a1036bcd-959b-3ed2-b251-81c394d70716",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07806149",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07806149",
+      "titleOriginal": "NHLBI SESAME (SEptal Scoring Along Midline Endocardium) Multi-Center Prospective Study Using Improvised Off-Label Devices",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Hypertrophic Cardiomyopathy",
+        "Left Ventricular Outflow Obstruction",
+        "Systolic Anterior Motion"
+      ],
+      "publishedAt": "2026-09-08T00:00:00Z",
+      "collectedAt": "2026-11-13T20:53:37.821952492Z",
+      "contentHash": "50083224dda8d14050e2fefb3af75d756c90e7f408aefefd1459de4f49a4aa0d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07806149"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "053db144-2381-3ba1-8d7f-4a0bc45db490",
       "sourceId": "amgen-news-releases",
@@ -375,57 +426,6 @@
           "sourceName": "Nature Reviews Cancer",
           "sourceTier": "A",
           "originalUrl": "https://www.nature.com/articles/s41568-026-00970-8"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "a1036bcd-959b-3ed2-b251-81c394d70716",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07806149",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07806149",
-      "titleOriginal": "NHLBI SESAME (SEptal Scoring Along Midline Endocardium) Multi-Center Prospective Study Using Improvised Off-Label Devices",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Hypertrophic Cardiomyopathy",
-        "Left Ventricular Outflow Obstruction",
-        "Systolic Anterior Motion"
-      ],
-      "publishedAt": "2026-09-08T00:00:00Z",
-      "collectedAt": "2026-10-01T08:53:28.937400638Z",
-      "contentHash": "50083224dda8d14050e2fefb3af75d756c90e7f408aefefd1459de4f49a4aa0d",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07806149"
         }
       ],
       "importanceScore": 35,
