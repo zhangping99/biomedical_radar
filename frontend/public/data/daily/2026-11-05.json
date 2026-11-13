@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-13T11:29:14.960910432Z",
+  "generatedAt": "2026-11-13T12:10:42.019981393Z",
   "articles": [
+    {
+      "id": "b52d4263-f438-3748-aea5-2c19fb945f25",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/hf-cables-reusable",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/hf-cables-reusable",
+      "titleOriginal": "HF-Cables (Reusable)",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "collectedAt": "2026-11-13T12:10:40.673400238Z",
+      "contentHash": "edf3bc8cdd613cb350b1933522f49d1d9845cacdd2c4bfae851496bc2aff2a16",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/hf-cables-reusable"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "276b95e5-c763-36de-8b28-c961ae64632c",
       "sourceId": "gsk-press-releases",
@@ -91,55 +140,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "b52d4263-f438-3748-aea5-2c19fb945f25",
-      "sourceId": "health-canada-health-products",
-      "sourceName": "Health Canada Health Product Recalls",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/hf-cables-reusable",
-      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/hf-cables-reusable",
-      "titleOriginal": "HF-Cables (Reusable)",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Health Canada"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "collectedAt": "2026-11-13T01:03:45.660860040Z",
-      "contentHash": "edf3bc8cdd613cb350b1933522f49d1d9845cacdd2c4bfae851496bc2aff2a16",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "health-canada-health-products",
-          "sourceName": "Health Canada Health Product Recalls",
-          "sourceTier": "A",
-          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/hf-cables-reusable"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
     },
     {
       "id": "07419a66-a66f-313f-8ad1-9207998f43a0",
