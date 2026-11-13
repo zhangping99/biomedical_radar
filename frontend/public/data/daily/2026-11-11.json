@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-13T01:03:48.663403658Z",
+  "generatedAt": "2026-11-13T07:17:36.483407054Z",
   "articles": [
+    {
+      "id": "3cb2bf6f-322c-3ed1-b64d-37ece05c3eb4",
+      "sourceId": "beijing-health-policy",
+      "sourceName": "Beijing Municipal Health Commission",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202611/t20261111_4942074.html",
+      "canonicalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202611/t20261111_4942074.html",
+      "titleOriginal": "北京市卫生健康委员会关于原则同意首都医科大学附属首都儿童医学中心增设核医学专业和放射治疗专业诊疗科目的批复",
+      "titleZh": "北京市卫生健康委员会关于原则同意首都医科大学附属首都儿童医学中心增设核医学专业和放射治疗专业诊疗科目的批复",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "北京市卫生健康委员会"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "collectedAt": "2026-11-13T07:17:34.929030036Z",
+      "contentHash": "7ea186af2cdff8bbbe9d85c14a698bd804aecb81d1992557f0d2b3d90a3b63ea",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "beijing-health-policy",
+          "sourceName": "Beijing Municipal Health Commission",
+          "sourceTier": "A",
+          "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202611/t20261111_4942074.html"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
     {
       "id": "d30875f9-1c67-36d8-b0bf-519f8a15f8c3",
       "sourceId": "cleveland-clinic-news",
@@ -1677,55 +1726,6 @@
       ],
       "importanceScore": 28,
       "importanceReasons": [
-        "近期更新"
-      ]
-    },
-    {
-      "id": "3cb2bf6f-322c-3ed1-b64d-37ece05c3eb4",
-      "sourceId": "beijing-health-policy",
-      "sourceName": "Beijing Municipal Health Commission",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202611/t20261111_4942074.html",
-      "canonicalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202611/t20261111_4942074.html",
-      "titleOriginal": "北京市卫生健康委员会关于原则同意首都医科大学附属首都儿童医学中心增设核医学专业和放射治疗专业诊疗科目的批复",
-      "titleZh": "北京市卫生健康委员会关于原则同意首都医科大学附属首都儿童医学中心增设核医学专业和放射治疗专业诊疗科目的批复",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "北京市卫生健康委员会"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "collectedAt": "2026-11-12T20:26:47.621076735Z",
-      "contentHash": "7ea186af2cdff8bbbe9d85c14a698bd804aecb81d1992557f0d2b3d90a3b63ea",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "beijing-health-policy",
-          "sourceName": "Beijing Municipal Health Commission",
-          "sourceTier": "A",
-          "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202611/t20261111_4942074.html"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
         "近期更新"
       ]
     },
