@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-14T18:30:49.660876932Z",
+  "generatedAt": "2026-11-14T18:50:14.433800763Z",
   "articles": [
     {
       "id": "4a2a32a3-aedd-3124-9c21-647cec353ecd",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-26T00:00:00Z",
-      "collectedAt": "2026-11-14T07:58:42.862599919Z",
+      "collectedAt": "2026-11-14T18:50:06.933241855Z",
       "contentHash": "8d3d467e33bc6e6292ec6c3cd4a31cc3ff97134df1ac800292b7a5fa1e4fce2c",
       "generated": false,
       "generatorVersion": null,
@@ -75,7 +75,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-26T15:30:28Z",
-      "collectedAt": "2026-11-14T07:58:43.470336710Z",
+      "collectedAt": "2026-11-14T18:50:07.579644911Z",
       "contentHash": "6c1d79bb37a4e2d1b5de6cb103b8053a93d3c4311b874a7f7593920694be9f5b",
       "generated": false,
       "generatorVersion": null,
@@ -120,7 +120,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-26T12:00:00Z",
-      "collectedAt": "2026-11-14T07:58:45.645738221Z",
+      "collectedAt": "2026-11-14T18:50:09.535161355Z",
       "contentHash": "211cdd1882aed4efbd7a674765729c5cc851f120b3ffd30b43e2ddc5f2fdd882",
       "generated": false,
       "generatorVersion": null,
@@ -134,6 +134,51 @@
           "sourceName": "AbbVie News",
           "sourceTier": "B",
           "originalUrl": "https://news.abbvie.com/2026-10-26-Allergan-Aesthetics-Celebrates-Eight-Years-of-Engaging-Girls-in-STEM-Through-Continued-Partnership-with-Girls-Inc"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "27721d9b-c4b8-38dc-88c5-df50dc49f4ac",
+      "sourceId": "amgen-news-releases",
+      "sourceName": "Amgen News Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/10/amgen-appoints-david-w--gibbs-to-board-of-directors",
+      "canonicalUrl": "https://www.amgen.com/newsroom/press-releases/2026/10/amgen-appoints-david-w--gibbs-to-board-of-directors",
+      "titleOriginal": "AMGEN APPOINTS DAVID W. GIBBS TO BOARD OF DIRECTORS",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Amgen"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-26T00:00:00Z",
+      "collectedAt": "2026-11-14T18:50:14.309711733Z",
+      "contentHash": "ad8f547933ed219299e71a81d45646acd072ff56a68a162af9cf3b9ff363ca67",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "amgen-news-releases",
+          "sourceName": "Amgen News Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/10/amgen-appoints-david-w--gibbs-to-board-of-directors"
         }
       ],
       "importanceScore": 20,
@@ -165,7 +210,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-26T00:00:00Z",
-      "collectedAt": "2026-11-14T07:58:43.705636197Z",
+      "collectedAt": "2026-11-14T18:50:06.939712300Z",
       "contentHash": "bee6ec3111807659e28e103b92f4f0abfe59445d045830f848cc4891db8619af",
       "generated": false,
       "generatorVersion": null,
@@ -210,7 +255,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-26T00:00:00Z",
-      "collectedAt": "2026-11-14T07:58:43.705874845Z",
+      "collectedAt": "2026-11-14T18:50:06.940291434Z",
       "contentHash": "5528e031d44ed76a5d8bc2921499e8ce37275d3347547f85a0fd3ff48fb970bc",
       "generated": false,
       "generatorVersion": null,
@@ -255,7 +300,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-26T00:00:00Z",
-      "collectedAt": "2026-11-14T07:58:45.897373172Z",
+      "collectedAt": "2026-11-14T18:50:09.205865114Z",
       "contentHash": "c542e47fafbc77b3b11dc2b14067e3bf06937f1939a95a2b693b4cd44468d95a",
       "generated": false,
       "generatorVersion": null,
@@ -300,7 +345,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-26T00:00:00Z",
-      "collectedAt": "2026-11-14T07:58:46.320495750Z",
+      "collectedAt": "2026-11-14T18:50:09.411990876Z",
       "contentHash": "9283ba4926bbba4dd303f1e225774b7a7f3c0a9f62279902f0f928c9823b859a",
       "generated": false,
       "generatorVersion": null,
@@ -365,51 +410,6 @@
       "importanceReasons": [
         "官方一手来源"
       ]
-    },
-    {
-      "id": "27721d9b-c4b8-38dc-88c5-df50dc49f4ac",
-      "sourceId": "amgen-news-releases",
-      "sourceName": "Amgen News Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/10/amgen-appoints-david-w--gibbs-to-board-of-directors",
-      "canonicalUrl": "https://www.amgen.com/newsroom/press-releases/2026/10/amgen-appoints-david-w--gibbs-to-board-of-directors",
-      "titleOriginal": "AMGEN APPOINTS DAVID W. GIBBS TO BOARD OF DIRECTORS",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "Amgen"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-26T00:00:00Z",
-      "collectedAt": "2026-11-13T20:39:18.096947089Z",
-      "contentHash": "ad8f547933ed219299e71a81d45646acd072ff56a68a162af9cf3b9ff363ca67",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "amgen-news-releases",
-          "sourceName": "Amgen News Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/10/amgen-appoints-david-w--gibbs-to-board-of-directors"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     },
     {
       "id": "1f0c0226-94e6-31b7-868b-52c451ddf0e7",
