@@ -1,7 +1,55 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-14T10:52:13.357694875Z",
+  "generatedAt": "2026-11-14T11:26:57.749755747Z",
   "articles": [
+    {
+      "id": "fecb018c-75e4-3781-8e08-84047eef66f8",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-compact-medical-removes-and-updates-use-instructions-butterflybvm-bag-valve-mask",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-compact-medical-removes-and-updates-use-instructions-butterflybvm-bag-valve-mask",
+      "titleOriginal": "Early Alert: Compact Medical Removes and Updates Use Instructions for ButterflyBVM Bag-Valve-Mask Resuscitators",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-03T05:00:00Z",
+      "collectedAt": "2026-11-14T11:26:55.141644578Z",
+      "contentHash": "3cc687a0c9b6f2dac18e63964787666f947aa8fdf80c26000040fe3bca65bacb",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-compact-medical-removes-and-updates-use-instructions-butterflybvm-bag-valve-mask"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "61877fae-a286-3c39-a44f-a50f588016a1",
       "sourceId": "cleveland-clinic-news",
@@ -317,54 +365,6 @@
           "sourceName": "广东省卫生健康委政策解读",
           "sourceTier": "A",
           "originalUrl": "https://wsjkw.gd.gov.cn/hdjl_zcjd/content/post_4974778.html"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "fecb018c-75e4-3781-8e08-84047eef66f8",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-compact-medical-removes-and-updates-use-instructions-butterflybvm-bag-valve-mask",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-compact-medical-removes-and-updates-use-instructions-butterflybvm-bag-valve-mask",
-      "titleOriginal": "Early Alert: Compact Medical Removes and Updates Use Instructions for ButterflyBVM Bag-Valve-Mask Resuscitators",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-03T05:00:00Z",
-      "collectedAt": "2026-11-14T00:53:06.889012292Z",
-      "contentHash": "3cc687a0c9b6f2dac18e63964787666f947aa8fdf80c26000040fe3bca65bacb",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-compact-medical-removes-and-updates-use-instructions-butterflybvm-bag-valve-mask"
         }
       ],
       "importanceScore": 50,

@@ -1,7 +1,57 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-14T10:52:13.357694875Z",
+  "generatedAt": "2026-11-14T11:26:57.749755747Z",
   "articles": [
+    {
+      "id": "b7750523-9ee7-36f3-9833-c90bee5c82da",
+      "sourceId": "ema-news",
+      "sourceName": "European Medicines Agency",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.ema.europa.eu/en/news/ama-ema-issue-joint-guidance-ebola-vaccine-development",
+      "canonicalUrl": "https://www.ema.europa.eu/en/news/ama-ema-issue-joint-guidance-ebola-vaccine-development",
+      "titleOriginal": "AMA and EMA issue joint guidance on Ebola vaccine development",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "EU",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "policy_release",
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "European Medicines Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-23T09:41:01Z",
+      "collectedAt": "2026-11-14T11:26:55.333498102Z",
+      "contentHash": "24f044ca3f2b6532f347944a81db27c346403204bebecb22acf3df293de32917",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "ema-news",
+          "sourceName": "European Medicines Agency",
+          "sourceTier": "A",
+          "originalUrl": "https://www.ema.europa.eu/en/news/ama-ema-issue-joint-guidance-ebola-vaccine-development"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "4a6919f3-ef29-3662-815c-b5ec15bb7d0c",
       "sourceId": "hansoh-news",
@@ -183,56 +233,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "b7750523-9ee7-36f3-9833-c90bee5c82da",
-      "sourceId": "ema-news",
-      "sourceName": "European Medicines Agency",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.ema.europa.eu/en/news/ama-ema-issue-joint-guidance-ebola-vaccine-development",
-      "canonicalUrl": "https://www.ema.europa.eu/en/news/ama-ema-issue-joint-guidance-ebola-vaccine-development",
-      "titleOriginal": "AMA and EMA issue joint guidance on Ebola vaccine development",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "EU",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "policy_release",
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "European Medicines Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-23T09:41:01Z",
-      "collectedAt": "2026-11-14T00:53:06.825615280Z",
-      "contentHash": "24f044ca3f2b6532f347944a81db27c346403204bebecb22acf3df293de32917",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "ema-news",
-          "sourceName": "European Medicines Agency",
-          "sourceTier": "A",
-          "originalUrl": "https://www.ema.europa.eu/en/news/ama-ema-issue-joint-guidance-ebola-vaccine-development"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
     },
     {
       "id": "b6eae7f9-905e-395b-a7d7-9c79b2542200",
@@ -1459,55 +1459,6 @@
           "sourceName": "U.S. Food and Drug Administration - Drugs",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/news-events/fda-meetings-conferences-and-workshops/fda-rare-disease-day-2027-03052027"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "1d6acb18-aee2-39a3-baad-48a84138ef3b",
-      "sourceId": "fda-drug-news",
-      "sourceName": "U.S. Food and Drug Administration - Drugs",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/notable-approvals-drugs",
-      "canonicalUrl": "https://www.fda.gov/drugs/news-events-human-drugs/notable-approvals-drugs",
-      "titleOriginal": "Notable Approvals | Drugs",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-23T18:04:04Z",
-      "collectedAt": "2026-10-26T15:10:43.403623451Z",
-      "contentHash": "9f38b63e8a1fdf0b01a29d958d77ff3257422a5f31c8befbbc65f65d5bf55a24",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-drug-news",
-          "sourceName": "U.S. Food and Drug Administration - Drugs",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/drugs/news-events-human-drugs/notable-approvals-drugs"
         }
       ],
       "importanceScore": 58,

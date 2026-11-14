@@ -1,7 +1,150 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-14T10:52:13.357694875Z",
+  "generatedAt": "2026-11-14T11:26:57.749755747Z",
   "articles": [
+    {
+      "id": "7e0c5e19-ef48-32c6-946c-35c4c8961e95",
+      "sourceId": "ema-news",
+      "sourceName": "European Medicines Agency",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.ema.europa.eu/en/news/ema-closed-all-souls-day-2-november",
+      "canonicalUrl": "https://www.ema.europa.eu/en/news/ema-closed-all-souls-day-2-november",
+      "titleOriginal": "EMA closed on All Souls\u0027 Day, 2 November",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "EU",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "European Medicines Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-29T12:30:00Z",
+      "collectedAt": "2026-11-14T11:26:55.333091556Z",
+      "contentHash": "bb1d82e65693f9e564388cf55a75374c3e4e7090ff5253675a39654539df8cc0",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "ema-news",
+          "sourceName": "European Medicines Agency",
+          "sourceTier": "A",
+          "originalUrl": "https://www.ema.europa.eu/en/news/ema-closed-all-souls-day-2-november"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "1e208a60-9bfd-3c22-b026-5768d7aef452",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-medline-removes-or-corrects-all-medline-brand-beds-and-accessories",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-medline-removes-or-corrects-all-medline-brand-beds-and-accessories",
+      "titleOriginal": "Early Alert: Medline Removes or Corrects All Medline Brand Beds and Accessories",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-29T04:00:00Z",
+      "collectedAt": "2026-11-14T11:26:55.142951288Z",
+      "contentHash": "63d7977a5249ea83ff4d819a3960180be43419eb17fdaec3594e8550acca873a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-medline-removes-or-corrects-all-medline-brand-beds-and-accessories"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "894f1077-5f59-3e23-bdb2-41d8439289f0",
+      "sourceId": "nmpa-public-notices",
+      "sourceName": "National Medical Products Administration",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://english.nmpa.gov.cn/2026-10/29/c_1227090.htm",
+      "canonicalUrl": "https://english.nmpa.gov.cn/2026-10/29/c_1227090.htm",
+      "titleOriginal": "Special Provision on Supervision and Administration of Manufacturing of Traditional Chinese Medicines",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "CN",
+      "category": "manufacturing_supply",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "National Medical Products Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-29T00:00:00Z",
+      "collectedAt": "2026-11-14T11:26:56.592660754Z",
+      "contentHash": "7d8b6f38700c3cabf562552a006c402b2a7d28cc76fb9a07085741979201a51a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "nmpa-public-notices",
+          "sourceName": "National Medical Products Administration",
+          "sourceTier": "A",
+          "originalUrl": "https://english.nmpa.gov.cn/2026-10/29/c_1227090.htm"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "966e6b33-49c5-387f-89dc-0b0bae334011",
       "sourceId": "merck-news-releases",
@@ -138,149 +281,6 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关"
-      ]
-    },
-    {
-      "id": "7e0c5e19-ef48-32c6-946c-35c4c8961e95",
-      "sourceId": "ema-news",
-      "sourceName": "European Medicines Agency",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.ema.europa.eu/en/news/ema-closed-all-souls-day-2-november",
-      "canonicalUrl": "https://www.ema.europa.eu/en/news/ema-closed-all-souls-day-2-november",
-      "titleOriginal": "EMA closed on All Souls\u0027 Day, 2 November",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "EU",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "European Medicines Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-29T12:30:00Z",
-      "collectedAt": "2026-11-14T00:53:06.824946559Z",
-      "contentHash": "bb1d82e65693f9e564388cf55a75374c3e4e7090ff5253675a39654539df8cc0",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "ema-news",
-          "sourceName": "European Medicines Agency",
-          "sourceTier": "A",
-          "originalUrl": "https://www.ema.europa.eu/en/news/ema-closed-all-souls-day-2-november"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "1e208a60-9bfd-3c22-b026-5768d7aef452",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-medline-removes-or-corrects-all-medline-brand-beds-and-accessories",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-medline-removes-or-corrects-all-medline-brand-beds-and-accessories",
-      "titleOriginal": "Early Alert: Medline Removes or Corrects All Medline Brand Beds and Accessories",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-29T04:00:00Z",
-      "collectedAt": "2026-11-14T00:53:06.889994661Z",
-      "contentHash": "63d7977a5249ea83ff4d819a3960180be43419eb17fdaec3594e8550acca873a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-medline-removes-or-corrects-all-medline-brand-beds-and-accessories"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "894f1077-5f59-3e23-bdb2-41d8439289f0",
-      "sourceId": "nmpa-public-notices",
-      "sourceName": "National Medical Products Administration",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://english.nmpa.gov.cn/2026-10/29/c_1227090.htm",
-      "canonicalUrl": "https://english.nmpa.gov.cn/2026-10/29/c_1227090.htm",
-      "titleOriginal": "Special Provision on Supervision and Administration of Manufacturing of Traditional Chinese Medicines",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "CN",
-      "category": "manufacturing_supply",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "National Medical Products Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-29T00:00:00Z",
-      "collectedAt": "2026-11-14T00:53:08.396064231Z",
-      "contentHash": "7d8b6f38700c3cabf562552a006c402b2a7d28cc76fb9a07085741979201a51a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "nmpa-public-notices",
-          "sourceName": "National Medical Products Administration",
-          "sourceTier": "A",
-          "originalUrl": "https://english.nmpa.gov.cn/2026-10/29/c_1227090.htm"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
       ]
     },
     {
