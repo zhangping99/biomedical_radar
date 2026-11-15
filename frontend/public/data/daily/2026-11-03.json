@@ -1,55 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-15T21:01:42.627935618Z",
+  "generatedAt": "2026-11-15T23:30:01.773319508Z",
   "articles": [
-    {
-      "id": "fecb018c-75e4-3781-8e08-84047eef66f8",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-compact-medical-removes-and-updates-use-instructions-butterflybvm-bag-valve-mask",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-compact-medical-removes-and-updates-use-instructions-butterflybvm-bag-valve-mask",
-      "titleOriginal": "Early Alert: Compact Medical Removes and Updates Use Instructions for ButterflyBVM Bag-Valve-Mask Resuscitators",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-03T05:00:00Z",
-      "collectedAt": "2026-11-15T21:01:40.238660723Z",
-      "contentHash": "3cc687a0c9b6f2dac18e63964787666f947aa8fdf80c26000040fe3bca65bacb",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-compact-medical-removes-and-updates-use-instructions-butterflybvm-bag-valve-mask"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
     {
       "id": "9e2e3ca9-4e2a-32d7-9978-eb6e3ff0d979",
       "sourceId": "pfizer-press-releases",
@@ -76,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-03T00:00:00Z",
-      "collectedAt": "2026-11-15T19:27:19.000281134Z",
+      "collectedAt": "2026-11-15T23:29:54.423325453Z",
       "contentHash": "0d484a8a8e92e4a1a3983625c265f96a68f60d091b4144bbf28c6e8ee97bc251",
       "generated": false,
       "generatorVersion": null,
@@ -124,7 +76,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-03T00:00:00Z",
-      "collectedAt": "2026-11-15T19:27:19.055752084Z",
+      "collectedAt": "2026-11-15T23:29:55.073525988Z",
       "contentHash": "17b6a41dc2f58c24dd62318c9612b9f7b9f90987a5cde7e2de128cbd28871d49",
       "generated": false,
       "generatorVersion": null,
@@ -171,7 +123,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-03T13:00:00Z",
-      "collectedAt": "2026-11-15T19:27:21.765922658Z",
+      "collectedAt": "2026-11-15T23:29:57.414988892Z",
       "contentHash": "65cd630bc937682c5c78f700264a190f4286308fd6849a9d53654f3df3d31d1c",
       "generated": false,
       "generatorVersion": null,
@@ -216,7 +168,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-03T00:00:00Z",
-      "collectedAt": "2026-11-15T19:27:25.969649923Z",
+      "collectedAt": "2026-11-15T23:30:01.686021540Z",
       "contentHash": "cf7f9319c7668e4f218808a39ab210f38a573586f2ca3d1c64ea95b5b920201d",
       "generated": false,
       "generatorVersion": null,
@@ -261,7 +213,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-03T00:00:00Z",
-      "collectedAt": "2026-11-15T19:27:19.000595755Z",
+      "collectedAt": "2026-11-15T23:29:54.423618085Z",
       "contentHash": "c971694e8cce2a86c69046d4b7115d98e242ba0f7fd2b690eda44565a65d9bfd",
       "generated": false,
       "generatorVersion": null,
@@ -279,6 +231,54 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
+    },
+    {
+      "id": "fecb018c-75e4-3781-8e08-84047eef66f8",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-compact-medical-removes-and-updates-use-instructions-butterflybvm-bag-valve-mask",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-compact-medical-removes-and-updates-use-instructions-butterflybvm-bag-valve-mask",
+      "titleOriginal": "Early Alert: Compact Medical Removes and Updates Use Instructions for ButterflyBVM Bag-Valve-Mask Resuscitators",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-03T05:00:00Z",
+      "collectedAt": "2026-11-15T21:01:40.238660723Z",
+      "contentHash": "3cc687a0c9b6f2dac18e63964787666f947aa8fdf80c26000040fe3bca65bacb",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-compact-medical-removes-and-updates-use-instructions-butterflybvm-bag-valve-mask"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
     },
     {
       "id": "31e99054-c3c3-343c-ad6e-0f0cea81b992",
