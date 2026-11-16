@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-16T22:31:54.924587551Z",
+  "generatedAt": "2026-11-16T23:00:23.657254394Z",
   "articles": [
     {
       "id": "05a7d2e6-7324-3d04-be4d-c82f708737c9",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-28T12:00:00Z",
-      "collectedAt": "2026-11-16T08:32:56.782217201Z",
+      "collectedAt": "2026-11-16T23:00:18.862240921Z",
       "contentHash": "328adb8463682315be1626a5d31f151850cc36c68e5aaf600ff9249d0c1fb902",
       "generated": false,
       "generatorVersion": null,
@@ -42,6 +42,53 @@
           "sourceName": "AbbVie News",
           "sourceTier": "B",
           "originalUrl": "https://news.abbvie.com/2026-10-28-The-Countdown-Is-On-BOTOX-R-Cosmetic-onabotulinumtoxinA-Day-is-Back-Nov-18"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "高影响事件"
+      ]
+    },
+    {
+      "id": "d3fd5408-8eb3-3073-8522-83941de224fd",
+      "sourceId": "hengrui-focus-news",
+      "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.hengrui.com/media/detail-1061.html",
+      "canonicalUrl": "https://www.hengrui.com/media/detail-1061.html",
+      "titleOriginal": "创新价值持续拓展,恒瑞医药创新药甲苯磺酸瑞马唑仑新适应症获批上市",
+      "titleZh": "创新价值持续拓展,恒瑞医药创新药甲苯磺酸瑞马唑仑新适应症获批上市",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "approval"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "恒瑞医药"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T00:00:00Z",
+      "collectedAt": "2026-11-16T23:00:18.112428397Z",
+      "contentHash": "12c71ed108aa9f061e8daa2887fea22c4e79a50020e9057d47df3a151aad9441",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "hengrui-focus-news",
+          "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
+          "sourceTier": "B",
+          "originalUrl": "https://www.hengrui.com/media/detail-1061.html"
         }
       ],
       "importanceScore": 35,
@@ -75,7 +122,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-28T00:00:00Z",
-      "collectedAt": "2026-11-16T08:32:56.646389784Z",
+      "collectedAt": "2026-11-16T23:00:18.695334851Z",
       "contentHash": "16f32705040c580b2014a497f5a4565dbb9a91467dee4086ed3b07953472bc48",
       "generated": false,
       "generatorVersion": null,
@@ -122,7 +169,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-28T07:00:00Z",
-      "collectedAt": "2026-11-16T08:32:55.297113329Z",
+      "collectedAt": "2026-11-16T23:00:16.935802804Z",
       "contentHash": "177a732d291d88867274f87920ee98e924568c238e9c2e62521e1bd5a9e05b41",
       "generated": false,
       "generatorVersion": null,
@@ -167,7 +214,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-28T00:00:00Z",
-      "collectedAt": "2026-11-16T08:32:54.254609464Z",
+      "collectedAt": "2026-11-16T23:00:23.579822744Z",
       "contentHash": "d4da9ed02d2972b4430ca54701cdfcaef6b8a23ec23f8f840a62a39a6127f1ee",
       "generated": false,
       "generatorVersion": null,
@@ -181,6 +228,51 @@
           "sourceName": "Amgen News Releases",
           "sourceTier": "B",
           "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/10/amgen-announces-webcast-of-2026-third-quarter-financial-results"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "3882ea34-df6f-3f1e-bfe6-8453e9df90d2",
+      "sourceId": "hengrui-focus-news",
+      "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.hengrui.com/media/detail-1062.html",
+      "canonicalUrl": "https://www.hengrui.com/media/detail-1062.html",
+      "titleOriginal": "恒瑞医药2026年第三季度亮点盘点",
+      "titleZh": "恒瑞医药2026年第三季度亮点盘点",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "恒瑞医药"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T00:00:00Z",
+      "collectedAt": "2026-11-16T23:00:18.112199422Z",
+      "contentHash": "65673e201a895aac547b3efb830c9644acba406ebcdf6ef69e9f963beea16cb8",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "hengrui-focus-news",
+          "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
+          "sourceTier": "B",
+          "originalUrl": "https://www.hengrui.com/media/detail-1062.html"
         }
       ],
       "importanceScore": 20,
@@ -212,7 +304,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-28T00:00:00Z",
-      "collectedAt": "2026-11-16T08:32:56.702565091Z",
+      "collectedAt": "2026-11-16T23:00:19.831850914Z",
       "contentHash": "51f86c4773c25cdaa66202c9012721845d784ec4fb1dfadba2b53a1c4a4a84e2",
       "generated": false,
       "generatorVersion": null,
@@ -257,7 +349,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-28T00:00:00Z",
-      "collectedAt": "2026-11-16T08:32:56.647457907Z",
+      "collectedAt": "2026-11-16T23:00:18.695528170Z",
       "contentHash": "aa3c6bbbfda3f8eba29e6092e68ae7c094946b21604dd3a8ca62dc639df8c4d8",
       "generated": false,
       "generatorVersion": null,
@@ -302,7 +394,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-28T00:00:00Z",
-      "collectedAt": "2026-11-16T08:32:57.135198268Z",
+      "collectedAt": "2026-11-16T23:00:19.883368070Z",
       "contentHash": "cbecc66fcfe698f9a80e41064c26458dc0cf83cbb98f030ec257427ac7eb90c8",
       "generated": false,
       "generatorVersion": null,
@@ -316,98 +408,6 @@
           "sourceName": "三生制药新闻",
           "sourceTier": "B",
           "originalUrl": "https://www.3sbio.com/news/details.aspx?id\u003d349"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "d3fd5408-8eb3-3073-8522-83941de224fd",
-      "sourceId": "hengrui-focus-news",
-      "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.hengrui.com/media/detail-1061.html",
-      "canonicalUrl": "https://www.hengrui.com/media/detail-1061.html",
-      "titleOriginal": "创新价值持续拓展,恒瑞医药创新药甲苯磺酸瑞马唑仑新适应症获批上市",
-      "titleZh": "创新价值持续拓展,恒瑞医药创新药甲苯磺酸瑞马唑仑新适应症获批上市",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "approval"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "恒瑞医药"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-28T00:00:00Z",
-      "collectedAt": "2026-11-15T23:29:58.682099657Z",
-      "contentHash": "12c71ed108aa9f061e8daa2887fea22c4e79a50020e9057d47df3a151aad9441",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "hengrui-focus-news",
-          "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
-          "sourceTier": "B",
-          "originalUrl": "https://www.hengrui.com/media/detail-1061.html"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "高影响事件"
-      ]
-    },
-    {
-      "id": "3882ea34-df6f-3f1e-bfe6-8453e9df90d2",
-      "sourceId": "hengrui-focus-news",
-      "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.hengrui.com/media/detail-1062.html",
-      "canonicalUrl": "https://www.hengrui.com/media/detail-1062.html",
-      "titleOriginal": "恒瑞医药2026年第三季度亮点盘点",
-      "titleZh": "恒瑞医药2026年第三季度亮点盘点",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "恒瑞医药"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-28T00:00:00Z",
-      "collectedAt": "2026-11-15T23:29:58.681979678Z",
-      "contentHash": "65673e201a895aac547b3efb830c9644acba406ebcdf6ef69e9f963beea16cb8",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "hengrui-focus-news",
-          "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
-          "sourceTier": "B",
-          "originalUrl": "https://www.hengrui.com/media/detail-1062.html"
         }
       ],
       "importanceScore": 20,
