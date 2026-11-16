@@ -1,7 +1,60 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-16T23:00:23.657254394Z",
+  "generatedAt": "2026-11-16T23:23:20.457967984Z",
   "articles": [
+    {
+      "id": "872c45ee-5126-31b7-89f5-6053aa28e733",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07842224",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07842224",
+      "titleOriginal": "The Effect of Digitally Enabled District (DED 2.0) Ecosystem on the Completeness and Timeliness of Maternal and Neonatal Services in Primary Health Care",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Digital Health",
+        "Maternal Health Services",
+        "Prenatal Care",
+        "Intensive Care, Neonatal",
+        "Postnatal Care"
+      ],
+      "publishedAt": "2026-09-25T00:00:00Z",
+      "collectedAt": "2026-11-16T23:23:13.344205834Z",
+      "contentHash": "e996378e4b34e698c4d320e0cd3841e8b52e41ecaec9c6a89eabbd82400ffcee",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07842224"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "5cf24092-facd-37d8-847d-06c0cbcebf13",
       "sourceId": "cleveland-clinic-news",
