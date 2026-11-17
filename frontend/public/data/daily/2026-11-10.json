@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-17T21:19:58.208294353Z",
+  "generatedAt": "2026-11-17T21:53:24.724636541Z",
   "articles": [
+    {
+      "id": "736edf11-4c36-3e4b-af9f-750c8f21e1fb",
+      "sourceId": "pfizer-press-releases",
+      "sourceName": "Pfizer Press Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-invites-public-view-and-listen-webcast-pfizer-28",
+      "canonicalUrl": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-invites-public-view-and-listen-webcast-pfizer-28",
+      "titleOriginal": "Pfizer Invites Public to View and Listen to Webcast of Pfizer Discussion at Healthcare Conference",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Pfizer"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "collectedAt": "2026-11-17T21:53:15.444395807Z",
+      "contentHash": "cf861289d5ac224ce27b22db3f806e54f06f101138ecf752ef465d60f21f5b14",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "pfizer-press-releases",
+          "sourceName": "Pfizer Press Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-invites-public-view-and-listen-webcast-pfizer-28"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "e31e1216-b9c0-38e4-90ae-9bf42459f46e",
       "sourceId": "fda-biologics-news",
@@ -721,51 +766,6 @@
       "importanceReasons": [
         "官方一手来源"
       ]
-    },
-    {
-      "id": "736edf11-4c36-3e4b-af9f-750c8f21e1fb",
-      "sourceId": "pfizer-press-releases",
-      "sourceName": "Pfizer Press Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-invites-public-view-and-listen-webcast-pfizer-28",
-      "canonicalUrl": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-invites-public-view-and-listen-webcast-pfizer-28",
-      "titleOriginal": "Pfizer Invites Public to View and Listen to Webcast of Pfizer Discussion at Healthcare Conference",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "Pfizer"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-10T00:00:00Z",
-      "collectedAt": "2026-11-17T09:42:53.275731320Z",
-      "contentHash": "cf861289d5ac224ce27b22db3f806e54f06f101138ecf752ef465d60f21f5b14",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "pfizer-press-releases",
-          "sourceName": "Pfizer Press Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-invites-public-view-and-listen-webcast-pfizer-28"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     },
     {
       "id": "e5ec1324-3bf4-33e6-81c0-c35a3c9f78e0",
