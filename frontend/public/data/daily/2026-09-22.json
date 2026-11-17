@@ -1,7 +1,57 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-17T21:53:24.724636541Z",
+  "generatedAt": "2026-11-17T22:18:26.862823151Z",
   "articles": [
+    {
+      "id": "dcc405e8-e006-3018-872c-ca669db5a920",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07834723",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07834723",
+      "titleOriginal": "NIV-NAVA in Infants With Severe Bronchiolitis, a Pilot Multicenter Randomized Controlled Trial",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Severe Bronchiolitis",
+        "Pediatric Respiratory Distress"
+      ],
+      "publishedAt": "2026-09-22T00:00:00Z",
+      "collectedAt": "2026-11-17T22:18:25.153075672Z",
+      "contentHash": "90852ff8400a430a9cfc570fffe302dcffd640aeb3f977dbf59ffe25ec14eb0f",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07834723"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "5c3a8717-8331-3fdd-84b8-ab9c849ba59e",
       "sourceId": "amgen-news-releases",
