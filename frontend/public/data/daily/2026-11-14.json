@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-17T10:40:42.906838738Z",
+  "generatedAt": "2026-11-17T12:23:27.451110115Z",
   "articles": [
+    {
+      "id": "05b76576-33d3-3e26-9ae3-dc3edf3e2fa9",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/14/cleveland-clinic-study-identifies-best-treatment-strategies-for-weight-loss-after-stopping-glp-1-drugs",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/11/14/cleveland-clinic-study-identifies-best-treatment-strategies-for-weight-loss-after-stopping-glp-1-drugs",
+      "titleOriginal": "Cleveland Clinic Study Identifies Best Treatment Strategies for Weight Loss After Stopping GLP-1 Drugs",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "collectedAt": "2026-11-17T12:23:24.694055998Z",
+      "contentHash": "b9f305f6ac8c4def138f753572b0c8dba18e11fe0df2a7028a7fac3d88b2cdab",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/14/cleveland-clinic-study-identifies-best-treatment-strategies-for-weight-loss-after-stopping-glp-1-drugs"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "594815a5-6182-3395-b948-0be6129052d9",
       "sourceId": "pubmed-recent",
@@ -330,53 +375,6 @@
       "importanceScore": 43,
       "importanceReasons": [
         "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "05b76576-33d3-3e26-9ae3-dc3edf3e2fa9",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/14/cleveland-clinic-study-identifies-best-treatment-strategies-for-weight-loss-after-stopping-glp-1-drugs",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/11/14/cleveland-clinic-study-identifies-best-treatment-strategies-for-weight-loss-after-stopping-glp-1-drugs",
-      "titleOriginal": "Cleveland Clinic Study Identifies Best Treatment Strategies for Weight Loss After Stopping GLP-1 Drugs",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "collectedAt": "2026-11-16T23:49:52.665881954Z",
-      "contentHash": "b9f305f6ac8c4def138f753572b0c8dba18e11fe0df2a7028a7fac3d88b2cdab",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/14/cleveland-clinic-study-identifies-best-treatment-strategies-for-weight-loss-after-stopping-glp-1-drugs"
-        }
-      ],
-      "importanceScore": 28,
-      "importanceReasons": [
         "近期更新"
       ]
     },
