@@ -1,52 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-18T21:33:55.793054917Z",
+  "generatedAt": "2026-11-18T21:55:44.825309Z",
   "articles": [
-    {
-      "id": "89128383-f31b-3735-85b9-d2d5ab399212",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/07/cleveland-clinic-first-in-human-trial-shows-gene-silencing-therapy-for-high-cholesterol-to-be-safe-and-effective",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/11/07/cleveland-clinic-first-in-human-trial-shows-gene-silencing-therapy-for-high-cholesterol-to-be-safe-and-effective",
-      "titleOriginal": "Cleveland Clinic First-in-Human Trial Shows Gene-Silencing Therapy for High Cholesterol to Be Safe and Effective",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-07T00:00:00Z",
-      "collectedAt": "2026-11-18T12:10:18.647638653Z",
-      "contentHash": "2d97e472ae5d0c4f959803839f6bcaf72e05b883bfb06f54f0d97ab0eea4d4e9",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/07/cleveland-clinic-first-in-human-trial-shows-gene-silencing-therapy-for-high-cholesterol-to-be-safe-and-effective"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
     {
       "id": "90924579-3252-3abf-98a5-115ccb370eff",
       "sourceId": "nejm-current-issue",
@@ -73,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-07T12:30:00Z",
-      "collectedAt": "2026-11-18T10:05:48.641274203Z",
+      "collectedAt": "2026-11-18T21:54:29.895549671Z",
       "contentHash": "1ceda77cb722e9f8f18eab0c7d0a7b895824867df90feaaed80004a9f88c165a",
       "generated": false,
       "generatorVersion": null,
@@ -120,7 +75,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-07T12:30:00Z",
-      "collectedAt": "2026-11-18T10:05:48.641701076Z",
+      "collectedAt": "2026-11-18T21:54:29.896052346Z",
       "contentHash": "e046d7d2cc4ccd1b9e1e69236045cabbc7bf70fc68d809da1c10286b92255ab0",
       "generated": false,
       "generatorVersion": null,
@@ -167,7 +122,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-07T12:30:00Z",
-      "collectedAt": "2026-11-18T10:05:48.641837161Z",
+      "collectedAt": "2026-11-18T21:54:29.896177594Z",
       "contentHash": "aa744be73bcda73d3d4a3c145ec9130776c8b06990a9ca727f12973771fbcc59",
       "generated": false,
       "generatorVersion": null,
@@ -214,7 +169,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-07T12:30:00Z",
-      "collectedAt": "2026-11-18T10:05:48.642258185Z",
+      "collectedAt": "2026-11-18T21:54:29.896561750Z",
       "contentHash": "5f00533e9a2208defde58ae0904f7e59b8f49dc0bf1ec1e3a3f6472bcce7ac17",
       "generated": false,
       "generatorVersion": null,
@@ -234,6 +189,51 @@
       "importanceReasons": [
         "官方一手来源"
       ]
+    },
+    {
+      "id": "89128383-f31b-3735-85b9-d2d5ab399212",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/07/cleveland-clinic-first-in-human-trial-shows-gene-silencing-therapy-for-high-cholesterol-to-be-safe-and-effective",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/11/07/cleveland-clinic-first-in-human-trial-shows-gene-silencing-therapy-for-high-cholesterol-to-be-safe-and-effective",
+      "titleOriginal": "Cleveland Clinic First-in-Human Trial Shows Gene-Silencing Therapy for High Cholesterol to Be Safe and Effective",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-07T00:00:00Z",
+      "collectedAt": "2026-11-18T12:10:18.647638653Z",
+      "contentHash": "2d97e472ae5d0c4f959803839f6bcaf72e05b883bfb06f54f0d97ab0eea4d4e9",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/07/cleveland-clinic-first-in-human-trial-shows-gene-silencing-therapy-for-high-cholesterol-to-be-safe-and-effective"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
     },
     {
       "id": "a78bb683-e9ad-35a8-9c10-aefa801ad1f4",

@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-18T21:33:55.793054917Z",
+  "generatedAt": "2026-11-18T21:55:44.825309Z",
   "articles": [
+    {
+      "id": "21645303-2e70-397b-8d14-478faac8b44b",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07881159",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07881159",
+      "titleOriginal": "National Registry of Noonan Syndrome",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Noonan Syndrome"
+      ],
+      "publishedAt": "2026-10-19T00:00:00Z",
+      "collectedAt": "2026-11-18T21:54:29.448192944Z",
+      "contentHash": "1c3957ba1a0c19e651fc2bf81acb948810a253936c52a3fe703dc86a5b67d6ab",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07881159"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "80cd2283-e8c9-3b96-bbc5-50f55df8e80d",
       "sourceId": "gsk-press-releases",
