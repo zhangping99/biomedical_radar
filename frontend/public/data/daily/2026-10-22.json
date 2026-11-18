@@ -1,7 +1,54 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-18T20:53:53.690452619Z",
+  "generatedAt": "2026-11-18T21:33:55.793054917Z",
   "articles": [
+    {
+      "id": "d37a5b94-67fc-312b-9864-c8a5dab56dd2",
+      "sourceId": "abbvie-news",
+      "sourceName": "AbbVie News",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://news.abbvie.com/2026-10-22-AbbVie-Announces-Topline-Results-from-the-Phase-3-INTREPID-Trial-Showing-Lutikizumab-Significantly-Improved-Signs-and-Symptoms-of-Disease-in-Patients-with-Hidradenitis-Suppurativa",
+      "canonicalUrl": "https://news.abbvie.com/2026-10-22-AbbVie-Announces-Topline-Results-from-the-Phase-3-INTREPID-Trial-Showing-Lutikizumab-Significantly-Improved-Signs-and-Symptoms-of-Disease-in-Patients-with-Hidradenitis-Suppurativa",
+      "titleOriginal": "AbbVie Announces Topline Results from the Phase 3 INTREPID Trial Showing Lutikizumab Significantly Improved Signs and Symptoms of Disease in Patients with Hidradenitis Suppurativa",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "drug_rd",
+      "eventTypes": [
+        "phase_3_result"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "AbbVie"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-22T13:00:00Z",
+      "collectedAt": "2026-11-18T21:33:53.946397321Z",
+      "contentHash": "d28fcb4842a3ddd90b286fca78b397fb579a4bbf3ee763d928b689424567d252",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "abbvie-news",
+          "sourceName": "AbbVie News",
+          "sourceTier": "B",
+          "originalUrl": "https://news.abbvie.com/2026-10-22-AbbVie-Announces-Topline-Results-from-the-Phase-3-INTREPID-Trial-Showing-Lutikizumab-Significantly-Improved-Signs-and-Symptoms-of-Disease-in-Patients-with-Hidradenitis-Suppurativa"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "高影响事件"
+      ]
+    },
     {
       "id": "780f4bc2-93ee-3943-b0da-39ff571ca143",
       "sourceId": "clinicaltrials-recent",
@@ -147,53 +194,6 @@
       "importanceScore": 35,
       "importanceReasons": [
         "官方一手来源"
-      ]
-    },
-    {
-      "id": "d37a5b94-67fc-312b-9864-c8a5dab56dd2",
-      "sourceId": "abbvie-news",
-      "sourceName": "AbbVie News",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://news.abbvie.com/2026-10-22-AbbVie-Announces-Topline-Results-from-the-Phase-3-INTREPID-Trial-Showing-Lutikizumab-Significantly-Improved-Signs-and-Symptoms-of-Disease-in-Patients-with-Hidradenitis-Suppurativa",
-      "canonicalUrl": "https://news.abbvie.com/2026-10-22-AbbVie-Announces-Topline-Results-from-the-Phase-3-INTREPID-Trial-Showing-Lutikizumab-Significantly-Improved-Signs-and-Symptoms-of-Disease-in-Patients-with-Hidradenitis-Suppurativa",
-      "titleOriginal": "AbbVie Announces Topline Results from the Phase 3 INTREPID Trial Showing Lutikizumab Significantly Improved Signs and Symptoms of Disease in Patients with Hidradenitis Suppurativa",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "drug_rd",
-      "eventTypes": [
-        "phase_3_result"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "AbbVie"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-22T13:00:00Z",
-      "collectedAt": "2026-11-18T09:03:26.081003073Z",
-      "contentHash": "d28fcb4842a3ddd90b286fca78b397fb579a4bbf3ee763d928b689424567d252",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "abbvie-news",
-          "sourceName": "AbbVie News",
-          "sourceTier": "B",
-          "originalUrl": "https://news.abbvie.com/2026-10-22-AbbVie-Announces-Topline-Results-from-the-Phase-3-INTREPID-Trial-Showing-Lutikizumab-Significantly-Improved-Signs-and-Symptoms-of-Disease-in-Patients-with-Hidradenitis-Suppurativa"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "高影响事件"
       ]
     },
     {
