@@ -1,7 +1,55 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-19T12:04:10.184250086Z",
+  "generatedAt": "2026-11-19T13:00:51.593269606Z",
   "articles": [
+    {
+      "id": "ff9277e1-229a-35ea-92da-0c52d06e191d",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/diagnostic-ultrasound-system-correction-philips-ultrasound-issues-updated-use-instructions-lumify",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/diagnostic-ultrasound-system-correction-philips-ultrasound-issues-updated-use-instructions-lumify",
+      "titleOriginal": "Diagnostic Ultrasound System Correction: Philips Ultrasound Issues Updated Use Instructions for Lumify Diagnostic Ultrasound System",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-19T04:00:00Z",
+      "collectedAt": "2026-11-19T13:00:47.214519606Z",
+      "contentHash": "19d5612ae812f941234028ca9edd489afb2c937893c7532494cd498b2bd61d51",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/diagnostic-ultrasound-system-correction-philips-ultrasound-issues-updated-use-instructions-lumify"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "21645303-2e70-397b-8d14-478faac8b44b",
       "sourceId": "clinicaltrials-recent",
@@ -142,54 +190,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "ff9277e1-229a-35ea-92da-0c52d06e191d",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/diagnostic-ultrasound-system-correction-philips-ultrasound-issues-updated-use-instructions-lumify",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/diagnostic-ultrasound-system-correction-philips-ultrasound-issues-updated-use-instructions-lumify",
-      "titleOriginal": "Diagnostic Ultrasound System Correction: Philips Ultrasound Issues Updated Use Instructions for Lumify Diagnostic Ultrasound System",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-19T04:00:00Z",
-      "collectedAt": "2026-11-18T17:14:40.778906140Z",
-      "contentHash": "19d5612ae812f941234028ca9edd489afb2c937893c7532494cd498b2bd61d51",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/diagnostic-ultrasound-system-correction-philips-ultrasound-issues-updated-use-instructions-lumify"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
     },
     {
       "id": "1426e3ab-f697-3b4b-aeba-b1b7f39e97be",
