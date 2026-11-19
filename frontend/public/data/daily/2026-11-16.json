@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-18T22:41:14.572703833Z",
+  "generatedAt": "2026-11-19T01:52:58.474522103Z",
   "articles": [
+    {
+      "id": "cc14e2bd-5acb-332d-8b65-0834e4e2e305",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/taro-candesartan-affected-lots-may-contain-esomeprazole-20mg-capsules",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/taro-candesartan-affected-lots-may-contain-esomeprazole-20mg-capsules",
+      "titleOriginal": "TARO-CANDESARTAN: affected lots may contain Esomeprazole 20mg capsules",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "collectedAt": "2026-11-19T01:52:57.462080088Z",
+      "contentHash": "c27402c1eeda45429e46e3f47779f37a21d9dedbc95b2043f19e44c3519af796",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/taro-candesartan-affected-lots-may-contain-esomeprazole-20mg-capsules"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "cbddaffa-b8fc-358d-a32b-8346cb0691c0",
       "sourceId": "cleveland-clinic-news",
@@ -812,56 +861,6 @@
           "sourceName": "FDA Vaccines, Blood and Biologics",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/science-research/fda-and-super-intelligence/fdas-use-super-intelligence-and-si-under-executive-order-14434"
-        }
-      ],
-      "importanceScore": 73,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "cc14e2bd-5acb-332d-8b65-0834e4e2e305",
-      "sourceId": "health-canada-health-products",
-      "sourceName": "Health Canada Health Product Recalls",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/taro-candesartan-affected-lots-may-contain-esomeprazole-20mg-capsules",
-      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/taro-candesartan-affected-lots-may-contain-esomeprazole-20mg-capsules",
-      "titleOriginal": "TARO-CANDESARTAN: affected lots may contain Esomeprazole 20mg capsules",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Health Canada"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "collectedAt": "2026-11-18T17:14:41.096044170Z",
-      "contentHash": "c27402c1eeda45429e46e3f47779f37a21d9dedbc95b2043f19e44c3519af796",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "health-canada-health-products",
-          "sourceName": "Health Canada Health Product Recalls",
-          "sourceTier": "A",
-          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/taro-candesartan-affected-lots-may-contain-esomeprazole-20mg-capsules"
         }
       ],
       "importanceScore": 73,
