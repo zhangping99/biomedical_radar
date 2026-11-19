@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-19T21:46:39.904630768Z",
+  "generatedAt": "2026-11-19T22:08:24.375707987Z",
   "articles": [
+    {
+      "id": "fa62c751-827e-3ee1-b102-f9a2047393bc",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07868029",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07868029",
+      "titleOriginal": "Constraint Therapy for Brachial Plexus Birth Injury",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Brachial Plexus Birth Palsy"
+      ],
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "collectedAt": "2026-11-19T22:08:14.663602513Z",
+      "contentHash": "e3584e65613f8eb12c99f3b2b30fd2708eb20a0a0b74c878e2bd63cd0e9d6fb6",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07868029"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "011d075d-da9d-365a-b5fb-9d63bcdd861f",
       "sourceId": "hengrui-focus-news",

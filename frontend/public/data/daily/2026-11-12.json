@@ -1,7 +1,151 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-19T21:46:39.904630768Z",
+  "generatedAt": "2026-11-19T22:08:24.375707987Z",
   "articles": [
+    {
+      "id": "db375611-e277-3cc1-a99f-fcfe430dbd8d",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07932938",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07932938",
+      "titleOriginal": "The Pediatric Sleep Study",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Sleep Quality",
+        "Sleep and Circadian Problems"
+      ],
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "collectedAt": "2026-11-19T22:08:14.656476512Z",
+      "contentHash": "5f1600925b100365dbf89b632b62a3b3748da385512d60885d93c4d2cb97baa8",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07932938"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "4e49121b-6886-314e-be14-171f45a5f3ac",
+      "sourceId": "nature-biotechnology",
+      "sourceName": "Nature Biotechnology",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41587-026-03378-9",
+      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03378-9",
+      "titleOriginal": "A comprehensive analysis of CBER experience with AAV gene therapy IND submissions",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Biotechnology"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "collectedAt": "2026-11-19T22:08:14.983532706Z",
+      "contentHash": "e9a1e538f41162e8c9877b01ea73248af8d74855a0c1ad67b2adf3f69bfc30cc",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-biotechnology",
+          "sourceName": "Nature Biotechnology",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41587-026-03378-9"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "7f86ad7e-abcc-3671-9f14-e379028a6266",
+      "sourceId": "nature-reviews-cancer",
+      "sourceName": "Nature Reviews Cancer",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41568-026-00991-3",
+      "canonicalUrl": "https://www.nature.com/articles/s41568-026-00991-3",
+      "titleOriginal": "Beyond the tumour: circulating extracellular matrix fragments as next-generation cancer biomarkers",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Reviews Cancer"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "collectedAt": "2026-11-19T22:08:15.022760567Z",
+      "contentHash": "89943e430b2134d730ba44b97dfada8558499aaeb6cd2e5fe0cbc68626f28e90",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-reviews-cancer",
+          "sourceName": "Nature Reviews Cancer",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41568-026-00991-3"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "34336d7f-d81a-316f-9679-2caef62ad5a3",
       "sourceId": "merck-news-releases",
@@ -708,100 +852,6 @@
           "sourceName": "Nature Medicine",
           "sourceTier": "A",
           "originalUrl": "https://www.nature.com/articles/s41591-026-04784-x"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "4e49121b-6886-314e-be14-171f45a5f3ac",
-      "sourceId": "nature-biotechnology",
-      "sourceName": "Nature Biotechnology",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41587-026-03378-9",
-      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03378-9",
-      "titleOriginal": "A comprehensive analysis of CBER experience with AAV gene therapy IND submissions",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Biotechnology"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "collectedAt": "2026-11-19T10:16:04.148250262Z",
-      "contentHash": "e9a1e538f41162e8c9877b01ea73248af8d74855a0c1ad67b2adf3f69bfc30cc",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-biotechnology",
-          "sourceName": "Nature Biotechnology",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41587-026-03378-9"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "7f86ad7e-abcc-3671-9f14-e379028a6266",
-      "sourceId": "nature-reviews-cancer",
-      "sourceName": "Nature Reviews Cancer",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41568-026-00991-3",
-      "canonicalUrl": "https://www.nature.com/articles/s41568-026-00991-3",
-      "titleOriginal": "Beyond the tumour: circulating extracellular matrix fragments as next-generation cancer biomarkers",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Reviews Cancer"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-12T00:00:00Z",
-      "collectedAt": "2026-11-19T10:16:04.937586236Z",
-      "contentHash": "89943e430b2134d730ba44b97dfada8558499aaeb6cd2e5fe0cbc68626f28e90",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-reviews-cancer",
-          "sourceName": "Nature Reviews Cancer",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41568-026-00991-3"
         }
       ],
       "importanceScore": 35,
