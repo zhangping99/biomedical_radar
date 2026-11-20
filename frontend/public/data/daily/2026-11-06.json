@@ -1,7 +1,103 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-20T21:30:30.223875360Z",
+  "generatedAt": "2026-11-20T21:48:07.393960731Z",
   "articles": [
+    {
+      "id": "2957aa0a-6b3b-3831-99e5-256b239015dc",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07921004",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07921004",
+      "titleOriginal": "Effects of Alexander Technique Versus Feldenkrais Somatic Training in Patients With Text Neck Syndrome",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Text Neck Syndrome"
+      ],
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:55.884185696Z",
+      "contentHash": "f67902a2fae9dcf76cb3e6369087a20fc60592e9d959dd9e82f2ed9ddcba260a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07921004"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "a6e59dc3-978d-3257-9032-d567360a2937",
+      "sourceId": "nature-reviews-cancer",
+      "sourceName": "Nature Reviews Cancer",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41568-026-00988-y",
+      "canonicalUrl": "https://www.nature.com/articles/s41568-026-00988-y",
+      "titleOriginal": "Origins and heterogeneity of colorectal cancer",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Reviews Cancer"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.811176723Z",
+      "contentHash": "dfc4f2e0bc001d74f7150491687055f7260ac02784794262892460d02e002847",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-reviews-cancer",
+          "sourceName": "Nature Reviews Cancer",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41568-026-00988-y"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "8ed278bd-c6ef-335a-af04-ce32a1a3cbdc",
       "sourceId": "fda-medwatch-alerts",
@@ -97,53 +193,6 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关"
-      ]
-    },
-    {
-      "id": "a6e59dc3-978d-3257-9032-d567360a2937",
-      "sourceId": "nature-reviews-cancer",
-      "sourceName": "Nature Reviews Cancer",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41568-026-00988-y",
-      "canonicalUrl": "https://www.nature.com/articles/s41568-026-00988-y",
-      "titleOriginal": "Origins and heterogeneity of colorectal cancer",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Reviews Cancer"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-06T00:00:00Z",
-      "collectedAt": "2026-11-20T09:58:52.522439846Z",
-      "contentHash": "dfc4f2e0bc001d74f7150491687055f7260ac02784794262892460d02e002847",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-reviews-cancer",
-          "sourceName": "Nature Reviews Cancer",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41568-026-00988-y"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
       ]
     },
     {

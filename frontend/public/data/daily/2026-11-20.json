@@ -1,7 +1,3986 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-20T21:30:30.223875360Z",
+  "generatedAt": "2026-11-20T21:48:07.393960731Z",
   "articles": [
+    {
+      "id": "d4d2c2f1-24e4-3c9a-9aef-b386ee28267d",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07951411",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07951411",
+      "titleOriginal": "Evaluating the Efficacy and Safety of SAL0167 Tablets at Different Doses in Participants With Hyperlipidemia.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert",
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Hyperlipidemia"
+      ],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:55.881234762Z",
+      "contentHash": "97f3c0f79aaae8b01c0cdf84375a302ebe3d34483827d0ed232915191a143870",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07951411"
+        }
+      ],
+      "importanceScore": 80,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "43a8be81-4951-3c45-a243-47bcbfb7861b",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43056654/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43056654",
+      "titleOriginal": "Efficacy and Safety of 2 Rimegepant Dosing Regimens for the Prevention of Episodic Migraine: A Randomized Controlled Study.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:47:56.125581642Z",
+      "contentHash": "d97d120fb5be8db78c8d85c6be17e5fb04cf281987617a8e80f1580d82d560eb",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43056654/"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "9bc05419-bb80-34cc-b735-cd75598ce12c",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13724124",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13724124",
+      "titleOriginal": "From Structural Blindness to Structural Perception: Theorizing LUMEN, a Multisensory Pedagogy for the Structural Determinants of Health in Nursing Education.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.263725185Z",
+      "contentHash": "d6aa9552b384746e50a0d9787ab3e2ac3a61d34eb6543aac3929e5f33c1e57d3",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13724124"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "0f26d207-832f-3110-9f7e-e7687ba4c189",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13724283",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13724283",
+      "titleOriginal": "The Effect of Perioperative Video Interventions on Postoperative Pain Control: A Systematic Review.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.263648495Z",
+      "contentHash": "812d179c7257d8fc78d5224b33c59f5999daf83aae396b9ac1c4e14337218b58",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13724283"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "3ee5b41b-6266-393a-97f2-bfc4725b51d6",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13727368",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13727368",
+      "titleOriginal": "Mental Health Staff Capability and Practice for Promoting Physical Activity: Evidence From a Mental Health Community-Managed Organisation.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.263572306Z",
+      "contentHash": "976ea90e0354b3eabc0e856e4e63360b3d0d8ddbffcdceb433ee7bcbc7c50a80",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13727368"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "62f46b2d-c7eb-37df-9d76-48e10eeaf02d",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13727367",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13727367",
+      "titleOriginal": "Barriers to Gender-Affirming Care for Nonbinary People: A Systematic-Narrative Hybrid Literature Review.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.263503290Z",
+      "contentHash": "5e588d671edc2ec39884b17affb70cc0314858c63ce7c8f8787082b264992d48",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13727367"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "17f7408d-490a-3d1b-97e0-a9ce57da9181",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13729079",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13729079",
+      "titleOriginal": "Relationship-Building and Care Practices of Home-Visiting Nurses Caring for Children With Medical Complexity and Their Families in Japan: A Qualitative Study.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.263433020Z",
+      "contentHash": "dd192dca13b5766a4cdeed1655ce264dce160d44a771d795ae81d8dfd249ac94",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13729079"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "d1a4e65b-6a6c-3cd6-be7c-ea3fd3e31066",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13730178",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13730178",
+      "titleOriginal": "Walking Capacity and Daily Movement Behaviours After Ischemic Stroke: A Potential Capacity-Performance Gap.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.263363053Z",
+      "contentHash": "300efab9306432ca8575d17d536e006e1f1fcf48f765954739afc750740cde41",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13730178"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "5d537c8a-aae1-3d77-ab44-059da672f723",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13730251",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13730251",
+      "titleOriginal": "Integrating Tummy Time Into Routine NICU Care: Healthcare Workers\u0027 Perspectives on Long-Term Implementation in India.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.263291536Z",
+      "contentHash": "f6b39ebe8d78245f1371cedaae62184d42a4163f7028b3d01096c0be4a8e4d1d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13730251"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "3d115fbf-50fc-3952-bcdc-3af1f6f83020",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13764226",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13764226",
+      "titleOriginal": "Multilevel Factors Associated With On-Site Childcare Availability in Substance Use Disorder Treatment Settings, United States, 2024.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.263198633Z",
+      "contentHash": "46bb5aa5a36a74fda6f58cb01afd6c296e6bf2104ac0a67e65e2d6e78517d1f2",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13764226"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "d033b9fd-4e98-380a-9acd-a84cce8dfc77",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13734740",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13734740",
+      "titleOriginal": "Acceptability of Teledentistry in Mobile Oral Health Applications for Australian Children: A Qualitative Study.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.263128779Z",
+      "contentHash": "a9ccd273f4d7584a66e3606a1ef1d83f883f279f614cb3d63846ce981a1df541",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13734740"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "3df12920-2c4f-3635-9146-4102e5d802c6",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13736195",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13736195",
+      "titleOriginal": "A Survey of Clinician-Reported Management of Hypernatremia in the ICU.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.262964364Z",
+      "contentHash": "5b03e3d993947fcedd4eb06aae545ef510dc5ebe1e7aafea561e1f72f1c2ee58",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13736195"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "7400cd32-9448-304e-8577-ee4c64078cef",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13736818",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13736818",
+      "titleOriginal": "Validity and Reliability Family Adaptability and Cohesion Scales (FACES-IV) in Peruvian Population.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.262897903Z",
+      "contentHash": "960549b4245e54c22240ee6818cd6fd2a63e769184f5d7137b77563c85480d78",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13736818"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "a62fbbdf-7097-3f11-9508-19a3ea92e5f7",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13736811",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13736811",
+      "titleOriginal": "Negative Partner Perceptions as an Indirect Pathway Between Critical Adverse Experiences and Negative Communication in Adult Romantic Relationships.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.262828475Z",
+      "contentHash": "1e3e262027fdfdc1fb40a0c59ca45d4b23a892cb96f87fe7996f7823d500ece2",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13736811"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "49c12a3a-0bfc-3e1e-8a78-10c7bbc86709",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13739605",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13739605",
+      "titleOriginal": "Inter-Individual Variation in LUNG Mechanics Assessed by the Non-Invasive PEEP-Step Method During Laparoscopic and Robotic Surgery Indicates Need for Individualized Ventilatory Settings.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.262751169Z",
+      "contentHash": "aeae1fd483ffec7c8a5a55c9385617d3d73ad6036b52895a9dab034d881e66ca",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13739605"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "0e06dbfd-5a1d-3a3b-9e3b-6d53df7d310f",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13743145",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13743145",
+      "titleOriginal": "Symptom control in comprehensive conservative care for chronic kidney disease.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.262676809Z",
+      "contentHash": "5ec3b6e66ca199248a515906375debd5f806dac27316ad13b0c24022cff9da8e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13743145"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "6382ce84-1be0-32f7-bb94-02ff42504596",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13776834",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13776834",
+      "titleOriginal": "Epidemiology of 376,383 arteriovenous fistula creations for hemodialysis over 9 years within the Brazilian Unified Public Health System and the Private Healthcare Sector.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.262598114Z",
+      "contentHash": "aecab538038a47c72a9595e199c800faad580e210a5ee2b1086dec374e9afc99",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13776834"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "9fb7109f-842a-3964-96aa-108eb11a60e1",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13743144",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13743144",
+      "titleOriginal": "Early post-transplant calciphylaxis in a renal allograft recipient: diagnostic and therapeutic challenges.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.262514920Z",
+      "contentHash": "f1f0da885be804d31375d69557f9e5bc9c5a24e11197f499e5c1989aafba369b",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13743144"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "a92b54bd-30e9-35a1-9f78-4cc05c6ff96f",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13746374",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13746374",
+      "titleOriginal": "Reactive Astrocyte-Associated IL-33 Signaling Contributes to a Protective Neuroimmune State During Chronic Toxoplasma gondii-Plasmodium berghei Coinfection.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.262437830Z",
+      "contentHash": "78573bb59279d53c26fa5b8e0d1ff99b5187297c5fb6e43db539c34c8b1aabdf",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13746374"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "fdd31196-0dda-3144-a936-2d9c97adfcdd",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13747299",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13747299",
+      "titleOriginal": "IgA nephropathy: evolving treatment strategies.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.262371763Z",
+      "contentHash": "035a404d61914ab205fb553321051be71edf1afd396749b95d3fdb85bcd4b87b",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13747299"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "26e5db18-11db-3a32-a267-90b63c3a7998",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13748921",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13748921",
+      "titleOriginal": "A Superior Spermatic Cord Denervation Technique?: A Meta-Analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.262297957Z",
+      "contentHash": "3c50e058c04c7ee80e072751b148bceb0c96e14bcba472cc1c2de65d6289595a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13748921"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "a0d2907f-af92-3ca2-88ae-26e9f9a52fa3",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13748924",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13748924",
+      "titleOriginal": "Detection of SARS-CoV-2 in Semen Months After COVID-19: Potential Evidence of Low-Level Replicative Persistence.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.262186316Z",
+      "contentHash": "e23e9bf38c701a012f6115d173e4d77abc2dca5389c03b27d68cab096e22808e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13748924"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "7fd3a366-406d-359f-88cb-0e9bf141b40b",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13748923",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13748923",
+      "titleOriginal": "Temporal Effects of Exogenous Testosterone on the Circulating Small Noncoding RNA Landscape in a Placebo‐Controlled Human Study.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.262004574Z",
+      "contentHash": "97aa00ad18578e856535cc8cfe76fe3507d8d3d9027853bb4bde14f7022bb855",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13748923"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "dedc0d47-3ad7-396a-93e7-3ba3dfe7c9f7",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13748918",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13748918",
+      "titleOriginal": "Beyond Words: Making Space for Creative and Relational Approaches With Young Aboriginal Mothers in Central Australia.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.261923359Z",
+      "contentHash": "bafd2ff24a47b5baf1b466753290a6a5c14b11ec2e75c841e7c42f577725619d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13748918"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "befcd52d-610f-384c-b2a1-46bb7985c5ea",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13749366",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13749366",
+      "titleOriginal": "Prevalence and Factors Associated With Falls in Individuals Aged 50 Years and Older Living in Urban and Rural Areas in Brazil: A Cross-Sectional Analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.261765164Z",
+      "contentHash": "9dedf2fc61ed1b3a86bb80992fcd37441bf932dabb60b0def37834259eea06b6",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13749366"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "1a197756-79d7-3b69-a449-023d56702530",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13749597",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13749597",
+      "titleOriginal": "How Can I Trust You Again? Repair Behaviours and Trust Recovery After Romantic Betrayal.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.261697117Z",
+      "contentHash": "77e1a1630a9bf76fa8bd8d95c7a69637641053402861268f01079c9f66043236",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13749597"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "5eb789a1-9c45-32ec-bf55-fc9957836d9a",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13764258",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13764258",
+      "titleOriginal": "Home Food Environment and Dietary Quality by Food Security Status Among United Way 2-1-1 Clients.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.261626824Z",
+      "contentHash": "cfc086655f140314fea9a1792e3abd725b96577ee0acffe568cca8e7e2a38a19",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13764258"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "2ac59908-aa1e-3ca3-97a7-0a7f95e402ab",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13754508",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13754508",
+      "titleOriginal": "Knowledge and practices on sustainability in nephrology in Brazil.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.261556295Z",
+      "contentHash": "ae89f888f3076c51b6cad131444c32ed61aa0fcbd819acfab7a5b4b3d96b8749",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13754508"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "1e9dfb8f-d842-30d9-b9bc-69fc5cdb9766",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13751314",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13751314",
+      "titleOriginal": "Tracing the impact of maternal communication deviance on joint engagement: The mediating role of maternal supportive behaviors.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.261482596Z",
+      "contentHash": "04158ff687f2408e7426cf0a97e1cf6c934be8ad41c86a0ea2d74d7568e20b33",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13751314"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "59d7c0d9-db19-378a-a8ff-8f8b8ed3231f",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13752669",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13752669",
+      "titleOriginal": "Correction to \"Ephedrine for Reducing Onset Time of Rocuronium in Elderly Patients: A Randomised Study\".",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.261413549Z",
+      "contentHash": "216a70e37cb976dc8ea10a19b7f89bb5f68d687a31c2c489dba9b684e21e696e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13752669"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "9ea9c64e-fa8f-3447-80f4-e50d9ee4b97a",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13756202",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13756202",
+      "titleOriginal": "Of Patients Like No Other: High-Resolution Paleoproteomic Analysis of Biological Residues on Garments Attributed to Marie-Antoinette and Louis XVII.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.261339199Z",
+      "contentHash": "4a909dfb5e969b2a859a9aa82960b0e6f5564167563e80a2f47f8234802045b9",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13756202"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "3a727d7b-e1a8-35a9-a38a-95a0039fda2c",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13757300",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13757300",
+      "titleOriginal": "Individual Variation in Perception and Evolutionary Aesthetics: Grant Allen\u0027s 1878 Investigation of Congenital Amusia.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.261239893Z",
+      "contentHash": "26c13618dbba7900d02c37493aad9e6d0544115872475b9245661e28b9c34fe0",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13757300"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "93ba2840-e5d7-3db0-a456-795e2b232464",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13757302",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13757302",
+      "titleOriginal": "The Influence of \"Background Theories\": Karl S. Lashley\u0027s Epistemology.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.261170667Z",
+      "contentHash": "9c19313fe90dcf744c5aebf65065eba38bbbd90a61a14d12657accf8f115a848",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13757302"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "bbefa319-3ef7-3c49-9649-56d76a77f6aa",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13760263",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13760263",
+      "titleOriginal": "Avoidance Versus Use of Neuromuscular Blocking Agents for Optimising Video Laryngoscopy-Assisted Tracheal Intubation-A Systematic Review With Meta-Analysis and Trial Sequential Analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.261089939Z",
+      "contentHash": "eec25bade56c9b6fbd876faeac3f5abc2674e358c5f7078e20c22418df252f79",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13760263"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "58f2b0ee-16cf-3cac-8417-9c9002985aac",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13760547",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13760547",
+      "titleOriginal": "Digital Versus in-Person Pre-Anaesthetic Assessment and Postoperative Outcomes in Low-Risk Patients: An Observational Study.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.261011870Z",
+      "contentHash": "58c5a1b598698daf7864953023e837b92323ae0411e70022149bbf38940654d3",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13760547"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "15f625be-095c-3447-b130-d7343ea3776d",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13768136",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13768136",
+      "titleOriginal": "Predicting Gastrointestinal Complications After Cardiac Surgery From Mean Arterial Blood Pressure Under a Data-Driven Threshold for Hypotension: Protocol for an Advanced Database Study.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.260932106Z",
+      "contentHash": "68a981ea0925c180736d123262b431adbba72e48401deab4aab5286c7bc718ea",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13768136"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "ee3be9a7-9120-3503-98bb-a9aef8cb74b1",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13768731",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13768731",
+      "titleOriginal": "Maternal responses to infant positive affect and toddler regulation of positive affect: A longitudinal pilot study.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.260860705Z",
+      "contentHash": "a656e5ef370362030e1133413148884679eeb0f3333e016b6bfc804a4c700b14",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13768731"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "1efa8bde-c18a-3471-8254-01eb7f205b37",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13770520",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13770520",
+      "titleOriginal": "A Contemporary Geographical Perspective on Embodied Non-Belonging: Migrant Health and Implications for Nursing Research.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.260789650Z",
+      "contentHash": "0f1a1a6cc8a77cf3dbcc71ae9fca90ff0041d27f717d9e74c55fc2d768df2777",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13770520"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "396aa3cd-c4ca-316e-90bf-fe053ba646f5",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13771175",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13771175",
+      "titleOriginal": "For a Model of Roller Coaster Trajectories: One Round of Caregiving After Another.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.260704114Z",
+      "contentHash": "86bcf0378899ba07334a1acbc18ad94d6efcc6407d1f833f11d8871d22db5b45",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13771175"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "69f15087-c798-3210-a06c-90635f2ce1c2",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13775078",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13775078",
+      "titleOriginal": "Aloin-Loaded Milk-Derived Extracellular Vesicle-Enriched Preparation: Characterization, Skin Retention, and HPLC Method Validation.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.260630032Z",
+      "contentHash": "7919a06b9523a06c69e22701e6766424e7e9caab3c0f297c232dd6ac1d67427d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13775078"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "eeb87c84-5ead-34b6-a3d3-e537edb6f8b7",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC13775073",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC13775073",
+      "titleOriginal": "Simple HPTLC Methods for the Detection of Adulterations of Rhodiola rosea With Rhodiola crenulata Rhizomes.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.260493852Z",
+      "contentHash": "26ebed620e47989c52158f12f4c6f4a0dea32aeee835f96a505ce3b6df7c7986",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC13775073"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "fd7e6206-2a47-3ea8-871d-09fd333a3d15",
+      "sourceId": "europe-pmc-recent",
+      "sourceName": "Europe PMC",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://europepmc.org/article/MED/PMC7619672",
+      "canonicalUrl": "https://europepmc.org/article/MED/PMC7619672",
+      "titleOriginal": "WHO target product profiles for dengue therapeutics: an interdisciplinary analysis of ethical, regulatory, and implementation considerations.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Europe PMC"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:48:07.260244943Z",
+      "contentHash": "76de5aee7212e53b5c46a60f286eb323850dcf852c6af73350a05635b48ad895",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "europe-pmc-recent",
+          "sourceName": "Europe PMC",
+          "sourceTier": "A",
+          "originalUrl": "https://europepmc.org/article/MED/PMC7619672"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "89f8be97-4d3f-3c6d-b7fc-a62596b8959d",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43059093/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43059093",
+      "titleOriginal": "Effects of dietary nitrate supplementation in team sport athletes: a systematic review and meta-analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:47:56.120110495Z",
+      "contentHash": "c16f304fb61aadfc347692dab2d8eb75326e9dc1072ed927cfe3f45f09bdc5f7",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43059093/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "1bbb0773-8c12-3b20-8013-1636da608942",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43059099/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43059099",
+      "titleOriginal": "Cross-protective immune responses to pneumococcal serotype 6A following vaccination with 6B-containing pneumococcal conjugate vaccines: A systematic review and meta-analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:47:56.120005970Z",
+      "contentHash": "062d148208811de737f6e85b0bdf3d28c76bbee4b04b6ca4c50aa010176f96eb",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43059099/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "545874a3-cfcd-366b-a201-eb1992f08aab",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43059105/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43059105",
+      "titleOriginal": "Gut microbiome-based interventions to prevent ICU-acquired infections: A systematic review and meta-analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:47:56.119910561Z",
+      "contentHash": "60ca71598a5036be275654a46656d9aefa19eef263405fba4b40c53e0bd5364b",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43059105/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "b6ff3b12-69c1-3e80-b560-b9cdc3f358c1",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43062006/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43062006",
+      "titleOriginal": "H-shaped sponge positioner prevents pressure injuries during prolonged prone ventilation in acute respiratory distress syndrome: a single-center, open-label, randomized controlled trial.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:47:56.119290034Z",
+      "contentHash": "a8fa63c52e65deb3e4d8929d36314ca4ed6ad4fd353fb2c2b8eac9c6c3244be8",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43062006/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "561c1c9a-1ad4-377b-a0d8-29cbe8c57fc3",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43062323/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43062323",
+      "titleOriginal": "The Incidence of Late Periprosthetic Femoral Fractures by Implant Type-A Systematic Review and Meta-Analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": null,
+      "collectedAt": "2026-11-20T21:47:56.116660604Z",
+      "contentHash": "983e8d603bb121b219e64aed876b085afd0aa182dbd5a7c7d84a3f6096ce35c9",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43062323/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "908b19a6-eacb-363a-a13e-96485b00cef5",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07951593",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07951593",
+      "titleOriginal": "Nurse-Led SKIN CARE Bundle on Medical Device-Related Pressure Injuries",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Pressure Ulcer (PU)"
+      ],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:55.877791523Z",
+      "contentHash": "a2f09d768cf49a7d5ce8be4ed025c41310f228ed59a4cf6dd0b1ca581ee0e987",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07951593"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "07d2444e-f937-318c-9b8c-ce2bc5003ddd",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07950592",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07950592",
+      "titleOriginal": "The ABODE Study for Patients Undergoing Neoadjuvant Chemotherapy",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Breast Cancer and Rehabilitation",
+        "Breast Cancer (Early Breast Cancer)",
+        "Breast Cancer - Female",
+        "English Speaking and Reading",
+        "Adults Over 18"
+      ],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:55.878510193Z",
+      "contentHash": "564b7395f614a75f33e1ae29a992a849243e601895294676155d4fea3b9644bd",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07950592"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "64a025fa-2248-376f-8b7f-525b926e22df",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43062193/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43062193",
+      "titleOriginal": "1,25-Dihydroxyvitamin D3 Ameliorates High-Altitude Hypoxic Injury via Modulation of Short-Chain Fatty Acids to Exert a Coordinated Anti-Inflammatory Effect.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.118664962Z",
+      "contentHash": "100953f903a7f0b785ec3040ad06300c5980223d5bb8203167b7cd9b61f657e8",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43062193/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "6f20a396-f037-3b0b-a137-4237eeb5f39d",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43062019/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43062019",
+      "titleOriginal": "Systematic review and meta-analysis of diagnostic test accuracy studies of mental health screening tools in correctional settings.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.119135956Z",
+      "contentHash": "3ab475b2de6a73b0dbe423569c49b7c9cb1409b98c6b35740a32e9c125667418",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43062019/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "41a05d33-feec-3813-908e-b1b0d4663845",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43061917/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43061917",
+      "titleOriginal": "Neoadjuvant chemotherapy and surgery versus chemoradiotherapy for locally advanced cervical cancer.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.119405997Z",
+      "contentHash": "a5638da5e14aa8e62b53f7c733a0c586779c5df79a98b7c9646b69178838189e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43061917/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "6c2faeac-0de4-3d7f-be11-d0b71c988b9a",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43061896/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43061896",
+      "titleOriginal": "TTR-stabilising medicines for the treatment of transthyretin amyloid cardiomyopathy.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.119502665Z",
+      "contentHash": "4d37827e705fda0c5471bc036bb7f3f561bc6e734fc32c551f1b7753607d2790",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43061896/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "017460e5-2b1e-33da-9974-5412020cc752",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43059575/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43059575",
+      "titleOriginal": "Efficacy and feasibility of prehabilitation for cardiorespiratory functional capacity and respiratory muscle strength in cardiac surgery (PRECICA-I study).",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.119597696Z",
+      "contentHash": "b07bbbcce288e021353f26221b1505a57d16d5c756dc0904d1bfd0b7798c8558",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43059575/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "46747982-ecad-310c-857f-7603abc502d6",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43059297/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43059297",
+      "titleOriginal": "Effects of specialised and centralised versus generalised and decentralised outpatient treatment for progressed bipolar disorder: Results from the CAG Bipolar randomised controlled trial.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.119699629Z",
+      "contentHash": "6b8d236a4198a16cac443506a1495f0d65b6e6d9bb074811bae5e4aadd1b3a5a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43059297/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "a3fcb1e2-f019-369e-8876-f42968aaa222",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43059161/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43059161",
+      "titleOriginal": "A Pilot Investigation of Endocannabinoid System Markers and Lipopolysaccharide Responses to 10 Sessions of Hyperbaric Oxygen Therapy.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.119800732Z",
+      "contentHash": "c72655899e3f3318c41947f0d0339a82e67c1a43a1e83befc3a751eb3246300a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43059161/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "295b50e3-71ef-3285-9ef0-e56692ffee68",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43058387/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43058387",
+      "titleOriginal": "When the Dust Settles: Superpulsed Thulium Fiber Laser Versus MOSES Ho: YAG in Retrograde Intrarenal Surgery-A Systematic Review and Meta-analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.123874617Z",
+      "contentHash": "045a11610ac2f9d426cf7701f6b5e2f6833fcd0bc6a679ce55b87b7922fc6e81",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43058387/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "9968b378-7a3e-3258-bb8d-4305b20ef84b",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43058347/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43058347",
+      "titleOriginal": "Patient-reported outcomes after robot-assisted versus open pancreatoduodenectomy: a systematic review and narrative synthesis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.123982Z",
+      "contentHash": "c8a6cafea797352d8eda83a2d01465afec07ea24bc0433f969ef5926eea8c14f",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43058347/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "357fad8e-8e5e-3f41-9fc9-8108846ba5ef",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43058327/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43058327",
+      "titleOriginal": "Association between preoperative omega-3/vitamin E supplementation and tissue inflammatory and redox biomarkers in persistent apical periodontitis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.124080329Z",
+      "contentHash": "80b7c76d51be27bba0f38e5fb68e5a6aba064e20707012c05a6228e44dc454c0",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43058327/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "420d0fa3-79c2-3c90-adf2-e65ace015745",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43058265/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43058265",
+      "titleOriginal": "Decompressive surgery in infants and very young children (≤ 3 years): A systematic review.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.124317900Z",
+      "contentHash": "ce02b7eb7ff23f738b4d57a025cc013996c7dd3478bb132aeb840d9a0ad1a151",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43058265/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "4f2b1b89-9c91-3c3e-ba27-2fef018b4b43",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43056600/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43056600",
+      "titleOriginal": "Alcohol abstinence and liver stiffness by vibration-controlled transient elastography: A systematic review and meta-analysis.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.125870593Z",
+      "contentHash": "15f2831d0d68544cc9dbe99f3de0a29e1e7eb2aaeda0b0fd06beb52d8eb42584",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43056600/"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "1fa21dbf-2dde-386e-a538-6466733ebdeb",
+      "sourceId": "nature-medicine",
+      "sourceName": "Nature Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41591-026-04781-0",
+      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04781-0",
+      "titleOriginal": "Concerns about use of placebo control in clinical trials of Obinutuzumab β for aquaporin-4 antibody positive neuromyelitis optica spectrum disorder",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.794963827Z",
+      "contentHash": "cc075c80edc75ca574682348fc7120ab4c26b01466a00f126a01d7be62589416",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-medicine",
+          "sourceName": "Nature Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41591-026-04781-0"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "dd6f63e1-5457-389f-a849-85868c3ebd5c",
+      "sourceId": "nature-medicine",
+      "sourceName": "Nature Medicine",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41591-026-04782-z",
+      "canonicalUrl": "https://www.nature.com/articles/s41591-026-04782-z",
+      "titleOriginal": "Reply to: Concerns about use of placebo control in clinical trials of Obinutuzumab β for aquaporin-4 antibody positive neuromyelitis optica spectrum disorder",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.795350774Z",
+      "contentHash": "2f5e2eb5f0532f9b0086717e0f6748ed8aadaad5dd59286230ed1cc58cfb33f9",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-medicine",
+          "sourceName": "Nature Medicine",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41591-026-04782-z"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "19536c60-3726-32af-a00f-ee6925e6a868",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368446v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368446v1?rss\u003d1",
+      "titleOriginal": "LCatlas: A Point-Of-Care Tool for Predicting Immunotherapy Outcomes in Non-Small Cell Lung Cancer",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.397527709Z",
+      "contentHash": "47919b1f48c2aed7870197641bb263ea36cace3af3a7324ff3997cacc7b7d34e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368446v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "高影响事件",
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "de4791bf-baaa-3b40-bcda-8eb9be714034",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.19.26368251v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.19.26368251v1?rss\u003d1",
+      "titleOriginal": "Social determination of health and intersectionality in child hunger: A multilevel qualitative comparative case study in Choco and Risaralda, Colombia",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.391447890Z",
+      "contentHash": "0c927124816d443786fa67048db062fdab69afd5eef539518e602409f31bdf30",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.19.26368251v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "3241034a-7875-3121-8579-b3c64773f0cb",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368420v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368420v1?rss\u003d1",
+      "titleOriginal": "Plasma neurodegeneration biomarkers and clinical progression in early sporadic Parkinson\u0027s disease",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.392009547Z",
+      "contentHash": "cd67eefc017b374e402d8762cb7bdc82bbe438bdf81c112f1021b8df6054366b",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368420v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "c2ef1874-8ad6-314e-aaab-47e7937dbf10",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.20.26368008v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.20.26368008v1?rss\u003d1",
+      "titleOriginal": "Unmet needs of Polish patients with cystic fibrosis seen through the lens of crowdfunding",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.392241476Z",
+      "contentHash": "bf0c198e2fff37c52a4f266ee7b1dea28d8d96a52eb94311b0b33b376686ef66",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.20.26368008v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "b6ace53d-5e75-3991-a254-7f3e1da3719b",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368427v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368427v1?rss\u003d1",
+      "titleOriginal": "Motherly Plus: Study Protocol of a Randomized Controlled Trial Evaluating a Smartphone-Assisted Single-Session Psychotherapy Intervention for Postpartum Depression",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.392451001Z",
+      "contentHash": "977fb401c0794fc1b713d98e4fc1020971b1d49d001517cd1f592a70ce2c5f9b",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368427v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "ecdc58d1-a36e-302a-9593-e3612bf90eb1",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368401v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368401v1?rss\u003d1",
+      "titleOriginal": "Targeting memory consolidation in major depression via pharmacological slow-wave sleep promotion",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.392679001Z",
+      "contentHash": "3009ca03ed8589c5b42415818882daf2f149bc9f1d73a4a16f7500bcd401cfe8",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368401v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "33148c23-c1da-3d5f-9512-c6926f556ab6",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368418v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368418v1?rss\u003d1",
+      "titleOriginal": "Epidemiology of Cardiac Structure and Function Among African Caribbeans in Tobago: A Population-based Cohort Study",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.392844765Z",
+      "contentHash": "71258943c4245a73684fe61a19d67c6b3b18408fa84544b65d22a3a6f7ac1d72",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368418v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "e7582c74-df41-37b3-b8e2-842137da9ef9",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368449v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368449v1?rss\u003d1",
+      "titleOriginal": "Depressive Symptom Trajectories and Incident Cognitive Impairment by Outcome Ascertainment",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.393813071Z",
+      "contentHash": "ca44567545aee08847f3f1f1aa9a7d5604a37ef828cd5b1c891abf03928842cd",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368449v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "23b309cf-f20d-319c-8854-04d09ce90436",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.15.26368133v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.15.26368133v1?rss\u003d1",
+      "titleOriginal": "Elevated maternal hemoglobin levels during pregnancy are associated with autism spectrum disorder in the offspring: A population-based cohort study",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.394005895Z",
+      "contentHash": "f8434ad53f5763f86afd3c52023113f1d39f0dff9f6658c6e39547551d88a753",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.15.26368133v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "11dcca9c-1045-33fe-83b7-2cf7d2820070",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.15.26368136v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.15.26368136v1?rss\u003d1",
+      "titleOriginal": "Chronic Maternal White Blood Cell Elevation During Pregnancy and Offspring Autism",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.394186434Z",
+      "contentHash": "90efbd8b10065c757563355f0899a05b536b9db94d7cf81d2853c1156e73a435",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.15.26368136v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "be770925-8e87-353e-a797-0c42f58ea0a5",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368421v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368421v1?rss\u003d1",
+      "titleOriginal": "The health and wellbeing impact of arts engagement: A longitudinal outcome-wide approach in 22 countries",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.394350360Z",
+      "contentHash": "05033aa9ec573da89617d75fcb11c52caf08c9fbb6a8a09d5a7e7498ff072d3c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368421v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "2ec33b4c-490b-3c75-a52f-fca498ea7a60",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368283v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368283v1?rss\u003d1",
+      "titleOriginal": "The ACROSSS-study. The role of sleep characteristics before and after a cardiovascular event. Rationale and study design.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.394447886Z",
+      "contentHash": "fe575e6dd2cd3ac58347a844624f6221b5ce7ce83d20d1dbeca0b8c0c0053b6c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368283v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "3ad53826-9c6e-3ac7-afd9-8586944848af",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368376v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368376v1?rss\u003d1",
+      "titleOriginal": "Refining Cardiovascular-Kidney-Metabolic Risk Assessment Across the Heart Failure Spectrum",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.394578513Z",
+      "contentHash": "f5f941dfaa3554fb649e93f9fd04e6af00243d0fb54954e91786f37ea8da30c5",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368376v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "d7db5e00-6561-3ef8-abd0-8624e4bce427",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368422v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368422v1?rss\u003d1",
+      "titleOriginal": "Clinician gaze as a supervisory signal for electrocardiogram deep learning: a matched-control proof-of-concept study",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.395435075Z",
+      "contentHash": "0511eaf6a6504f01cddd0fdeb4d164dbdec9d770f378a9b96d32a33a41180c49",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368422v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "186dccb2-ec8c-3450-a237-a6837b30aed1",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368340v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368340v1?rss\u003d1",
+      "titleOriginal": "Evaluation of urine lipoarabinomannan and host response signatures for culture-negative tuberculosis using composite criteria and Bayesian Latent Class Analysis",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.395659302Z",
+      "contentHash": "bbf56f058bf9c007b0fcd0ad4d63d196075f9fcf107155ee38222b7f86b697b7",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368340v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "3c00e9cf-de18-3f66-829b-929ba5ed926e",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26367837v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26367837v1?rss\u003d1",
+      "titleOriginal": "Automated Screening for Generalized Anxiety Disorder Using Voice Analysis and Machine Learning",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.395840684Z",
+      "contentHash": "0a589394450c68d38a23f87770f6a437ed022a41a0a674dad5cf475f790447d5",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26367837v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "0494c89d-ab6d-3547-8217-048d677c37b9",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26367879v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26367879v1?rss\u003d1",
+      "titleOriginal": "Rare copy number variation in alcohol use disorder using whole-genome sequencing in the All of Us Research Program",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.396191777Z",
+      "contentHash": "b2c722c0588e052eafa2fc83ecf41ec6a5fcb9b65004ceea9b61ff418c27617f",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26367879v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "8585c494-93da-311d-b8d9-8fa061d4562e",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368437v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368437v1?rss\u003d1",
+      "titleOriginal": "Brain Cell-Type-Specific X-Chromosome Gene Regulation Reveals Sex-Biased Candidate Genes in Neurodegeneration",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.396670562Z",
+      "contentHash": "4da69ec5ecb0a13b3b678c30c64173e3dfc0e64fc1b327c60af5aca215a9b0c7",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368437v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "05a8512c-56ea-3230-93d9-42947034c9f2",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368406v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368406v1?rss\u003d1",
+      "titleOriginal": "Can far become near? The effect of approaching visual stimuli on tactile processing in fibromyalgia patients and controls",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.396865321Z",
+      "contentHash": "2c87a5396ad4584b98a5e7e31ab2c94cd830369c7968dd56ba941a5829346b59",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368406v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "24小时内更新"
+      ]
+    },
+    {
+      "id": "91f45c5f-46d2-3db4-b45b-e3d43376e59e",
+      "sourceId": "medrxiv-recent",
+      "sourceName": "medRxiv",
+      "sourceTier": "B",
+      "sourceType": "journal",
+      "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.19.26368352v1?rss\u003d1",
+      "canonicalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.19.26368352v1?rss\u003d1",
+      "titleOriginal": "Development and external validation of a nomogram for predicting re-fracture after percutaneous kyphoplasty: A two-center study",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "medRxiv"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-20T21:47:56.397019868Z",
+      "contentHash": "844f1537e0a46138f88c7ed5b4a17243ffcc77ce44e1793498eeded1046ca578",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "unreviewed",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "medrxiv-recent",
+          "sourceName": "medRxiv",
+          "sourceTier": "B",
+          "originalUrl": "https://www.medrxiv.org/content/10.64898/2026.11.19.26368352v1?rss\u003d1"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "24小时内更新"
+      ]
+    },
     {
       "id": "dfb99913-510f-3b89-9b9e-9d2c0aa94427",
       "sourceId": "hengrui-focus-news",
@@ -2468,55 +6447,6 @@
       ]
     },
     {
-      "id": "43a8be81-4951-3c45-a243-47bcbfb7861b",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43056654/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43056654",
-      "titleOriginal": "Efficacy and Safety of 2 Rimegepant Dosing Regimens for the Prevention of Episodic Migraine: A Randomized Controlled Study.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:58:52.930852710Z",
-      "contentHash": "d97d120fb5be8db78c8d85c6be17e5fb04cf281987617a8e80f1580d82d560eb",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43056654/"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "24小时内更新"
-      ]
-    },
-    {
       "id": "2c8823fa-0904-3e1d-a454-d6be72aae133",
       "sourceId": "europe-pmc-recent",
       "sourceName": "Europe PMC",
@@ -3045,1398 +6975,6 @@
       ]
     },
     {
-      "id": "9bc05419-bb80-34cc-b735-cd75598ce12c",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13724124",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13724124",
-      "titleOriginal": "From Structural Blindness to Structural Perception: Theorizing LUMEN, a Multisensory Pedagogy for the Structural Determinants of Health in Nursing Education.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Europe PMC"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:59:51.348191732Z",
-      "contentHash": "d6aa9552b384746e50a0d9787ab3e2ac3a61d34eb6543aac3929e5f33c1e57d3",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13724124"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "0f26d207-832f-3110-9f7e-e7687ba4c189",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13724283",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13724283",
-      "titleOriginal": "The Effect of Perioperative Video Interventions on Postoperative Pain Control: A Systematic Review.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Europe PMC"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:59:51.348134295Z",
-      "contentHash": "812d179c7257d8fc78d5224b33c59f5999daf83aae396b9ac1c4e14337218b58",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13724283"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "3ee5b41b-6266-393a-97f2-bfc4725b51d6",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13727368",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13727368",
-      "titleOriginal": "Mental Health Staff Capability and Practice for Promoting Physical Activity: Evidence From a Mental Health Community-Managed Organisation.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Europe PMC"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:59:51.348080764Z",
-      "contentHash": "976ea90e0354b3eabc0e856e4e63360b3d0d8ddbffcdceb433ee7bcbc7c50a80",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13727368"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "62f46b2d-c7eb-37df-9d76-48e10eeaf02d",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13727367",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13727367",
-      "titleOriginal": "Barriers to Gender-Affirming Care for Nonbinary People: A Systematic-Narrative Hybrid Literature Review.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Europe PMC"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:59:51.348043809Z",
-      "contentHash": "5e588d671edc2ec39884b17affb70cc0314858c63ce7c8f8787082b264992d48",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13727367"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "17f7408d-490a-3d1b-97e0-a9ce57da9181",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13729079",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13729079",
-      "titleOriginal": "Relationship-Building and Care Practices of Home-Visiting Nurses Caring for Children With Medical Complexity and Their Families in Japan: A Qualitative Study.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Europe PMC"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:59:51.348001715Z",
-      "contentHash": "dd192dca13b5766a4cdeed1655ce264dce160d44a771d795ae81d8dfd249ac94",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13729079"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "d1a4e65b-6a6c-3cd6-be7c-ea3fd3e31066",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13730178",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13730178",
-      "titleOriginal": "Walking Capacity and Daily Movement Behaviours After Ischemic Stroke: A Potential Capacity-Performance Gap.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Europe PMC"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:59:51.347960883Z",
-      "contentHash": "300efab9306432ca8575d17d536e006e1f1fcf48f765954739afc750740cde41",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13730178"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "5d537c8a-aae1-3d77-ab44-059da672f723",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13730251",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13730251",
-      "titleOriginal": "Integrating Tummy Time Into Routine NICU Care: Healthcare Workers\u0027 Perspectives on Long-Term Implementation in India.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Europe PMC"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:59:51.347920452Z",
-      "contentHash": "f6b39ebe8d78245f1371cedaae62184d42a4163f7028b3d01096c0be4a8e4d1d",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13730251"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "d033b9fd-4e98-380a-9acd-a84cce8dfc77",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13734740",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13734740",
-      "titleOriginal": "Acceptability of Teledentistry in Mobile Oral Health Applications for Australian Children: A Qualitative Study.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Europe PMC"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:59:51.347864868Z",
-      "contentHash": "a9ccd273f4d7584a66e3606a1ef1d83f883f279f614cb3d63846ce981a1df541",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13734740"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "3df12920-2c4f-3635-9146-4102e5d802c6",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13736195",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13736195",
-      "titleOriginal": "A Survey of Clinician-Reported Management of Hypernatremia in the ICU.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Europe PMC"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:59:51.347578225Z",
-      "contentHash": "5b03e3d993947fcedd4eb06aae545ef510dc5ebe1e7aafea561e1f72f1c2ee58",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13736195"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "7400cd32-9448-304e-8577-ee4c64078cef",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13736818",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13736818",
-      "titleOriginal": "Validity and Reliability Family Adaptability and Cohesion Scales (FACES-IV) in Peruvian Population.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Europe PMC"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:59:51.347518886Z",
-      "contentHash": "960549b4245e54c22240ee6818cd6fd2a63e769184f5d7137b77563c85480d78",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13736818"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "a62fbbdf-7097-3f11-9508-19a3ea92e5f7",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13736811",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13736811",
-      "titleOriginal": "Negative Partner Perceptions as an Indirect Pathway Between Critical Adverse Experiences and Negative Communication in Adult Romantic Relationships.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Europe PMC"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:59:51.347457743Z",
-      "contentHash": "1e3e262027fdfdc1fb40a0c59ca45d4b23a892cb96f87fe7996f7823d500ece2",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13736811"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "49c12a3a-0bfc-3e1e-8a78-10c7bbc86709",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13739605",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13739605",
-      "titleOriginal": "Inter-Individual Variation in LUNG Mechanics Assessed by the Non-Invasive PEEP-Step Method During Laparoscopic and Robotic Surgery Indicates Need for Individualized Ventilatory Settings.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Europe PMC"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:59:51.347396561Z",
-      "contentHash": "aeae1fd483ffec7c8a5a55c9385617d3d73ad6036b52895a9dab034d881e66ca",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13739605"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "0e06dbfd-5a1d-3a3b-9e3b-6d53df7d310f",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13743145",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13743145",
-      "titleOriginal": "Symptom control in comprehensive conservative care for chronic kidney disease.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Europe PMC"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:59:51.347339335Z",
-      "contentHash": "5ec3b6e66ca199248a515906375debd5f806dac27316ad13b0c24022cff9da8e",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13743145"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "9fb7109f-842a-3964-96aa-108eb11a60e1",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13743144",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13743144",
-      "titleOriginal": "Early post-transplant calciphylaxis in a renal allograft recipient: diagnostic and therapeutic challenges.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Europe PMC"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:59:51.347272193Z",
-      "contentHash": "f1f0da885be804d31375d69557f9e5bc9c5a24e11197f499e5c1989aafba369b",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13743144"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "a92b54bd-30e9-35a1-9f78-4cc05c6ff96f",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13746374",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13746374",
-      "titleOriginal": "Reactive Astrocyte-Associated IL-33 Signaling Contributes to a Protective Neuroimmune State During Chronic Toxoplasma gondii-Plasmodium berghei Coinfection.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Europe PMC"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:59:51.347220826Z",
-      "contentHash": "78573bb59279d53c26fa5b8e0d1ff99b5187297c5fb6e43db539c34c8b1aabdf",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13746374"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "fdd31196-0dda-3144-a936-2d9c97adfcdd",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13747299",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13747299",
-      "titleOriginal": "IgA nephropathy: evolving treatment strategies.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Europe PMC"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:59:51.347170890Z",
-      "contentHash": "035a404d61914ab205fb553321051be71edf1afd396749b95d3fdb85bcd4b87b",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13747299"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "26e5db18-11db-3a32-a267-90b63c3a7998",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13748921",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13748921",
-      "titleOriginal": "A Superior Spermatic Cord Denervation Technique?: A Meta-Analysis.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Europe PMC"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:59:51.347115877Z",
-      "contentHash": "3c50e058c04c7ee80e072751b148bceb0c96e14bcba472cc1c2de65d6289595a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13748921"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "a0d2907f-af92-3ca2-88ae-26e9f9a52fa3",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13748924",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13748924",
-      "titleOriginal": "Detection of SARS-CoV-2 in Semen Months After COVID-19: Potential Evidence of Low-Level Replicative Persistence.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Europe PMC"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:59:51.347042486Z",
-      "contentHash": "e23e9bf38c701a012f6115d173e4d77abc2dca5389c03b27d68cab096e22808e",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13748924"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "7fd3a366-406d-359f-88cb-0e9bf141b40b",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13748923",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13748923",
-      "titleOriginal": "Temporal Effects of Exogenous Testosterone on the Circulating Small Noncoding RNA Landscape in a Placebo‐Controlled Human Study.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Europe PMC"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:59:51.346744135Z",
-      "contentHash": "97aa00ad18578e856535cc8cfe76fe3507d8d3d9027853bb4bde14f7022bb855",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13748923"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "dedc0d47-3ad7-396a-93e7-3ba3dfe7c9f7",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13748918",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13748918",
-      "titleOriginal": "Beyond Words: Making Space for Creative and Relational Approaches With Young Aboriginal Mothers in Central Australia.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Europe PMC"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:59:51.346680469Z",
-      "contentHash": "bafd2ff24a47b5baf1b466753290a6a5c14b11ec2e75c841e7c42f577725619d",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13748918"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "befcd52d-610f-384c-b2a1-46bb7985c5ea",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13749366",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13749366",
-      "titleOriginal": "Prevalence and Factors Associated With Falls in Individuals Aged 50 Years and Older Living in Urban and Rural Areas in Brazil: A Cross-Sectional Analysis.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Europe PMC"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:59:51.346537543Z",
-      "contentHash": "9dedf2fc61ed1b3a86bb80992fcd37441bf932dabb60b0def37834259eea06b6",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13749366"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "1a197756-79d7-3b69-a449-023d56702530",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13749597",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13749597",
-      "titleOriginal": "How Can I Trust You Again? Repair Behaviours and Trust Recovery After Romantic Betrayal.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Europe PMC"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:59:51.346478144Z",
-      "contentHash": "77e1a1630a9bf76fa8bd8d95c7a69637641053402861268f01079c9f66043236",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13749597"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "2ac59908-aa1e-3ca3-97a7-0a7f95e402ab",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13754508",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13754508",
-      "titleOriginal": "Knowledge and practices on sustainability in nephrology in Brazil.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Europe PMC"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:59:51.346421919Z",
-      "contentHash": "ae89f888f3076c51b6cad131444c32ed61aa0fcbd819acfab7a5b4b3d96b8749",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13754508"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "1e9dfb8f-d842-30d9-b9bc-69fc5cdb9766",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13751314",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13751314",
-      "titleOriginal": "Tracing the impact of maternal communication deviance on joint engagement: The mediating role of maternal supportive behaviors.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Europe PMC"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:59:51.346350441Z",
-      "contentHash": "04158ff687f2408e7426cf0a97e1cf6c934be8ad41c86a0ea2d74d7568e20b33",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13751314"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "59d7c0d9-db19-378a-a8ff-8f8b8ed3231f",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13752669",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13752669",
-      "titleOriginal": "Correction to \"Ephedrine for Reducing Onset Time of Rocuronium in Elderly Patients: A Randomised Study\".",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Europe PMC"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:59:51.346276950Z",
-      "contentHash": "216a70e37cb976dc8ea10a19b7f89bb5f68d687a31c2c489dba9b684e21e696e",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13752669"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "9ea9c64e-fa8f-3447-80f4-e50d9ee4b97a",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13756202",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13756202",
-      "titleOriginal": "Of Patients Like No Other: High-Resolution Paleoproteomic Analysis of Biological Residues on Garments Attributed to Marie-Antoinette and Louis XVII.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Europe PMC"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:59:51.346198221Z",
-      "contentHash": "4a909dfb5e969b2a859a9aa82960b0e6f5564167563e80a2f47f8234802045b9",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13756202"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "3a727d7b-e1a8-35a9-a38a-95a0039fda2c",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13757300",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13757300",
-      "titleOriginal": "Individual Variation in Perception and Evolutionary Aesthetics: Grant Allen\u0027s 1878 Investigation of Congenital Amusia.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Europe PMC"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:59:51.346133203Z",
-      "contentHash": "26c13618dbba7900d02c37493aad9e6d0544115872475b9245661e28b9c34fe0",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13757300"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "93ba2840-e5d7-3db0-a456-795e2b232464",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC13757302",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC13757302",
-      "titleOriginal": "The Influence of \"Background Theories\": Karl S. Lashley\u0027s Epistemology.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Europe PMC"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:59:51.346065380Z",
-      "contentHash": "9c19313fe90dcf744c5aebf65065eba38bbbd90a61a14d12657accf8f115a848",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC13757302"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "fd7e6206-2a47-3ea8-871d-09fd333a3d15",
-      "sourceId": "europe-pmc-recent",
-      "sourceName": "Europe PMC",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://europepmc.org/article/MED/PMC7619672",
-      "canonicalUrl": "https://europepmc.org/article/MED/PMC7619672",
-      "titleOriginal": "WHO target product profiles for dengue therapeutics: an interdisciplinary analysis of ethical, regulatory, and implementation considerations.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Europe PMC"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": null,
-      "collectedAt": "2026-11-20T09:59:51.345842994Z",
-      "contentHash": "76de5aee7212e53b5c46a60f286eb323850dcf852c6af73350a05635b48ad895",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "europe-pmc-recent",
-          "sourceName": "Europe PMC",
-          "sourceTier": "A",
-          "originalUrl": "https://europepmc.org/article/MED/PMC7619672"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
       "id": "88fd2d87-9c57-3827-838e-5b90ccecafa3",
       "sourceId": "pubmed-recent",
       "sourceName": "PubMed",
@@ -4764,54 +7302,6 @@
           "sourceName": "PubMed",
           "sourceTier": "A",
           "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43056144/"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "24小时内更新"
-      ]
-    },
-    {
-      "id": "4f2b1b89-9c91-3c3e-ba27-2fef018b4b43",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43056600/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43056600",
-      "titleOriginal": "Alcohol abstinence and liver stiffness by vibration-controlled transient elastography: A systematic review and meta-analysis.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "collectedAt": "2026-11-20T09:58:52.931047615Z",
-      "contentHash": "15f2831d0d68544cc9dbe99f3de0a29e1e7eb2aaeda0b0fd06beb52d8eb42584",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43056600/"
         }
       ],
       "importanceScore": 50,
