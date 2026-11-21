@@ -1,7 +1,103 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-21T11:41:36.640323639Z",
+  "generatedAt": "2026-11-21T12:37:24.638905376Z",
   "articles": [
+    {
+      "id": "1ead6b88-9d42-39c7-a0a3-78e422581ed0",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-intersurgical-inc-removes-22mm-smoothbore-breathing-tubes-and-systems",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-intersurgical-inc-removes-22mm-smoothbore-breathing-tubes-and-systems",
+      "titleOriginal": "Early Alert: Intersurgical Inc. Removes 22mm Smoothbore breathing tubes and systems",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-10T05:00:00Z",
+      "collectedAt": "2026-11-21T12:37:22.179813858Z",
+      "contentHash": "6fb727574e904a2f71a7452211dbd535c87aa2e7090781cc6754c3572a874980",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-intersurgical-inc-removes-22mm-smoothbore-breathing-tubes-and-systems"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "eafaab7b-3e06-3f85-ad7d-dcd612fc9eba",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-arrow-international-removes-products-containing-spring-wire-guide-components",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-arrow-international-removes-products-containing-spring-wire-guide-components",
+      "titleOriginal": "Early Alert: Arrow International Removes Products Containing Spring Wire Guide Components",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-10T05:00:00Z",
+      "collectedAt": "2026-11-21T12:37:22.182107401Z",
+      "contentHash": "05d2bdbd2a4b9469f0e37166845261e8977d51047dad389235ef6a0b7f616809",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-arrow-international-removes-products-containing-spring-wire-guide-components"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "cfd8b53f-c79d-3611-bb2f-c5aa9c826722",
       "sourceId": "nature-biotechnology",
@@ -284,102 +380,6 @@
       ]
     },
     {
-      "id": "eafaab7b-3e06-3f85-ad7d-dcd612fc9eba",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-arrow-international-removes-products-containing-spring-wire-guide-components",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-arrow-international-removes-products-containing-spring-wire-guide-components",
-      "titleOriginal": "Early Alert: Arrow International Removes Products Containing Spring Wire Guide Components",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-10T05:00:00Z",
-      "collectedAt": "2026-11-21T01:30:09.155311938Z",
-      "contentHash": "05d2bdbd2a4b9469f0e37166845261e8977d51047dad389235ef6a0b7f616809",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-arrow-international-removes-products-containing-spring-wire-guide-components"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "1ead6b88-9d42-39c7-a0a3-78e422581ed0",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-intersurgical-inc-removes-22mm-smoothbore-breathing-tubes-and-systems",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-intersurgical-inc-removes-22mm-smoothbore-breathing-tubes-and-systems",
-      "titleOriginal": "Early Alert: Intersurgical Inc. Removes 22mm Smoothbore breathing tubes and systems",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-10T05:00:00Z",
-      "collectedAt": "2026-11-21T01:30:09.155567366Z",
-      "contentHash": "6fb727574e904a2f71a7452211dbd535c87aa2e7090781cc6754c3572a874980",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-intersurgical-inc-removes-22mm-smoothbore-breathing-tubes-and-systems"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
       "id": "e31e1216-b9c0-38e4-90ae-9bf42459f46e",
       "sourceId": "fda-biologics-news",
       "sourceName": "FDA Vaccines, Blood and Biologics",
@@ -469,55 +469,6 @@
           "sourceName": "FDA Vaccines, Blood and Biologics",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/recommendations-reducing-risk-transfusion-transmitted-hepatitis-b-virus"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "3c64770d-e959-3150-a4bd-7fd91a07338d",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/early-phase-ind-protocol-recommendations-solid-tumors-draft-guidance-industry",
-      "canonicalUrl": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/early-phase-ind-protocol-recommendations-solid-tumors-draft-guidance-industry",
-      "titleOriginal": "Early-Phase IND Protocol Recommendations for Solid Tumors; Draft Guidance for Industry",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "policy_release"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-10T13:50:16Z",
-      "collectedAt": "2026-11-19T13:00:47.212903918Z",
-      "contentHash": "c9976d79643f0f90a9a352b2d55a57062326d38f849d27b846717f0d7cf5d276",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/regulatory-information/search-fda-guidance-documents/early-phase-ind-protocol-recommendations-solid-tumors-draft-guidance-industry"
         }
       ],
       "importanceScore": 65,
