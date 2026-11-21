@@ -1,7 +1,54 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-21T09:44:45.056571644Z",
+  "generatedAt": "2026-11-21T11:41:36.640323639Z",
   "articles": [
+    {
+      "id": "2524d431-ba5b-3296-9830-daf877511d20",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/19/how-to-avoid-getting-sick-during-holiday-travel",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/11/19/how-to-avoid-getting-sick-during-holiday-travel",
+      "titleOriginal": "How to Avoid Getting Sick During Holiday Travel",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "collectedAt": "2026-11-21T11:41:32.322019585Z",
+      "contentHash": "e7ff8672dad9fb1cc8f9b76a8652deecf5ec9d75bd44cc3c9052cbfe00519c1e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/19/how-to-avoid-getting-sick-during-holiday-travel"
+        }
+      ],
+      "importanceScore": 28,
+      "importanceReasons": [
+        "近期更新"
+      ]
+    },
     {
       "id": "6095e0b0-eecd-3803-82a2-6a7b2d5d2de1",
       "sourceId": "pubmed-recent",
@@ -2251,53 +2298,6 @@
       "importanceScore": 43,
       "importanceReasons": [
         "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "2524d431-ba5b-3296-9830-daf877511d20",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/19/how-to-avoid-getting-sick-during-holiday-travel",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/11/19/how-to-avoid-getting-sick-during-holiday-travel",
-      "titleOriginal": "How to Avoid Getting Sick During Holiday Travel",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "collectedAt": "2026-11-20T22:19:54.619400764Z",
-      "contentHash": "e7ff8672dad9fb1cc8f9b76a8652deecf5ec9d75bd44cc3c9052cbfe00519c1e",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/19/how-to-avoid-getting-sick-during-holiday-travel"
-        }
-      ],
-      "importanceScore": 28,
-      "importanceReasons": [
         "近期更新"
       ]
     },
