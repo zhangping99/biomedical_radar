@@ -1,7 +1,55 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-21T12:37:24.638905376Z",
+  "generatedAt": "2026-11-21T19:47:30.317980811Z",
   "articles": [
+    {
+      "id": "94cfb8db-1e5e-3566-a7c8-4edeb5713158",
+      "sourceId": "beijing-health-policy",
+      "sourceName": "Beijing Municipal Health Commission",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202611/t20261121_4954930.html",
+      "canonicalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202611/t20261121_4954930.html",
+      "titleOriginal": "北京市卫生健康委员会关于同意鹏瑞利集团设立外商独资三级康复医院的批复",
+      "titleZh": "北京市卫生健康委员会关于同意鹏瑞利集团设立外商独资三级康复医院的批复",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "北京市卫生健康委员会"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "collectedAt": "2026-11-21T19:47:28.487401268Z",
+      "contentHash": "c1074e889f137a2850812462bd8526c5549a8888ebf6865e6e78c44e78772c2e",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "beijing-health-policy",
+          "sourceName": "Beijing Municipal Health Commission",
+          "sourceTier": "A",
+          "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202611/t20261121_4954930.html"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "1ead6b88-9d42-39c7-a0a3-78e422581ed0",
       "sourceId": "fda-medwatch-alerts",
@@ -330,54 +378,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "94cfb8db-1e5e-3566-a7c8-4edeb5713158",
-      "sourceId": "beijing-health-policy",
-      "sourceName": "Beijing Municipal Health Commission",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202611/t20261121_4954930.html",
-      "canonicalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202611/t20261121_4954930.html",
-      "titleOriginal": "北京市卫生健康委员会关于同意鹏瑞利集团设立外商独资三级康复医院的批复",
-      "titleZh": "北京市卫生健康委员会关于同意鹏瑞利集团设立外商独资三级康复医院的批复",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "北京市卫生健康委员会"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-10T00:00:00Z",
-      "collectedAt": "2026-11-21T07:41:53.350720038Z",
-      "contentHash": "c1074e889f137a2850812462bd8526c5549a8888ebf6865e6e78c44e78772c2e",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "beijing-health-policy",
-          "sourceName": "Beijing Municipal Health Commission",
-          "sourceTier": "A",
-          "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202611/t20261121_4954930.html"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
     },
     {
       "id": "e31e1216-b9c0-38e4-90ae-9bf42459f46e",
