@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-22T20:28:15.374822129Z",
+  "generatedAt": "2026-11-22T20:43:13.050373724Z",
   "articles": [
+    {
+      "id": "4018b461-568c-3eb3-8bb7-00b2f163dfbe",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07827976",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07827976",
+      "titleOriginal": "Immediate Implant Placement by Drilling Through Roots",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Tooth Loss"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "collectedAt": "2026-11-22T20:43:06.866752012Z",
+      "contentHash": "3a7e7a6691e088ff8471bbaa32bd0d5c3f1f844cf2afd0f7f7f204cb85a28123",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07827976"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "bd4960e1-d88c-3ca0-b475-f1953ced53b7",
       "sourceId": "hengrui-focus-news",
@@ -46,55 +95,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "4018b461-568c-3eb3-8bb7-00b2f163dfbe",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07827976",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07827976",
-      "titleOriginal": "Immediate Implant Placement by Drilling Through Roots",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Tooth Loss"
-      ],
-      "publishedAt": "2026-09-18T00:00:00Z",
-      "collectedAt": "2026-11-22T09:43:43.675771996Z",
-      "contentHash": "3a7e7a6691e088ff8471bbaa32bd0d5c3f1f844cf2afd0f7f7f204cb85a28123",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07827976"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     },
     {
       "id": "94bc3f7d-2328-340f-a6ea-7dfc91734252",
