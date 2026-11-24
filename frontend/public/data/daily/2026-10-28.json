@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-24T22:46:33.393030829Z",
+  "generatedAt": "2026-11-24T23:14:49.636491309Z",
   "articles": [
     {
       "id": "05a7d2e6-7324-3d04-be4d-c82f708737c9",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-28T12:00:00Z",
-      "collectedAt": "2026-11-24T11:34:48.137324610Z",
+      "collectedAt": "2026-11-24T23:14:45.120452002Z",
       "contentHash": "328adb8463682315be1626a5d31f151850cc36c68e5aaf600ff9249d0c1fb902",
       "generated": false,
       "generatorVersion": null,
@@ -75,7 +75,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-28T00:00:00Z",
-      "collectedAt": "2026-11-24T11:34:48.520349995Z",
+      "collectedAt": "2026-11-24T23:14:45.484316962Z",
       "contentHash": "12c71ed108aa9f061e8daa2887fea22c4e79a50020e9057d47df3a151aad9441",
       "generated": false,
       "generatorVersion": null,
@@ -122,7 +122,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-28T00:00:00Z",
-      "collectedAt": "2026-11-24T11:34:48.011879522Z",
+      "collectedAt": "2026-11-24T23:14:44.694373145Z",
       "contentHash": "16f32705040c580b2014a497f5a4565dbb9a91467dee4086ed3b07953472bc48",
       "generated": false,
       "generatorVersion": null,
@@ -169,7 +169,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-28T07:00:00Z",
-      "collectedAt": "2026-11-24T11:34:46.680613355Z",
+      "collectedAt": "2026-11-24T23:14:42.629555970Z",
       "contentHash": "177a732d291d88867274f87920ee98e924568c238e9c2e62521e1bd5a9e05b41",
       "generated": false,
       "generatorVersion": null,
@@ -183,6 +183,51 @@
           "sourceName": "GSK Press Releases",
           "sourceTier": "B",
           "originalUrl": "https://www.gsk.com/en-gb/media/press-releases/gsk-delivers-strong-q3-performance-and-continued-momentum/"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "ceae5b7c-0860-3b51-b7a6-362e92b4c136",
+      "sourceId": "amgen-news-releases",
+      "sourceName": "Amgen News Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/10/amgen-announces-webcast-of-2026-third-quarter-financial-results",
+      "canonicalUrl": "https://www.amgen.com/newsroom/press-releases/2026/10/amgen-announces-webcast-of-2026-third-quarter-financial-results",
+      "titleOriginal": "AMGEN ANNOUNCES WEBCAST OF 2026 THIRD QUARTER FINANCIAL RESULTS",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Amgen"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T00:00:00Z",
+      "collectedAt": "2026-11-24T23:14:49.561570435Z",
+      "contentHash": "d4da9ed02d2972b4430ca54701cdfcaef6b8a23ec23f8f840a62a39a6127f1ee",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "amgen-news-releases",
+          "sourceName": "Amgen News Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/10/amgen-announces-webcast-of-2026-third-quarter-financial-results"
         }
       ],
       "importanceScore": 20,
@@ -214,7 +259,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-28T00:00:00Z",
-      "collectedAt": "2026-11-24T11:34:48.520189437Z",
+      "collectedAt": "2026-11-24T23:14:45.484191884Z",
       "contentHash": "65673e201a895aac547b3efb830c9644acba406ebcdf6ef69e9f963beea16cb8",
       "generated": false,
       "generatorVersion": null,
@@ -259,7 +304,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-28T00:00:00Z",
-      "collectedAt": "2026-11-24T11:34:51.013797007Z",
+      "collectedAt": "2026-11-24T23:14:45.027872268Z",
       "contentHash": "51f86c4773c25cdaa66202c9012721845d784ec4fb1dfadba2b53a1c4a4a84e2",
       "generated": false,
       "generatorVersion": null,
@@ -304,7 +349,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-28T00:00:00Z",
-      "collectedAt": "2026-11-24T11:34:48.012393964Z",
+      "collectedAt": "2026-11-24T23:14:44.694782953Z",
       "contentHash": "aa3c6bbbfda3f8eba29e6092e68ae7c094946b21604dd3a8ca62dc639df8c4d8",
       "generated": false,
       "generatorVersion": null,
@@ -318,51 +363,6 @@
           "sourceName": "君实生物新闻",
           "sourceTier": "B",
           "originalUrl": "https://www.junshipharma.com/%e5%90%9b%e5%ae%9e%e7%94%9f%e7%89%a9%e5%ae%a3%e5%b8%83%e7%89%b9%e7%91%9e%e6%99%ae%e5%88%a9%e5%8d%95%e6%8a%97%ef%bc%88%e7%9a%ae%e4%b8%8b%e6%b3%a8%e5%b0%84%ef%bc%89%e7%ac%ac13%e9%a1%b9%e4%b8%8a%e5%b8%82/"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "ceae5b7c-0860-3b51-b7a6-362e92b4c136",
-      "sourceId": "amgen-news-releases",
-      "sourceName": "Amgen News Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/10/amgen-announces-webcast-of-2026-third-quarter-financial-results",
-      "canonicalUrl": "https://www.amgen.com/newsroom/press-releases/2026/10/amgen-announces-webcast-of-2026-third-quarter-financial-results",
-      "titleOriginal": "AMGEN ANNOUNCES WEBCAST OF 2026 THIRD QUARTER FINANCIAL RESULTS",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "Amgen"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-28T00:00:00Z",
-      "collectedAt": "2026-11-24T01:10:59.861430848Z",
-      "contentHash": "d4da9ed02d2972b4430ca54701cdfcaef6b8a23ec23f8f840a62a39a6127f1ee",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "amgen-news-releases",
-          "sourceName": "Amgen News Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/10/amgen-announces-webcast-of-2026-third-quarter-financial-results"
         }
       ],
       "importanceScore": 20,
