@@ -1,7 +1,58 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-24T23:14:49.636491309Z",
+  "generatedAt": "2026-11-24T23:28:25.099420465Z",
   "articles": [
+    {
+      "id": "9ed76d72-ef81-3be4-95f9-596e4cd9cda1",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07917221",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07917221",
+      "titleOriginal": "Proof-of-concept for Use of Transcutaneous Spinal Stimulation (TSS) With the ExaStim® Stimulation System in Adults With Chronic Ischemic Stroke",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Chronic Stroke",
+        "Ischemic Stroke",
+        "CVA (Cerebrovascular Accident)"
+      ],
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "collectedAt": "2026-11-24T23:28:23.599664605Z",
+      "contentHash": "1a5f049e1a964ee5263e92af1c2e1a7fb51b2255b96e66cc47c0fd9dab650781",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07917221"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "cdebbe23-cd97-3312-b89e-01d1856a4d58",
       "sourceId": "nature-reviews-cancer",
@@ -28,7 +79,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-04T00:00:00Z",
-      "collectedAt": "2026-11-24T12:25:21.907419064Z",
+      "collectedAt": "2026-11-24T23:28:24.509854536Z",
       "contentHash": "e3467b2e03ea5dcc3021cd66454b26ad2b49a112f46abfbb746ad7176f509392",
       "generated": false,
       "generatorVersion": null,
