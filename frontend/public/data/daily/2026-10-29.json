@@ -1,7 +1,102 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-24T14:12:39.037721230Z",
+  "generatedAt": "2026-11-24T19:29:42.815802619Z",
   "articles": [
+    {
+      "id": "7e0c5e19-ef48-32c6-946c-35c4c8961e95",
+      "sourceId": "ema-news",
+      "sourceName": "European Medicines Agency",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.ema.europa.eu/en/news/ema-closed-all-souls-day-2-november",
+      "canonicalUrl": "https://www.ema.europa.eu/en/news/ema-closed-all-souls-day-2-november",
+      "titleOriginal": "EMA closed on All Souls\u0027 Day, 2 November",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "EU",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "European Medicines Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-29T12:30:00Z",
+      "collectedAt": "2026-11-24T19:29:40.459017872Z",
+      "contentHash": "bb1d82e65693f9e564388cf55a75374c3e4e7090ff5253675a39654539df8cc0",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "ema-news",
+          "sourceName": "European Medicines Agency",
+          "sourceTier": "A",
+          "originalUrl": "https://www.ema.europa.eu/en/news/ema-closed-all-souls-day-2-november"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "894f1077-5f59-3e23-bdb2-41d8439289f0",
+      "sourceId": "nmpa-public-notices",
+      "sourceName": "National Medical Products Administration",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://english.nmpa.gov.cn/2026-10/29/c_1227090.htm",
+      "canonicalUrl": "https://english.nmpa.gov.cn/2026-10/29/c_1227090.htm",
+      "titleOriginal": "Special Provision on Supervision and Administration of Manufacturing of Traditional Chinese Medicines",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "CN",
+      "category": "manufacturing_supply",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "National Medical Products Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-29T00:00:00Z",
+      "collectedAt": "2026-11-24T19:29:42.306901700Z",
+      "contentHash": "7d8b6f38700c3cabf562552a006c402b2a7d28cc76fb9a07085741979201a51a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "nmpa-public-notices",
+          "sourceName": "National Medical Products Administration",
+          "sourceTier": "A",
+          "originalUrl": "https://english.nmpa.gov.cn/2026-10/29/c_1227090.htm"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "c4eb9832-25b7-3986-b54a-103cbd41a98c",
       "sourceId": "junshi-news",
@@ -93,101 +188,6 @@
       "importanceReasons": [
         "官方一手来源",
         "政策或安全相关"
-      ]
-    },
-    {
-      "id": "7e0c5e19-ef48-32c6-946c-35c4c8961e95",
-      "sourceId": "ema-news",
-      "sourceName": "European Medicines Agency",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.ema.europa.eu/en/news/ema-closed-all-souls-day-2-november",
-      "canonicalUrl": "https://www.ema.europa.eu/en/news/ema-closed-all-souls-day-2-november",
-      "titleOriginal": "EMA closed on All Souls\u0027 Day, 2 November",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "EU",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "European Medicines Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-29T12:30:00Z",
-      "collectedAt": "2026-11-24T04:46:36.980203111Z",
-      "contentHash": "bb1d82e65693f9e564388cf55a75374c3e4e7090ff5253675a39654539df8cc0",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "ema-news",
-          "sourceName": "European Medicines Agency",
-          "sourceTier": "A",
-          "originalUrl": "https://www.ema.europa.eu/en/news/ema-closed-all-souls-day-2-november"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "894f1077-5f59-3e23-bdb2-41d8439289f0",
-      "sourceId": "nmpa-public-notices",
-      "sourceName": "National Medical Products Administration",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://english.nmpa.gov.cn/2026-10/29/c_1227090.htm",
-      "canonicalUrl": "https://english.nmpa.gov.cn/2026-10/29/c_1227090.htm",
-      "titleOriginal": "Special Provision on Supervision and Administration of Manufacturing of Traditional Chinese Medicines",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "CN",
-      "category": "manufacturing_supply",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "National Medical Products Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-29T00:00:00Z",
-      "collectedAt": "2026-11-24T04:46:39.088086392Z",
-      "contentHash": "7d8b6f38700c3cabf562552a006c402b2a7d28cc76fb9a07085741979201a51a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "nmpa-public-notices",
-          "sourceName": "National Medical Products Administration",
-          "sourceTier": "A",
-          "originalUrl": "https://english.nmpa.gov.cn/2026-10/29/c_1227090.htm"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
       ]
     },
     {
