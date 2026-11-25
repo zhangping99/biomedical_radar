@@ -1,7 +1,103 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-25T10:24:54.776801098Z",
+  "generatedAt": "2026-11-25T11:14:11.761464968Z",
   "articles": [
+    {
+      "id": "c0e78c35-9353-3f21-ab6c-a371a288214a",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43075557/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43075557",
+      "titleOriginal": "Effect of Cysteamine on 90-Day Mortality in Patients With Severe Community-Acquired Pneumonia: The REMAP-CAP (Randomized Embedded Multifactorial Adaptive Platform for Community-Acquired Pneumonia) Randomized Clinical Trial.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "collectedAt": "2026-11-25T11:13:46.024489565Z",
+      "contentHash": "77655db395f6a11f64e8aa780efc8af184229a180c5a359b21163f522a86d8b3",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43075557/"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
+    {
+      "id": "a6b2fe1d-00f3-310a-beac-c3cbcd45d9c3",
+      "sourceId": "nature-biotechnology",
+      "sourceName": "Nature Biotechnology",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41587-026-03284-0",
+      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03284-0",
+      "titleOriginal": "A unified framework for scalable differential testing for spatial omics",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Biotechnology"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "collectedAt": "2026-11-25T11:13:45.895409883Z",
+      "contentHash": "c350015e66ef9bef40949a90e9515e9c7aecdb89b1e6ec6d85954f824031d0d9",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-biotechnology",
+          "sourceName": "Nature Biotechnology",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41587-026-03284-0"
+        }
+      ],
+      "importanceScore": 43,
+      "importanceReasons": [
+        "官方一手来源",
+        "近期更新"
+      ]
+    },
     {
       "id": "a20286f7-3c11-3d9d-aa49-53b14951a686",
       "sourceId": "abbvie-news",
@@ -728,54 +824,6 @@
       ]
     },
     {
-      "id": "c0e78c35-9353-3f21-ab6c-a371a288214a",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43075557/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43075557",
-      "titleOriginal": "Effect of Cysteamine on 90-Day Mortality in Patients With Severe Community-Acquired Pneumonia: The REMAP-CAP (Randomized Embedded Multifactorial Adaptive Platform for Community-Acquired Pneumonia) Randomized Clinical Trial.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "collectedAt": "2026-11-24T23:28:24.268675547Z",
-      "contentHash": "77655db395f6a11f64e8aa780efc8af184229a180c5a359b21163f522a86d8b3",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43075557/"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
-        "近期更新"
-      ]
-    },
-    {
       "id": "d59ab2eb-4044-33da-8218-8d3baf917e0a",
       "sourceId": "pubmed-recent",
       "sourceName": "PubMed",
@@ -916,54 +964,6 @@
       "importanceScore": 43,
       "importanceReasons": [
         "高影响事件",
-        "近期更新"
-      ]
-    },
-    {
-      "id": "a6b2fe1d-00f3-310a-beac-c3cbcd45d9c3",
-      "sourceId": "nature-biotechnology",
-      "sourceName": "Nature Biotechnology",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41587-026-03284-0",
-      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03284-0",
-      "titleOriginal": "A unified framework for scalable differential testing for spatial omics",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Biotechnology"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "collectedAt": "2026-11-24T23:28:24.484714319Z",
-      "contentHash": "c350015e66ef9bef40949a90e9515e9c7aecdb89b1e6ec6d85954f824031d0d9",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-biotechnology",
-          "sourceName": "Nature Biotechnology",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41587-026-03284-0"
-        }
-      ],
-      "importanceScore": 43,
-      "importanceReasons": [
-        "官方一手来源",
         "近期更新"
       ]
     },
