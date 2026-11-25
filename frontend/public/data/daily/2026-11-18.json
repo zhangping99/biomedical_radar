@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-25T00:04:23.171645971Z",
+  "generatedAt": "2026-11-25T03:31:43.651129437Z",
   "articles": [
+    {
+      "id": "a5512101-8221-32d4-aa80-b6b56ab1d0c6",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/raz-shower-commode-chairs",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/raz-shower-commode-chairs",
+      "titleOriginal": "Raz Shower Commode Chairs",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "collectedAt": "2026-11-25T03:31:41.373247347Z",
+      "contentHash": "2c4ec16748b15bb6c3b9e8a57e6057031d344d8377cd08e281523b72e2b11853",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/raz-shower-commode-chairs"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "5182d41c-653b-3b62-bf7d-4cc2115f17c4",
       "sourceId": "cleveland-clinic-news",
@@ -751,55 +800,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "a5512101-8221-32d4-aa80-b6b56ab1d0c6",
-      "sourceId": "health-canada-health-products",
-      "sourceName": "Health Canada Health Product Recalls",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/raz-shower-commode-chairs",
-      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/raz-shower-commode-chairs",
-      "titleOriginal": "Raz Shower Commode Chairs",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Health Canada"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-18T00:00:00Z",
-      "collectedAt": "2026-11-24T19:29:41.085519775Z",
-      "contentHash": "2c4ec16748b15bb6c3b9e8a57e6057031d344d8377cd08e281523b72e2b11853",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "health-canada-health-products",
-          "sourceName": "Health Canada Health Product Recalls",
-          "sourceTier": "A",
-          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/raz-shower-commode-chairs"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
     },
     {
       "id": "cf395599-b138-3c16-8da7-5c52e1a8877a",

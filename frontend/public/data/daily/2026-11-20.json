@@ -1,7 +1,492 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-25T00:04:23.171645971Z",
+  "generatedAt": "2026-11-25T03:31:43.651129437Z",
   "articles": [
+    {
+      "id": "c820d5c2-4d7e-3520-b813-e9de4a0c6b8d",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/about-fda/office-health-advancement/office-health-advancement-oha-guidance-documents",
+      "canonicalUrl": "https://www.fda.gov/about-fda/office-health-advancement/office-health-advancement-oha-guidance-documents",
+      "titleOriginal": "Office of Health Advancement (OHA) Guidance Documents",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "policy_release"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T13:09:38Z",
+      "collectedAt": "2026-11-25T03:31:41.373226010Z",
+      "contentHash": "8ba4b2c52689f005be3503609a191a17e8b8d21274fe8a29401277e4bdc38c2f",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/about-fda/office-health-advancement/office-health-advancement-oha-guidance-documents"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "12a86f14-92fb-3654-863b-3f6cd733b624",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/breckenridge-pharmaceutical-inc-issues-voluntary-nationwide-consumer-level-recall-one-lot",
+      "canonicalUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/breckenridge-pharmaceutical-inc-issues-voluntary-nationwide-consumer-level-recall-one-lot",
+      "titleOriginal": "Breckenridge Pharmaceutical, Inc. Issues Voluntary Nationwide Consumer-Level Recall of One Lot of Propranolol Hydrochloride Extended-Release Capsules, USP, 60 mg, Due to Potential Metal Contamination",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T05:00:00Z",
+      "collectedAt": "2026-11-25T03:31:40.941096771Z",
+      "contentHash": "d16270a1fb2f5a9c3310e09586c35ccb44bc8c115612b389514476d4ee5a13a3",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/breckenridge-pharmaceutical-inc-issues-voluntary-nationwide-consumer-level-recall-one-lot"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "a9f764d9-349d-3a86-9215-aa1e4acf331a",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/greenwich-rx-issues-voluntary-nationwide-recall-compounded-sterile-products-due-lack-sterility",
+      "canonicalUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/greenwich-rx-issues-voluntary-nationwide-recall-compounded-sterile-products-due-lack-sterility",
+      "titleOriginal": "Greenwich Rx Issues Voluntary Nationwide Recall of Compounded Sterile Products Due to Lack of Sterility Assurance",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T05:00:00Z",
+      "collectedAt": "2026-11-25T03:31:40.941832702Z",
+      "contentHash": "8552ee53c8fc6f97f0fe8f3a686e8a7670a45a70d4f3f8c6253e9ecc9d7f6823",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/greenwich-rx-issues-voluntary-nationwide-recall-compounded-sterile-products-due-lack-sterility"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "005d2459-4058-3379-8051-3419206fddc6",
+      "sourceId": "pmda-safety-updates",
+      "sourceName": "Japan PMDA Safety Updates",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/medical-safety-information/0024.html",
+      "canonicalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/medical-safety-information/0024.html",
+      "titleOriginal": "MHLW Pharmaceuticals and Medical Devices Safety Information No.432 posted",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "JP",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Pharmaceuticals and Medical Devices Agency"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-25T03:31:41.984767294Z",
+      "contentHash": "2bdb92eb969756dd473b1a8eac058c4b8a2ac564fd7c68419defc2c1cf07e59f",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "pmda-safety-updates",
+          "sourceName": "Japan PMDA Safety Updates",
+          "sourceTier": "A",
+          "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/medical-safety-information/0024.html"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "54a4eb18-1367-3a48-bc28-fe4fd3c47e1d",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/relayr-pro-and-treor-stent-graft-systems",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/relayr-pro-and-treor-stent-graft-systems",
+      "titleOriginal": "Relay® Pro and Treo® Stent-Graft Systems",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "collectedAt": "2026-11-25T03:31:41.367863736Z",
+      "contentHash": "3cd9cc9e15d4bb3c22f40a984ef0642f56502a7e3ecef1e8ef80cd5b2499ad08",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/relayr-pro-and-treor-stent-graft-systems"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "89893185-fad0-3f5e-9ca9-5c383544fc91",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
+      "titleOriginal": "What’s New for Biologics",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T23:15:29Z",
+      "collectedAt": "2026-11-25T03:31:41.370889915Z",
+      "contentHash": "fc98e573fafce6836080535f0272696bd441438c43f99206d021c545ec43bd17",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "2da81926-da8c-3893-be6b-1a409a26fe41",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/whats-new-biologics/statement-deramiocel-bla-duchenne-muscular-dystrophy",
+      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/whats-new-biologics/statement-deramiocel-bla-duchenne-muscular-dystrophy",
+      "titleOriginal": "Statement on Deramiocel BLA for Duchenne Muscular Dystrophy",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T23:11:20Z",
+      "collectedAt": "2026-11-25T03:31:41.371395797Z",
+      "contentHash": "ef8b0cf937b177d260d43157a701ea2b82a4ba04e3068311856e5007a5fd1455",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/whats-new-biologics/statement-deramiocel-bla-duchenne-muscular-dystrophy"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "5fc8d6dd-595b-35ea-ab4e-5ba7dda80f28",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/stephen-j-fallon-phd-728673-11132026",
+      "canonicalUrl": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/stephen-j-fallon-phd-728673-11132026",
+      "titleOriginal": "Stephen J. Fallon, Ph.D. - 728673 - 11/13/2026",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T15:04:59Z",
+      "collectedAt": "2026-11-25T03:31:41.371653417Z",
+      "contentHash": "460d9a4e6b50a4db888dc73076c99169e466014670b37f4e99caa33bb24d61d9",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/stephen-j-fallon-phd-728673-11132026"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "da2f83de-6d8b-37dd-bf92-6b71115f67d9",
+      "sourceId": "fda-biologics-news",
+      "sourceName": "FDA Vaccines, Blood and Biologics",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/stephen-j-fallon-phd-728673-08272026",
+      "canonicalUrl": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/stephen-j-fallon-phd-728673-08272026",
+      "titleOriginal": "Stephen J. Fallon, Ph.D. - 728673 - 08/27/2026",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T15:04:31Z",
+      "collectedAt": "2026-11-25T03:31:41.373001461Z",
+      "contentHash": "c469e3fb7ff409f62dac8ea3d7678271d677e6ba84ec587ac7c2ceb750599769",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-biologics-news",
+          "sourceName": "FDA Vaccines, Blood and Biologics",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/stephen-j-fallon-phd-728673-08272026"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "b9b3f577-b4d5-3301-9264-5b4726638e88",
+      "sourceId": "fda-medwatch-alerts",
+      "sourceName": "FDA MedWatch Safety Alerts",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heraeus-medical-components-removes-vascular-guidewires",
+      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heraeus-medical-components-removes-vascular-guidewires",
+      "titleOriginal": "Early Alert: Heraeus Medical Components Removes Vascular Guidewires",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "quality_safety",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. Food and Drug Administration"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-20T05:00:00Z",
+      "collectedAt": "2026-11-25T03:31:40.944553902Z",
+      "contentHash": "976d0fcc14fb49e731682783e14654deb684f1ee1f6896e02a67312539f742c8",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "fda-medwatch-alerts",
+          "sourceName": "FDA MedWatch Safety Alerts",
+          "sourceTier": "A",
+          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heraeus-medical-components-removes-vascular-guidewires"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关"
+      ]
+    },
     {
       "id": "632efc25-7c0c-36e8-b00c-d1ce35a791f9",
       "sourceId": "cleveland-clinic-news",
@@ -282,491 +767,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "c820d5c2-4d7e-3520-b813-e9de4a0c6b8d",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/about-fda/office-health-advancement/office-health-advancement-oha-guidance-documents",
-      "canonicalUrl": "https://www.fda.gov/about-fda/office-health-advancement/office-health-advancement-oha-guidance-documents",
-      "titleOriginal": "Office of Health Advancement (OHA) Guidance Documents",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "policy_release"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-20T13:09:38Z",
-      "collectedAt": "2026-11-24T19:29:40.562082014Z",
-      "contentHash": "8ba4b2c52689f005be3503609a191a17e8b8d21274fe8a29401277e4bdc38c2f",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/about-fda/office-health-advancement/office-health-advancement-oha-guidance-documents"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "12a86f14-92fb-3654-863b-3f6cd733b624",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/breckenridge-pharmaceutical-inc-issues-voluntary-nationwide-consumer-level-recall-one-lot",
-      "canonicalUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/breckenridge-pharmaceutical-inc-issues-voluntary-nationwide-consumer-level-recall-one-lot",
-      "titleOriginal": "Breckenridge Pharmaceutical, Inc. Issues Voluntary Nationwide Consumer-Level Recall of One Lot of Propranolol Hydrochloride Extended-Release Capsules, USP, 60 mg, Due to Potential Metal Contamination",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-20T05:00:00Z",
-      "collectedAt": "2026-11-24T19:29:40.578580078Z",
-      "contentHash": "d16270a1fb2f5a9c3310e09586c35ccb44bc8c115612b389514476d4ee5a13a3",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/breckenridge-pharmaceutical-inc-issues-voluntary-nationwide-consumer-level-recall-one-lot"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "a9f764d9-349d-3a86-9215-aa1e4acf331a",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/greenwich-rx-issues-voluntary-nationwide-recall-compounded-sterile-products-due-lack-sterility",
-      "canonicalUrl": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/greenwich-rx-issues-voluntary-nationwide-recall-compounded-sterile-products-due-lack-sterility",
-      "titleOriginal": "Greenwich Rx Issues Voluntary Nationwide Recall of Compounded Sterile Products Due to Lack of Sterility Assurance",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-20T05:00:00Z",
-      "collectedAt": "2026-11-24T19:29:40.582031861Z",
-      "contentHash": "8552ee53c8fc6f97f0fe8f3a686e8a7670a45a70d4f3f8c6253e9ecc9d7f6823",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/greenwich-rx-issues-voluntary-nationwide-recall-compounded-sterile-products-due-lack-sterility"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "005d2459-4058-3379-8051-3419206fddc6",
-      "sourceId": "pmda-safety-updates",
-      "sourceName": "Japan PMDA Safety Updates",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/medical-safety-information/0024.html",
-      "canonicalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/medical-safety-information/0024.html",
-      "titleOriginal": "MHLW Pharmaceuticals and Medical Devices Safety Information No.432 posted",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "JP",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Pharmaceuticals and Medical Devices Agency"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "collectedAt": "2026-11-24T19:29:41.625512617Z",
-      "contentHash": "2bdb92eb969756dd473b1a8eac058c4b8a2ac564fd7c68419defc2c1cf07e59f",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "pmda-safety-updates",
-          "sourceName": "Japan PMDA Safety Updates",
-          "sourceTier": "A",
-          "originalUrl": "https://www.pmda.go.jp/english/safety/info-services/drugs/medical-safety-information/0024.html"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "54a4eb18-1367-3a48-bc28-fe4fd3c47e1d",
-      "sourceId": "health-canada-health-products",
-      "sourceName": "Health Canada Health Product Recalls",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/relayr-pro-and-treor-stent-graft-systems",
-      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/relayr-pro-and-treor-stent-graft-systems",
-      "titleOriginal": "Relay® Pro and Treo® Stent-Graft Systems",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Health Canada"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-20T00:00:00Z",
-      "collectedAt": "2026-11-24T19:29:41.084108744Z",
-      "contentHash": "3cd9cc9e15d4bb3c22f40a984ef0642f56502a7e3ecef1e8ef80cd5b2499ad08",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "health-canada-health-products",
-          "sourceName": "Health Canada Health Product Recalls",
-          "sourceTier": "A",
-          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/relayr-pro-and-treor-stent-graft-systems"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "89893185-fad0-3f5e-9ca9-5c383544fc91",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
-      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics",
-      "titleOriginal": "What’s New for Biologics",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-20T23:15:29Z",
-      "collectedAt": "2026-11-24T19:29:40.560802491Z",
-      "contentHash": "fc98e573fafce6836080535f0272696bd441438c43f99206d021c545ec43bd17",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/whats-new-biologics"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "2da81926-da8c-3893-be6b-1a409a26fe41",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/whats-new-biologics/statement-deramiocel-bla-duchenne-muscular-dystrophy",
-      "canonicalUrl": "https://www.fda.gov/vaccines-blood-biologics/whats-new-biologics/statement-deramiocel-bla-duchenne-muscular-dystrophy",
-      "titleOriginal": "Statement on Deramiocel BLA for Duchenne Muscular Dystrophy",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-20T23:11:20Z",
-      "collectedAt": "2026-11-24T19:29:40.561204238Z",
-      "contentHash": "ef8b0cf937b177d260d43157a701ea2b82a4ba04e3068311856e5007a5fd1455",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/vaccines-blood-biologics/whats-new-biologics/statement-deramiocel-bla-duchenne-muscular-dystrophy"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "5fc8d6dd-595b-35ea-ab4e-5ba7dda80f28",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/stephen-j-fallon-phd-728673-11132026",
-      "canonicalUrl": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/stephen-j-fallon-phd-728673-11132026",
-      "titleOriginal": "Stephen J. Fallon, Ph.D. - 728673 - 11/13/2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-20T15:04:59Z",
-      "collectedAt": "2026-11-24T19:29:40.561671914Z",
-      "contentHash": "460d9a4e6b50a4db888dc73076c99169e466014670b37f4e99caa33bb24d61d9",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/stephen-j-fallon-phd-728673-11132026"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "da2f83de-6d8b-37dd-bf92-6b71115f67d9",
-      "sourceId": "fda-biologics-news",
-      "sourceName": "FDA Vaccines, Blood and Biologics",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/stephen-j-fallon-phd-728673-08272026",
-      "canonicalUrl": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/stephen-j-fallon-phd-728673-08272026",
-      "titleOriginal": "Stephen J. Fallon, Ph.D. - 728673 - 08/27/2026",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-20T15:04:31Z",
-      "collectedAt": "2026-11-24T19:29:40.561879578Z",
-      "contentHash": "c469e3fb7ff409f62dac8ea3d7678271d677e6ba84ec587ac7c2ceb750599769",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-biologics-news",
-          "sourceName": "FDA Vaccines, Blood and Biologics",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/stephen-j-fallon-phd-728673-08272026"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "b9b3f577-b4d5-3301-9264-5b4726638e88",
-      "sourceId": "fda-medwatch-alerts",
-      "sourceName": "FDA MedWatch Safety Alerts",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heraeus-medical-components-removes-vascular-guidewires",
-      "canonicalUrl": "https://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heraeus-medical-components-removes-vascular-guidewires",
-      "titleOriginal": "Early Alert: Heraeus Medical Components Removes Vascular Guidewires",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "quality_safety",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. Food and Drug Administration"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-20T05:00:00Z",
-      "collectedAt": "2026-11-24T19:29:40.581842144Z",
-      "contentHash": "976d0fcc14fb49e731682783e14654deb684f1ee1f6896e02a67312539f742c8",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "fda-medwatch-alerts",
-          "sourceName": "FDA MedWatch Safety Alerts",
-          "sourceTier": "A",
-          "originalUrl": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heraeus-medical-components-removes-vascular-guidewires"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关"
-      ]
     },
     {
       "id": "4607c0eb-559a-312a-bc47-eeea2a681ba4",
