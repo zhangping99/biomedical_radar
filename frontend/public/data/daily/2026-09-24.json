@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-25T22:42:50.933646156Z",
+  "generatedAt": "2026-11-25T23:04:50.678109641Z",
   "articles": [
+    {
+      "id": "8ec09304-1482-3d38-9864-69ba3bd063ac",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07838155",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07838155",
+      "titleOriginal": "A Study of Donanemab (LY3002813) in Participants With Early Symptomatic Alzheimer\u0027s Disease",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Alzheimer Disease"
+      ],
+      "publishedAt": "2026-09-24T00:00:00Z",
+      "collectedAt": "2026-11-25T23:04:47.534649432Z",
+      "contentHash": "53750a99cc4b3208cd9680f9062f1c3035823d6465c6a17afb4c9bca34a8ecf3",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07838155"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "a6227df0-2398-3b29-8620-147a2058e1c5",
       "sourceId": "hansoh-news",
