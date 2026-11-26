@@ -1,7 +1,56 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-26T13:52:31.826473567Z",
+  "generatedAt": "2026-11-26T21:56:16.555254665Z",
   "articles": [
+    {
+      "id": "ccb02dd0-08b1-352d-bbf7-2c1287e4650e",
+      "sourceId": "beijing-health-policy",
+      "sourceName": "Beijing Municipal Health Commission",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202611/t20261126_4958429.html",
+      "canonicalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202611/t20261126_4958429.html",
+      "titleOriginal": "北京市卫生健康委员会关于同意北京大学人民医院为11项北京市重点医疗技术培训基地的批复",
+      "titleZh": "北京市卫生健康委员会关于同意北京大学人民医院为11项北京市重点医疗技术培训基地的批复",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "policy_regulation",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "北京市卫生健康委员会"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-25T00:00:00Z",
+      "collectedAt": "2026-11-26T21:55:35.332455937Z",
+      "contentHash": "42307a0e3877e68e3a619660db93e737cd7d751e5ca8ca97a11fb3c8fe20b6a6",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "beijing-health-policy",
+          "sourceName": "Beijing Municipal Health Commission",
+          "sourceTier": "A",
+          "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202611/t20261126_4958429.html"
+        }
+      ],
+      "importanceScore": 58,
+      "importanceReasons": [
+        "官方一手来源",
+        "政策或安全相关",
+        "近期更新"
+      ]
+    },
     {
       "id": "24127c4b-8ca3-3cd4-8a40-47a85434facc",
       "sourceId": "fda-drug-news",
@@ -3954,55 +4003,6 @@
       ],
       "importanceScore": 28,
       "importanceReasons": [
-        "近期更新"
-      ]
-    },
-    {
-      "id": "ccb02dd0-08b1-352d-bbf7-2c1287e4650e",
-      "sourceId": "beijing-health-policy",
-      "sourceName": "Beijing Municipal Health Commission",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202611/t20261126_4958429.html",
-      "canonicalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202611/t20261126_4958429.html",
-      "titleOriginal": "北京市卫生健康委员会关于同意北京大学人民医院为11项北京市重点医疗技术培训基地的批复",
-      "titleZh": "北京市卫生健康委员会关于同意北京大学人民医院为11项北京市重点医疗技术培训基地的批复",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "policy_regulation",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "北京市卫生健康委员会"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-25T00:00:00Z",
-      "collectedAt": "2026-11-26T08:53:55.855882967Z",
-      "contentHash": "42307a0e3877e68e3a619660db93e737cd7d751e5ca8ca97a11fb3c8fe20b6a6",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "beijing-health-policy",
-          "sourceName": "Beijing Municipal Health Commission",
-          "sourceTier": "A",
-          "originalUrl": "https://wjw.beijing.gov.cn/zwgk_20040/qt/202611/t20261126_4958429.html"
-        }
-      ],
-      "importanceScore": 58,
-      "importanceReasons": [
-        "官方一手来源",
-        "政策或安全相关",
         "近期更新"
       ]
     },
