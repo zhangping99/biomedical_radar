@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-26T08:55:20.284264572Z",
+  "generatedAt": "2026-11-26T10:00:11.647093010Z",
   "articles": [
     {
       "id": "05a7d2e6-7324-3d04-be4d-c82f708737c9",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-28T12:00:00Z",
-      "collectedAt": "2026-11-25T22:42:40.973347069Z",
+      "collectedAt": "2026-11-26T10:00:07.679152046Z",
       "contentHash": "328adb8463682315be1626a5d31f151850cc36c68e5aaf600ff9249d0c1fb902",
       "generated": false,
       "generatorVersion": null,
@@ -75,7 +75,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-28T00:00:00Z",
-      "collectedAt": "2026-11-25T22:42:40.712769338Z",
+      "collectedAt": "2026-11-26T10:00:11.581648220Z",
       "contentHash": "12c71ed108aa9f061e8daa2887fea22c4e79a50020e9057d47df3a151aad9441",
       "generated": false,
       "generatorVersion": null,
@@ -122,7 +122,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-28T00:00:00Z",
-      "collectedAt": "2026-11-25T22:42:39.950202131Z",
+      "collectedAt": "2026-11-26T10:00:07.459274495Z",
       "contentHash": "16f32705040c580b2014a497f5a4565dbb9a91467dee4086ed3b07953472bc48",
       "generated": false,
       "generatorVersion": null,
@@ -169,7 +169,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-10-28T07:00:00Z",
-      "collectedAt": "2026-11-25T22:42:37.793813876Z",
+      "collectedAt": "2026-11-26T10:00:05.402993115Z",
       "contentHash": "177a732d291d88867274f87920ee98e924568c238e9c2e62521e1bd5a9e05b41",
       "generated": false,
       "generatorVersion": null,
@@ -183,6 +183,96 @@
           "sourceName": "GSK Press Releases",
           "sourceTier": "B",
           "originalUrl": "https://www.gsk.com/en-gb/media/press-releases/gsk-delivers-strong-q3-performance-and-continued-momentum/"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "3882ea34-df6f-3f1e-bfe6-8453e9df90d2",
+      "sourceId": "hengrui-focus-news",
+      "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.hengrui.com/media/detail-1062.html",
+      "canonicalUrl": "https://www.hengrui.com/media/detail-1062.html",
+      "titleOriginal": "恒瑞医药2026年第三季度亮点盘点",
+      "titleZh": "恒瑞医药2026年第三季度亮点盘点",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "恒瑞医药"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T00:00:00Z",
+      "collectedAt": "2026-11-26T10:00:11.581557922Z",
+      "contentHash": "65673e201a895aac547b3efb830c9644acba406ebcdf6ef69e9f963beea16cb8",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "hengrui-focus-news",
+          "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
+          "sourceTier": "B",
+          "originalUrl": "https://www.hengrui.com/media/detail-1062.html"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "32e3a807-9c74-3bf5-8d00-86c45f89b7c5",
+      "sourceId": "junshi-news",
+      "sourceName": "君实生物新闻",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.junshipharma.com/%e5%90%9b%e5%ae%9e%e7%94%9f%e7%89%a9%e5%ae%a3%e5%b8%83%e7%89%b9%e7%91%9e%e6%99%ae%e5%88%a9%e5%8d%95%e6%8a%97%ef%bc%88%e7%9a%ae%e4%b8%8b%e6%b3%a8%e5%b0%84%ef%bc%89%e7%ac%ac13%e9%a1%b9%e4%b8%8a%e5%b8%82/",
+      "canonicalUrl": "https://www.junshipharma.com/%E5%90%9B%E5%AE%9E%E7%94%9F%E7%89%A9%E5%AE%A3%E5%B8%83%E7%89%B9%E7%91%9E%E6%99%AE%E5%88%A9%E5%8D%95%E6%8A%97%EF%BC%88%E7%9A%AE%E4%B8%8B%E6%B3%A8%E5%B0%84%EF%BC%89%E7%AC%AC13%E9%A1%B9%E4%B8%8A%E5%B8%82",
+      "titleOriginal": "君实生物宣布特瑞普利单抗(皮下注射)第13项上市申请获受理",
+      "titleZh": "君实生物宣布特瑞普利单抗(皮下注射)第13项上市申请获受理",
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "zh-CN",
+      "region": "CN",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "君实生物"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-10-28T00:00:00Z",
+      "collectedAt": "2026-11-26T10:00:07.459637450Z",
+      "contentHash": "aa3c6bbbfda3f8eba29e6092e68ae7c094946b21604dd3a8ca62dc639df8c4d8",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "junshi-news",
+          "sourceName": "君实生物新闻",
+          "sourceTier": "B",
+          "originalUrl": "https://www.junshipharma.com/%e5%90%9b%e5%ae%9e%e7%94%9f%e7%89%a9%e5%ae%a3%e5%b8%83%e7%89%b9%e7%91%9e%e6%99%ae%e5%88%a9%e5%8d%95%e6%8a%97%ef%bc%88%e7%9a%ae%e4%b8%8b%e6%b3%a8%e5%b0%84%ef%bc%89%e7%ac%ac13%e9%a1%b9%e4%b8%8a%e5%b8%82/"
         }
       ],
       "importanceScore": 20,
@@ -234,51 +324,6 @@
       "importanceReasons": []
     },
     {
-      "id": "3882ea34-df6f-3f1e-bfe6-8453e9df90d2",
-      "sourceId": "hengrui-focus-news",
-      "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.hengrui.com/media/detail-1062.html",
-      "canonicalUrl": "https://www.hengrui.com/media/detail-1062.html",
-      "titleOriginal": "恒瑞医药2026年第三季度亮点盘点",
-      "titleZh": "恒瑞医药2026年第三季度亮点盘点",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "恒瑞医药"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-28T00:00:00Z",
-      "collectedAt": "2026-11-25T22:42:40.712598917Z",
-      "contentHash": "65673e201a895aac547b3efb830c9644acba406ebcdf6ef69e9f963beea16cb8",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "hengrui-focus-news",
-          "sourceName": "Jiangsu Hengrui Pharmaceuticals Focus News",
-          "sourceTier": "B",
-          "originalUrl": "https://www.hengrui.com/media/detail-1062.html"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
       "id": "9b651655-089f-323b-b194-ba6dc4f42fb8",
       "sourceId": "hansoh-news",
       "sourceName": "翰森制药新闻发布",
@@ -318,51 +363,6 @@
           "sourceName": "翰森制药新闻发布",
           "sourceTier": "B",
           "originalUrl": "https://www.hansoh.cn/news/news-detail-514101.htm"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
-    {
-      "id": "32e3a807-9c74-3bf5-8d00-86c45f89b7c5",
-      "sourceId": "junshi-news",
-      "sourceName": "君实生物新闻",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.junshipharma.com/%e5%90%9b%e5%ae%9e%e7%94%9f%e7%89%a9%e5%ae%a3%e5%b8%83%e7%89%b9%e7%91%9e%e6%99%ae%e5%88%a9%e5%8d%95%e6%8a%97%ef%bc%88%e7%9a%ae%e4%b8%8b%e6%b3%a8%e5%b0%84%ef%bc%89%e7%ac%ac13%e9%a1%b9%e4%b8%8a%e5%b8%82/",
-      "canonicalUrl": "https://www.junshipharma.com/%E5%90%9B%E5%AE%9E%E7%94%9F%E7%89%A9%E5%AE%A3%E5%B8%83%E7%89%B9%E7%91%9E%E6%99%AE%E5%88%A9%E5%8D%95%E6%8A%97%EF%BC%88%E7%9A%AE%E4%B8%8B%E6%B3%A8%E5%B0%84%EF%BC%89%E7%AC%AC13%E9%A1%B9%E4%B8%8A%E5%B8%82",
-      "titleOriginal": "君实生物宣布特瑞普利单抗(皮下注射)第13项上市申请获受理",
-      "titleZh": "君实生物宣布特瑞普利单抗(皮下注射)第13项上市申请获受理",
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "zh-CN",
-      "region": "CN",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "君实生物"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-10-28T00:00:00Z",
-      "collectedAt": "2026-11-25T22:42:39.950694Z",
-      "contentHash": "aa3c6bbbfda3f8eba29e6092e68ae7c094946b21604dd3a8ca62dc639df8c4d8",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "junshi-news",
-          "sourceName": "君实生物新闻",
-          "sourceTier": "B",
-          "originalUrl": "https://www.junshipharma.com/%e5%90%9b%e5%ae%9e%e7%94%9f%e7%89%a9%e5%ae%a3%e5%b8%83%e7%89%b9%e7%91%9e%e6%99%ae%e5%88%a9%e5%8d%95%e6%8a%97%ef%bc%88%e7%9a%ae%e4%b8%8b%e6%b3%a8%e5%b0%84%ef%bc%89%e7%ac%ac13%e9%a1%b9%e4%b8%8a%e5%b8%82/"
         }
       ],
       "importanceScore": 20,
