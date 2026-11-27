@@ -1,52 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-27T21:39:53.641059481Z",
+  "generatedAt": "2026-11-27T22:17:59.610100990Z",
   "articles": [
-    {
-      "id": "05b76576-33d3-3e26-9ae3-dc3edf3e2fa9",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/14/cleveland-clinic-study-identifies-best-treatment-strategies-for-weight-loss-after-stopping-glp-1-drugs",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/11/14/cleveland-clinic-study-identifies-best-treatment-strategies-for-weight-loss-after-stopping-glp-1-drugs",
-      "titleOriginal": "Cleveland Clinic Study Identifies Best Treatment Strategies for Weight Loss After Stopping GLP-1 Drugs",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-14T00:00:00Z",
-      "collectedAt": "2026-11-27T13:02:01.387332731Z",
-      "contentHash": "b9f305f6ac8c4def138f753572b0c8dba18e11fe0df2a7028a7fac3d88b2cdab",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/14/cleveland-clinic-study-identifies-best-treatment-strategies-for-weight-loss-after-stopping-glp-1-drugs"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
     {
       "id": "f78092b3-1728-3a9e-884b-6047a645ab08",
       "sourceId": "hansoh-news",
@@ -73,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-14T00:00:00Z",
-      "collectedAt": "2026-11-27T10:05:50.545743978Z",
+      "collectedAt": "2026-11-27T22:17:52.520610305Z",
       "contentHash": "b03d4631bade97cbbeede777c38f7e09ec81b14d2f86c88afdc543c6c7c9e1a6",
       "generated": false,
       "generatorVersion": null,
@@ -118,7 +73,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-14T00:00:00Z",
-      "collectedAt": "2026-11-27T10:05:50.545930684Z",
+      "collectedAt": "2026-11-27T22:17:52.520704207Z",
       "contentHash": "dfa25a83c15634c43280f8049d57b6e31df4dca0bdf27386a7f1888288a06d3f",
       "generated": false,
       "generatorVersion": null,
@@ -132,6 +87,51 @@
           "sourceName": "翰森制药新闻发布",
           "sourceTier": "B",
           "originalUrl": "https://www.hansoh.cn/news/news-detail-514109.htm"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "05b76576-33d3-3e26-9ae3-dc3edf3e2fa9",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/14/cleveland-clinic-study-identifies-best-treatment-strategies-for-weight-loss-after-stopping-glp-1-drugs",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/11/14/cleveland-clinic-study-identifies-best-treatment-strategies-for-weight-loss-after-stopping-glp-1-drugs",
+      "titleOriginal": "Cleveland Clinic Study Identifies Best Treatment Strategies for Weight Loss After Stopping GLP-1 Drugs",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "collectedAt": "2026-11-27T13:02:01.387332731Z",
+      "contentHash": "b9f305f6ac8c4def138f753572b0c8dba18e11fe0df2a7028a7fac3d88b2cdab",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/14/cleveland-clinic-study-identifies-best-treatment-strategies-for-weight-loss-after-stopping-glp-1-drugs"
         }
       ],
       "importanceScore": 20,

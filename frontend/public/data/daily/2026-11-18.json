@@ -1,52 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-27T21:39:53.641059481Z",
+  "generatedAt": "2026-11-27T22:17:59.610100990Z",
   "articles": [
-    {
-      "id": "5182d41c-653b-3b62-bf7d-4cc2115f17c4",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/18/self-care-is-key-when-caring-for-others",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/11/18/self-care-is-key-when-caring-for-others",
-      "titleOriginal": "Self-Care is Key When Caring for Others",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-18T00:00:00Z",
-      "collectedAt": "2026-11-27T13:02:01.385672124Z",
-      "contentHash": "7a03f42603fe53ddf0f7dff6c963ef274740f34e5ef5f32306ebdb77be99c81c",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/18/self-care-is-key-when-caring-for-others"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
-    },
     {
       "id": "5e1d3386-18d1-3be4-8c2a-3933bbd46646",
       "sourceId": "sanofi-press-releases",
@@ -73,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-18T00:00:00Z",
-      "collectedAt": "2026-11-27T10:05:48.468866110Z",
+      "collectedAt": "2026-11-27T22:17:50.010836498Z",
       "contentHash": "40a68cd207148691f2b8d222cf1c344fc51037f6df3991305182f0c1757c9adb",
       "generated": false,
       "generatorVersion": null,
@@ -120,7 +75,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-18T00:00:00Z",
-      "collectedAt": "2026-11-27T10:05:47.921939354Z",
+      "collectedAt": "2026-11-27T22:17:49.799275689Z",
       "contentHash": "e9580ffffe2dfcf03e9d4034a5744e626e69f3f2b8968ef6229fbce8bc639fac",
       "generated": false,
       "generatorVersion": null,
@@ -165,7 +120,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-18T00:00:00Z",
-      "collectedAt": "2026-11-27T10:05:47.928370307Z",
+      "collectedAt": "2026-11-27T22:17:49.869154570Z",
       "contentHash": "2833d850343b15ebfae15f4e4bb90e75604b626b885aa122888243729eae6d19",
       "generated": false,
       "generatorVersion": null,
@@ -210,7 +165,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-18T00:00:00Z",
-      "collectedAt": "2026-11-27T10:05:51.511491284Z",
+      "collectedAt": "2026-11-27T22:17:52.397881737Z",
       "contentHash": "2f912d88a222117bfe5c9b39f1d91b9c745ace90cb6a8d0a285455002f69a3f4",
       "generated": false,
       "generatorVersion": null,
@@ -224,6 +179,51 @@
           "sourceName": "三生制药新闻",
           "sourceTier": "B",
           "originalUrl": "https://www.3sbio.com/news/details.aspx?id\u003d371"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "5182d41c-653b-3b62-bf7d-4cc2115f17c4",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/18/self-care-is-key-when-caring-for-others",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/11/18/self-care-is-key-when-caring-for-others",
+      "titleOriginal": "Self-Care is Key When Caring for Others",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-18T00:00:00Z",
+      "collectedAt": "2026-11-27T13:02:01.385672124Z",
+      "contentHash": "7a03f42603fe53ddf0f7dff6c963ef274740f34e5ef5f32306ebdb77be99c81c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/18/self-care-is-key-when-caring-for-others"
         }
       ],
       "importanceScore": 20,
