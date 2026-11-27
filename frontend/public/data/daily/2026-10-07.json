@@ -1,7 +1,58 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-27T10:05:51.646709403Z",
+  "generatedAt": "2026-11-27T10:48:50.855780178Z",
   "articles": [
+    {
+      "id": "79fb178c-00b2-33a4-be12-70b7cd754e88",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07863193",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07863193",
+      "titleOriginal": "Phase 3 Study of Denifanstat in Participants With Moderate to Severe Acne (AURORA)",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "drug_rd",
+      "eventTypes": [
+        "phase_3_result",
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Acne Vulgaris"
+      ],
+      "publishedAt": "2026-10-07T00:00:00Z",
+      "collectedAt": "2026-11-27T10:48:42.082365806Z",
+      "contentHash": "96a7d8b5611e58c8aa211a1e54205fbf25590b8fe0205ccd24297b4f1c4d221a",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07863193"
+        }
+      ],
+      "importanceScore": 50,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件"
+      ]
+    },
     {
       "id": "1ff1c8fd-5f55-3f7b-b928-9241c7c8c408",
       "sourceId": "pfizer-press-releases",
@@ -46,57 +97,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "79fb178c-00b2-33a4-be12-70b7cd754e88",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07863193",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07863193",
-      "titleOriginal": "Phase 3 Study of Denifanstat in Participants With Moderate to Severe Acne (AURORA)",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "drug_rd",
-      "eventTypes": [
-        "phase_3_result",
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Acne Vulgaris"
-      ],
-      "publishedAt": "2026-10-07T00:00:00Z",
-      "collectedAt": "2026-11-26T22:58:18.339354487Z",
-      "contentHash": "96a7d8b5611e58c8aa211a1e54205fbf25590b8fe0205ccd24297b4f1c4d221a",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07863193"
-        }
-      ],
-      "importanceScore": 50,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件"
-      ]
     },
     {
       "id": "aa631f91-25d4-3c58-9c62-13bfd661ac9f",
