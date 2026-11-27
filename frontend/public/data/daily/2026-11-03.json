@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-27T09:05:13.991033320Z",
+  "generatedAt": "2026-11-27T10:05:51.646709403Z",
   "articles": [
     {
       "id": "9e2e3ca9-4e2a-32d7-9978-eb6e3ff0d979",
@@ -28,7 +28,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-03T00:00:00Z",
-      "collectedAt": "2026-11-26T22:33:23.162928672Z",
+      "collectedAt": "2026-11-27T10:05:47.929150587Z",
       "contentHash": "0d484a8a8e92e4a1a3983625c265f96a68f60d091b4144bbf28c6e8ee97bc251",
       "generated": false,
       "generatorVersion": null,
@@ -76,7 +76,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-03T13:00:00Z",
-      "collectedAt": "2026-11-26T22:33:26.428367516Z",
+      "collectedAt": "2026-11-27T10:05:50.409891146Z",
       "contentHash": "65cd630bc937682c5c78f700264a190f4286308fd6849a9d53654f3df3d31d1c",
       "generated": false,
       "generatorVersion": null,
@@ -90,6 +90,51 @@
           "sourceName": "AbbVie News",
           "sourceTier": "B",
           "originalUrl": "https://news.abbvie.com/2026-11-03-Allergan-Aesthetics-to-Present-New-Research-on-Aesthetic-Care-Following-Medical-Weight-Loss-and-Evolving-Patient-Needs-at-ASDS-2026"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
+    {
+      "id": "3c9b0bab-d0c3-3cbe-8da2-1fd431d2f69e",
+      "sourceId": "amgen-news-releases",
+      "sourceName": "Amgen News Releases",
+      "sourceTier": "B",
+      "sourceType": "company",
+      "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/11/amgen-reports-third-quarter-2026-financial-results",
+      "canonicalUrl": "https://www.amgen.com/newsroom/press-releases/2026/11/amgen-reports-third-quarter-2026-financial-results",
+      "titleOriginal": "AMGEN REPORTS THIRD QUARTER 2026 FINANCIAL RESULTS",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "pharma_biotech",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "company",
+          "name": "Amgen"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "collectedAt": "2026-11-27T10:05:48.216946790Z",
+      "contentHash": "cf7f9319c7668e4f218808a39ab210f38a573586f2ca3d1c64ea95b5b920201d",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "amgen-news-releases",
+          "sourceName": "Amgen News Releases",
+          "sourceTier": "B",
+          "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/11/amgen-reports-third-quarter-2026-financial-results"
         }
       ],
       "importanceScore": 20,
@@ -121,7 +166,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-03T00:00:00Z",
-      "collectedAt": "2026-11-26T22:33:23.163178446Z",
+      "collectedAt": "2026-11-27T10:05:47.929597779Z",
       "contentHash": "c971694e8cce2a86c69046d4b7115d98e242ba0f7fd2b690eda44565a65d9bfd",
       "generated": false,
       "generatorVersion": null,
@@ -187,51 +232,6 @@
         "官方一手来源",
         "政策或安全相关"
       ]
-    },
-    {
-      "id": "3c9b0bab-d0c3-3cbe-8da2-1fd431d2f69e",
-      "sourceId": "amgen-news-releases",
-      "sourceName": "Amgen News Releases",
-      "sourceTier": "B",
-      "sourceType": "company",
-      "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/11/amgen-reports-third-quarter-2026-financial-results",
-      "canonicalUrl": "https://www.amgen.com/newsroom/press-releases/2026/11/amgen-reports-third-quarter-2026-financial-results",
-      "titleOriginal": "AMGEN REPORTS THIRD QUARTER 2026 FINANCIAL RESULTS",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "pharma_biotech",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "company",
-          "name": "Amgen"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-03T00:00:00Z",
-      "collectedAt": "2026-11-25T22:42:50.810201196Z",
-      "contentHash": "cf7f9319c7668e4f218808a39ab210f38a573586f2ca3d1c64ea95b5b920201d",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "amgen-news-releases",
-          "sourceName": "Amgen News Releases",
-          "sourceTier": "B",
-          "originalUrl": "https://www.amgen.com/newsroom/press-releases/2026/11/amgen-reports-third-quarter-2026-financial-results"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     },
     {
       "id": "fecb018c-75e4-3781-8e08-84047eef66f8",
