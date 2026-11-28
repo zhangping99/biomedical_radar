@@ -1,7 +1,52 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-28T10:20:54.463951556Z",
+  "generatedAt": "2026-11-28T12:15:51.573855465Z",
   "articles": [
+    {
+      "id": "5b325f11-2bb4-3470-a467-82f054cd1577",
+      "sourceId": "cleveland-clinic-news",
+      "sourceName": "Cleveland Clinic Newsroom",
+      "sourceTier": "B",
+      "sourceType": "media",
+      "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/13/cleveland-clinic-opens-teaching-kitchen-and-food-pantry-on-clevelands-east-side",
+      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/11/13/cleveland-clinic-opens-teaching-kitchen-and-food-pantry-on-clevelands-east-side",
+      "titleOriginal": "Cleveland Clinic Opens Teaching Kitchen and Food Pantry on Cleveland\u0027s East Side",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "US",
+      "category": "hospital_service",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "hospital",
+          "name": "Cleveland Clinic"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-13T00:00:00Z",
+      "collectedAt": "2026-11-28T12:15:46.176259339Z",
+      "contentHash": "d03f5c6609098f5bf25f0c0ae7d7a022964f2fb29b5bd82f0cec09a2cd1cc723",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "cleveland-clinic-news",
+          "sourceName": "Cleveland Clinic Newsroom",
+          "sourceTier": "B",
+          "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/13/cleveland-clinic-opens-teaching-kitchen-and-food-pantry-on-clevelands-east-side"
+        }
+      ],
+      "importanceScore": 20,
+      "importanceReasons": []
+    },
     {
       "id": "a5860390-c527-3e1d-9c44-dc2cb874f3c0",
       "sourceId": "clinicaltrials-recent",
@@ -559,51 +604,6 @@
         "官方一手来源",
         "政策或安全相关"
       ]
-    },
-    {
-      "id": "5b325f11-2bb4-3470-a467-82f054cd1577",
-      "sourceId": "cleveland-clinic-news",
-      "sourceName": "Cleveland Clinic Newsroom",
-      "sourceTier": "B",
-      "sourceType": "media",
-      "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/13/cleveland-clinic-opens-teaching-kitchen-and-food-pantry-on-clevelands-east-side",
-      "canonicalUrl": "https://newsroom.clevelandclinic.org/2026/11/13/cleveland-clinic-opens-teaching-kitchen-and-food-pantry-on-clevelands-east-side",
-      "titleOriginal": "Cleveland Clinic Opens Teaching Kitchen and Food Pantry on Cleveland\u0027s East Side",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "US",
-      "category": "hospital_service",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "hospital",
-          "name": "Cleveland Clinic"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-13T00:00:00Z",
-      "collectedAt": "2026-11-27T23:41:35.529447753Z",
-      "contentHash": "d03f5c6609098f5bf25f0c0ae7d7a022964f2fb29b5bd82f0cec09a2cd1cc723",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "cleveland-clinic-news",
-          "sourceName": "Cleveland Clinic Newsroom",
-          "sourceTier": "B",
-          "originalUrl": "https://newsroom.clevelandclinic.org/2026/11/13/cleveland-clinic-opens-teaching-kitchen-and-food-pantry-on-clevelands-east-side"
-        }
-      ],
-      "importanceScore": 20,
-      "importanceReasons": []
     },
     {
       "id": "7b0bc786-a2c1-3a1d-970e-a2c3fdf0ad5c",
