@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-28T00:01:59.504344689Z",
+  "generatedAt": "2026-11-28T07:44:10.998133605Z",
   "articles": [
     {
       "id": "dd7092e4-d8a9-37bc-bf01-c39510859b7b",
@@ -29,7 +29,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-24T23:04:28Z",
-      "collectedAt": "2026-11-28T00:01:57.104300710Z",
+      "collectedAt": "2026-11-28T07:44:08.025197691Z",
       "contentHash": "4dce147a29e56e6f5baf001ec60bc7e4060f7278f04557b3bc6da1c558d2b0d9",
       "generated": false,
       "generatorVersion": null,
@@ -45,12 +45,11 @@
           "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/green-lumber-holdings-llc-issues-recall-and-consumer-safety-alert"
         }
       ],
-      "importanceScore": 88,
+      "importanceScore": 80,
       "importanceReasons": [
         "官方一手来源",
         "高影响事件",
-        "政策或安全相关",
-        "近期更新"
+        "政策或安全相关"
       ]
     },
     {
@@ -79,7 +78,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-24T18:49:14Z",
-      "collectedAt": "2026-11-28T00:01:57.108934673Z",
+      "collectedAt": "2026-11-28T07:44:08.029164903Z",
       "contentHash": "3909296e7b4dd78d21df3d9fdafdbac58fe58b386da212785f3ec83f0cb4f151",
       "generated": false,
       "generatorVersion": null,
@@ -128,7 +127,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-24T16:38:42Z",
-      "collectedAt": "2026-11-28T00:01:57.109544754Z",
+      "collectedAt": "2026-11-28T07:44:08.029574318Z",
       "contentHash": "8571bedfe3c6648dcd29f8194010b9c6450bb827de1782f82766a070d03544e0",
       "generated": false,
       "generatorVersion": null,
@@ -142,55 +141,6 @@
           "sourceName": "U.S. Food and Drug Administration - Drugs",
           "sourceTier": "A",
           "originalUrl": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/par-health-issues-voluntary-nationwide-recall-certain-lots-six-injectable-drug-products-due-presence"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "5ae89644-8d96-3011-8d66-8b0d680c8f85",
-      "sourceId": "health-canada-health-products",
-      "sourceName": "Health Canada Health Product Recalls",
-      "sourceTier": "A",
-      "sourceType": "regulator",
-      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/caresite-micror-luer-access-device-and-extension-sets",
-      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/caresite-micror-luer-access-device-and-extension-sets",
-      "titleOriginal": "CARESITE Micro® Luer Access Device and Extension Sets",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "OTHER",
-      "category": "quality_safety",
-      "eventTypes": [
-        "recall"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Health Canada"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-24T00:00:00Z",
-      "collectedAt": "2026-11-28T00:01:57.600690283Z",
-      "contentHash": "2edc98068901f848d3a15aabdd27423f09f809d15a163c3dba6e9e3f159685b2",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "public_notice",
-      "sourceLinks": [
-        {
-          "sourceId": "health-canada-health-products",
-          "sourceName": "Health Canada Health Product Recalls",
-          "sourceTier": "A",
-          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/caresite-micror-luer-access-device-and-extension-sets"
         }
       ],
       "importanceScore": 65,
@@ -226,7 +176,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-24T00:00:00Z",
-      "collectedAt": "2026-11-28T00:01:57.600861513Z",
+      "collectedAt": "2026-11-28T07:44:10.915903253Z",
       "contentHash": "b9981acc7d6b4f4e96cccaab2ffcbb5ae00ec87b39e755f0abeebb3b9c2cc4ad",
       "generated": false,
       "generatorVersion": null,
@@ -275,7 +225,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-24T00:00:00Z",
-      "collectedAt": "2026-11-28T00:01:57.601012886Z",
+      "collectedAt": "2026-11-28T07:44:10.915955191Z",
       "contentHash": "db97b98fa4a12fe1393b22628e451a0d0e5a2242188df485182b955c82f25e94",
       "generated": false,
       "generatorVersion": null,
@@ -289,6 +239,55 @@
           "sourceName": "Health Canada Health Product Recalls",
           "sourceTier": "A",
           "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/teleflextm-loss-resistance-syringe"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "5ae89644-8d96-3011-8d66-8b0d680c8f85",
+      "sourceId": "health-canada-health-products",
+      "sourceName": "Health Canada Health Product Recalls",
+      "sourceTier": "A",
+      "sourceType": "regulator",
+      "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/caresite-micror-luer-access-device-and-extension-sets",
+      "canonicalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/caresite-micror-luer-access-device-and-extension-sets",
+      "titleOriginal": "CARESITE Micro® Luer Access Device and Extension Sets",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "OTHER",
+      "category": "quality_safety",
+      "eventTypes": [
+        "recall"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Health Canada"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "collectedAt": "2026-11-28T07:44:10.916052547Z",
+      "contentHash": "2edc98068901f848d3a15aabdd27423f09f809d15a163c3dba6e9e3f159685b2",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "public_notice",
+      "sourceLinks": [
+        {
+          "sourceId": "health-canada-health-products",
+          "sourceName": "Health Canada Health Product Recalls",
+          "sourceTier": "A",
+          "originalUrl": "https://recalls-rappels.canada.ca/en/alert-recall/caresite-micror-luer-access-device-and-extension-sets"
         }
       ],
       "importanceScore": 65,
@@ -324,7 +323,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-24T22:05:25Z",
-      "collectedAt": "2026-11-28T00:01:57.095111950Z",
+      "collectedAt": "2026-11-28T07:44:08.022116292Z",
       "contentHash": "814daab982c708fd2aa7e57309764f2b0e8b391fd6d8c342a5179345f17209cf",
       "generated": false,
       "generatorVersion": null,
@@ -372,7 +371,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-24T22:05:19Z",
-      "collectedAt": "2026-11-28T00:01:57.095380753Z",
+      "collectedAt": "2026-11-28T07:44:08.022365436Z",
       "contentHash": "e112b814739951b9f0f3a527f8dd6bb9d650328219d45427bfee42826116148a",
       "generated": false,
       "generatorVersion": null,
@@ -420,7 +419,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-24T21:23:58Z",
-      "collectedAt": "2026-11-28T00:01:57.107600980Z",
+      "collectedAt": "2026-11-28T07:44:08.025352133Z",
       "contentHash": "ae48bd2b40dd3ae0abf70d4768a429d0152302557bcdf9f39813c36be9c2746e",
       "generated": false,
       "generatorVersion": null,
@@ -468,7 +467,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-24T20:24:12Z",
-      "collectedAt": "2026-11-28T00:01:57.107803368Z",
+      "collectedAt": "2026-11-28T07:44:08.028519215Z",
       "contentHash": "546ab06b2ef5e0c8a5bf8d21a4faf45a893c7e5a29ce81de352747b39a84c7ab",
       "generated": false,
       "generatorVersion": null,
@@ -516,7 +515,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-24T19:39:44Z",
-      "collectedAt": "2026-11-28T00:01:57.108453894Z",
+      "collectedAt": "2026-11-28T07:44:08.028913536Z",
       "contentHash": "9d7face288a15b44eb201fa32eeade0c018a84599a490c81bd712b11e09d3462",
       "generated": false,
       "generatorVersion": null,
@@ -564,7 +563,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-24T19:10:07Z",
-      "collectedAt": "2026-11-28T00:01:57.108711937Z",
+      "collectedAt": "2026-11-28T07:44:08.029049250Z",
       "contentHash": "9f38b63e8a1fdf0b01a29d958d77ff3257422a5f31c8befbbc65f65d5bf55a24",
       "generated": false,
       "generatorVersion": null,
@@ -612,7 +611,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-24T00:00:00Z",
-      "collectedAt": "2026-11-28T00:01:57.600478467Z",
+      "collectedAt": "2026-11-28T07:44:10.915851956Z",
       "contentHash": "15b61b51d94b6eb765605f7156cf6709525bc4a6b8e8d6470e13ad05c688907e",
       "generated": false,
       "generatorVersion": null,
@@ -661,7 +660,7 @@
       ],
       "diseaseAreas": [],
       "publishedAt": "2026-11-24T20:22:19Z",
-      "collectedAt": "2026-11-28T00:01:57.095668170Z",
+      "collectedAt": "2026-11-28T07:44:08.024146358Z",
       "contentHash": "db818138864cfc94341ee0609f472bbe5889a34466e08a2d4dfd337deced5a72",
       "generated": false,
       "generatorVersion": null,
