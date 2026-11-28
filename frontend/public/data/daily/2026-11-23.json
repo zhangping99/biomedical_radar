@@ -1,7 +1,200 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2026-11-28T09:24:30.402117934Z",
+  "generatedAt": "2026-11-28T10:20:54.463951556Z",
   "articles": [
+    {
+      "id": "2090d044-f520-3b4b-9720-9810def94445",
+      "sourceId": "clinicaltrials-recent",
+      "sourceName": "ClinicalTrials.gov",
+      "sourceTier": "A",
+      "sourceType": "registry",
+      "originalUrl": "https://clinicaltrials.gov/study/NCT07953244",
+      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07953244",
+      "titleOriginal": "Efficacy and Safety of Remote Ischemic Conditioning in Hypertension",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "quality_safety",
+      "eventTypes": [
+        "safety_alert",
+        "clinical_registration"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "ClinicalTrials.gov"
+        }
+      ],
+      "diseaseAreas": [
+        "Hypertension"
+      ],
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "collectedAt": "2026-11-28T10:20:45.938080690Z",
+      "contentHash": "9a81cdd57bca9e969b99905e8a51e29fc7d7955ed4b0eda8980004e009f1de7c",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "clinicaltrials-recent",
+          "sourceName": "ClinicalTrials.gov",
+          "sourceTier": "A",
+          "originalUrl": "https://clinicaltrials.gov/study/NCT07953244"
+        }
+      ],
+      "importanceScore": 65,
+      "importanceReasons": [
+        "官方一手来源",
+        "高影响事件",
+        "政策或安全相关"
+      ]
+    },
+    {
+      "id": "797468da-56ef-3a40-a6a2-0ad3d116668c",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43101480/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43101480",
+      "titleOriginal": "Systematic review and meta-analysis of human patella sexual dimorphism.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "collectedAt": "2026-11-28T10:20:46.481547402Z",
+      "contentHash": "7ab3a8e497bf62d9a32e1196d4e967d6c61457f2b01743016d41a476597e853b",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43101480/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "6b96d589-9507-3476-aa5a-3078710db2ed",
+      "sourceId": "pubmed-recent",
+      "sourceName": "PubMed",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43100279/",
+      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43100279",
+      "titleOriginal": "Digital Mindfulness as a Pedagogical Strategy for Student Engagement in Hybrid Learning: A Systematic Review.",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "research_publication"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "U.S. National Library of Medicine"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "collectedAt": "2026-11-28T10:20:46.481726046Z",
+      "contentHash": "0a7ca2446c53e98a5a720f263acae390faa64e81d3e79812bad342cfd0aaf723",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "official_api",
+      "sourceLinks": [
+        {
+          "sourceId": "pubmed-recent",
+          "sourceName": "PubMed",
+          "sourceTier": "A",
+          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43100279/"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
+    {
+      "id": "a6b2fe1d-00f3-310a-beac-c3cbcd45d9c3",
+      "sourceId": "nature-biotechnology",
+      "sourceName": "Nature Biotechnology",
+      "sourceTier": "A",
+      "sourceType": "journal",
+      "originalUrl": "https://www.nature.com/articles/s41587-026-03284-0",
+      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03284-0",
+      "titleOriginal": "A unified framework for scalable differential testing for spatial omics",
+      "titleZh": null,
+      "summaryZh": null,
+      "whyItMattersZh": null,
+      "language": "en",
+      "region": "GLOBAL",
+      "category": "research_academic",
+      "eventTypes": [
+        "update"
+      ],
+      "entities": [
+        {
+          "type": "institution",
+          "name": "Nature Biotechnology"
+        }
+      ],
+      "diseaseAreas": [],
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "collectedAt": "2026-11-28T10:20:46.289707679Z",
+      "contentHash": "c350015e66ef9bef40949a90e9515e9c7aecdb89b1e6ec6d85954f824031d0d9",
+      "generated": false,
+      "generatorVersion": null,
+      "generatedAt": null,
+      "verificationStatus": "auto_checked",
+      "originalAccessStatus": "reachable",
+      "legalBasis": "rss_allowed",
+      "sourceLinks": [
+        {
+          "sourceId": "nature-biotechnology",
+          "sourceName": "Nature Biotechnology",
+          "sourceTier": "A",
+          "originalUrl": "https://www.nature.com/articles/s41587-026-03284-0"
+        }
+      ],
+      "importanceScore": 35,
+      "importanceReasons": [
+        "官方一手来源"
+      ]
+    },
     {
       "id": "a20286f7-3c11-3d9d-aa49-53b14951a686",
       "sourceId": "abbvie-news",
@@ -562,199 +755,6 @@
       ],
       "importanceScore": 20,
       "importanceReasons": []
-    },
-    {
-      "id": "2090d044-f520-3b4b-9720-9810def94445",
-      "sourceId": "clinicaltrials-recent",
-      "sourceName": "ClinicalTrials.gov",
-      "sourceTier": "A",
-      "sourceType": "registry",
-      "originalUrl": "https://clinicaltrials.gov/study/NCT07953244",
-      "canonicalUrl": "https://clinicaltrials.gov/study/NCT07953244",
-      "titleOriginal": "Efficacy and Safety of Remote Ischemic Conditioning in Hypertension",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "quality_safety",
-      "eventTypes": [
-        "safety_alert",
-        "clinical_registration"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "ClinicalTrials.gov"
-        }
-      ],
-      "diseaseAreas": [
-        "Hypertension"
-      ],
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "collectedAt": "2026-11-27T22:40:50.795627916Z",
-      "contentHash": "9a81cdd57bca9e969b99905e8a51e29fc7d7955ed4b0eda8980004e009f1de7c",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "clinicaltrials-recent",
-          "sourceName": "ClinicalTrials.gov",
-          "sourceTier": "A",
-          "originalUrl": "https://clinicaltrials.gov/study/NCT07953244"
-        }
-      ],
-      "importanceScore": 65,
-      "importanceReasons": [
-        "官方一手来源",
-        "高影响事件",
-        "政策或安全相关"
-      ]
-    },
-    {
-      "id": "797468da-56ef-3a40-a6a2-0ad3d116668c",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43101480/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43101480",
-      "titleOriginal": "Systematic review and meta-analysis of human patella sexual dimorphism.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "collectedAt": "2026-11-27T22:40:51.127922959Z",
-      "contentHash": "7ab3a8e497bf62d9a32e1196d4e967d6c61457f2b01743016d41a476597e853b",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43101480/"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "6b96d589-9507-3476-aa5a-3078710db2ed",
-      "sourceId": "pubmed-recent",
-      "sourceName": "PubMed",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43100279/",
-      "canonicalUrl": "https://pubmed.ncbi.nlm.nih.gov/43100279",
-      "titleOriginal": "Digital Mindfulness as a Pedagogical Strategy for Student Engagement in Hybrid Learning: A Systematic Review.",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "research_publication"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "U.S. National Library of Medicine"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "collectedAt": "2026-11-27T22:40:51.128037489Z",
-      "contentHash": "0a7ca2446c53e98a5a720f263acae390faa64e81d3e79812bad342cfd0aaf723",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "official_api",
-      "sourceLinks": [
-        {
-          "sourceId": "pubmed-recent",
-          "sourceName": "PubMed",
-          "sourceTier": "A",
-          "originalUrl": "https://pubmed.ncbi.nlm.nih.gov/43100279/"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
-    },
-    {
-      "id": "a6b2fe1d-00f3-310a-beac-c3cbcd45d9c3",
-      "sourceId": "nature-biotechnology",
-      "sourceName": "Nature Biotechnology",
-      "sourceTier": "A",
-      "sourceType": "journal",
-      "originalUrl": "https://www.nature.com/articles/s41587-026-03284-0",
-      "canonicalUrl": "https://www.nature.com/articles/s41587-026-03284-0",
-      "titleOriginal": "A unified framework for scalable differential testing for spatial omics",
-      "titleZh": null,
-      "summaryZh": null,
-      "whyItMattersZh": null,
-      "language": "en",
-      "region": "GLOBAL",
-      "category": "research_academic",
-      "eventTypes": [
-        "update"
-      ],
-      "entities": [
-        {
-          "type": "institution",
-          "name": "Nature Biotechnology"
-        }
-      ],
-      "diseaseAreas": [],
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "collectedAt": "2026-11-27T22:40:51.206921381Z",
-      "contentHash": "c350015e66ef9bef40949a90e9515e9c7aecdb89b1e6ec6d85954f824031d0d9",
-      "generated": false,
-      "generatorVersion": null,
-      "generatedAt": null,
-      "verificationStatus": "auto_checked",
-      "originalAccessStatus": "reachable",
-      "legalBasis": "rss_allowed",
-      "sourceLinks": [
-        {
-          "sourceId": "nature-biotechnology",
-          "sourceName": "Nature Biotechnology",
-          "sourceTier": "A",
-          "originalUrl": "https://www.nature.com/articles/s41587-026-03284-0"
-        }
-      ],
-      "importanceScore": 35,
-      "importanceReasons": [
-        "官方一手来源"
-      ]
     },
     {
       "id": "e8c19967-91ce-38a7-9497-bf627e0cc045",
